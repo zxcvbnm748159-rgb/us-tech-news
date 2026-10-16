@@ -2,6 +2,8 @@ import json, os
 from datetime import datetime, timezone
 import feedparser
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
+from google import genai
+from google.genai import types
 
 TICKERS = [
     "NVDA", "AAPL", "MSFT", "GOOGL", "AMZN", "META", "TSLA", "AMD",
@@ -10,6 +12,8 @@ TICKERS = [
 ]
 DATA_FILE = "data/news.json"
 MAX_KEEP = 300
+MAX_TRANSLATE = 25   # จำนวนข่าวสูงสุดที่ส่งแปลต่อรอบ (คุมโควตา)
+MODEL = os.environ.get("GEMINI_MODEL", "gemini-2.5-flash-lite")
 
 analyzer = SentimentIntensityAnalyzer()
 
@@ -27,6 +31,50 @@ def get_sentiment(text):
     if score <= -0.2:
         return "negative"
     return "neutral"
+
+def translate_batch(items):
+    """แปลหัวข้อข่าวเป็นไทยในคำขอเดียว ถ้าพังจะข้ามไป ไม่ทำให้ทั้งระบบล้ม"""
+    api_key = os.environ.get("GEMINI_API_KEY")
+    if not api_key or not items:
+        print("skip translate (no key or no items)")
+        return
+    lines = [f"{i}. [{it['ticker']}] {it['title']}" for i, it in enumerate(items)]
+    prompt = (
+        "แปลหัวข้อข่าวหุ้นต่อไปนี้เป็นภาษาไทย ให้กระชับ 1 ประโยค "
+        "ใช้เฉพาะข้อมูลในหัวข้อ ห้ามเดาหรือเพิ่มข้อมูลเอง "
+        "คงชื่อบริษัทและตัวย่อหุ้นเป็นภาษาอังกฤษ\n"
+        'ตอบเป็น JSON array เท่านั้น รูปแบบ [{"id": 0, "summary_th": "..."}]\n\n'
+        + "\n".join(lines)
+    )
+    try:
+        client = genai.Client(api_key=api_key)
+        resp = client.models.generate_content(
+            model=MODEL,
+            contents=prompt,
+            config=types.GenerateContentConfig(response_mime_type="application/json"),
+        )
+        translations = json.loads(resp.text)
+        if not isinstance(translations, list):
+            raise ValueError("Gemini response must be a JSON array")
+
+        translated = 0
+        for row in translations:
+            if not isinstance(row, dict):
+                continue
+            i = row.get("id")
+            summary = row.get("summary_th")
+            if (
+                isinstance(i, int)
+                and not isinstance(i, bool)
+                and 0 <= i < len(items)
+                and isinstance(summary, str)
+                and summary.strip()
+            ):
+                items[i]["summary_th"] = summary.strip()
+                translated += 1
+        print(f"translated {translated} of {len(items)} items")
+    except Exception as ex:
+        print("gemini failed:", ex)
 
 def main():
     existing = load_existing()
@@ -52,6 +100,11 @@ def main():
             })
 
     all_items = (added + existing)[:MAX_KEEP]
+
+    # แปลเฉพาะข่าวที่ยังไม่มีคำแปล (รวมข่าวเก่าที่ค้างอยู่ ทยอยแปลทีละรอบ)
+    todo = [x for x in all_items if not x.get("summary_th")][:MAX_TRANSLATE]
+    translate_batch(todo)
+
     os.makedirs("data", exist_ok=True)
     with open(DATA_FILE, "w", encoding="utf-8") as f:
         json.dump(all_items, f, ensure_ascii=False, indent=2)

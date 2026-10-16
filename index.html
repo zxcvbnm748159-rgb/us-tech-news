@@ -3,86 +3,205 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>ข่าวหุ้น Tech สหรัฐ</title>
+<meta name="theme-color" content="#f7f8fa">
+<title>ข่าวหุ้นเทคสหรัฐ</title>
 <style>
-  :root { --bg:#f6f7f9; --card:#fff; --text:#1a1a1a; --muted:#6b7280; --border:#e5e7eb; }
-  @media (prefers-color-scheme: dark) {
-    :root { --bg:#0f1115; --card:#1a1d24; --text:#e8e8e8; --muted:#9aa0aa; --border:#2a2e38; }
+  :root {
+    color-scheme: light dark;
+    --bg:#f7f8fa; --surface:#fff; --text:#20242c; --muted:#697386; --border:#e6e9ef;
+    --accent:#315fce; --accent-soft:#edf2ff; --positive:#16834b; --negative:#c33b45;
+    --shadow:0 8px 28px rgb(32 36 44 / 5%);
   }
-  body { font-family: system-ui, "Noto Sans Thai", sans-serif; background:var(--bg); color:var(--text); margin:0; }
-  main { max-width:760px; margin:0 auto; padding:16px; }
-  h1 { font-size:1.4rem; }
-  .filters { display:flex; flex-wrap:wrap; gap:8px; margin:12px 0 20px; }
-  .filters button { border:1px solid var(--border); background:var(--card); color:var(--text);
-    padding:6px 12px; border-radius:999px; cursor:pointer; }
-  .filters button.active { background:var(--text); color:var(--bg); }
-  .stock-controls { display:flex; flex-wrap:wrap; align-items:center; gap:8px; margin:16px 0 8px; }
-  .stock-controls select, .stock-controls button { min-height:38px; border:1px solid var(--border);
-    background:var(--card); color:var(--text); padding:6px 10px; border-radius:6px; }
-  .stock-controls button { cursor:pointer; }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg:#111318; --surface:#191c23; --text:#eceef2; --muted:#a1a8b5; --border:#2b303a;
+      --accent:#9ab4ff; --accent-soft:#242d43; --positive:#65ce94; --negative:#ff858c;
+      --shadow:0 8px 28px rgb(0 0 0 / 14%);
+    }
+  }
+  * { box-sizing:border-box; }
+  body { margin:0; background:var(--bg); color:var(--text); font-family:system-ui,"Noto Sans Thai",sans-serif; }
+  main { width:min(100% - 32px, 820px); margin:0 auto; padding:44px 0 24px; }
+  header { margin-bottom:28px; }
+  .eyebrow { margin:0 0 8px; color:var(--accent); font-size:.78rem; font-weight:700; letter-spacing:.08em; }
+  h1 { margin:0; font-size:clamp(1.6rem, 5vw, 2.15rem); letter-spacing:-.035em; }
+  .intro { margin:8px 0 0; color:var(--muted); }
+  
+  /* API Key Config Box */
+  .api-config { background: var(--surface); border: 1px solid var(--border); border-radius: 12px; padding: 14px 16px; margin: 20px 0; display: flex; flex-wrap: wrap; gap: 10px; align-items: center; }
+  .api-config input { flex: 1; min-width: 200px; min-height: 38px; border: 1px solid var(--border); border-radius: 8px; padding: 0 10px; background: var(--bg); color: var(--text); }
+  .api-config button { min-height: 38px; border: 1px solid var(--accent); background: var(--accent); color: #fff; border-radius: 8px; padding: 0 14px; cursor: pointer; font-weight: 600; }
+  
+  .toolbar { display:flex; flex-wrap:wrap; align-items:center; justify-content:space-between; gap:12px; margin:26px 0 12px; }
+  .toolbar label { color:var(--muted); font-size:.9rem; }
+  .stock-controls { display:flex; align-items:center; gap:8px; }
+  button, select { font:inherit; }
+  .stock-controls select, .stock-controls button {
+    min-height:40px; border:1px solid var(--border); border-radius:9px;
+    background:var(--surface); color:var(--text); padding:7px 12px;
+  }
+  .stock-controls button { border-color:var(--accent); background:var(--accent); color:#fff; cursor:pointer; font-weight:650; }
+  @media (prefers-color-scheme: dark) { .stock-controls button { color:#101522; } }
+  button:disabled, select:disabled { cursor:not-allowed; opacity:.55; }
+  button:focus-visible, select:focus-visible, a:focus-visible { outline:3px solid var(--accent); outline-offset:3px; }
   #stockStatus { color:var(--muted); font-size:.85rem; }
-  .card { background:var(--card); border:1px solid var(--border); border-radius:12px; padding:14px; margin-bottom:12px; }
-  .meta { display:flex; gap:8px; align-items:center; font-size:.85rem; color:var(--muted); }
-  .tag { font-weight:600; color:var(--text); }
-  .positive { color:#16a34a; } .negative { color:#dc2626; } .neutral { color:var(--muted); }
-  .card h2 { font-size:1rem; margin:8px 0 6px; }
-  .card p { margin:0 0 8px; line-height:1.5; }
+  .filter-heading { margin:22px 0 10px; font-size:.9rem; font-weight:650; }
+  .filters { display:flex; flex-wrap:wrap; gap:7px; margin-bottom:22px; }
+  .filters button { min-height:34px; border:1px solid var(--border); border-radius:999px; background:var(--surface);
+    color:var(--muted); padding:5px 11px; cursor:pointer; font-size:.86rem; }
+  .filters button.active { border-color:var(--accent); background:var(--accent-soft); color:var(--accent); font-weight:650; }
+  #newsCount { margin:0 0 10px; color:var(--muted); font-size:.84rem; }
+  .card { margin:0; padding:20px 0; border-top:1px solid var(--border); }
+  .meta { display:flex; flex-wrap:wrap; align-items:center; gap:8px; color:var(--muted); font-size:.82rem; }
+  .tag { border-radius:5px; background:var(--accent-soft); color:var(--accent); padding:2px 7px; font-weight:700; }
+  .sentiment { font-weight:600; }
+  .positive { color:var(--positive); } .negative { color:var(--negative); } .neutral { color:var(--muted); }
+  .card h2 { margin:9px 0 5px; font-size:1.06rem; line-height:1.55; }
+  .card p { margin:0; color:var(--muted); line-height:1.65; }
+  .summary-missing { font-size:.9rem; font-style:italic; }
   .story-title { border:0; padding:0; background:none; color:inherit; font:inherit; text-align:left; cursor:pointer; }
-  .story-title:hover { text-decoration:underline; }
-  a { color:inherit; }
-  footer { color:var(--muted); font-size:.8rem; margin:24px 0; }
-  dialog { width:min(600px, calc(100% - 32px)); max-height:80vh; overflow:auto; padding:20px;
-    color:var(--text); background:var(--card); border:1px solid var(--border); border-radius:8px; }
+  .story-title:hover { color:var(--accent); }
+  .empty-state { border:1px dashed var(--border); border-radius:12px; padding:28px 16px; color:var(--muted); text-align:center; }
+  footer { margin:30px 0 0; border-top:1px solid var(--border); padding-top:16px; color:var(--muted); font-size:.8rem; line-height:1.6; }
+  
+  dialog { width:min(650px, calc(100% - 32px)); max-height:85vh; overflow:auto; padding:24px;
+    color:var(--text); background:var(--surface); border:1px solid var(--border); border-radius:14px; box-shadow:var(--shadow); }
   dialog::backdrop { background:rgba(0,0,0,.55); }
   .dialog-head, .dialog-actions { display:flex; flex-wrap:wrap; align-items:center; justify-content:space-between; gap:12px; }
-  .dialog-head h2 { margin:0; font-size:1.15rem; }
-  .dialog-head button { border:1px solid var(--border); background:transparent; color:inherit; padding:6px 10px; cursor:pointer; }
+  .dialog-head h2 { margin:0; font-size:1.15rem; line-height:1.5; }
+  .dialog-head button { border:1px solid var(--border); border-radius:8px; background:var(--surface); color:inherit; padding:7px 11px; cursor:pointer; }
   #dialogMeta, #translationNote { color:var(--muted); font-size:.9rem; }
-  #dialogSummary { line-height:1.6; }
-  .dialog-actions { justify-content:flex-start; margin-top:20px; }
-  @media (max-width:480px) { .stock-controls select { flex:1; min-width:0; } }
+  #dialogSummary { line-height:1.7; margin-bottom:15px; }
+  
+  /* AI Analysis Box inside Dialog */
+  .ai-box { background: var(--accent-soft); border-radius: 10px; padding: 14px; margin: 15px 0; border: 1px solid var(--border); }
+  .ai-box h3 { margin: 0 0 8px; font-size: 0.95rem; color: var(--accent); }
+  #aiResultContent { font-size: 0.92rem; line-height: 1.6; white-space: pre-line; }
+  .ai-btn { background: var(--accent); color: #fff; border: none; border-radius: 8px; padding: 8px 14px; font-weight: 600; cursor: pointer; font-size: 0.9rem; }
+  .ai-btn:hover { opacity: 0.9; }
+
+  .dialog-actions { justify-content:space-between; margin-top:20px; border-top: 1px solid var(--border); padding-top: 15px; }
+  .dialog-actions .links { display: flex; gap: 15px; }
+  .dialog-actions a { color:var(--accent); font-weight:650; text-decoration:none; }
+  .dialog-actions a:hover { text-decoration:underline; }
+
+  @media (max-width:560px) {
+    main { width:min(100% - 24px, 820px); padding-top:28px; }
+    .toolbar { align-items:flex-start; flex-direction:column; }
+    .stock-controls { width:100%; }
+    .stock-controls select { flex:1; min-width:0; }
+    .filters { flex-wrap:nowrap; overflow-x:auto; padding:2px 2px 8px; }
+    .filters button { flex:0 0 auto; }
+    .card { padding:17px 0; }
+  }
 </style>
 </head>
 <body>
 <main>
-  <h1>📈 ข่าวหุ้น Tech สหรัฐ</h1>
-  <div class="stock-controls">
-    <label for="stockPicker">เพิ่มหุ้น</label>
-    <select id="stockPicker" aria-label="เลือกหุ้นที่ต้องการติดตาม"></select>
-    <button id="addStock" type="button">เพิ่ม</button>
-    <span id="stockStatus" aria-live="polite"></span>
+  <header>
+    <p class="eyebrow">US TECH · MARKET BRIEF</p>
+    <h1>ข่าวหุ้นเทคสหรัฐ</h1>
+    <p class="intro">ข่าวล่าสุดและสรุปภาษาไทยในที่เดียว</p>
+  </header>
+
+  <!-- ช่องตั้งค่า Gemini API Key สำหรับใช้งานบนหน้าเว็บ Static -->
+  <div class="api-config">
+    <input type="password" id="apiKeyInput" placeholder="ใส่ Gemini API Key ของคุณที่นี่ (บันทึกในเครื่องเท่านั้น)" />
+    <button id="saveApiKey" type="button">บันทึก Key</button>
   </div>
-  <div class="filters" id="filters"></div>
-  <div id="list">กำลังโหลด...</div>
+
+  <section aria-label="ตัวกรองข่าว">
+    <div class="toolbar">
+      <label for="stockPicker">ติดตามหุ้นเพิ่มเติม</label>
+      <div class="stock-controls">
+        <select id="stockPicker" aria-label="เลือกหุ้นที่ต้องการติดตาม"></select>
+        <button id="addStock" type="button">เพิ่มหุ้น</button>
+      </div>
+      <span id="stockStatus" aria-live="polite"></span>
+    </div>
+    <h2 class="filter-heading">เลือกหุ้น</h2>
+    <div class="filters" id="filters" aria-label="กรองข่าวตามหุ้น"></div>
+  </section>
+  <p id="newsCount" aria-live="polite"></p>
+  <div id="list" aria-live="polite">กำลังโหลดข่าว...</div>
   <footer>สรุปโดย AI อาจมีข้อผิดพลาด ไม่ใช่คำแนะนำการลงทุน โปรดอ่านข่าวต้นฉบับก่อนตัดสินใจ</footer>
 </main>
+
 <dialog id="newsDialog" aria-labelledby="dialogTitle">
   <div class="dialog-head">
     <h2 id="dialogTitle"></h2>
     <button id="closeDialog" type="button" aria-label="ปิดรายละเอียด">ปิด</button>
   </div>
   <p id="dialogMeta"></p>
+  <hr style="border:0; border-top:1px solid var(--border); margin:12px 0;">
   <p id="dialogSummary"></p>
+  
+  <!-- ส่วนสำหรับแสดงผลวิเคราะห์จาก Gemini AI -->
+  <div class="ai-box">
+    <h3>✨ วิเคราะห์เจาะลึกเพิ่มเติมด้วย Gemini AI</h3>
+    <button id="runAiAnalysis" class="ai-btn" type="button">ให้ Gemini วิเคราะห์ผลกระทบข่าวนี้</button>
+    <div id="aiResultContent" style="margin-top: 10px;"></div>
+  </div>
+
   <p id="translationNote">ปุ่มแปลจะเปิดบทความผ่าน Google Translate หากเว็บไซต์ต้นทางอนุญาต</p>
   <div class="dialog-actions">
-    <a id="translateNews" target="_blank" rel="noopener">แปลข่าวเป็นไทย ↗</a>
-    <a id="originalNews" target="_blank" rel="noopener">อ่านข่าวต้นฉบับ ↗</a>
+    <button id="runAiAnalysis" style="display:none;"></button> <!-- placeholder -->
+    <div class="links">
+      <a id="translateNews" target="_blank" rel="noopener">แปลข่าวเป็นไทย ↗</a>
+      <a id="originalNews" target="_blank" rel="noopener">อ่านข่าวต้นฉบับ ↗</a>
+    </div>
   </div>
 </dialog>
-<script>
+
+<!-- โหลด Google Gen AI SDK ผ่าน ESM -->
+<script type="module">
+import { GoogleGenAI } from "https://esm.run/@google/genai";
+
 const SENT = { positive:"▲ เชิงบวก", negative:"▼ เชิงลบ", neutral:"● เป็นกลาง" };
 const STOCK_OPTIONS = ["NVDA", "AAPL", "MSFT", "GOOGL", "AMZN", "META", "TSLA", "AMD", "AVGO", "ORCL", "CRM", "NFLX", "INTC", "QCOM", "PLTR", "SMCI", "IBM", "ADBE", "TSM"];
 let news = [], current = "ALL";
 let trackedTickers = [];
+let currentSelectedItem = null;
+
 try {
   const savedTickers = JSON.parse(localStorage.getItem("trackedTickers") || "[]");
   if (Array.isArray(savedTickers)) trackedTickers = savedTickers.filter(t => STOCK_OPTIONS.includes(t));
 } catch {}
 
+// จัดการ API Key
+const savedKey = localStorage.getItem("gemini_api_key");
+if (savedKey) {
+  document.getElementById("apiKeyInput").value = savedKey;
+}
+
+document.getElementById("saveApiKey").onclick = () => {
+  const key = document.getElementById("apiKeyInput").value.trim();
+  if (key) {
+    localStorage.setItem("gemini_api_key", key);
+    alert("บันทึก Gemini API Key เรียบร้อยแล้ว!");
+  } else {
+    localStorage.removeItem("gemini_api_key");
+    alert("ลบ API Keyออกจากระบบแล้ว");
+  }
+};
+
 fetch("data/news.json?t=" + Date.now())
-  .then(r => r.json())
-  .then(d => { news = d; buildStockPicker(); buildFilters(); render(); })
-  .catch(() => document.getElementById("list").textContent = "โหลดข่าวไม่สำเร็จ");
+  .then(response => {
+    if (!response.ok) throw new Error(`HTTP ${response.status}`);
+    return response.json();
+  })
+  .then(data => {
+    if (!Array.isArray(data)) throw new Error("ข้อมูลข่าวต้องเป็นรายการ");
+    news = data.filter(item => item && typeof item === "object" && typeof item.ticker === "string" && typeof item.title === "string");
+    buildStockPicker();
+    buildFilters();
+    render();
+  })
+  .catch(error => {
+    console.error("โหลดข่าวไม่สำเร็จ:", error);
+    document.getElementById("newsCount").textContent = "";
+    document.getElementById("list").textContent = "โหลดข่าวไม่สำเร็จ กรุณาลองใหม่ภายหลัง";
+  });
 
 function buildFilters() {
   const tickers = ["ALL", ...new Set([...news.map(n => n.ticker), ...trackedTickers])];
@@ -91,6 +210,8 @@ function buildFilters() {
   tickers.forEach(t => {
     const b = document.createElement("button");
     b.textContent = t === "ALL" ? "ทั้งหมด" : t;
+    b.type = "button";
+    b.setAttribute("aria-pressed", String(t === current));
     if (t === current) b.className = "active";
     b.onclick = () => { current = t; buildFilters(); render(); };
     box.appendChild(b);
@@ -121,29 +242,68 @@ function esc(s) { const d = document.createElement("div"); d.textContent = s ?? 
 
 function render() {
   const items = news.filter(n => current === "ALL" || n.ticker === current);
+  document.getElementById("newsCount").textContent = `${items.length} ข่าว`;
   document.getElementById("list").innerHTML = items.map(n => `
-    <div class="card">
+    <article class="card">
       <div class="meta">
         <span class="tag">${esc(n.ticker)}</span>
-        <span class="${esc(n.sentiment)}">${SENT[n.sentiment] || ""}</span>
-        <span>${esc(n.published)}</span>
+        <span class="sentiment ${esc(n.sentiment)}">${SENT[n.sentiment] || ""}</span>
+        <time>${esc(n.published)}</time>
       </div>
       <h2><button class="story-title" type="button">${esc(n.title)}</button></h2>
-      <p>${esc(n.summary_th)}</p>
-    </div>`).join("") || "ยังไม่มีข่าว";
+      ${n.summary_th ? `<p>${esc(n.summary_th)}</p>` : '<p class="summary-missing">ยังไม่มีสรุปภาษาไทย</p>'}
+    </article>`).join("") || '<div class="empty-state">ยังไม่มีข่าวสำหรับหุ้นนี้</div>';
   document.querySelectorAll(".story-title").forEach((button, index) => {
     button.onclick = () => showNews(items[index]);
   });
 }
 
 function showNews(item) {
+  currentSelectedItem = item;
   document.getElementById("dialogTitle").textContent = item.title || "ข่าว";
   document.getElementById("dialogMeta").textContent = `${item.ticker} · ${item.published || "ไม่ระบุเวลา"}`;
   document.getElementById("dialogSummary").textContent = item.summary_th || "ไม่มีสรุปภาษาไทยจากฟีดข่าวนี้";
+  document.getElementById("aiResultContent").textContent = ""; // รีเซ็ตผลเก่า
   document.getElementById("originalNews").href = item.link;
   document.getElementById("translateNews").href = `https://translate.google.com/translate?sl=auto&tl=th&u=${encodeURIComponent(item.link)}`;
   document.getElementById("newsDialog").showModal();
 }
+
+// ฟังก์ชันเรียก Gemini AI วิเคราะห์ข่าวสดๆ
+document.getElementById("runAiAnalysis").onclick = async () => {
+  const apiKey = localStorage.getItem("gemini_api_key");
+  if (!apiKey) {
+    alert("กรุณากรอกและบันทึก Gemini API Key ที่ช่องด้านบนหน้าเว็บก่อนใช้งานฟีเจอร์นี้");
+    return;
+  }
+  if (!currentSelectedItem) return;
+
+  const resultContainer = document.getElementById("aiResultContent");
+  resultContainer.textContent = "Gemini กำลังวิเคราะห์ข่าว กรุณารอAสักครู่...";
+
+  try {
+    const ai = new GoogleGenAI({ apiKey: apiKey });
+    const prompt = `คุณคือนักวิเคราะห์หุ้นเทคโนโลยีสหรัฐมืออาชีพ 
+ช่วยวิเคราะห์ข่าวหัวข้อนี้: "${currentSelectedItem.title}"
+รายละเอียดสรุปเดิม: "${currentSelectedItem.summary_th || ''}"
+ลิงก์ข่าวอ้างอิง: ${currentSelectedItem.link}
+
+กรุณาวิเคราะห์เป็นภาษาไทย ใน 3 ประเด็นสั้นๆ:
+1. ประเด็นสำคัญและผลกระทบต่อหุ้น ${currentSelectedItem.ticker}
+2. โอกาสและความเสี่ยงระยะสั้น-กลาง
+3. มุมมองเชิงกลยุทธ์สำหรับนักลงทุน`;
+
+    const response = await ai.models.generateContent({
+      model: 'gemini-2.5-flash',
+      contents: prompt,
+    });
+
+    resultContainer.textContent = response.text;
+  } catch (error) {
+    console.error("Gemini Error:", error);
+    resultContainer.textContent = "เกิดข้อผิดพลาดในการเชื่อมต่อกับ Gemini API: " + error.message;
+  }
+};
 
 document.getElementById("closeDialog").onclick = () => document.getElementById("newsDialog").close();
 document.getElementById("newsDialog").addEventListener("click", event => {
