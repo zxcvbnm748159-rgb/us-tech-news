@@ -21,17 +21,37 @@
   }
   * { box-sizing:border-box; }
   body { margin:0; background:var(--bg); color:var(--text); font-family:system-ui,"Noto Sans Thai",sans-serif; }
-  main { width:min(100% - 32px, 820px); margin:0 auto; padding:44px 0 24px; }
-  header { margin-bottom:28px; }
-  .eyebrow { margin:0 0 8px; color:var(--accent); font-size:.78rem; font-weight:700; letter-spacing:.08em; }
-  h1 { margin:0; font-size:clamp(1.6rem, 5vw, 2.15rem); letter-spacing:-.035em; }
-  .intro { margin:8px 0 0; color:var(--muted); }
+  main { width:min(100% - 32px, 900px); margin:0 auto; padding:40px 0 32px; }
+  header { position:relative; overflow:hidden; margin-bottom:20px; padding:32px; border:1px solid var(--border); border-radius:20px;
+    background:linear-gradient(125deg, var(--surface), var(--accent-soft)); box-shadow:var(--shadow); }
+  header::after { position:absolute; top:-68px; right:-32px; width:210px; height:210px; border:1px solid var(--border);
+    border-radius:50%; content:""; box-shadow:0 0 0 28px color-mix(in srgb, var(--accent) 5%, transparent), 0 0 0 58px color-mix(in srgb, var(--accent) 3%, transparent); }
+  .eyebrow { position:relative; margin:0 0 10px; color:var(--accent); font-size:.76rem; font-weight:750; letter-spacing:.12em; }
+  h1 { position:relative; margin:0; font-size:clamp(1.7rem, 5vw, 2.35rem); letter-spacing:-.04em; }
+  .intro { position:relative; margin:9px 0 0; color:var(--muted); }
+  .update-note { position:relative; display:inline-flex; align-items:center; gap:7px; margin-top:20px; border:1px solid var(--border);
+    border-radius:999px; background:var(--surface); padding:6px 10px; color:var(--muted); font-size:.78rem; }
+  .update-note::before { width:7px; height:7px; border-radius:50%; background:var(--positive); content:""; }
   
-  /* API Key Config Box */
-  .api-config { background: var(--surface); border: 1px solid var(--border); border-radius: 12px; padding: 14px 16px; margin: 20px 0; display: flex; flex-wrap: wrap; gap: 10px; align-items: center; }
-  .api-config input { flex: 1; min-width: 200px; min-height: 38px; border: 1px solid var(--border); border-radius: 8px; padding: 0 10px; background: var(--bg); color: var(--text); }
-  .api-config button { min-height: 38px; border: 1px solid var(--accent); background: var(--accent); color: #fff; border-radius: 8px; padding: 0 14px; cursor: pointer; font-weight: 600; }
-  
+  .overview { display:grid; grid-template-columns:repeat(3, minmax(0, 1fr)); gap:12px; margin:16px 0 28px; }
+  .stat { border:1px solid var(--border); border-radius:14px; background:var(--surface); padding:15px 17px; box-shadow:var(--shadow); }
+  .stat-label { display:block; color:var(--muted); font-size:.8rem; }
+  .stat-value { display:block; margin-top:3px; font-size:1.45rem; font-weight:750; letter-spacing:-.03em; }
+  .stat.positive .stat-value { color:var(--positive); }
+  .stat.negative .stat-value { color:var(--negative); }
+
+  .api-config { display:grid; grid-template-columns:minmax(0, 1fr) auto; gap:10px 12px; align-items:center;
+    margin:20px 0 24px; padding:16px 18px; border:1px solid var(--border); border-radius:14px; background:var(--surface); }
+  .api-copy { grid-column:1 / -1; }
+  .api-copy h2 { margin:0; font-size:.95rem; }
+  .api-copy p { margin:5px 0 0; color:var(--muted); font-size:.8rem; line-height:1.55; }
+  .api-config input { width:100%; min-width:0; min-height:42px; border:1px solid var(--border); border-radius:9px;
+    padding:0 12px; background:var(--bg); color:var(--text); font:inherit; }
+  .api-config button { min-height:42px; border:1px solid var(--accent); border-radius:9px; background:var(--accent);
+    color:#fff; padding:0 15px; cursor:pointer; font:inherit; font-weight:650; }
+  @media (prefers-color-scheme: dark) { .api-config button { color:#101522; } }
+  #apiKeyStatus { grid-column:1 / -1; min-height:1em; margin:0; color:var(--muted); font-size:.8rem; }
+
   .toolbar { display:flex; flex-wrap:wrap; align-items:center; justify-content:space-between; gap:12px; margin:26px 0 12px; }
   .toolbar label { color:var(--muted); font-size:.9rem; }
   .stock-controls { display:flex; align-items:center; gap:8px; }
@@ -45,17 +65,36 @@
   button:disabled, select:disabled { cursor:not-allowed; opacity:.55; }
   button:focus-visible, select:focus-visible, a:focus-visible { outline:3px solid var(--accent); outline-offset:3px; }
   #stockStatus { color:var(--muted); font-size:.85rem; }
-  .filter-heading { margin:22px 0 10px; font-size:.9rem; font-weight:650; }
-  .filters { display:flex; flex-wrap:wrap; gap:7px; margin-bottom:22px; }
+  
+  .filter-heading { margin:22px 0 10px; font-size:.95rem; font-weight:700; }
+  .filters { display:flex; flex-wrap:wrap; gap:7px; margin-bottom:15px; }
   .filters button { min-height:34px; border:1px solid var(--border); border-radius:999px; background:var(--surface);
     color:var(--muted); padding:5px 11px; cursor:pointer; font-size:.86rem; }
   .filters button.active { border-color:var(--accent); background:var(--accent-soft); color:var(--accent); font-weight:650; }
-  #newsCount { margin:0 0 10px; color:var(--muted); font-size:.84rem; }
-  .card { margin:0; padding:20px 0; border-top:1px solid var(--border); }
+  
+  /* หมวดหมู่ข่าว (Categories) และแถบค้นหา */
+  .category-filters { display:flex; gap:6px; margin-bottom:18px; flex-wrap:wrap; }
+  .cat-btn { border:1px solid var(--border); background:var(--surface); color:var(--muted); border-radius:8px; padding:4px 10px; font-size:.8rem; cursor:pointer; }
+  .cat-btn.active { background:var(--accent); color:#fff; border-color:var(--accent); font-weight:600; }
+
+  .search-row { display:grid; grid-template-columns:minmax(0, 1fr) 180px 140px; gap:10px; margin:14px 0 18px; }
+  .search-row input, .search-row select { width:100%; min-height:42px; border:1px solid var(--border); border-radius:10px;
+    background:var(--surface); color:var(--text); padding:8px 12px; font:inherit; }
+  .search-row input::placeholder { color:var(--muted); }
+  
+  #newsCount { margin:0 0 4px; color:var(--muted); font-size:.84rem; }
+  .card { margin:0; padding:20px 16px; border-top:1px solid var(--border); transition:background .18s ease; position:relative; }
+  .card:hover { background:color-mix(in srgb, var(--surface) 72%, var(--accent-soft)); }
   .meta { display:flex; flex-wrap:wrap; align-items:center; gap:8px; color:var(--muted); font-size:.82rem; }
   .tag { border-radius:5px; background:var(--accent-soft); color:var(--accent); padding:2px 7px; font-weight:700; }
+  .cat-tag { border-radius:5px; background:var(--border); color:var(--text); padding:2px 6px; font-size:.75rem; }
   .sentiment { font-weight:600; }
   .positive { color:var(--positive); } .negative { color:var(--negative); } .neutral { color:var(--muted); }
+  
+  .card-top { display: flex; justify-content: space-between; align-items: flex-start; }
+  .bookmark-btn { background: none; border: none; cursor: pointer; color: var(--muted); font-size: 1.1rem; padding: 0; }
+  .bookmark-btn.bookmarked { color: #f59e0b; }
+
   .card h2 { margin:9px 0 5px; font-size:1.06rem; line-height:1.55; }
   .card p { margin:0; color:var(--muted); line-height:1.65; }
   .summary-missing { font-size:.9rem; font-style:italic; }
@@ -73,11 +112,13 @@
   #dialogMeta, #translationNote { color:var(--muted); font-size:.9rem; }
   #dialogSummary { line-height:1.7; margin-bottom:15px; }
   
-  /* AI Analysis Box inside Dialog */
-  .ai-box { background: var(--accent-soft); border-radius: 10px; padding: 14px; margin: 15px 0; border: 1px solid var(--border); }
-  .ai-box h3 { margin: 0 0 8px; font-size: 0.95rem; color: var(--accent); }
-  #aiResultContent { font-size: 0.92rem; line-height: 1.6; white-space: pre-line; }
-  .ai-btn { background: var(--accent); color: #fff; border: none; border-radius: 8px; padding: 8px 14px; font-weight: 600; cursor: pointer; font-size: 0.9rem; }
+  .ai-box { background:var(--accent-soft); border-radius:12px; padding:16px; margin:18px 0; border:1px solid var(--border); }
+  .ai-box-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 10px; }
+  .ai-box h3 { margin:0; font-size:.95rem; color:var(--accent); }
+  #aiResultContent { font-size:.92rem; line-height:1.7; white-space:pre-line; }
+  .ai-btn { background:var(--accent); color:#fff; border:0; border-radius:9px; padding:9px 14px; font-weight:650; cursor:pointer; font-size:.9rem; }
+  .copy-ai-btn { background:var(--surface); border:1px solid var(--border); border-radius:6px; padding:4px 8px; font-size:0.75rem; cursor:pointer; color:var(--text); }
+  @media (prefers-color-scheme: dark) { .ai-btn { color:#101522; } }
   .ai-btn:hover { opacity: 0.9; }
 
   .dialog-actions { justify-content:space-between; margin-top:20px; border-top: 1px solid var(--border); padding-top: 15px; }
@@ -85,14 +126,26 @@
   .dialog-actions a { color:var(--accent); font-weight:650; text-decoration:none; }
   .dialog-actions a:hover { text-decoration:underline; }
 
+  @media (max-width:700px) {
+    .search-row { grid-template-columns:minmax(0, 1fr); }
+  }
   @media (max-width:560px) {
-    main { width:min(100% - 24px, 820px); padding-top:28px; }
+    main { width:min(100% - 24px, 900px); padding-top:22px; }
+    header { padding:24px 20px; border-radius:16px; }
+    header::after { top:-90px; right:-100px; }
+    .overview { gap:8px; margin-bottom:22px; }
+    .stat { padding:12px 10px; }
+    .stat-label { font-size:.72rem; }
+    .stat-value { font-size:1.25rem; }
+    .api-config { grid-template-columns:minmax(0, 1fr); padding:14px; }
+    .api-copy, #apiKeyStatus { grid-column:auto; }
+    .api-config button { width:100%; }
     .toolbar { align-items:flex-start; flex-direction:column; }
     .stock-controls { width:100%; }
     .stock-controls select { flex:1; min-width:0; }
     .filters { flex-wrap:nowrap; overflow-x:auto; padding:2px 2px 8px; }
     .filters button { flex:0 0 auto; }
-    .card { padding:17px 0; }
+    .card { padding:17px 10px; }
   }
 </style>
 </head>
@@ -101,13 +154,24 @@
   <header>
     <p class="eyebrow">US TECH · MARKET BRIEF</p>
     <h1>ข่าวหุ้นเทคสหรัฐ</h1>
-    <p class="intro">ข่าวล่าสุดและสรุปภาษาไทยในที่เดียว</p>
+    <p class="intro">ข่าวล่าสุดและสรุปภาษาไทยในที่เดียว พร้อมวิเคราะห์เชิงลึกด้วย AI</p>
+    <span class="update-note">อัปเดตอัตโนมัติทุก 3 ชั่วโมง</span>
   </header>
 
-  <!-- ช่องตั้งค่า Gemini API Key สำหรับใช้งานบนหน้าเว็บ Static -->
+  <section class="overview" aria-label="ภาพรวมข่าว">
+    <div class="stat"><span class="stat-label">ข่าวที่แสดง</span><strong class="stat-value" id="statTotal">0</strong></div>
+    <div class="stat positive"><span class="stat-label">มุมมองเชิงบวก</span><strong class="stat-value" id="statPositive">0</strong></div>
+    <div class="stat negative"><span class="stat-label">มุมมองเชิงลบ</span><strong class="stat-value" id="statNegative">0</strong></div>
+  </section>
+
   <div class="api-config">
-    <input type="password" id="apiKeyInput" placeholder="ใส่ Gemini API Key ของคุณที่นี่ (บันทึกในเครื่องเท่านั้น)" />
-    <button id="saveApiKey" type="button">บันทึก Key</button>
+    <div class="api-copy">
+      <h2>ตั้งค่า Gemini API Key ส่วนตัว</h2>
+      <p>คีย์จะถูกเก็บไว้เฉพาะในเบราว์เซอร์ของคุณ (LocalStorage) เพื่อใช้เรียกใช้งานฟังก์ชันวิเคราะห์ AI เชิงลึก</p>
+    </div>
+    <input type="password" id="apiKeyInput" autocomplete="off" aria-label="Gemini API key" placeholder="วาง Gemini API key ที่นี่" />
+    <button id="saveApiKey" type="button">บันทึกในเครื่อง</button>
+    <p id="apiKeyStatus" aria-live="polite"></p>
   </div>
 
   <section aria-label="ตัวกรองข่าว">
@@ -121,7 +185,31 @@
     </div>
     <h2 class="filter-heading">เลือกหุ้น</h2>
     <div class="filters" id="filters" aria-label="กรองข่าวตามหุ้น"></div>
+    
+    <h2 class="filter-heading">หมวดหมู่เนื้อหา</h2>
+    <div class="category-filters" id="categoryFilters">
+      <button class="cat-btn active" data-cat="ALL">ทั้งหมด</button>
+      <button class="cat-btn" data-cat="AI">🤖 AI & ML</button>
+      <button class="cat-btn" data-cat="Hardware">💻 ฮาร์ดแวร์/ชิป</button>
+      <button class="cat-btn" data-cat="Financial">📈 ผลประกอบการ/การเงิน</button>
+      <button class="cat-btn" data-cat="General">📰 ข่าวทั่วไป</button>
+    </div>
   </section>
+
+  <div class="search-row">
+    <input id="newsSearch" type="search" placeholder="🔍 ค้นหาหุ้นหรือหัวข้อข่าว..." aria-label="ค้นหาหุ้นหรือหัวข้อข่าว" />
+    <select id="sentimentFilter" aria-label="กรองตามมุมมองข่าว">
+      <option value="all">ทุกมุมมองตลาด</option>
+      <option value="positive">▲ เชิงบวก</option>
+      <option value="neutral">● เป็นกลาง</option>
+      <option value="negative">▼ เชิงลบ</option>
+    </select>
+    <select id="viewMode" aria-label="โหมดการแสดงผล">
+      <option value="all">ข่าวทั้งหมด</option>
+      <option value="saved">⭐ ข่าวที่บันทึกไว้</option>
+    </select>
+  </div>
+
   <p id="newsCount" aria-live="polite"></p>
   <div id="list" aria-live="polite">กำลังโหลดข่าว...</div>
   <footer>สรุปโดย AI อาจมีข้อผิดพลาด ไม่ใช่คำแนะนำการลงทุน โปรดอ่านข่าวต้นฉบับก่อนตัดสินใจ</footer>
@@ -136,16 +224,17 @@
   <hr style="border:0; border-top:1px solid var(--border); margin:12px 0;">
   <p id="dialogSummary"></p>
   
-  <!-- ส่วนสำหรับแสดงผลวิเคราะห์จาก Gemini AI -->
   <div class="ai-box">
-    <h3>✨ วิเคราะห์เจาะลึกเพิ่มเติมด้วย Gemini AI</h3>
+    <div class="ai-box-header">
+      <h3>✨ วิเคราะห์เจาะลึกเพิ่มเติมด้วย Gemini AI</h3>
+      <button id="copyAiBtn" class="copy-ai-btn" style="display:none;" type="button">คัดลอกผลวิเคราะห์</button>
+    </div>
     <button id="runAiAnalysis" class="ai-btn" type="button">ให้ Gemini วิเคราะห์ผลกระทบข่าวนี้</button>
     <div id="aiResultContent" style="margin-top: 10px;"></div>
   </div>
 
   <p id="translationNote">ปุ่มแปลจะเปิดบทความผ่าน Google Translate หากเว็บไซต์ต้นทางอนุญาต</p>
   <div class="dialog-actions">
-    <button id="runAiAnalysis" style="display:none;"></button> <!-- placeholder -->
     <div class="links">
       <a id="translateNews" target="_blank" rel="noopener">แปลข่าวเป็นไทย ↗</a>
       <a id="originalNews" target="_blank" rel="noopener">อ่านข่าวต้นฉบับ ↗</a>
@@ -159,48 +248,65 @@ import { GoogleGenAI } from "https://esm.run/@google/genai";
 
 const SENT = { positive:"▲ เชิงบวก", negative:"▼ เชิงลบ", neutral:"● เป็นกลาง" };
 const STOCK_OPTIONS = ["NVDA", "AAPL", "MSFT", "GOOGL", "AMZN", "META", "TSLA", "AMD", "AVGO", "ORCL", "CRM", "NFLX", "INTC", "QCOM", "PLTR", "SMCI", "IBM", "ADBE", "TSM"];
-let news = [], current = "ALL";
+let news = [], currentTicker = "ALL", currentCategory = "ALL";
+let searchQuery = "", sentimentFilter = "all", viewMode = "all";
 let trackedTickers = [];
+let savedBookmarks = [];
 let currentSelectedItem = null;
 
 try {
   const savedTickers = JSON.parse(localStorage.getItem("trackedTickers") || "[]");
   if (Array.isArray(savedTickers)) trackedTickers = savedTickers.filter(t => STOCK_OPTIONS.includes(t));
+  
+  const savedBms = JSON.parse(localStorage.getItem("savedBookmarks") || "[]");
+  if (Array.isArray(savedBms)) savedBookmarks = savedBms;
 } catch {}
 
 // จัดการ API Key
 const savedKey = localStorage.getItem("gemini_api_key");
 if (savedKey) {
   document.getElementById("apiKeyInput").value = savedKey;
+  document.getElementById("apiKeyStatus").textContent = "มีคีย์บันทึกไว้ในเบราว์เซอร์นี้แล้ว";
 }
 
 document.getElementById("saveApiKey").onclick = () => {
   const key = document.getElementById("apiKeyInput").value.trim();
   if (key) {
     localStorage.setItem("gemini_api_key", key);
-    alert("บันทึก Gemini API Key เรียบร้อยแล้ว!");
+    document.getElementById("apiKeyStatus").textContent = "บันทึกคีย์เรียบร้อยแล้ว";
   } else {
     localStorage.removeItem("gemini_api_key");
-    alert("ลบ API Keyออกจากระบบแล้ว");
+    document.getElementById("apiKeyStatus").textContent = "ลบคีย์ออกจากระบบแล้ว";
   }
 };
 
+// Event Listeners สำหรับการค้นหาและกรอง
+document.getElementById("newsSearch").addEventListener("input", e => { searchQuery = e.target.value.trim().toLowerCase(); render(); });
+document.getElementById("sentimentFilter").addEventListener("change", e => { sentimentFilter = e.target.value; render(); });
+document.getElementById("viewMode").addEventListener("change", e => { viewMode = e.target.value; render(); });
+
+document.querySelectorAll(".cat-btn").forEach(btn => {
+  btn.onclick = (e) => {
+    document.querySelectorAll(".cat-btn").forEach(b => b.classList.remove("active"));
+    e.target.classList.add("active");
+    currentCategory = e.target.getAttribute("data-cat");
+    render();
+  };
+});
+
 fetch("data/news.json?t=" + Date.now())
-  .then(response => {
-    if (!response.ok) throw new Error(`HTTP ${response.status}`);
-    return response.json();
-  })
+  .then(res => { if (!res.ok) throw new Error(`HTTP ${res.status}`); return res.json(); })
   .then(data => {
-    if (!Array.isArray(data)) throw new Error("ข้อมูลข่าวต้องเป็นรายการ");
+    if (!Array.isArray(data)) throw new Error("ข้อมูลต้องเป็นอาเรย์");
     news = data.filter(item => item && typeof item === "object" && typeof item.ticker === "string" && typeof item.title === "string");
     buildStockPicker();
     buildFilters();
     render();
   })
-  .catch(error => {
-    console.error("โหลดข่าวไม่สำเร็จ:", error);
+  .catch(err => {
+    console.error("โหลดข่าวไม่สำเร็จ:", err);
     document.getElementById("newsCount").textContent = "";
-    document.getElementById("list").textContent = "โหลดข่าวไม่สำเร็จ กรุณาลองใหม่ภายหลัง";
+    document.getElementById("list").textContent = "โหลดข่าวไม่สำเร็จ กรุณาลองใหม่อีกครั้งในภายหลัง";
   });
 
 function buildFilters() {
@@ -211,9 +317,9 @@ function buildFilters() {
     const b = document.createElement("button");
     b.textContent = t === "ALL" ? "ทั้งหมด" : t;
     b.type = "button";
-    b.setAttribute("aria-pressed", String(t === current));
-    if (t === current) b.className = "active";
-    b.onclick = () => { current = t; buildFilters(); render(); };
+    b.setAttribute("aria-pressed", String(t === currentTicker));
+    if (t === currentTicker) b.className = "active";
+    b.onclick = () => { currentTicker = t; buildFilters(); render(); };
     box.appendChild(b);
   });
 }
@@ -231,28 +337,63 @@ document.getElementById("addStock").onclick = () => {
   if (!ticker || trackedTickers.includes(ticker)) return;
   trackedTickers.push(ticker);
   localStorage.setItem("trackedTickers", JSON.stringify(trackedTickers));
-  current = ticker;
+  currentTicker = ticker;
   document.getElementById("stockStatus").textContent = `${ticker} เพิ่มในรายการติดตามแล้ว`;
   buildStockPicker();
   buildFilters();
   render();
 };
 
+window.toggleBookmark = function(link, event) {
+  event.stopPropagation();
+  const idx = savedBookmarks.indexOf(link);
+  if (idx > -1) {
+    savedBookmarks.splice(idx, 1);
+  } else {
+    savedBookmarks.push(link);
+  }
+  localStorage.setItem("savedBookmarks", JSON.stringify(savedBookmarks));
+  render();
+};
+
 function esc(s) { const d = document.createElement("div"); d.textContent = s ?? ""; return d.innerHTML; }
 
 function render() {
-  const items = news.filter(n => current === "ALL" || n.ticker === current);
+  const items = news.filter(n => {
+    const matchesTicker = currentTicker === "ALL" || n.ticker === currentTicker;
+    const matchesCat = currentCategory === "ALL" || (n.category || "General") === currentCategory;
+    const matchesSearch = !searchQuery || `${n.ticker} ${n.title} ${n.summary_th || ""}`.toLowerCase().includes(searchQuery);
+    const matchesSentiment = sentimentFilter === "all" || n.sentiment === sentimentFilter;
+    const matchesView = viewMode === "all" || savedBookmarks.includes(n.link);
+    return matchesTicker && matchesCat && matchesSearch && matchesSentiment && matchesView;
+  });
+
+  document.getElementById("statTotal").textContent = items.length;
+  document.getElementById("statPositive").textContent = items.filter(item => item.sentiment === "positive").length;
+  document.getElementById("statNegative").textContent = items.filter(item => item.sentiment === "negative").length;
   document.getElementById("newsCount").textContent = `${items.length} ข่าว`;
-  document.getElementById("list").innerHTML = items.map(n => `
-    <article class="card">
-      <div class="meta">
-        <span class="tag">${esc(n.ticker)}</span>
-        <span class="sentiment ${esc(n.sentiment)}">${SENT[n.sentiment] || ""}</span>
-        <time>${esc(n.published)}</time>
-      </div>
-      <h2><button class="story-title" type="button">${esc(n.title)}</button></h2>
-      ${n.summary_th ? `<p>${esc(n.summary_th)}</p>` : '<p class="summary-missing">ยังไม่มีสรุปภาษาไทย</p>'}
-    </article>`).join("") || '<div class="empty-state">ยังไม่มีข่าวสำหรับหุ้นนี้</div>';
+
+  document.getElementById("list").innerHTML = items.map(n => {
+    const isBookmarked = savedBookmarks.includes(n.link);
+    const categoryName = n.category ? `<span class="cat-tag">${esc(n.category)}</span>` : '';
+    return `
+      <article class="card">
+        <div class="card-top">
+          <div class="meta">
+            <span class="tag">${esc(n.ticker)}</span>
+            ${categoryName}
+            <span class="sentiment ${esc(n.sentiment)}">${SENT[n.sentiment] || ""}</span>
+            <time>${esc(n.published)}</time>
+          </div>
+          <button class="bookmark-btn ${isBookmarked ? 'bookmarked' : ''}" onclick="toggleBookmark('${esc(n.link)}', event)" title="บันทึกข่าวนี้">
+            ${isBookmarked ? '★' : '☆'}
+          </button>
+        </div>
+        <h2><button class="story-title" type="button">${esc(n.title)}</button></h2>
+        ${n.summary_th ? `<p>${esc(n.summary_th)}</p>` : '<p class="summary-missing">ยังไม่มีสรุปภาษาไทย</p>'}
+      </article>`;
+  }).join("") || '<div class="empty-state">ยังไม่มีข่าวในเงื่อนไขที่คุณเลือก</div>';
+
   document.querySelectorAll(".story-title").forEach((button, index) => {
     button.onclick = () => showNews(items[index]);
   });
@@ -263,23 +404,24 @@ function showNews(item) {
   document.getElementById("dialogTitle").textContent = item.title || "ข่าว";
   document.getElementById("dialogMeta").textContent = `${item.ticker} · ${item.published || "ไม่ระบุเวลา"}`;
   document.getElementById("dialogSummary").textContent = item.summary_th || "ไม่มีสรุปภาษาไทยจากฟีดข่าวนี้";
-  document.getElementById("aiResultContent").textContent = ""; // รีเซ็ตผลเก่า
+  document.getElementById("aiResultContent").textContent = "";
+  document.getElementById("copyAiBtn").style.display = "none";
   document.getElementById("originalNews").href = item.link;
   document.getElementById("translateNews").href = `https://translate.google.com/translate?sl=auto&tl=th&u=${encodeURIComponent(item.link)}`;
   document.getElementById("newsDialog").showModal();
 }
 
-// ฟังก์ชันเรียก Gemini AI วิเคราะห์ข่าวสดๆ
+// ฟังก์ชันเรียก Gemini AI วิเคราะห์สดๆ
 document.getElementById("runAiAnalysis").onclick = async () => {
   const apiKey = localStorage.getItem("gemini_api_key");
   if (!apiKey) {
-    alert("กรุณากรอกและบันทึก Gemini API Key ที่ช่องด้านบนหน้าเว็บก่อนใช้งานฟีเจอร์นี้");
+    alert("กรุณากรอกและบันทึก Gemini API Key ที่ช่องตั้งค่าด้านบนหน้าเว็บก่อนใช้งาน");
     return;
   }
   if (!currentSelectedItem) return;
 
   const resultContainer = document.getElementById("aiResultContent");
-  resultContainer.textContent = "Gemini กำลังวิเคราะห์ข่าว กรุณารอAสักครู่...";
+  resultContainer.textContent = "Gemini กำลังวิเคราะห์เจาะลึก กรุณารอสักครู่...";
 
   try {
     const ai = new GoogleGenAI({ apiKey: apiKey });
@@ -288,7 +430,7 @@ document.getElementById("runAiAnalysis").onclick = async () => {
 รายละเอียดสรุปเดิม: "${currentSelectedItem.summary_th || ''}"
 ลิงก์ข่าวอ้างอิง: ${currentSelectedItem.link}
 
-กรุณาวิเคราะห์เป็นภาษาไทย ใน 3 ประเด็นสั้นๆ:
+กรุณาวิเคราะห์เป็นภาษาไทย ใน 3 ประเด็นกระชับ:
 1. ประเด็นสำคัญและผลกระทบต่อหุ้น ${currentSelectedItem.ticker}
 2. โอกาสและความเสี่ยงระยะสั้น-กลาง
 3. มุมมองเชิงกลยุทธ์สำหรับนักลงทุน`;
@@ -299,10 +441,18 @@ document.getElementById("runAiAnalysis").onclick = async () => {
     });
 
     resultContainer.textContent = response.text;
+    document.getElementById("copyAiBtn").style.display = "inline-block";
   } catch (error) {
     console.error("Gemini Error:", error);
     resultContainer.textContent = "เกิดข้อผิดพลาดในการเชื่อมต่อกับ Gemini API: " + error.message;
   }
+};
+
+document.getElementById("copyAiBtn").onclick = () => {
+  const text = document.getElementById("aiResultContent").textContent;
+  navigator.clipboard.writeText(text).then(() => {
+    alert("คัดลอกผลวิเคราะห์เรียบร้อยแล้ว!");
+  });
 };
 
 document.getElementById("closeDialog").onclick = () => document.getElementById("newsDialog").close();

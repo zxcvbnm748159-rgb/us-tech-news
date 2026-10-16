@@ -12,7 +12,7 @@ TICKERS = [
 ]
 DATA_FILE = "data/news.json"
 MAX_KEEP = 300
-MAX_TRANSLATE = 25   # จำนวนข่าวสูงสุดที่ส่งแปลต่อรอบ (คุมโควตา)
+MAX_TRANSLATE = 20  
 MODEL = os.environ.get("GEMINI_MODEL", "gemini-2.5-flash-lite")
 
 analyzer = SentimentIntensityAnalyzer()
@@ -32,20 +32,24 @@ def get_sentiment(text):
         return "negative"
     return "neutral"
 
-def translate_batch(items):
-    """แปลหัวข้อข่าวเป็นไทยในคำขอเดียว ถ้าพังจะข้ามไป ไม่ทำให้ทั้งระบบล้ม"""
+def translate_and_analyze_batch(items):
     api_key = os.environ.get("GEMINI_API_KEY")
     if not api_key or not items:
-        print("skip translate (no key or no items)")
+        print("skip translate/analyze (no key or no items)")
         return
+        
     lines = [f"{i}. [{it['ticker']}] {it['title']}" for i, it in enumerate(items)]
+    
     prompt = (
-        "แปลหัวข้อข่าวหุ้นต่อไปนี้เป็นภาษาไทย ให้กระชับ 1 ประโยค "
-        "ใช้เฉพาะข้อมูลในหัวข้อ ห้ามเดาหรือเพิ่มข้อมูลเอง "
-        "คงชื่อบริษัทและตัวย่อหุ้นเป็นภาษาอังกฤษ\n"
-        'ตอบเป็น JSON array เท่านั้น รูปแบบ [{"id": 0, "summary_th": "..."}]\n\n'
+        "คุณคือนักวิเคราะห์การลงทุนหุ้นเทคโนโลยีสหรัฐ\n"
+        "สำหรับแต่ละหัวข้อข่าวข้างล่างนี้ ให้:\n"
+        "1. แปลและสรุปเป็นภาษาไทยกระชับ 1 ประโยค (เก็บชื่อบริษัท/หุ้นเป็นอังกฤษ)\n"
+        "2. จัดหมวดหมู่ข่าวจากตัวเลือกเหล่านี้เท่านั้น: 'AI', 'Hardware', 'Financial', 'General'\n\n"
+        'ตอบกลับเป็น JSON array เท่านั้น ในรูปแบบโครงสร้างนี้:\n'
+        '[{"id": 0, "summary_th": "...", "category": "AI"}]\n\n'
         + "\n".join(lines)
     )
+    
     try:
         client = genai.Client(api_key=api_key)
         resp = client.models.generate_content(
@@ -53,28 +57,25 @@ def translate_batch(items):
             contents=prompt,
             config=types.GenerateContentConfig(response_mime_type="application/json"),
         )
-        translations = json.loads(resp.text)
-        if not isinstance(translations, list):
+        results = json.loads(resp.text)
+        if not isinstance(results, list):
             raise ValueError("Gemini response must be a JSON array")
 
-        translated = 0
-        for row in translations:
+        updated_count = 0
+        for row in results:
             if not isinstance(row, dict):
                 continue
             i = row.get("id")
-            summary = row.get("summary_th")
-            if (
-                isinstance(i, int)
-                and not isinstance(i, bool)
-                and 0 <= i < len(items)
-                and isinstance(summary, str)
-                and summary.strip()
-            ):
-                items[i]["summary_th"] = summary.strip()
-                translated += 1
-        print(f"translated {translated} of {len(items)} items")
+            if isinstance(i, int) and not isinstance(i, bool) and 0 <= i < len(items):
+                if isinstance(row.get("summary_th"), str) and row["summary_th"].strip():
+                    items[i]["summary_th"] = row["summary_th"].strip()
+                if isinstance(row.get("category"), str):
+                    items[i]["category"] = row["category"].strip()
+                updated_count += 1
+                
+        print(f"AI enhanced {updated_count} of {len(items)} items")
     except Exception as ex:
-        print("gemini failed:", ex)
+        print("gemini analysis failed:", ex)
 
 def main():
     existing = load_existing()
@@ -95,15 +96,15 @@ def main():
                 "link": link,
                 "published": e.get("published", ""),
                 "summary_th": "",
+                "category": "General",
                 "sentiment": get_sentiment(title),
                 "fetched_at": datetime.now(timezone.utc).isoformat(),
             })
 
     all_items = (added + existing)[:MAX_KEEP]
 
-    # แปลเฉพาะข่าวที่ยังไม่มีคำแปล (รวมข่าวเก่าที่ค้างอยู่ ทยอยแปลทีละรอบ)
     todo = [x for x in all_items if not x.get("summary_th")][:MAX_TRANSLATE]
-    translate_batch(todo)
+    translate_and_analyze_batch(todo)
 
     os.makedirs("data", exist_ok=True)
     with open(DATA_FILE, "w", encoding="utf-8") as f:
