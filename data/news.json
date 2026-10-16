@@ -1,5 +1,59 @@
 [
   {
+    "ticker": "MSFT",
+    "title": "Microsoft’s AI Chief Says It Built a Better Model Than OpenAI’s With a Quarter of the Computing Power",
+    "link": "https://247wallst.com/investing/2026/10/16/microsofts-ai-chief-says-it-built-a-better-model-than-openais-with-a-quarter-of-the-computing-power/?.tsrc=rss",
+    "published": "Fri, 16 Oct 2026 12:57:29 +0000",
+    "summary_th": "",
+    "sentiment": "positive",
+    "fetched_at": "2026-10-16T13:16:26.287128+00:00"
+  },
+  {
+    "ticker": "MSFT",
+    "title": "NiSource Signs 20-Year Microsoft Power Agreement for 1,100 MW Indiana Data Centre Campus",
+    "link": "https://investorshub.advfn.com/market-news/article/38209/nisource-signs-20-year-microsoft-power-agreement-for-1100-mw-indiana-data-centre-campus?.tsrc=rss",
+    "published": "Fri, 16 Oct 2026 12:43:31 +0000",
+    "summary_th": "",
+    "sentiment": "positive",
+    "fetched_at": "2026-10-16T13:16:26.287255+00:00"
+  },
+  {
+    "ticker": "AMZN",
+    "title": "Nancy Pelosi and Trump Like This Top AI Stock",
+    "link": "https://finance.yahoo.com/technology/ai/articles/nancy-pelosi-trump-top-ai-130823531.html?.tsrc=rss",
+    "published": "Fri, 16 Oct 2026 13:08:23 +0000",
+    "summary_th": "",
+    "sentiment": "positive",
+    "fetched_at": "2026-10-16T13:16:26.791889+00:00"
+  },
+  {
+    "ticker": "TSLA",
+    "title": "Tesla’s Biggest Opportunity May Have Little to Do With Electric Cars",
+    "link": "https://247wallst.com/investing/2026/10/16/teslas-biggest-opportunity-may-have-little-to-do-with-electric-cars/?.tsrc=rss",
+    "published": "Fri, 16 Oct 2026 13:00:24 +0000",
+    "summary_th": "",
+    "sentiment": "positive",
+    "fetched_at": "2026-10-16T13:16:27.350624+00:00"
+  },
+  {
+    "ticker": "CRM",
+    "title": "Investors Heavily Search Salesforce, Inc. (CRM): Here is What You Need to Know",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/investors-heavily-search-salesforce-inc-120007316.html?.tsrc=rss",
+    "published": "Fri, 16 Oct 2026 12:00:07 +0000",
+    "summary_th": "",
+    "sentiment": "neutral",
+    "fetched_at": "2026-10-16T13:16:28.409336+00:00"
+  },
+  {
+    "ticker": "PLTR",
+    "title": "Palantir Technologies Inc. (PLTR) is Attracting Investor Attention: Here is What You Should Know",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-technologies-inc-pltr-attracting-120006946.html?.tsrc=rss",
+    "published": "Fri, 16 Oct 2026 12:00:06 +0000",
+    "summary_th": "",
+    "sentiment": "positive",
+    "fetched_at": "2026-10-16T13:16:29.415131+00:00"
+  },
+  {
     "ticker": "NVDA",
     "title": "CoreWeave stock sinks in premarket trading as AI financing worries linger",
     "link": "https://finance.yahoo.com/markets/stocks/article/coreweave-stock-sinks-in-premarket-trading-as-ai-financing-worries-linger-130516571.html?.tsrc=rss",
