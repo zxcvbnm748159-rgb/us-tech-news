@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>ข่าวหุ้น Tech สหรัฐ</title>
+<style>
+  :root { --bg:#f6f7f9; --card:#fff; --text:#1a1a1a; --muted:#6b7280; --border:#e5e7eb; }
+  @media (prefers-color-scheme: dark) {
+    :root { --bg:#0f1115; --card:#1a1d24; --text:#e8e8e8; --muted:#9aa0aa; --border:#2a2e38; }
+  }
+  body { font-family: system-ui, "Noto Sans Thai", sans-serif; background:var(--bg); color:var(--text); margin:0; }
+  main { max-width:760px; margin:0 auto; padding:16px; }
+  h1 { font-size:1.4rem; }
+  .filters { display:flex; flex-wrap:wrap; gap:8px; margin:12px 0 20px; }
+  .filters button { border:1px solid var(--border); background:var(--card); color:var(--text);
+    padding:6px 12px; border-radius:999px; cursor:pointer; }
+  .filters button.active { background:var(--text); color:var(--bg); }
+  .stock-controls { display:flex; flex-wrap:wrap; align-items:center; gap:8px; margin:16px 0 8px; }
+  .stock-controls select, .stock-controls button { min-height:38px; border:1px solid var(--border);
+    background:var(--card); color:var(--text); padding:6px 10px; border-radius:6px; }
+  .stock-controls button { cursor:pointer; }
+  #stockStatus { color:var(--muted); font-size:.85rem; }
+  .card { background:var(--card); border:1px solid var(--border); border-radius:12px; padding:14px; margin-bottom:12px; }
+  .meta { display:flex; gap:8px; align-items:center; font-size:.85rem; color:var(--muted); }
+  .tag { font-weight:600; color:var(--text); }
+  .positive { color:#16a34a; } .negative { color:#dc2626; } .neutral { color:var(--muted); }
+  .card h2 { font-size:1rem; margin:8px 0 6px; }
+  .card p { margin:0 0 8px; line-height:1.5; }
+  .story-title { border:0; padding:0; background:none; color:inherit; font:inherit; text-align:left; cursor:pointer; }
+  .story-title:hover { text-decoration:underline; }
+  a { color:inherit; }
+  footer { color:var(--muted); font-size:.8rem; margin:24px 0; }
+  dialog { width:min(600px, calc(100% - 32px)); max-height:80vh; overflow:auto; padding:20px;
+    color:var(--text); background:var(--card); border:1px solid var(--border); border-radius:8px; }
+  dialog::backdrop { background:rgba(0,0,0,.55); }
+  .dialog-head, .dialog-actions { display:flex; flex-wrap:wrap; align-items:center; justify-content:space-between; gap:12px; }
+  .dialog-head h2 { margin:0; font-size:1.15rem; }
+  .dialog-head button { border:1px solid var(--border); background:transparent; color:inherit; padding:6px 10px; cursor:pointer; }
+  #dialogMeta, #translationNote { color:var(--muted); font-size:.9rem; }
+  #dialogSummary { line-height:1.6; }
+  .dialog-actions { justify-content:flex-start; margin-top:20px; }
+  @media (max-width:480px) { .stock-controls select { flex:1; min-width:0; } }
+</style>
+</head>
+<body>
+<main>
+  <h1>📈 ข่าวหุ้น Tech สหรัฐ</h1>
+  <div class="stock-controls">
+    <label for="stockPicker">เพิ่มหุ้น</label>
+    <select id="stockPicker" aria-label="เลือกหุ้นที่ต้องการติดตาม"></select>
+    <button id="addStock" type="button">เพิ่ม</button>
+    <span id="stockStatus" aria-live="polite"></span>
+  </div>
+  <div class="filters" id="filters"></div>
+  <div id="list">กำลังโหลด...</div>
+  <footer>สรุปโดย AI อาจมีข้อผิดพลาด ไม่ใช่คำแนะนำการลงทุน โปรดอ่านข่าวต้นฉบับก่อนตัดสินใจ</footer>
+</main>
+<dialog id="newsDialog" aria-labelledby="dialogTitle">
+  <div class="dialog-head">
+    <h2 id="dialogTitle"></h2>
+    <button id="closeDialog" type="button" aria-label="ปิดรายละเอียด">ปิด</button>
+  </div>
+  <p id="dialogMeta"></p>
+  <p id="dialogSummary"></p>
+  <p id="translationNote">ปุ่มแปลจะเปิดบทความผ่าน Google Translate หากเว็บไซต์ต้นทางอนุญาต</p>
+  <div class="dialog-actions">
+    <a id="translateNews" target="_blank" rel="noopener">แปลข่าวเป็นไทย ↗</a>
+    <a id="originalNews" target="_blank" rel="noopener">อ่านข่าวต้นฉบับ ↗</a>
+  </div>
+</dialog>
+<script>
+const SENT = { positive:"▲ เชิงบวก", negative:"▼ เชิงลบ", neutral:"● เป็นกลาง" };
+const STOCK_OPTIONS = ["NVDA", "AAPL", "MSFT", "GOOGL", "AMZN", "META", "TSLA", "AMD", "AVGO", "ORCL", "CRM", "NFLX", "INTC", "QCOM", "PLTR", "SMCI", "IBM", "ADBE", "TSM"];
+let news = [], current = "ALL";
+let trackedTickers = [];
+try {
+  const savedTickers = JSON.parse(localStorage.getItem("trackedTickers") || "[]");
+  if (Array.isArray(savedTickers)) trackedTickers = savedTickers.filter(t => STOCK_OPTIONS.includes(t));
+} catch {}
+
+fetch("data/news.json?t=" + Date.now())
+  .then(r => r.json())
+  .then(d => { news = d; buildStockPicker(); buildFilters(); render(); })
+  .catch(() => document.getElementById("list").textContent = "โหลดข่าวไม่สำเร็จ");
+
+function buildFilters() {
+  const tickers = ["ALL", ...new Set([...news.map(n => n.ticker), ...trackedTickers])];
+  const box = document.getElementById("filters");
+  box.innerHTML = "";
+  tickers.forEach(t => {
+    const b = document.createElement("button");
+    b.textContent = t === "ALL" ? "ทั้งหมด" : t;
+    if (t === current) b.className = "active";
+    b.onclick = () => { current = t; buildFilters(); render(); };
+    box.appendChild(b);
+  });
+}
+
+function buildStockPicker() {
+  const picker = document.getElementById("stockPicker");
+  const available = STOCK_OPTIONS.filter(t => !trackedTickers.includes(t));
+  picker.innerHTML = available.map(t => `<option value="${t}">${t}</option>`).join("");
+  picker.disabled = available.length === 0;
+  document.getElementById("addStock").disabled = available.length === 0;
+}
+
+document.getElementById("addStock").onclick = () => {
+  const ticker = document.getElementById("stockPicker").value;
+  if (!ticker || trackedTickers.includes(ticker)) return;
+  trackedTickers.push(ticker);
+  localStorage.setItem("trackedTickers", JSON.stringify(trackedTickers));
+  current = ticker;
+  document.getElementById("stockStatus").textContent = `${ticker} เพิ่มในรายการติดตามแล้ว`;
+  buildStockPicker();
+  buildFilters();
+  render();
+};
+
+function esc(s) { const d = document.createElement("div"); d.textContent = s ?? ""; return d.innerHTML; }
+
+function render() {
+  const items = news.filter(n => current === "ALL" || n.ticker === current);
+  document.getElementById("list").innerHTML = items.map(n => `
+    <div class="card">
+      <div class="meta">
+        <span class="tag">${esc(n.ticker)}</span>
+        <span class="${esc(n.sentiment)}">${SENT[n.sentiment] || ""}</span>
+        <span>${esc(n.published)}</span>
+      </div>
+      <h2><button class="story-title" type="button">${esc(n.title)}</button></h2>
+      <p>${esc(n.summary_th)}</p>
+    </div>`).join("") || "ยังไม่มีข่าว";
+  document.querySelectorAll(".story-title").forEach((button, index) => {
+    button.onclick = () => showNews(items[index]);
+  });
+}
+
+function showNews(item) {
+  document.getElementById("dialogTitle").textContent = item.title || "ข่าว";
+  document.getElementById("dialogMeta").textContent = `${item.ticker} · ${item.published || "ไม่ระบุเวลา"}`;
+  document.getElementById("dialogSummary").textContent = item.summary_th || "ไม่มีสรุปภาษาไทยจากฟีดข่าวนี้";
+  document.getElementById("originalNews").href = item.link;
+  document.getElementById("translateNews").href = `https://translate.google.com/translate?sl=auto&tl=th&u=${encodeURIComponent(item.link)}`;
+  document.getElementById("newsDialog").showModal();
+}
+
+document.getElementById("closeDialog").onclick = () => document.getElementById("newsDialog").close();
+document.getElementById("newsDialog").addEventListener("click", event => {
+  if (event.target === event.currentTarget) event.currentTarget.close();
+});
+</script>
+</body>
+</html>
