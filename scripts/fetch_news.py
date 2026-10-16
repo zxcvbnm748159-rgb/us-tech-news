@@ -12,7 +12,7 @@ TICKERS = [
 ]
 DATA_FILE = "data/news.json"
 MAX_KEEP = 300
-MAX_TRANSLATE = 20  
+MAX_TRANSLATE = 15  # จำกัดจำนวนต่อรอบเพื่อป้องกันโหมดการทำงานของ API เกินโควตาฟรี
 MODEL = os.environ.get("GEMINI_MODEL", "gemini-2.5-flash-lite")
 
 analyzer = SentimentIntensityAnalyzer()
@@ -41,12 +41,13 @@ def translate_and_analyze_batch(items):
     lines = [f"{i}. [{it['ticker']}] {it['title']}" for i, it in enumerate(items)]
     
     prompt = (
-        "คุณคือนักวิเคราะห์การลงทุนหุ้นเทคโนโลยีสหรัฐ\n"
+        "คุณคือนักวิเคราะห์หุ้นเทคโนโลยีสหรัฐมืออาชีพ\n"
         "สำหรับแต่ละหัวข้อข่าวข้างล่างนี้ ให้:\n"
-        "1. แปลและสรุปเป็นภาษาไทยกระชับ 1 ประโยค (เก็บชื่อบริษัท/หุ้นเป็นอังกฤษ)\n"
-        "2. จัดหมวดหมู่ข่าวจากตัวเลือกเหล่านี้เท่านั้น: 'AI', 'Hardware', 'Financial', 'General'\n\n"
+        "1. แปลและสรุปเป็นภาษาไทยกระชับ 1 ประโยค (เก็บชื่อบริษัท/หุ้นเป็นอังกฤษ) ลงใน 'summary_th'\n"
+        "2. จัดหมวดหมู่ข่าวจากตัวเลือกเหล่านี้เท่านั้น: 'AI', 'Hardware', 'Financial', 'General' ลงใน 'category'\n"
+        "3. วิเคราะห์เชิงลึกเป็นภาษาไทย 3 ประเด็นกระชับ: ผลกระทบต่อหุ้น, โอกาสและความเสี่ยงระยะสั้น-กลาง, และมุมมองเชิงกลยุทธ์ ลงใน 'ai_analysis'\n\n"
         'ตอบกลับเป็น JSON array เท่านั้น ในรูปแบบโครงสร้างนี้:\n'
-        '[{"id": 0, "summary_th": "...", "category": "AI"}]\n\n'
+        '[{"id": 0, "summary_th": "...", "category": "AI", "ai_analysis": "1. ประเด็นและผลกระทบ...\n2. โอกาสและความเสี่ยง...\n3. มุมมองเชิงกลยุทธ์..."}]\n\n'
         + "\n".join(lines)
     )
     
@@ -71,9 +72,11 @@ def translate_and_analyze_batch(items):
                     items[i]["summary_th"] = row["summary_th"].strip()
                 if isinstance(row.get("category"), str):
                     items[i]["category"] = row["category"].strip()
+                if isinstance(row.get("ai_analysis"), str) and row["ai_analysis"].strip():
+                    items[i]["ai_analysis"] = row["ai_analysis"].strip()
                 updated_count += 1
                 
-        print(f"AI enhanced {updated_count} of {len(items)} items")
+        print(f"AI fully analyzed {updated_count} of {len(items)} items")
     except Exception as ex:
         print("gemini analysis failed:", ex)
 
@@ -97,13 +100,15 @@ def main():
                 "published": e.get("published", ""),
                 "summary_th": "",
                 "category": "General",
+                "ai_analysis": "",
                 "sentiment": get_sentiment(title),
                 "fetched_at": datetime.now(timezone.utc).isoformat(),
             })
 
     all_items = (added + existing)[:MAX_KEEP]
 
-    todo = [x for x in all_items if not x.get("summary_th")][:MAX_TRANSLATE]
+    # เลือกข่าวที่ยังไม่มีผลวิเคราะห์จาก AI มาประมวลผล
+    todo = [x for x in all_items if not x.get("ai_analysis")][:MAX_TRANSLATE]
     translate_and_analyze_batch(todo)
 
     os.makedirs("data", exist_ok=True)

@@ -40,18 +40,6 @@
   .stat.positive .stat-value { color:var(--positive); }
   .stat.negative .stat-value { color:var(--negative); }
 
-  .api-config { display:grid; grid-template-columns:minmax(0, 1fr) auto; gap:10px 12px; align-items:center;
-    margin:20px 0 24px; padding:16px 18px; border:1px solid var(--border); border-radius:14px; background:var(--surface); }
-  .api-copy { grid-column:1 / -1; }
-  .api-copy h2 { margin:0; font-size:.95rem; }
-  .api-copy p { margin:5px 0 0; color:var(--muted); font-size:.8rem; line-height:1.55; }
-  .api-config input { width:100%; min-width:0; min-height:42px; border:1px solid var(--border); border-radius:9px;
-    padding:0 12px; background:var(--bg); color:var(--text); font:inherit; }
-  .api-config button { min-height:42px; border:1px solid var(--accent); border-radius:9px; background:var(--accent);
-    color:#fff; padding:0 15px; cursor:pointer; font:inherit; font-weight:650; }
-  @media (prefers-color-scheme: dark) { .api-config button { color:#101522; } }
-  #apiKeyStatus { grid-column:1 / -1; min-height:1em; margin:0; color:var(--muted); font-size:.8rem; }
-
   .toolbar { display:flex; flex-wrap:wrap; align-items:center; justify-content:space-between; gap:12px; margin:26px 0 12px; }
   .toolbar label { color:var(--muted); font-size:.9rem; }
   .stock-controls { display:flex; align-items:center; gap:8px; }
@@ -72,7 +60,6 @@
     color:var(--muted); padding:5px 11px; cursor:pointer; font-size:.86rem; }
   .filters button.active { border-color:var(--accent); background:var(--accent-soft); color:var(--accent); font-weight:650; }
   
-  /* หมวดหมู่ข่าว (Categories) และแถบค้นหา */
   .category-filters { display:flex; gap:6px; margin-bottom:18px; flex-wrap:wrap; }
   .cat-btn { border:1px solid var(--border); background:var(--surface); color:var(--muted); border-radius:8px; padding:4px 10px; font-size:.8rem; cursor:pointer; }
   .cat-btn.active { background:var(--accent); color:#fff; border-color:var(--accent); font-weight:600; }
@@ -116,10 +103,7 @@
   .ai-box-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 10px; }
   .ai-box h3 { margin:0; font-size:.95rem; color:var(--accent); }
   #aiResultContent { font-size:.92rem; line-height:1.7; white-space:pre-line; }
-  .ai-btn { background:var(--accent); color:#fff; border:0; border-radius:9px; padding:9px 14px; font-weight:650; cursor:pointer; font-size:.9rem; }
   .copy-ai-btn { background:var(--surface); border:1px solid var(--border); border-radius:6px; padding:4px 8px; font-size:0.75rem; cursor:pointer; color:var(--text); }
-  @media (prefers-color-scheme: dark) { .ai-btn { color:#101522; } }
-  .ai-btn:hover { opacity: 0.9; }
 
   .dialog-actions { justify-content:space-between; margin-top:20px; border-top: 1px solid var(--border); padding-top: 15px; }
   .dialog-actions .links { display: flex; gap: 15px; }
@@ -137,9 +121,6 @@
     .stat { padding:12px 10px; }
     .stat-label { font-size:.72rem; }
     .stat-value { font-size:1.25rem; }
-    .api-config { grid-template-columns:minmax(0, 1fr); padding:14px; }
-    .api-copy, #apiKeyStatus { grid-column:auto; }
-    .api-config button { width:100%; }
     .toolbar { align-items:flex-start; flex-direction:column; }
     .stock-controls { width:100%; }
     .stock-controls select { flex:1; min-width:0; }
@@ -163,16 +144,6 @@
     <div class="stat positive"><span class="stat-label">มุมมองเชิงบวก</span><strong class="stat-value" id="statPositive">0</strong></div>
     <div class="stat negative"><span class="stat-label">มุมมองเชิงลบ</span><strong class="stat-value" id="statNegative">0</strong></div>
   </section>
-
-  <div class="api-config">
-    <div class="api-copy">
-      <h2>ตั้งค่า Gemini API Key ส่วนตัว</h2>
-      <p>คีย์จะถูกเก็บไว้เฉพาะในเบราว์เซอร์ของคุณ (LocalStorage) เพื่อใช้เรียกใช้งานฟังก์ชันวิเคราะห์ AI เชิงลึก</p>
-    </div>
-    <input type="password" id="apiKeyInput" autocomplete="off" aria-label="Gemini API key" placeholder="วาง Gemini API key ที่นี่" />
-    <button id="saveApiKey" type="button">บันทึกในเครื่อง</button>
-    <p id="apiKeyStatus" aria-live="polite"></p>
-  </div>
 
   <section aria-label="ตัวกรองข่าว">
     <div class="toolbar">
@@ -226,11 +197,10 @@
   
   <div class="ai-box">
     <div class="ai-box-header">
-      <h3>✨ วิเคราะห์เจาะลึกเพิ่มเติมด้วย Gemini AI</h3>
-      <button id="copyAiBtn" class="copy-ai-btn" style="display:none;" type="button">คัดลอกผลวิเคราะห์</button>
+      <h3>✨ วิเคราะห์เจาะลึกโดย Gemini AI</h3>
+      <button id="copyAiBtn" class="copy-ai-btn" type="button">คัดลอกผลวิเคราะห์</button>
     </div>
-    <button id="runAiAnalysis" class="ai-btn" type="button">ให้ Gemini วิเคราะห์ผลกระทบข่าวนี้</button>
-    <div id="aiResultContent" style="margin-top: 10px;"></div>
+    <div id="aiResultContent" style="margin-top: 10px; line-height: 1.7;">กำลังโหลดผลวิเคราะห์...</div>
   </div>
 
   <p id="translationNote">ปุ่มแปลจะเปิดบทความผ่าน Google Translate หากเว็บไซต์ต้นทางอนุญาต</p>
@@ -242,17 +212,13 @@
   </div>
 </dialog>
 
-<!-- โหลด Google Gen AI SDK ผ่าน ESM -->
-<script type="module">
-import { GoogleGenAI } from "https://esm.run/@google/genai";
-
+<script>
 const SENT = { positive:"▲ เชิงบวก", negative:"▼ เชิงลบ", neutral:"● เป็นกลาง" };
 const STOCK_OPTIONS = ["NVDA", "AAPL", "MSFT", "GOOGL", "AMZN", "META", "TSLA", "AMD", "AVGO", "ORCL", "CRM", "NFLX", "INTC", "QCOM", "PLTR", "SMCI", "IBM", "ADBE", "TSM"];
 let news = [], currentTicker = "ALL", currentCategory = "ALL";
 let searchQuery = "", sentimentFilter = "all", viewMode = "all";
 let trackedTickers = [];
 let savedBookmarks = [];
-let currentSelectedItem = null;
 
 try {
   const savedTickers = JSON.parse(localStorage.getItem("trackedTickers") || "[]");
@@ -262,25 +228,6 @@ try {
   if (Array.isArray(savedBms)) savedBookmarks = savedBms;
 } catch {}
 
-// จัดการ API Key
-const savedKey = localStorage.getItem("gemini_api_key");
-if (savedKey) {
-  document.getElementById("apiKeyInput").value = savedKey;
-  document.getElementById("apiKeyStatus").textContent = "มีคีย์บันทึกไว้ในเบราว์เซอร์นี้แล้ว";
-}
-
-document.getElementById("saveApiKey").onclick = () => {
-  const key = document.getElementById("apiKeyInput").value.trim();
-  if (key) {
-    localStorage.setItem("gemini_api_key", key);
-    document.getElementById("apiKeyStatus").textContent = "บันทึกคีย์เรียบร้อยแล้ว";
-  } else {
-    localStorage.removeItem("gemini_api_key");
-    document.getElementById("apiKeyStatus").textContent = "ลบคีย์ออกจากระบบแล้ว";
-  }
-};
-
-// Event Listeners สำหรับการค้นหาและกรอง
 document.getElementById("newsSearch").addEventListener("input", e => { searchQuery = e.target.value.trim().toLowerCase(); render(); });
 document.getElementById("sentimentFilter").addEventListener("change", e => { sentimentFilter = e.target.value; render(); });
 document.getElementById("viewMode").addEventListener("change", e => { viewMode = e.target.value; render(); });
@@ -400,53 +347,17 @@ function render() {
 }
 
 function showNews(item) {
-  currentSelectedItem = item;
   document.getElementById("dialogTitle").textContent = item.title || "ข่าว";
   document.getElementById("dialogMeta").textContent = `${item.ticker} · ${item.published || "ไม่ระบุเวลา"}`;
   document.getElementById("dialogSummary").textContent = item.summary_th || "ไม่มีสรุปภาษาไทยจากฟีดข่าวนี้";
-  document.getElementById("aiResultContent").textContent = "";
-  document.getElementById("copyAiBtn").style.display = "none";
+  
+  // ดึงผลวิเคราะห์จาก AI ที่ทำเตรียมไว้ในไฟล์ JSON มาแสดงผลทันทีโดยไม่ต้องใช้ API Key หน้าเว็บ
+  document.getElementById("aiResultContent").textContent = item.ai_analysis || "ยังไม่มีข้อมูลวิเคราะห์เชิงลึกสำหรับข่าวนี้ (ระบบจะทยอยอัปเดตอัตโนมัติ)";
+  
   document.getElementById("originalNews").href = item.link;
   document.getElementById("translateNews").href = `https://translate.google.com/translate?sl=auto&tl=th&u=${encodeURIComponent(item.link)}`;
   document.getElementById("newsDialog").showModal();
 }
-
-// ฟังก์ชันเรียก Gemini AI วิเคราะห์สดๆ
-document.getElementById("runAiAnalysis").onclick = async () => {
-  const apiKey = localStorage.getItem("gemini_api_key");
-  if (!apiKey) {
-    alert("กรุณากรอกและบันทึก Gemini API Key ที่ช่องตั้งค่าด้านบนหน้าเว็บก่อนใช้งาน");
-    return;
-  }
-  if (!currentSelectedItem) return;
-
-  const resultContainer = document.getElementById("aiResultContent");
-  resultContainer.textContent = "Gemini กำลังวิเคราะห์เจาะลึก กรุณารอสักครู่...";
-
-  try {
-    const ai = new GoogleGenAI({ apiKey: apiKey });
-    const prompt = `คุณคือนักวิเคราะห์หุ้นเทคโนโลยีสหรัฐมืออาชีพ 
-ช่วยวิเคราะห์ข่าวหัวข้อนี้: "${currentSelectedItem.title}"
-รายละเอียดสรุปเดิม: "${currentSelectedItem.summary_th || ''}"
-ลิงก์ข่าวอ้างอิง: ${currentSelectedItem.link}
-
-กรุณาวิเคราะห์เป็นภาษาไทย ใน 3 ประเด็นกระชับ:
-1. ประเด็นสำคัญและผลกระทบต่อหุ้น ${currentSelectedItem.ticker}
-2. โอกาสและความเสี่ยงระยะสั้น-กลาง
-3. มุมมองเชิงกลยุทธ์สำหรับนักลงทุน`;
-
-    const response = await ai.models.generateContent({
-      model: 'gemini-2.5-flash',
-      contents: prompt,
-    });
-
-    resultContainer.textContent = response.text;
-    document.getElementById("copyAiBtn").style.display = "inline-block";
-  } catch (error) {
-    console.error("Gemini Error:", error);
-    resultContainer.textContent = "เกิดข้อผิดพลาดในการเชื่อมต่อกับ Gemini API: " + error.message;
-  }
-};
 
 document.getElementById("copyAiBtn").onclick = () => {
   const text = document.getElementById("aiResultContent").textContent;
