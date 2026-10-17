@@ -1,14 +1,14 @@
 {
   "date": "2026-10-17",
-  "score": 73,
+  "score": 75,
   "label": "Bullish",
   "counts": {
-    "positive": 22,
+    "positive": 24,
     "negative": 8,
-    "neutral": 33
+    "neutral": 35
   },
-  "total": 63,
-  "updated_at": "2026-10-17T19:57:43.965505+00:00",
+  "total": 67,
+  "updated_at": "2026-10-17T21:43:49.492811+00:00",
   "articles": [
     {
       "link": "https://www.fool.com/investing/2026/10/17/missed-out-on-micron-and-sandisk-make-sure-you-don/?.tsrc=rss",
@@ -260,6 +260,22 @@
     },
     {
       "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-pltr-growth-justify-valuation-194556491.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/17/costco-will-pay-a-147-dividend-on-nov-13-heres-whe/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/17/4-charts-that-explain-the-copper-supply-crunch-inv/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/17/apple-market-value-from-350-billion-to-5-trillion/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ibm-ibm-stock-may-15-201143656.html?.tsrc=rss",
       "sentiment": "positive"
     }
   ]
