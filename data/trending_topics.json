@@ -1,7 +1,7 @@
 {
   "date": "2026-10-17",
   "window_days": 7,
-  "source_count": 65,
+  "source_count": 69,
   "topics": [
     {
       "label": "NVDA",
@@ -87,6 +87,24 @@
       "search_terms": [
         "AMZN"
       ],
+      "count": 3,
+      "kind": "ticker"
+    },
+    {
+      "label": "PLTR",
+      "query": "PLTR",
+      "search_terms": [
+        "PLTR"
+      ],
+      "count": 3,
+      "kind": "ticker"
+    },
+    {
+      "label": "INTC",
+      "query": "INTC",
+      "search_terms": [
+        "INTC"
+      ],
       "count": 2,
       "kind": "ticker"
     },
@@ -98,27 +116,9 @@
       ],
       "count": 2,
       "kind": "ticker"
-    },
-    {
-      "label": "TSM",
-      "query": "TSM",
-      "search_terms": [
-        "TSM"
-      ],
-      "count": 2,
-      "kind": "ticker"
-    },
-    {
-      "label": "AVGO",
-      "query": "AVGO",
-      "search_terms": [
-        "AVGO"
-      ],
-      "count": 1,
-      "kind": "ticker"
     }
   ],
-  "updated_at": "2026-10-17T17:23:18.934403+00:00",
+  "updated_at": "2026-10-17T17:42:14.833638+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -964,6 +964,58 @@
       "impact_direction": "neutral",
       "sentiment": "positive",
       "fetched_at": "2026-10-17T17:23:18.684163+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Twenty Hours a Week at an Amazon Warehouse for Health Insurance at 60? Here Is the Math a Retired Paralegal Will Run",
+      "link": "https://247wallst.com/personal-finance/2026/10/17/twenty-hours-a-week-at-an-amazon-warehouse-for-health-insurance-at-60-here-is-the-math-a-retired-paralegal-will-run/?.tsrc=rss",
+      "published": "Sat, 17 Oct 2026 17:22:51 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-17T17:42:12.325484+00:00"
+    },
+    {
+      "ticker": "INTC",
+      "title": "Intel Stock Fell Nearly 6% as TSMC Took Aim at Its Packaging Business. Here’s What It Means for Intel’s Margins",
+      "link": "https://www.tikr.com/blog/intel-stock-fell-nearly-6-as-tsmc-took-aim-at-its-packaging-business-heres-what-it-means-for-intels-margins?ref=yahoofinance&.tsrc=rss",
+      "published": "Sat, 17 Oct 2026 17:26:38 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-17T17:42:13.766226+00:00"
+    },
+    {
+      "ticker": "PLTR",
+      "title": "History of Palantir: Company timeline, facts & milestones",
+      "link": "https://www.thestreet.com/investing/stocks/history-of-palantir-company-timeline-facts-milestones?.tsrc=rss",
+      "published": "Sat, 17 Oct 2026 17:33:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-17T17:42:14.181902+00:00"
+    },
+    {
+      "ticker": "PLTR",
+      "title": "Is Palantir Stock a Buy Right Now?",
+      "link": "https://www.fool.com/investing/2026/10/17/is-palantir-stock-a-buy-right-now/?.tsrc=rss",
+      "published": "Sat, 17 Oct 2026 17:25:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-17T17:42:14.181935+00:00"
     }
   ]
 }

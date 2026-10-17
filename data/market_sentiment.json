@@ -5,10 +5,10 @@
   "counts": {
     "positive": 18,
     "negative": 6,
-    "neutral": 22
+    "neutral": 26
   },
-  "total": 46,
-  "updated_at": "2026-10-17T17:23:18.931382+00:00",
+  "total": 50,
+  "updated_at": "2026-10-17T17:42:14.831844+00:00",
   "articles": [
     {
       "link": "https://www.fool.com/investing/2026/10/17/missed-out-on-micron-and-sandisk-make-sure-you-don/?.tsrc=rss",
@@ -193,6 +193,22 @@
     {
       "link": "https://www.thestreet.com/investing/ibm-q3-earnings-bofa-analyst-rating?.tsrc=rss",
       "sentiment": "positive"
+    },
+    {
+      "link": "https://247wallst.com/personal-finance/2026/10/17/twenty-hours-a-week-at-an-amazon-warehouse-for-health-insurance-at-60-here-is-the-math-a-retired-paralegal-will-run/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.tikr.com/blog/intel-stock-fell-nearly-6-as-tsmc-took-aim-at-its-packaging-business-heres-what-it-means-for-intels-margins?ref=yahoofinance&.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.thestreet.com/investing/stocks/history-of-palantir-company-timeline-facts-milestones?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/17/is-palantir-stock-a-buy-right-now/?.tsrc=rss",
+      "sentiment": "neutral"
     }
   ]
 }
