@@ -1,7 +1,7 @@
 {
   "date": "2026-10-17",
   "window_days": 7,
-  "source_count": 23,
+  "source_count": 35,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,16 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 6,
+      "count": 11,
+      "kind": "ticker"
+    },
+    {
+      "label": "GOOGL",
+      "query": "GOOGL",
+      "search_terms": [
+        "GOOGL"
+      ],
+      "count": 5,
       "kind": "ticker"
     },
     {
@@ -17,6 +26,15 @@
       "query": "TSLA",
       "search_terms": [
         "TSLA"
+      ],
+      "count": 5,
+      "kind": "ticker"
+    },
+    {
+      "label": "AAPL",
+      "query": "AAPL",
+      "search_terms": [
+        "AAPL"
       ],
       "count": 4,
       "kind": "ticker"
@@ -34,19 +52,22 @@
       "kind": "topic"
     },
     {
-      "label": "GOOGL",
-      "query": "GOOGL",
+      "label": "Earnings",
+      "query": "Earnings",
       "search_terms": [
-        "GOOGL"
+        "earnings",
+        "quarterly results",
+        "revenue guidance",
+        "profit forecast"
       ],
-      "count": 3,
-      "kind": "ticker"
+      "count": 2,
+      "kind": "topic"
     },
     {
-      "label": "AAPL",
-      "query": "AAPL",
+      "label": "META",
+      "query": "META",
       "search_terms": [
-        "AAPL"
+        "META"
       ],
       "count": 2,
       "kind": "ticker"
@@ -79,22 +100,10 @@
       "kind": "ticker"
     },
     {
-      "label": "Earnings",
-      "query": "Earnings",
+      "label": "INTC",
+      "query": "INTC",
       "search_terms": [
-        "earnings",
-        "quarterly results",
-        "revenue guidance",
-        "profit forecast"
-      ],
-      "count": 1,
-      "kind": "topic"
-    },
-    {
-      "label": "META",
-      "query": "META",
-      "search_terms": [
-        "META"
+        "INTC"
       ],
       "count": 1,
       "kind": "ticker"
@@ -107,18 +116,9 @@
       ],
       "count": 1,
       "kind": "ticker"
-    },
-    {
-      "label": "QCOM",
-      "query": "QCOM",
-      "search_terms": [
-        "QCOM"
-      ],
-      "count": 1,
-      "kind": "ticker"
     }
   ],
-  "updated_at": "2026-10-17T07:25:42.391680+00:00",
+  "updated_at": "2026-10-17T11:41:36.948459+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -418,6 +418,162 @@
       "impact_direction": "neutral",
       "sentiment": "neutral",
       "fetched_at": "2026-10-17T07:18:44.203521+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Nvidia’s CEO Says “All of This Is Going to Pass” After Tech Lost $1 Trillion in a Day",
+      "link": "https://247wallst.com/investing/2026/10/17/nvidias-ceo-says-all-of-this-is-going-to-pass-after-tech-lost-1-trillion-in-a-day/?.tsrc=rss",
+      "published": "Sat, 17 Oct 2026 11:15:15 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-17T11:41:33.566877+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Cathie Wood-Led Ark Invest's Biggest Q3 Winners And Losers — PLTR, NVDA, TXG Led While TSLA, RKLB Dragged",
+      "link": "https://stocktwits.com/news-articles/markets/equity/cathie-wood-ark-invest-biggest-q3-winners-losers-pltr-nvda-txg-tsla-rklb/cZxkcykRBtO?.tsrc=rss",
+      "published": "Sat, 17 Oct 2026 08:29:33 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-17T11:41:33.567016+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Rocket Lab Just Booked Its Biggest Contract Ever (Again)",
+      "link": "https://www.fool.com/investing/2026/10/17/rocket-lab-just-booked-its-biggest-contract-ever-a/?.tsrc=rss",
+      "published": "Sat, 17 Oct 2026 11:27:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-17T11:41:33.567051+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Sandisk Stock Is Still Up 488% This Year Despite a 40% Drop. Is It a Buy Now?",
+      "link": "https://www.fool.com/investing/2026/10/17/sandisk-stock-is-still-up-488-this-year-despite-a-40-drop-is-it-a-buy-now/?.tsrc=rss",
+      "published": "Sat, 17 Oct 2026 10:42:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-17T11:41:33.567122+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Johnson & Johnson Just Raised Its Sales Outlook Again. Here's Why the Dividend King Is Still a Buy.",
+      "link": "https://www.fool.com/investing/2026/10/17/johnson-johnson-raise-sales-dividend-king-buy/?.tsrc=rss",
+      "published": "Sat, 17 Oct 2026 10:35:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-17T11:41:33.567165+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Apple's iPhone Duo Demand Tracking 'Solidly Out Of The Gate', Says Analyst As AAPL Stock Caps Off Best Week Since September Launch",
+      "link": "https://stocktwits.com/news-articles/markets/equity/apple-iphone-duo-demand-tracking-solidly-aapl-stock-best-week-september-launch/cZxk5cQRBtf?.tsrc=rss",
+      "published": "Sat, 17 Oct 2026 09:11:05 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-17T11:41:33.746368+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Apple Is Ready to Fight Britain Over iPhone Tap-to-Pay. The Fee Is What Matters",
+      "link": "https://www.tikr.com/blog/apple-is-ready-to-fight-britain-over-iphone-tap-to-pay-the-fee-is-what-matters?ref=yahoofinance&.tsrc=rss",
+      "published": "Sat, 17 Oct 2026 08:16:16 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-17T11:41:33.746470+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Meet Warren Buffett Successor Greg Abel's Newest Investment: Bending Spoons. Should Investors Follow Suit and Buy the Stock?",
+      "link": "https://www.fool.com/investing/2026/10/17/warren-buffett-greg-abel-bending-spoons-buy/?.tsrc=rss",
+      "published": "Sat, 17 Oct 2026 10:02:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-17T11:41:34.104949+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Google Puts Gemini in Geely’s Overseas Cars: Why the Export Numbers Matter",
+      "link": "https://www.tikr.com/blog/google-puts-gemini-in-geelys-overseas-cars-why-the-export-numbers-matter?ref=yahoofinance&.tsrc=rss",
+      "published": "Sat, 17 Oct 2026 08:28:47 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-17T11:41:34.105022+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "Meta is 'back on offense,' BofA says — with only one top risk",
+      "link": "https://finance.yahoo.com/technology/article/meta-is-back-on-offense-bofa-says--with-only-one-top-risk-100000520.html?.tsrc=rss",
+      "published": "Sat, 17 Oct 2026 10:00:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-17T11:41:34.536201+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "History Says Tesla Stock Swings Hard on Earnings. It Has Moved 8% or More After 10 of Its Last 15 Reports.",
+      "link": "https://www.fool.com/investing/2026/10/17/history-says-tesla-stock-swings-hard-on-earnings-it-has-moved-8-or-more-after-10-of-its-last-15-reports/?.tsrc=rss",
+      "published": "Sat, 17 Oct 2026 08:49:01 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-17T11:41:34.715047+00:00"
+    },
+    {
+      "ticker": "INTC",
+      "title": "1 Reason Intel Stock Could Outperform in 2027",
+      "link": "https://www.fool.com/investing/2026/10/17/1-reason-intel-stock-could-outperform-in-2027/?.tsrc=rss",
+      "published": "Sat, 17 Oct 2026 11:05:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-17T11:41:35.813232+00:00"
     }
   ]
 }
