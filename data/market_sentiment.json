@@ -1,14 +1,14 @@
 {
   "date": "2026-10-17",
-  "score": 73,
+  "score": 75,
   "label": "Bullish",
   "counts": {
-    "positive": 11,
-    "negative": 4,
-    "neutral": 14
+    "positive": 18,
+    "negative": 6,
+    "neutral": 22
   },
-  "total": 29,
-  "updated_at": "2026-10-17T14:25:40.572595+00:00",
+  "total": 46,
+  "updated_at": "2026-10-17T17:23:18.931382+00:00",
   "articles": [
     {
       "link": "https://www.fool.com/investing/2026/10/17/missed-out-on-micron-and-sandisk-make-sure-you-don/?.tsrc=rss",
@@ -125,6 +125,74 @@
     {
       "link": "https://finance.yahoo.com/video/way-headlines-may-missed-125525599.html?.tsrc=rss",
       "sentiment": "negative"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/17/rivians-key-to-success-may-not-be-its-vehicles/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/17/billionaire-david-tepper-returned-32-percent-top-3/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.tikr.com/blog/nvidia-stock-is-up-13-this-year-where-does-the-stock-stand-now?ref=yahoofinance&.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/17/i-just-invested-usd4-600-across-3-top-dividend-stocks-here-s-what-i-m-loading-up-on-right-now/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/10/17/martin-shkreli-says-new-photonic-chips-could-run-circles-around-nvidia/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/17/usd10-000-invested-in-apple-could-be-worth-this-much-by-2031/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/economy/policy/articles/apple-nvidia-gave-25m-trumps-150000953.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/10/17/apples-1999-foldable-iphone-sold-out-in-minutes-deliveries-now-slip-to-january/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.tikr.com/blog/apple-hit-a-record-close-ahead-of-its-november-2-report-heres-what-charging-for-extra-siri-ai-could-mean-for-the-stock?ref=yahoofinance&.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.thestreet.com/investing/stocks/ubs-raises-microsoft-msft-stock-price-target-for-investors?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/17/heres-how-microsofts-175-billion-in-capital-expend/?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/10/17/tesla-just-won-in-court-self-driving-buyers-cant-sue-as-a-class/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/article/ring-founder-jamie-siminoff-i-still-have-my-email-on-every-box--heres-why-143138725.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/17/1-red-flag-that-amd-investors-should-be-aware-of/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/10/17/chip-stocks-just-fell-8-days-in-a-row-their-longest-losing-streak-since-2008/?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/17/heres-what-10000-invested-in-broadcom-will-be-wort/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.thestreet.com/investing/ibm-q3-earnings-bofa-analyst-rating?.tsrc=rss",
+      "sentiment": "positive"
     }
   ]
 }
