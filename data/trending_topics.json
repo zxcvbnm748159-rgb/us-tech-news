@@ -1,7 +1,7 @@
 {
   "date": "2026-10-17",
   "window_days": 7,
-  "source_count": 35,
+  "source_count": 41,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 11,
+      "count": 14,
       "kind": "ticker"
     },
     {
@@ -17,6 +17,15 @@
       "query": "GOOGL",
       "search_terms": [
         "GOOGL"
+      ],
+      "count": 6,
+      "kind": "ticker"
+    },
+    {
+      "label": "AAPL",
+      "query": "AAPL",
+      "search_terms": [
+        "AAPL"
       ],
       "count": 5,
       "kind": "ticker"
@@ -31,13 +40,16 @@
       "kind": "ticker"
     },
     {
-      "label": "AAPL",
-      "query": "AAPL",
+      "label": "Earnings",
+      "query": "Earnings",
       "search_terms": [
-        "AAPL"
+        "earnings",
+        "quarterly results",
+        "revenue guidance",
+        "profit forecast"
       ],
       "count": 4,
-      "kind": "ticker"
+      "kind": "topic"
     },
     {
       "label": "AI Chip",
@@ -52,24 +64,12 @@
       "kind": "topic"
     },
     {
-      "label": "Earnings",
-      "query": "Earnings",
-      "search_terms": [
-        "earnings",
-        "quarterly results",
-        "revenue guidance",
-        "profit forecast"
-      ],
-      "count": 2,
-      "kind": "topic"
-    },
-    {
       "label": "META",
       "query": "META",
       "search_terms": [
         "META"
       ],
-      "count": 2,
+      "count": 3,
       "kind": "ticker"
     },
     {
@@ -118,7 +118,7 @@
       "kind": "ticker"
     }
   ],
-  "updated_at": "2026-10-17T11:41:36.948459+00:00",
+  "updated_at": "2026-10-17T12:38:25.331804+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -574,6 +574,84 @@
       "impact_direction": "neutral",
       "sentiment": "neutral",
       "fetched_at": "2026-10-17T11:41:35.813232+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "BofA Warns AI Investors Could Lose Even If the Technology Works",
+      "link": "https://247wallst.com/investing/2026/10/17/bofa-warns-ai-investors-could-lose-even-if-the-technology-works/?.tsrc=rss",
+      "published": "Sat, 17 Oct 2026 11:44:11 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-17T12:38:22.861985+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "SpaceX Is Changing: Here's What You Need to Know",
+      "link": "https://www.fool.com/investing/2026/10/17/spacex-is-changing-heres-what-you-need-to-know/?.tsrc=rss",
+      "published": "Sat, 17 Oct 2026 12:28:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-17T12:38:22.862072+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "How Many Shares Would It Take to Earn $1,000 a Year From This Future Dividend King?",
+      "link": "https://www.fool.com/investing/2026/10/17/how-many-shares-earn-1k-year-dividend-mdt/?.tsrc=rss",
+      "published": "Sat, 17 Oct 2026 12:26:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-17T12:38:22.862141+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Apple, Salesforce Lead Five Stocks Near Buy Points",
+      "link": "https://finance.yahoo.com/m/2ea92b1d-49c9-3825-bb7f-1768711b7070/apple%2C-salesforce-lead-five.html?.tsrc=rss",
+      "published": "Sat, 17 Oct 2026 12:00:51 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-17T12:38:23.013921+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "These 7 Stocks Are Analyst Favorites For Magnificent Earnings Growth; Eli Lilly Leads Industry",
+      "link": "https://finance.yahoo.com/m/2b47c372-177e-3051-aa01-406a8d82b220/these-7-stocks-are-analyst.html?.tsrc=rss",
+      "published": "Sat, 17 Oct 2026 12:02:21 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-17T12:38:23.251641+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "JPMorgan Expects Q3 Earnings Growth to Broaden Beyond AI Across US and European Equities",
+      "link": "https://investorshub.advfn.com/market-news/article/38224/jpmorgan-expects-q3-earnings-growth-to-broaden-beyond-ai-across-us-and-european-equities?.tsrc=rss",
+      "published": "Sat, 17 Oct 2026 11:41:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-17T12:38:23.487635+00:00"
     }
   ]
 }
