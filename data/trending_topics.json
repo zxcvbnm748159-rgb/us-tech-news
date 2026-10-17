@@ -1,7 +1,7 @@
 {
   "date": "2026-10-17",
   "window_days": 7,
-  "source_count": 86,
+  "source_count": 93,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 28,
+      "count": 32,
       "kind": "ticker"
     },
     {
@@ -79,6 +79,15 @@
       "kind": "ticker"
     },
     {
+      "label": "TSM",
+      "query": "TSM",
+      "search_terms": [
+        "TSM"
+      ],
+      "count": 4,
+      "kind": "ticker"
+    },
+    {
       "label": "AI Chip",
       "query": "AI Chip",
       "search_terms": [
@@ -100,25 +109,16 @@
       "kind": "ticker"
     },
     {
-      "label": "INTC",
-      "query": "INTC",
+      "label": "AVGO",
+      "query": "AVGO",
       "search_terms": [
-        "INTC"
-      ],
-      "count": 3,
-      "kind": "ticker"
-    },
-    {
-      "label": "TSM",
-      "query": "TSM",
-      "search_terms": [
-        "TSM"
+        "AVGO"
       ],
       "count": 3,
       "kind": "ticker"
     }
   ],
-  "updated_at": "2026-10-17T21:43:49.496463+00:00",
+  "updated_at": "2026-10-17T22:49:31.228032+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -1237,6 +1237,97 @@
       "impact_direction": "neutral",
       "sentiment": "positive",
       "fetched_at": "2026-10-17T21:43:49.208036+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Nvidia vs. AMD: Which AI Business Has More Room for Margins to Fall?",
+      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-vs-amd-ai-business-221105605.html?.tsrc=rss",
+      "published": "Sat, 17 Oct 2026 22:11:05 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-17T22:49:29.440861+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "‘How many canaries have we killed in the coal mine?’ — Wall Street debates if the latest AI bubble warnings are another head fake or the real thing",
+      "link": "https://finance.yahoo.com/technology/ai/articles/many-canaries-killed-coal-mine-194324541.html?.tsrc=rss",
+      "published": "Sat, 17 Oct 2026 19:43:24 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-17T22:49:29.441053+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Should You Buy NuScale at $6 After the Google Rally? Here's the Next Catalyst That Could Send It Higher.",
+      "link": "https://www.fool.com/investing/2026/10/17/should-you-buy-nuscale-at-6-after-the-google-rally/?.tsrc=rss",
+      "published": "Sat, 17 Oct 2026 22:25:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-17T22:49:29.441105+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Nvidia vs. AMD: Which Business Is More Exposed to a Data-Center Slowdown?",
+      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-vs-amd-business-more-221027025.html?.tsrc=rss",
+      "published": "Sat, 17 Oct 2026 22:10:27 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-17T22:49:29.441168+00:00"
+    },
+    {
+      "ticker": "AVGO",
+      "title": "Jim Cramer Sees a Telling Change in Broadcom’s (AVGO) Stock",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-sees-telling-change-223540159.html?.tsrc=rss",
+      "published": "Sat, 17 Oct 2026 22:35:40 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-17T22:49:30.223972+00:00"
+    },
+    {
+      "ticker": "AVGO",
+      "title": "Broadcom’s $29 Billion AI Backstop: How Much Risk Does the Cash Flow Cover?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/broadcom-29-billion-ai-backstop-221120144.html?.tsrc=rss",
+      "published": "Sat, 17 Oct 2026 22:11:20 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-17T22:49:30.224058+00:00"
+    },
+    {
+      "ticker": "TSM",
+      "title": "TSMC vs. ASML: Which AI Expansion Demands More Cash?",
+      "link": "https://finance.yahoo.com/technology/ai/articles/tsmc-vs-asml-ai-expansion-221211666.html?.tsrc=rss",
+      "published": "Sat, 17 Oct 2026 22:12:11 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-17T22:49:31.223689+00:00"
     }
   ]
 }

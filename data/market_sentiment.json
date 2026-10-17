@@ -1,14 +1,14 @@
 {
   "date": "2026-10-17",
-  "score": 75,
+  "score": 71,
   "label": "Bullish",
   "counts": {
     "positive": 24,
-    "negative": 8,
-    "neutral": 35
+    "negative": 10,
+    "neutral": 40
   },
-  "total": 67,
-  "updated_at": "2026-10-17T21:43:49.492811+00:00",
+  "total": 74,
+  "updated_at": "2026-10-17T22:49:31.224057+00:00",
   "articles": [
     {
       "link": "https://www.fool.com/investing/2026/10/17/missed-out-on-micron-and-sandisk-make-sure-you-don/?.tsrc=rss",
@@ -277,6 +277,34 @@
     {
       "link": "https://finance.yahoo.com/markets/stocks/articles/ibm-ibm-stock-may-15-201143656.html?.tsrc=rss",
       "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-vs-amd-ai-business-221105605.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/many-canaries-killed-coal-mine-194324541.html?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/17/should-you-buy-nuscale-at-6-after-the-google-rally/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-vs-amd-business-more-221027025.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-sees-telling-change-223540159.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/broadcom-29-billion-ai-backstop-221120144.html?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/tsmc-vs-asml-ai-expansion-221211666.html?.tsrc=rss",
+      "sentiment": "neutral"
     }
   ]
 }

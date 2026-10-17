@@ -1,6 +1,97 @@
 [
   {
     "ticker": "NVDA",
+    "title": "Nvidia vs. AMD: Which AI Business Has More Room for Margins to Fall?",
+    "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-vs-amd-ai-business-221105605.html?.tsrc=rss",
+    "published": "Sat, 17 Oct 2026 22:11:05 +0000",
+    "summary_th": "",
+    "category": "General",
+    "ai_analysis": "",
+    "impact_level": "low",
+    "impact_direction": "neutral",
+    "sentiment": "neutral",
+    "fetched_at": "2026-10-17T22:49:29.440861+00:00"
+  },
+  {
+    "ticker": "NVDA",
+    "title": "‘How many canaries have we killed in the coal mine?’ — Wall Street debates if the latest AI bubble warnings are another head fake or the real thing",
+    "link": "https://finance.yahoo.com/technology/ai/articles/many-canaries-killed-coal-mine-194324541.html?.tsrc=rss",
+    "published": "Sat, 17 Oct 2026 19:43:24 +0000",
+    "summary_th": "",
+    "category": "General",
+    "ai_analysis": "",
+    "impact_level": "low",
+    "impact_direction": "neutral",
+    "sentiment": "negative",
+    "fetched_at": "2026-10-17T22:49:29.441053+00:00"
+  },
+  {
+    "ticker": "NVDA",
+    "title": "Should You Buy NuScale at $6 After the Google Rally? Here's the Next Catalyst That Could Send It Higher.",
+    "link": "https://www.fool.com/investing/2026/10/17/should-you-buy-nuscale-at-6-after-the-google-rally/?.tsrc=rss",
+    "published": "Sat, 17 Oct 2026 22:25:00 +0000",
+    "summary_th": "",
+    "category": "General",
+    "ai_analysis": "",
+    "impact_level": "low",
+    "impact_direction": "neutral",
+    "sentiment": "neutral",
+    "fetched_at": "2026-10-17T22:49:29.441105+00:00"
+  },
+  {
+    "ticker": "NVDA",
+    "title": "Nvidia vs. AMD: Which Business Is More Exposed to a Data-Center Slowdown?",
+    "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-vs-amd-business-more-221027025.html?.tsrc=rss",
+    "published": "Sat, 17 Oct 2026 22:10:27 +0000",
+    "summary_th": "",
+    "category": "General",
+    "ai_analysis": "",
+    "impact_level": "low",
+    "impact_direction": "neutral",
+    "sentiment": "neutral",
+    "fetched_at": "2026-10-17T22:49:29.441168+00:00"
+  },
+  {
+    "ticker": "AVGO",
+    "title": "Jim Cramer Sees a Telling Change in Broadcom’s (AVGO) Stock",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-sees-telling-change-223540159.html?.tsrc=rss",
+    "published": "Sat, 17 Oct 2026 22:35:40 +0000",
+    "summary_th": "",
+    "category": "General",
+    "ai_analysis": "",
+    "impact_level": "low",
+    "impact_direction": "neutral",
+    "sentiment": "neutral",
+    "fetched_at": "2026-10-17T22:49:30.223972+00:00"
+  },
+  {
+    "ticker": "AVGO",
+    "title": "Broadcom’s $29 Billion AI Backstop: How Much Risk Does the Cash Flow Cover?",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/broadcom-29-billion-ai-backstop-221120144.html?.tsrc=rss",
+    "published": "Sat, 17 Oct 2026 22:11:20 +0000",
+    "summary_th": "",
+    "category": "General",
+    "ai_analysis": "",
+    "impact_level": "low",
+    "impact_direction": "neutral",
+    "sentiment": "negative",
+    "fetched_at": "2026-10-17T22:49:30.224058+00:00"
+  },
+  {
+    "ticker": "TSM",
+    "title": "TSMC vs. ASML: Which AI Expansion Demands More Cash?",
+    "link": "https://finance.yahoo.com/technology/ai/articles/tsmc-vs-asml-ai-expansion-221211666.html?.tsrc=rss",
+    "published": "Sat, 17 Oct 2026 22:12:11 +0000",
+    "summary_th": "",
+    "category": "General",
+    "ai_analysis": "",
+    "impact_level": "low",
+    "impact_direction": "neutral",
+    "sentiment": "neutral",
+    "fetched_at": "2026-10-17T22:49:31.223689+00:00"
+  },
+  {
+    "ticker": "NVDA",
     "title": "Costco Will Pay a $1.47 Dividend on Nov. 13 -- Here's Whether It Makes More Sense to Use a Dividend Reinvestment Program or Keep the Income",
     "link": "https://www.fool.com/investing/2026/10/17/costco-will-pay-a-147-dividend-on-nov-13-heres-whe/?.tsrc=rss",
     "published": "Sat, 17 Oct 2026 21:20:00 +0000",
@@ -3195,23 +3286,5 @@
     "summary_th": "",
     "sentiment": "neutral",
     "fetched_at": "2026-10-16T12:58:09.345824+00:00"
-  },
-  {
-    "ticker": "AMD",
-    "title": "NVDA Bucks Selloff As MU, INTC, AMD Slide Premarket Amid Chip Rout",
-    "link": "https://stocktwits.com/news-articles/markets/equity/nvda-bucks-selloff-as-mu-intc-amd-slide-premarket-amid-chip-rout/cZx0xptRBs4?.tsrc=rss",
-    "published": "Fri, 16 Oct 2026 09:03:29 +0000",
-    "summary_th": "",
-    "sentiment": "neutral",
-    "fetched_at": "2026-10-16T12:58:09.345855+00:00"
-  },
-  {
-    "ticker": "AMD",
-    "title": "Advanced Micro Devices (AMD) Expands AI Infrastructure Cooling, Is The Stock Fully Priced?",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-amd-expands-181012642.html?.tsrc=rss",
-    "published": "Thu, 15 Oct 2026 18:10:12 +0000",
-    "summary_th": "",
-    "sentiment": "positive",
-    "fetched_at": "2026-10-16T12:58:09.345926+00:00"
   }
 ]
