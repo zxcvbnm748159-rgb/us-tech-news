@@ -1,85 +1,161 @@
-# us-tech-news
+# 📈 US Tech Stock News & Analytics Portal
 
-## Fetch news
+แพลตฟอร์มดึงข่าว แปลภาษา วิเคราะห์เชิงลึก และติดตามราคาหุ้นเทคโนโลยีสหรัฐฯ แบบเรียลไทม์ ออกแบบด้วยสถาปัตยกรรม **Offline-first Static Web App** ทำงานร่วมกับ **GitHub Actions (Automation Pipeline)** โดยไม่ต้องมีเซิร์ฟเวอร์หลัก (Serverless) และรองรับการดูผลวิเคราะห์จาก AI โดยไม่ต้องกรอก API Key บนหน้าเว็บ
 
-Install the dependencies and run the updater:
+---
 
-```sh
-python -m pip install -r requirements.txt
-python scripts/fetch_news.py
+## 🌟 ฟีเจอร์หลัก (Key Features)
+
+* **🤖 AI-Powered Stock Analysis:** สรุปข่าว แปลภาษาไทย และวิเคราะห์ผลกระทบเชิงลึกรายหุ้น 3 ประเด็นด้วย Gemini AI โดยประมวลผลล่วงหน้าลงไฟล์ JSON
+* **⏱️ 48-Hour News Window:** คัดกรองและแสดงเฉพาะข่าวสดใหม่ในรอบ 48 ชั่วโมงล่าสุด พร้อมจัดหมวดหมู่ (`AI`, `Hardware`, `Financial`, `General`)
+* **📊 Stock Detail & Watchlist Dashboard:**
+* แดชบอร์ดแสดงข้อมูลราคาหุ้น realtime / after-hours
+* Sparkline chart และกราฟจาก TradingView Widget
+* ตัวเลขสถิติการเงินสำคัญ (Market Cap, EPS, 52W High/Low, Beta)
+* ระบบบันทึกรายการหุ้นเฝ้าติดตาม (Watchlist) และบันทึกข่าว (Bookmarks) เก็บลง `localStorage`
+
+
+* **🚀 Fast & Offline-First:** โหลดหน้าเว็บเร็ว ไร้ปัญหา CORS Policy และมีระบบ Fallback รองรับเมื่อไฟล์ข้อมูลอยู่ระหว่างการประมวลผล
+* **🛡️ Continuous Integration & Automated Testing:** มีระบบทดสอบความถูกต้องของสคริปต์และ Schema JSON ผ่าน Pytest ก่อน Deploy ทุกครั้ง
+
+---
+
+## 🏗️ สถาปัตยกรรมระบบ (System Architecture)
+
+```
+[ Yahoo Finance RSS / Financial Data ]
+                 │
+                 ▼
+     [ GitHub Actions Automation ]
+  (fetch_news.py / fetch_market_data.py)
+                 │
+                 ├─► 1. Gemini AI Analysis (Summarize & Categorize)
+                 ├─► 2. Generate JSON (stock_analysis.json, market_prices.json)
+                 └─► 3. Pytest & Schema Verification
+                 │
+                 ▼
+        [ GitHub Pages (Frontend) ]
+ (index.html อ่านไฟล์ JSON พร้อม Cache-Busting Timestamp)
+
 ```
 
-To translate headlines and generate a daily market summary, set `GEMINI_API_KEY`
-in the environment. The GitHub Actions workflow reads this value from the
-repository secret with the same name. Without the key, fetching news still
-works, but AI analysis, the daily summary, and AI impact alerts are skipped.
+---
 
-## Market data and alerts
+## 📂 โครงสร้างไฟล์ในโปรเจกต์ (Directory Structure)
 
-The `Update market prices` GitHub Actions workflow refreshes quotes and chart
-history for the supported tickers from Yahoo Finance every 15 minutes and
-updates `data/market_prices.json`. The dashboard provides watchlists in the
-“รายการหลัก” and “หุ้นออปชั่น” categories, price sparklines, and price/volume
-charts for 1D, 5D, 1M, 6M, YTD, 1Y, 5Y, and MAX where history is available.
-Company metrics and pre-/post-market prices are shown only when Yahoo Finance
-provides them; unavailable values are not estimated. Market data can be delayed
-and is not a live trading feed. The website displays the latest successful
-refresh.
+```text
+.
+├── .github/
+│   ├── actions/
+│   │   └── notify-telegram/        # Action ส่วนกลางสำหรับแจ้งเตือน Telegram เมื่อ Workflow ล้มเหลว
+│   └── workflows/
+│       ├── test.yml                # CI/CD: รัน Pytest เมื่อ Push, PR หรือ Manual Trigger
+│       └── update.yml              # Automation: ดึงข่าว แปลภาษา วิเคราะห์ และอัปเดตไฟล์ JSON
+├── data/
+│   ├── news.json                   # ข่าวสารรวมทุกหมวดหมู่
+│   ├── stock_analysis.json         # บทวิเคราะห์ AI รายหุ้น
+│   └── market_prices.json          # ข้อมูลราคาหุ้นและตัวเลขทางการเงิน
+├── scripts/
+│   ├── fetch_news.py               # สคริปต์ดึง RSS, ส่ง Gemini AI และบันทึก JSON
+│   └── fetch_market_data.py        # สคริปต์ดึงราคาหุ้นและข้อมูลการเงิน
+├── tests/
+│   ├── test_data_schema.py         # ตรวจสอบโครงสร้าง Schema ของ JSON
+│   └── test_market_features.py     # ตรวจสอบระบบคัดกรองข่าว 48ชม. และ Fallback
+├── index.html                      # หน้าต่าง Dashboard หลัก (Frontend UI)
+├── requirements.txt                # Python Dependencies
+└── README.md
 
-News collection and high-impact alerts run every 15 minutes; the AI daily
-summary is refreshed every three hours. GitHub Actions schedules can be delayed
-by GitHub.
+```
 
-To receive alerts for AI-classified high-impact positive or negative news, add
-this repository secret:
+---
 
-- `DISCORD_WEBHOOK_URL`
+## 🛠️ การตั้งค่าและการใช้งาน (Setup & Usage)
 
-Successfully delivered Discord alerts are tracked per article to avoid repeat
-notifications.
+### 1. การติดตั้งสำหรับใช้งาน/พัฒนาในเครื่อง (Local Development)
 
-The news page also provides comparison filters for semiconductor and software
-companies, with per-company positive/negative article counts. It offers
-one-click filters for AI Infrastructure, EV & Autonomous, and Cloud &
-Enterprise themes.
+1. **Clone Repository:**
+```bash
+git clone https://github.com/<your-username>/us-tech-news.git
+cd us-tech-news
 
-## Daily sentiment and personal notes
+```
 
-The news workflow incrementally records each unique article published on the
-current US Eastern calendar day in `data/market_sentiment.json`, so the daily
-sentiment score is not limited by the number of articles currently shown on
-the website. The score is the percentage of positive articles among positive
-and negative headlines; neutral articles are shown in the counts but do not
-affect the score. It describes headline sentiment, not actual market returns
-or investment advice.
 
-## Portfolio alerts and daily briefing
+2. **ติดตั้ง Python Dependencies:**
+```bash
+pip install -r requirements.txt
 
-The `My Portfolio` watchlist is personal to the current browser and is stored
-in `localStorage`; it is not sent to the news bot or shared with other users.
-When refreshed news contains an AI-classified high-impact article tagged with
-one of the selected tickers, the page highlights it in the portfolio alert
-panel. The news feed refreshes every 15 minutes while the page is open.
+```
 
-The AI daily market briefing is requested as exactly three concise Thai lines:
-market sentiment, notable stocks/topics, and risks or items to watch. It is a
-text briefing; no audio is generated.
 
-## Trending topics
+3. **ตั้งค่า Environment Variable สำหรับ Gemini API:**
+```bash
+export GEMINI_API_KEY="your-gemini-api-key"
 
-`data/trending_topics.json` contains popular ticker and curated topic tags
-calculated from unique stored headlines in the rolling seven-day window.
-Topic tags include common aliases (for example, GPU and semiconductor for AI
-Chip) and can be clicked to filter matching headlines. The topic taxonomy is
-rule-based and does not claim to be unrestricted semantic search.
+```
 
-Readers can save a personal note and an optional USD target price for each
-article. These notes and bookmarks are stored only in that browser's
-`localStorage` and are included in the saved-articles view.
 
-## Dashboard interface
+4. **สั่งรันสคริปต์ดึงข้อมูลทดสอบ:**
+```bash
+python scripts/fetch_news.py
+python scripts/fetch_market_data.py
 
-The responsive dashboard uses a market overview above a three-column desktop
-layout for filters, the news feed, and high-impact/trending stories. It follows
-the system light/dark preference, provides skeleton loading states, and uses
-toast notifications for bookmark, note, and clipboard actions.
+```
+
+
+5. **รันการทดสอบ (Automated Tests):**
+```bash
+pytest
+
+```
+
+
+
+---
+
+### 2. การตั้งค่าบน GitHub Secrets & Notifications
+
+เพื่อให้ระบบทำงานอัตโนมัติบน GitHub Actions และแจ้งเตือนเมื่อเกิดข้อผิดพลาด ให้ตั้งค่าต่าง ๆ ดังนี้:
+
+#### 🔑 Repository Secrets (สำหรับ Gemini API & Telegram Alerts)
+
+ไปที่ **Settings > Secrets and variables > Actions** แล้วเพิ่ม Secrets ต่อไปนี้:
+
+| Secret Name | คำอธิบาย | ความจำเป็น |
+| --- | --- | --- |
+| `GEMINI_API_KEY` | API Key จาก Google AI Studio สำหรับใช้สรุปและวิเคราะห์ข่าว | **จำเป็นมาก** |
+| `TELEGRAM_BOT_TOKEN` | Token ของ Telegram Bot สำหรับรับแจ้งเตือนเมื่อ Workflow Failure | *ไม่บังคับ* (ข้ามได้ถ้าไม่ใช้) |
+| `TELEGRAM_CHAT_ID` | Chat ID ของผู้รับแจ้งเตือนใน Telegram | *ไม่บังคับ* (ข้ามได้ถ้าไม่ใช้) |
+
+> ℹ️ **หมายเหตุเกี่ยวกับ Telegram Alert:** หากไม่ได้ตั้งค่า Secrets ระบบจะข้ามการส่งแจ้งเตือน Telegram โดยอัตโนมัติโดยไม่ทำให้ Workflow ล้มเหลว
+
+#### 📧 Email Notifications
+
+หากต้องการรับแจ้งเตือนผ่านอีเมลเมื่อ GitHub Actions ล้มเหลว สามารถเปิดใช้งานได้ที่:
+
+* **GitHub Settings > Notifications > Actions** -> เลือกรับอีเมลเมื่อเกิดข้อผิดพลาด (Failed workflows)
+
+---
+
+## 🔄 ระบบการทำงานอัตโนมัติ (Automated CI/CD Pipeline)
+
+1. **`test.yml` (CI Workflow):**
+* ทำงานอัตโนมัติเมื่อมีการ **Push**, **Pull Request** หรือสั่งรันผ่าน **Workflow Dispatch**
+* ติดตั้ง Dependencies จาก `requirements.txt` และรัน `pytest` ตรวจสอบ Schema ของ JSON และฟังก์ชันคัดกรองข่าว
+* หากล้มเหลว จะเรียกใช้งาน `notify-telegram` เพื่อส่งข้อความแจ้งเตือน
+
+
+2. **`update.yml` (Data Pipeline Workflow):**
+* ทำงานตามรอบเวลา (Cron Job) และสั่งรันเองได้
+* ดึงข่าวสดใหม่ ประมวลผลบทวิเคราะห์ และ Commit ไฟล์ `data/*.json` กลับเข้า Repository
+* หน้าเว็บ `index.html` จะดึงข้อมูลใหม่มาแสดงผลทันทีโดยใช้ Timestamp Query Parameter (`?t=timestamp`) เพื่อป้องกันปัญหา Browser Caching
+
+
+
+---
+
+## 📄 License & Disclaimer
+
+* **Disclaimer:** ข้อมูล ข่าวสาร และการวิเคราะห์โดย AI บนเว็บไซต์นี้จัดทำเพื่อการศึกษาและให้ข้อมูลเท่านั้น **ไม่ถือเป็นคำแนะนำทางการลงทุน (Not Financial Advice)** โปรดตรวจสอบข้อมูลจากแหล่งข่าวต้นฉบับก่อนตัดสินใจลงทุนทุกครั้ง
+
+---

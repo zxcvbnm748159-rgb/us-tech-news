@@ -28,3 +28,11 @@ jobs:
           git add data/market_prices.json
           git diff --staged --quiet || git commit -m "update market prices"
           git push
+      - name: Notify Telegram on failure
+        if: failure()
+        uses: ./.github/actions/notify-telegram
+        with:
+          bot-token: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          chat-id: ${{ secrets.TELEGRAM_CHAT_ID }}
+          workflow-name: ${{ github.workflow }}
+          run-url: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}

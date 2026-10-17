@@ -215,6 +215,11 @@
   .stock-content-item { border:1px solid var(--border); border-radius:8px; padding:10px; }
   .stock-content-item strong { display:block; font-size:.86rem; line-height:1.5; }
   .stock-content-item p { margin:5px 0 0; color:var(--muted); font-size:.78rem; line-height:1.55; }
+  .stock-ai-analysis { margin-bottom:10px; border:1px solid color-mix(in srgb, var(--accent) 32%, var(--border));
+    border-radius:9px; background:var(--accent-soft); padding:11px; }
+  .stock-ai-analysis p { margin:0; font-size:.84rem; line-height:1.6; }
+  .stock-ai-analysis ul { margin:7px 0 0; padding-left:18px; color:var(--muted); font-size:.78rem; line-height:1.6; }
+  .stock-ai-analysis small { display:block; margin-top:7px; color:var(--muted); font-size:.7rem; }
   .stock-related { display:flex; flex-wrap:wrap; align-items:center; gap:7px; margin-top:14px; }
   .stock-related strong { margin-right:3px; font-size:.82rem; }
   .stock-related button { border:1px solid var(--border); border-radius:999px; background:var(--surface-raised);
@@ -644,6 +649,7 @@ let trendingTopics = [];
 let topicSearchTerms = null;
 let newsLoaded = false;
 let marketData = { stocks: {}, quotes: [] };
+let stockAnalyses = {};
 let selectedStock = "NVDA";
 let selectedTimeframe = "1D";
 let activeStockTab = "overview";
@@ -777,6 +783,7 @@ document.getElementById("watchlistPicker").addEventListener("change", event => {
 });
 
 loadMarketData();
+loadStockAnalysis();
 loadDailySummary();
 loadDailySentiment();
 loadTrendingTopics();
@@ -789,6 +796,7 @@ loadNews();
 window.setInterval(loadMarketData, 60_000);
 window.setInterval(() => {
   loadNews();
+  loadStockAnalysis();
   loadTrendingTopics();
   loadDailySummary();
   loadDailySentiment();
@@ -822,6 +830,15 @@ async function loadMarketData() {
   const tickerItems = document.getElementById("tickerItems");
   try {
     const response = await fetch("data/market_prices.json?t=" + Date.now());
+    if (response.status === 404) {
+      marketData = { stocks: {}, quotes: [] };
+      tickerItems.textContent = "ยังไม่มีข้อมูลราคา รอการอัปเดตจากระบบ";
+      document.getElementById("tickerUpdated").textContent = "";
+      buildWatchlistPicker();
+      renderWatchlist();
+      renderStockWorkspace();
+      return;
+    }
     if (!response.ok) throw new Error(`HTTP ${response.status}`);
     const data = await response.json();
     if (!Array.isArray(data.quotes)) throw new Error("รูปแบบข้อมูลราคาไม่ถูกต้อง");
@@ -859,6 +876,31 @@ async function loadMarketData() {
   } catch (error) {
     console.error("โหลดราคาหุ้นไม่สำเร็จ:", error);
     tickerItems.textContent = "โหลดราคาหุ้นไม่สำเร็จ";
+  }
+}
+
+async function loadStockAnalysis() {
+  try {
+    const response = await fetch("data/stock_analysis.json?t=" + Date.now());
+    if (response.status === 404) {
+      stockAnalyses = {};
+      renderStockWorkspace();
+      return;
+    }
+    if (!response.ok) throw new Error(`HTTP ${response.status}`);
+    const data = await response.json();
+    if (!Array.isArray(data)) throw new Error("ข้อมูลวิเคราะห์หุ้นต้องเป็นอาเรย์");
+    stockAnalyses = Object.fromEntries(data.filter(analysis =>
+      analysis && typeof analysis === "object" && STOCK_OPTIONS.includes(analysis.ticker) &&
+      typeof analysis.summary === "string" && Array.isArray(analysis.analysis_points)
+    ).map(analysis => [analysis.ticker, {
+      ...analysis,
+      last_updated: typeof analysis.last_updated === "string" ? analysis.last_updated : null,
+      analysis_points: analysis.analysis_points.filter(point => typeof point === "string")
+    }]));
+    renderStockWorkspace();
+  } catch (error) {
+    console.error("โหลดบทวิเคราะห์หุ้นไม่สำเร็จ:", error);
   }
 }
 
@@ -1112,12 +1154,27 @@ function renderStockWorkspace() {
   });
 
   const stories = news.filter(item => item.ticker === selectedStock).slice(0, 4);
+  const stockAnalysis = stockAnalyses[selectedStock];
+  const analysisUpdated = stockAnalysis && typeof stockAnalysis.last_updated === "string"
+    ? new Date(stockAnalysis.last_updated)
+    : null;
+  const analysisTimestamp = analysisUpdated && !Number.isNaN(analysisUpdated.getTime())
+    ? analysisUpdated.toLocaleString("th-TH", { dateStyle: "medium", timeStyle: "short" })
+    : "";
+  const analysisMarkup = stockAnalysis
+    ? `<div class="stock-ai-analysis"><p>${esc(stockAnalysis.summary)}</p>
+      ${stockAnalysis.analysis_points.length
+        ? `<ul>${stockAnalysis.analysis_points.filter(point => typeof point === "string")
+          .map(point => `<li>${esc(point)}</li>`).join("")}</ul>` : ""}
+      <small>สรุปจากข่าวและข้อมูลราคาที่มี · ${analysisTimestamp || "AI"} · ไม่ยืนยันเหตุและผล</small></div>`
+    : "";
   const noStories = '<p class="portfolio-empty">ยังไม่มีข่าวที่จัดหมวดผลประกอบการสำหรับหุ้นนี้</p>';
   document.getElementById("stockAnalysisPanel").innerHTML = stories.length
     ? `<div class="stock-content-list">${stories.map(item => `<article class="stock-content-item">
       <strong>${esc(item.title)}</strong><p>${esc(item.summary_th || item.impact_reason || "ไม่มีบทวิเคราะห์เพิ่มเติม")} · ${esc(item.published || "")}</p>
     </article>`).join("")}</div>`
     : '<p class="portfolio-empty">ยังไม่มีบทวิเคราะห์หรือข่าวที่เกี่ยวข้อง</p>';
+  document.getElementById("stockAnalysisPanel").insertAdjacentHTML("afterbegin", analysisMarkup);
   const earnings = stories.filter(item => /earning|revenue|profit|ผลประกอบการ|รายได้|กำไร/i.test(`${item.category || ""} ${item.title}`));
   document.getElementById("stockEarningsPanel").innerHTML = earnings.length
     ? `<div class="stock-content-list">${earnings.map(item => `<article class="stock-content-item"><strong>${esc(item.title)}</strong>
@@ -1126,7 +1183,9 @@ function renderStockWorkspace() {
   const sentiment = stories.length
     ? `${stories.filter(item => item.sentiment === "positive").length} ข่าวเชิงบวก · ${stories.filter(item => item.sentiment === "negative").length} ข่าวเชิงลบ · ${stories.length} ข่าวที่แสดง`
     : "ยังไม่มีข้อมูลความเชื่อมั่นจากข่าว";
-  document.getElementById("stockInsightText").textContent = stories.length
+  document.getElementById("stockInsightText").textContent = stockAnalysis
+    ? `${stockAnalysis.summary} ข้อมูลนี้เป็นการสรุปจากข่าวและราคา ไม่ได้ยืนยันสาเหตุการเคลื่อนไหว`
+    : stories.length
     ? `ข่าวล่าสุดที่เกี่ยวข้องกับ ${selectedStock}: ${stories[0].summary_th || stories[0].impact_reason || stories[0].title} · ${sentiment} ข้อมูลนี้เป็นการสรุปข่าว ไม่ได้ยืนยันสาเหตุการเคลื่อนไหวของราคา`
     : `ยังไม่มีบทวิเคราะห์ AI หรือข่าวล่าสุดสำหรับ ${selectedStock}`;
   document.getElementById("stockAnalysisPanel").insertAdjacentHTML("afterbegin",

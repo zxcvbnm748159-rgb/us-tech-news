@@ -65,6 +65,54 @@ class MarketDataTests(unittest.TestCase):
 
 
 class NewsAlertTests(unittest.TestCase):
+    def test_stock_analysis_filters_48_hours_and_writes_frontend_schema_on_cold_start(self):
+        now = datetime(2026, 10, 16, 12, tzinfo=timezone.utc)
+        items = [
+            {
+                "ticker": "NVDA",
+                "title": "New AI chip announced",
+                "summary_th": "เปิดตัวชิป AI รุ่นใหม่",
+                "published": "",
+                "fetched_at": (now - timedelta(hours=2)).isoformat(),
+            },
+            {
+                "ticker": "NVDA",
+                "title": "Old headline",
+                "published": "",
+                "fetched_at": (now - timedelta(days=3)).isoformat(),
+            },
+        ]
+        response = SimpleNamespace(text=json.dumps({
+            "stocks": [
+                {"ticker": "NVDA", "summary": "ข่าวชิปรุ่นใหม่เป็นประเด็นที่ตลาดติดตาม", "analysis_points": ["เปิดตัวชิป AI"]},
+                {"ticker": "UNKNOWN", "summary": "ไม่ควรถูกบันทึก", "analysis_points": []},
+            ],
+        }))
+        prompts = []
+        client = SimpleNamespace(models=SimpleNamespace(
+            generate_content=lambda **kwargs: prompts.append(kwargs["contents"]) or response,
+        ))
+        with tempfile.TemporaryDirectory() as directory:
+            market_prices_path = Path(directory) / "market_prices.json"
+            analysis_path = Path(directory) / "stock_analysis.json"
+            with patch.dict(os.environ, {"GEMINI_API_KEY": "test-key"}, clear=True):
+                with patch.object(fetch_news.genai, "Client", return_value=client):
+                    with patch.object(fetch_news, "MARKET_PRICES_FILE", str(market_prices_path)):
+                        with patch.object(fetch_news, "STOCK_ANALYSIS_FILE", str(analysis_path)):
+                            fetch_news.generate_stock_analysis(items, now)
+            analysis = json.loads(analysis_path.read_text(encoding="utf-8"))
+
+        self.assertEqual(len(analysis), 1)
+        self.assertEqual(analysis[0], {
+            "ticker": "NVDA",
+            "last_updated": now.isoformat(),
+            "summary": "ข่าวชิปรุ่นใหม่เป็นประเด็นที่ตลาดติดตาม",
+            "analysis_points": ["เปิดตัวชิป AI"],
+        })
+        self.assertIn("New AI chip announced", prompts[0])
+        self.assertNotIn("Old headline", prompts[0])
+        self.assertIn('"change_percent": null', prompts[0])
+
     def test_trending_topics_count_recent_unique_articles_and_aliases(self):
         now = datetime(2026, 10, 16, 12, tzinfo=timezone.utc)
         articles = [

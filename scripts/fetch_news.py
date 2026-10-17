@@ -1,7 +1,7 @@
 import json
 import os
 import re
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
 from urllib.error import HTTPError, URLError
 from urllib.request import Request, urlopen
@@ -21,6 +21,8 @@ DATA_FILE = "data/news.json"
 SUMMARY_FILE = "data/market_summary.json"
 SENTIMENT_FILE = "data/market_sentiment.json"
 TRENDING_FILE = "data/trending_topics.json"
+MARKET_PRICES_FILE = "data/market_prices.json"
+STOCK_ANALYSIS_FILE = "data/stock_analysis.json"
 MAX_KEEP = 300
 MAX_TRANSLATE = 15
 MODEL = os.environ.get("GEMINI_MODEL", "gemini-2.5-flash-lite")
@@ -264,6 +266,125 @@ def generate_daily_summary(items):
         print("Gemini daily summary failed:", ex)
 
 
+def generate_stock_analysis(items, now=None):
+    api_key = os.environ.get("GEMINI_API_KEY")
+    if not api_key:
+        print("skip stock analysis (no GEMINI_API_KEY)")
+        return
+
+    now = now or datetime.now(timezone.utc)
+    cutoff = now - timedelta(hours=48)
+    articles_by_ticker = {ticker: [] for ticker in TICKERS}
+    for item in items:
+        if not isinstance(item, dict):
+            continue
+        ticker = item.get("ticker")
+        if not isinstance(ticker, str) or ticker not in articles_by_ticker:
+            continue
+        published = parse_news_datetime(item)
+        if published is None or not cutoff <= published.astimezone(timezone.utc) <= now:
+            continue
+        title = item.get("title")
+        summary = item.get("summary_th")
+        articles_by_ticker[ticker].append({
+            "title": title if isinstance(title, str) else "",
+            "summary_th": summary if isinstance(summary, str) else "",
+            "published": published.isoformat(),
+        })
+
+    for articles in articles_by_ticker.values():
+        articles.sort(key=lambda article: article["published"], reverse=True)
+
+    quotes_by_ticker = {}
+    try:
+        with open(MARKET_PRICES_FILE, encoding="utf-8") as f:
+            market_data = json.load(f)
+        quotes = market_data.get("quotes", []) if isinstance(market_data, dict) else []
+        if isinstance(quotes, list):
+            quotes_by_ticker = {
+                quote["symbol"]: quote
+                for quote in quotes
+                if isinstance(quote, dict) and isinstance(quote.get("symbol"), str)
+            }
+    except FileNotFoundError:
+        print("stock analysis will use news only (market price data not found)")
+    except (OSError, ValueError, json.JSONDecodeError) as ex:
+        print(f"stock analysis could not read market prices: {ex}")
+
+    context = []
+    for ticker in TICKERS:
+        quote = quotes_by_ticker.get(ticker, {})
+        change_percent = quote.get("change_percent")
+        context.append({
+            "ticker": ticker,
+            "change_percent": change_percent
+            if isinstance(change_percent, (int, float)) and not isinstance(change_percent, bool)
+            else None,
+            "headlines": articles_by_ticker[ticker][:3],
+        })
+
+    prompt = (
+        "คุณคือนักวิเคราะห์หุ้นเทคโนโลยีสหรัฐ "
+        "สรุปเป็นภาษาไทยให้แต่ละหุ้นจากข้อมูลการเปลี่ยนแปลงราคาและข่าวที่ให้เท่านั้น\n"
+        "อธิบายเหตุผลของการขึ้นลงวันนี้เมื่อมีหลักฐานจากข่าว "
+        "ห้ามอ้างว่าข่าวเป็นสาเหตุแน่นอน และห้ามคาดเดาเมื่อไม่มีข้อมูลรองรับ "
+        "กรณีไม่มีข่าวที่เกี่ยวข้อง ให้ระบุชัดเจนว่ายังไม่พบข่าวที่อธิบายการเคลื่อนไหว "
+        "ตอบเป็น JSON object ที่มี key stocks เป็น array โดยแต่ละรายการมี ticker, "
+        "summary (1-2 ประโยคกระชับ) และ analysis_points "
+        "(array ของประเด็นข่าวสั้นๆ ภาษาไทย)\n"
+        "รูปแบบตัวอย่าง: "
+        '{"stocks":[{"ticker":"NVDA","summary":"...","analysis_points":["..."]}]}\n\n'
+        f"วันที่อ้างอิง (America/New_York): {now.astimezone(EASTERN).date().isoformat()}\n"
+        f"ข้อมูลหุ้น: {json.dumps(context, ensure_ascii=False)}"
+    )
+
+    try:
+        client = genai.Client(api_key=api_key)
+        response = client.models.generate_content(
+            model=MODEL,
+            contents=prompt,
+            config=types.GenerateContentConfig(response_mime_type="application/json"),
+        )
+        result = json.loads(response.text)
+    except Exception as ex:
+        print("Gemini stock analysis failed:", ex)
+        return
+
+    rows = result.get("stocks") if isinstance(result, dict) else None
+    if not isinstance(rows, list):
+        print("Gemini stock analysis failed: response must contain a stocks array")
+        return
+
+    stocks = {}
+    for row in rows:
+        if not isinstance(row, dict):
+            continue
+        ticker = row.get("ticker")
+        summary = row.get("summary")
+        if (
+            not isinstance(ticker, str)
+            or ticker not in articles_by_ticker
+            or not isinstance(summary, str)
+            or not summary.strip()
+        ):
+            continue
+        points = row.get("analysis_points")
+        stocks[ticker] = {
+            "ticker": ticker,
+            "last_updated": now.isoformat(),
+            "summary": summary.strip(),
+            "analysis_points": [
+                point.strip() for point in points
+                if isinstance(point, str) and point.strip()
+            ][:3] if isinstance(points, list) else [],
+        }
+
+    os.makedirs("data", exist_ok=True)
+    with open(STOCK_ANALYSIS_FILE, "w", encoding="utf-8") as f:
+        json.dump(list(stocks.values()), f, ensure_ascii=False, indent=2)
+    print(f"generated AI analysis for {len(stocks)} of {len(TICKERS)} stocks")
+
+
 def build_trending_topics(articles, now=None):
     now = now or datetime.now(timezone.utc)
     today = now.astimezone(EASTERN).date().toordinal()
@@ -429,6 +550,10 @@ def main():
     update_trending_topics(added)
     todo = [item for item in all_items if not item.get("ai_analysis")][:MAX_TRANSLATE]
     translate_and_analyze_batch(todo)
+    if added or os.environ.get("GENERATE_DAILY_SUMMARY", "true").lower() == "true":
+        generate_stock_analysis(all_items)
+    else:
+        print("skip stock analysis (no new headlines and not a scheduled summary run)")
     if os.environ.get("GENERATE_DAILY_SUMMARY", "true").lower() == "true":
         generate_daily_summary(all_items)
     else:
