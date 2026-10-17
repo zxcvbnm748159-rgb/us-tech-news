@@ -1,61 +1,33 @@
 {
-  "date": "2026-10-16",
-  "score": 33,
-  "label": "Bearish",
+  "date": "2026-10-17",
+  "score": 100,
+  "label": "Bullish",
   "counts": {
-    "positive": 1,
-    "negative": 2,
-    "neutral": 9
+    "positive": 2,
+    "negative": 0,
+    "neutral": 3
   },
-  "total": 12,
-  "updated_at": "2026-10-17T02:29:06.583303+00:00",
+  "total": 5,
+  "updated_at": "2026-10-17T07:18:44.203980+00:00",
   "articles": [
     {
-      "link": "https://pitchbook.com/news/articles/coreweaves-not-so-secret-weapons-price-hikes-and-an-nvidia-trump-card?.tsrc=rss",
-      "sentiment": "negative"
-    },
-    {
-      "link": "https://www.fool.com/investing/2026/10/16/prediction-alphabet-will-be-a-larger-company-than/?.tsrc=rss",
+      "link": "https://www.fool.com/investing/2026/10/17/missed-out-on-micron-and-sandisk-make-sure-you-don/?.tsrc=rss",
       "sentiment": "neutral"
     },
     {
-      "link": "https://finance.yahoo.com/markets/stocks/articles/starlink-mobile-matter-apple-010939746.html?.tsrc=rss",
-      "sentiment": "neutral"
-    },
-    {
-      "link": "https://finance.yahoo.com/markets/stocks/articles/apple-holders-bought-001436767.html?.tsrc=rss",
-      "sentiment": "neutral"
-    },
-    {
-      "link": "https://starterstory.videonest.co/videos/2318438/13k-mrr-founder-reveals-why-meta-crushes-tiktok-fo-FFRSTYN4x1?.tsrc=rss",
-      "sentiment": "negative"
-    },
-    {
-      "link": "https://www.fool.com/investing/2026/10/16/teslas-flying-roadster-has-wall-street-talking-about-spacex-not-cars/?.tsrc=rss",
-      "sentiment": "neutral"
-    },
-    {
-      "link": "https://finance.yahoo.com/technology/articles/battery-x-metals-highlights-participation-012000266.html?.tsrc=rss",
-      "sentiment": "neutral"
-    },
-    {
-      "link": "https://stocktwits.com/news-articles/markets/equity/stocktwits-zero-to-sixty-tesla-s-roadster-flies-with-space-x-thrusters-rivian-opens-cars-to-ai-agents-and-lucid-eyes-france/cZxjA7KRBt5?.tsrc=rss",
-      "sentiment": "neutral"
-    },
-    {
-      "link": "https://finance.yahoo.com/m/33917906-5253-3056-8faf-6a7077a9d6dc/tesla-has-built-a-flying-car..html?.tsrc=rss",
-      "sentiment": "neutral"
-    },
-    {
-      "link": "https://www.thestreet.com/personalities/how-much-amd-stock-does-ceo-lisa-su-own?.tsrc=rss",
-      "sentiment": "neutral"
-    },
-    {
-      "link": "https://www.trefis.com/articles/618988/was-the-run-in-super-micro-stock-hiding-in-plain-sight/2026-10-16?.tsrc=rss",
+      "link": "https://www.fool.com/investing/2026/10/17/byd-or-tesla-which-is-a-better-stock/?.tsrc=rss",
       "sentiment": "positive"
     },
     {
-      "link": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-posts-record-q3-223600229.html?.tsrc=rss",
+      "link": "https://finance.yahoo.com/technology/ai/articles/superintelligence-look-feel-050934162.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/17/could-shopify-stock-repeat-amazon-s-run-since-2007/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-tsm-talks-051903572.html?.tsrc=rss",
       "sentiment": "neutral"
     }
   ]
