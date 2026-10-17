@@ -5,10 +5,10 @@
   "counts": {
     "positive": 24,
     "negative": 10,
-    "neutral": 40
+    "neutral": 41
   },
-  "total": 74,
-  "updated_at": "2026-10-17T22:49:31.224057+00:00",
+  "total": 75,
+  "updated_at": "2026-10-17T23:26:58.055016+00:00",
   "articles": [
     {
       "link": "https://www.fool.com/investing/2026/10/17/missed-out-on-micron-and-sandisk-make-sure-you-don/?.tsrc=rss",
@@ -304,6 +304,10 @@
     },
     {
       "link": "https://finance.yahoo.com/technology/ai/articles/tsmc-vs-asml-ai-expansion-221211666.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/17/greg-abel-made-major-additions-to-alphabet-and-del/?.tsrc=rss",
       "sentiment": "neutral"
     }
   ]

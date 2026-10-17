@@ -1,6 +1,19 @@
 [
   {
     "ticker": "NVDA",
+    "title": "Greg Abel Made Major Additions to Alphabet and Delta Last Quarter While Berkshire Bought Back $4.4 Billion of Its Own Stock. Is This a Buying Signal Investors Should Watch?",
+    "link": "https://www.fool.com/investing/2026/10/17/greg-abel-made-major-additions-to-alphabet-and-del/?.tsrc=rss",
+    "published": "Sat, 17 Oct 2026 22:50:00 +0000",
+    "summary_th": "",
+    "category": "General",
+    "ai_analysis": "",
+    "impact_level": "low",
+    "impact_direction": "neutral",
+    "sentiment": "neutral",
+    "fetched_at": "2026-10-17T23:26:55.384067+00:00"
+  },
+  {
+    "ticker": "NVDA",
     "title": "Nvidia vs. AMD: Which AI Business Has More Room for Margins to Fall?",
     "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-vs-amd-ai-business-221105605.html?.tsrc=rss",
     "published": "Sat, 17 Oct 2026 22:11:05 +0000",
@@ -3277,14 +3290,5 @@
     "summary_th": "",
     "sentiment": "neutral",
     "fetched_at": "2026-10-16T12:58:09.345787+00:00"
-  },
-  {
-    "ticker": "AMD",
-    "title": "Not AMD. Not Broadcom. This is the Chip Designer Nvidia Investors Should Be Watching",
-    "link": "https://www.fool.com/investing/2026/10/16/not-amd-not-broadcom-this-is-the-chip-designer-nvi/?.tsrc=rss",
-    "published": "Fri, 16 Oct 2026 09:04:00 +0000",
-    "summary_th": "",
-    "sentiment": "neutral",
-    "fetched_at": "2026-10-16T12:58:09.345824+00:00"
   }
 ]
