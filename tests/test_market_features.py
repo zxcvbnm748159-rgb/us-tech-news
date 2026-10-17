@@ -148,7 +148,7 @@ class NewsAlertTests(unittest.TestCase):
         self.assertEqual(sentiment["total"], 2)
         self.assertEqual(len(sentiment["articles"]), 2)
 
-    def test_high_impact_alerts_send_once_per_configured_channel(self):
+    def test_high_impact_alerts_send_once_to_discord(self):
         items = [
             {
                 "ticker": "NVDA",
@@ -166,18 +166,15 @@ class NewsAlertTests(unittest.TestCase):
                 "impact_direction": "negative",
             },
         ]
-        secrets = {
-            "TELEGRAM_BOT_TOKEN": "test-token",
-            "TELEGRAM_CHAT_ID": "test-chat",
-            "DISCORD_WEBHOOK_URL": "https://discord.example/webhook",
-        }
+        secrets = {"DISCORD_WEBHOOK_URL": "https://discord.example/webhook"}
         with patch.dict(os.environ, secrets, clear=True):
-            with patch.object(fetch_news, "post_json", side_effect=[{"ok": True}, {}]) as send:
+            with patch.object(fetch_news, "post_json", return_value={}) as send:
                 fetch_news.notify_high_impact(items)
                 fetch_news.notify_high_impact(items)
 
-        self.assertEqual(send.call_count, 2)
-        self.assertEqual(items[0]["notifications_sent"], ["telegram", "discord"])
+        self.assertEqual(send.call_count, 1)
+        self.assertEqual(send.call_args.args[0], secrets["DISCORD_WEBHOOK_URL"])
+        self.assertEqual(items[0]["notifications_sent"], ["discord"])
         self.assertNotIn("notifications_sent", items[1])
 
     def test_published_time_is_parsed_as_timezone_aware(self):

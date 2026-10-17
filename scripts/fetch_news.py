@@ -364,17 +364,8 @@ def post_json(url, payload):
 
 
 def notify_high_impact(items):
-    telegram_token = os.environ.get("TELEGRAM_BOT_TOKEN")
-    telegram_chat_id = os.environ.get("TELEGRAM_CHAT_ID")
     discord_webhook = os.environ.get("DISCORD_WEBHOOK_URL")
     channels = []
-    if bool(telegram_token) != bool(telegram_chat_id):
-        print("Telegram alerts skipped (configure both TELEGRAM_BOT_TOKEN and TELEGRAM_CHAT_ID)")
-    if telegram_token and telegram_chat_id:
-        channels.append(("telegram", lambda message: post_json(
-            f"https://api.telegram.org/bot{telegram_token}/sendMessage",
-            {"chat_id": telegram_chat_id, "text": message},
-        )))
     if discord_webhook:
         channels.append(("discord", lambda message: post_json(
             discord_webhook, {"content": message},
@@ -398,9 +389,7 @@ def notify_high_impact(items):
             if name in sent:
                 continue
             try:
-                response = send(message)
-                if name == "telegram" and (not isinstance(response, dict) or not response.get("ok")):
-                    raise ValueError("Telegram API did not confirm delivery")
+                send(message)
                 sent.append(name)
                 print(f"sent high-impact alert to {name}: {item['ticker']}")
             except (HTTPError, URLError, OSError, ValueError, json.JSONDecodeError) as ex:

@@ -31,13 +31,12 @@ summary is refreshed every three hours. GitHub Actions schedules can be delayed
 by GitHub.
 
 To receive alerts for AI-classified high-impact positive or negative news, add
-either or both sets of repository secrets:
+this repository secret:
 
-- `TELEGRAM_BOT_TOKEN` and `TELEGRAM_CHAT_ID`
 - `DISCORD_WEBHOOK_URL`
 
-Only channels with configured secrets receive alerts. Successfully delivered
-alerts are tracked per article and channel to avoid repeat notifications.
+Successfully delivered Discord alerts are tracked per article to avoid repeat
+notifications.
 
 The news page also provides comparison filters for semiconductor and software
 companies, with per-company positive/negative article counts. It offers
