@@ -1,14 +1,14 @@
 {
   "date": "2026-10-17",
-  "score": 72,
+  "score": 73,
   "label": "Bullish",
   "counts": {
-    "positive": 21,
+    "positive": 22,
     "negative": 8,
     "neutral": 33
   },
-  "total": 62,
-  "updated_at": "2026-10-17T19:34:29.813992+00:00",
+  "total": 63,
+  "updated_at": "2026-10-17T19:57:43.965505+00:00",
   "articles": [
     {
       "link": "https://www.fool.com/investing/2026/10/17/missed-out-on-micron-and-sandisk-make-sure-you-don/?.tsrc=rss",
@@ -256,6 +256,10 @@
     },
     {
       "link": "https://www.fool.com/investing/2026/10/17/as-chip-stocks-sell-off-this-is-the-flight-to-safe/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-pltr-growth-justify-valuation-194556491.html?.tsrc=rss",
       "sentiment": "positive"
     }
   ]
