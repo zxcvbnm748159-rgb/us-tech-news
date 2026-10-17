@@ -3,12 +3,12 @@
   "score": 73,
   "label": "Bullish",
   "counts": {
-    "positive": 8,
-    "negative": 3,
-    "neutral": 12
+    "positive": 11,
+    "negative": 4,
+    "neutral": 14
   },
-  "total": 23,
-  "updated_at": "2026-10-17T12:38:25.329612+00:00",
+  "total": 29,
+  "updated_at": "2026-10-17T14:25:40.572595+00:00",
   "articles": [
     {
       "link": "https://www.fool.com/investing/2026/10/17/missed-out-on-micron-and-sandisk-make-sure-you-don/?.tsrc=rss",
@@ -101,6 +101,30 @@
     {
       "link": "https://investorshub.advfn.com/market-news/article/38224/jpmorgan-expects-q3-earnings-growth-to-broaden-beyond-ai-across-us-and-european-equities?.tsrc=rss",
       "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/17/usaf-doesnt-want-northrop-grummans-stealth-drone/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/17/nasdaq-100-best-stocks-2026-keep-going/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/company-world-highest-earnings-answer-134206242.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/17/apple-new-home-collection-investors-reason-bull/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/4342d021-69d3-3aa1-9753-76f72c9ba95d/dow-jones-futures%3A-what-to-do.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/video/way-headlines-may-missed-125525599.html?.tsrc=rss",
+      "sentiment": "negative"
     }
   ]
 }
