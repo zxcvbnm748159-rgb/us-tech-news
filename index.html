@@ -3,27 +3,30 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="theme-color" content="#f7f8fa">
+<meta name="theme-color" content="#0b0f19">
 <title>ข่าวหุ้นเทคสหรัฐ</title>
 <style>
   :root {
-    color-scheme: light dark;
-    --bg:#f7f8fa; --surface:#fff; --text:#20242c; --muted:#697386; --border:#e6e9ef;
-    --accent:#315fce; --accent-soft:#edf2ff; --positive:#16834b; --negative:#c33b45;
-    --shadow:0 8px 28px rgb(32 36 44 / 5%);
+    color-scheme: dark;
+    --bg:#0b0f19; --surface:#111827; --surface-raised:#151e2d; --text:#f3f6fb; --muted:#9aa8bb;
+    --border:rgba(255,255,255,.09); --accent:#4b83f5; --accent-soft:rgba(37,99,235,.16);
+    --positive:#10b981; --negative:#ef4444; --gold:#d6b56d;
+    --shadow:0 12px 32px rgb(0 0 0 / 16%);
   }
-  @media (prefers-color-scheme: dark) {
+  @media (prefers-color-scheme: light) {
     :root {
-      --bg:#111318; --surface:#191c23; --text:#eceef2; --muted:#a1a8b5; --border:#2b303a;
-      --accent:#9ab4ff; --accent-soft:#242d43; --positive:#65ce94; --negative:#ff858c;
-      --shadow:0 8px 28px rgb(0 0 0 / 14%);
+      color-scheme:light;
+      --bg:#f2f5fa; --surface:#fff; --surface-raised:#f8faff; --text:#172033; --muted:#647188;
+      --border:rgba(20,35,60,.12); --accent:#2563eb; --accent-soft:rgba(37,99,235,.09);
+      --positive:#059669; --negative:#dc2626; --gold:#98752d;
+      --shadow:0 10px 28px rgb(32 48 72 / 6%);
     }
   }
   * { box-sizing:border-box; }
-  body { margin:0; background:var(--bg); color:var(--text); font-family:system-ui,"Noto Sans Thai",sans-serif; }
-  main { width:min(100% - 32px, 900px); margin:0 auto; padding:40px 0 32px; }
-  header { position:relative; overflow:hidden; margin-bottom:20px; padding:32px; border:1px solid var(--border); border-radius:20px;
-    background:linear-gradient(125deg, var(--surface), var(--accent-soft)); box-shadow:var(--shadow); }
+  body { margin:0; background:var(--bg); color:var(--text); font-family:Inter,Roboto,system-ui,"Noto Sans Thai",sans-serif; }
+  main { width:min(100% - 36px, 1560px); margin:0 auto; padding:26px 0 32px; }
+  header { position:relative; overflow:hidden; margin-bottom:16px; padding:26px 30px; border:1px solid var(--border); border-radius:16px;
+    background:linear-gradient(120deg, var(--surface), color-mix(in srgb, var(--accent) 10%, var(--surface))); box-shadow:var(--shadow); }
   header::after { position:absolute; top:-68px; right:-32px; width:210px; height:210px; border:1px solid var(--border);
     border-radius:50%; content:""; box-shadow:0 0 0 28px color-mix(in srgb, var(--accent) 5%, transparent), 0 0 0 58px color-mix(in srgb, var(--accent) 3%, transparent); }
   .eyebrow { position:relative; margin:0 0 10px; color:var(--accent); font-size:.76rem; font-weight:750; letter-spacing:.12em; }
@@ -32,15 +35,44 @@
   .update-note { position:relative; display:inline-flex; align-items:center; gap:7px; margin-top:20px; border:1px solid var(--border);
     border-radius:999px; background:var(--surface); padding:6px 10px; color:var(--muted); font-size:.78rem; }
   .update-note::before { width:7px; height:7px; border-radius:50%; background:var(--positive); content:""; }
+
+  .ticker-bar { display:flex; align-items:center; gap:12px; overflow-x:auto; border-bottom:1px solid var(--border);
+    background:color-mix(in srgb, var(--surface) 92%, transparent); padding:10px max(18px, calc((100% - 1560px) / 2)); white-space:nowrap; }
+  .ticker-label { color:var(--muted); font-size:.75rem; font-weight:750; }
+  .ticker-items { display:flex; gap:8px; }
+  .ticker-quote { display:flex; align-items:baseline; gap:6px; border:1px solid var(--border); border-radius:8px;
+    background:color-mix(in srgb, var(--surface-raised) 85%, transparent);
+    padding:5px 9px; font-size:.8rem; cursor:pointer; color:var(--text); font-family:inherit; }
+  .ticker-symbol { font-weight:750; }
+  .ticker-change { font-size:.75rem; font-weight:650; }
+  .ticker-up { color:var(--positive); } .ticker-down { color:var(--negative); }
+  #tickerUpdated { margin-left:auto; color:var(--muted); font-size:.72rem; }
+
+  .market-summary { margin:0; border:1px solid var(--border); border-left:3px solid var(--accent); border-radius:12px;
+    background:color-mix(in srgb, var(--surface) 90%, transparent); padding:15px 17px; }
+  .market-summary h2 { margin:0 0 5px; color:var(--accent); font-size:.95rem; }
+  .market-summary p { margin:0; line-height:1.65; white-space:pre-line; }
+  .market-summary small { display:block; margin-top:6px; color:var(--muted); }
+
+  .sentiment-meter { margin:0; border:1px solid var(--border); border-radius:12px; background:color-mix(in srgb, var(--surface) 90%, transparent);
+    padding:15px 17px; }
+  .sentiment-meter h2 { margin:0 0 8px; font-size:.95rem; }
+  .sentiment-meter-head { display:flex; align-items:baseline; justify-content:space-between; gap:12px; margin-bottom:8px; }
+  .sentiment-meter-head strong { font-size:1.05rem; }
+  .sentiment-meter-head span, .sentiment-meter small { color:var(--muted); font-size:.8rem; }
+  .sentiment-track { height:12px; overflow:hidden; border-radius:999px; background:var(--border); }
+  .sentiment-fill { width:0; height:100%; border-radius:inherit; background:linear-gradient(90deg, var(--negative), var(--gold) 50%, var(--positive)); transition:width .3s ease; }
+  .sentiment-meter small { display:block; margin-top:7px; }
   
-  .overview { display:grid; grid-template-columns:repeat(3, minmax(0, 1fr)); gap:12px; margin:16px 0 28px; }
-  .stat { border:1px solid var(--border); border-radius:14px; background:var(--surface); padding:15px 17px; box-shadow:var(--shadow); }
+  .hero-grid { display:grid; grid-template-columns:minmax(0, 1.15fr) minmax(0, 1fr); gap:12px; margin:0 0 18px; }
+  .hero-overview { display:grid; grid-template-columns:repeat(3, minmax(0, 1fr)); gap:9px; margin-top:10px; }
+  .stat { border:1px solid var(--border); border-radius:10px; background:var(--surface); padding:11px 13px; }
   .stat-label { display:block; color:var(--muted); font-size:.8rem; }
   .stat-value { display:block; margin-top:3px; font-size:1.45rem; font-weight:750; letter-spacing:-.03em; }
   .stat.positive .stat-value { color:var(--positive); }
   .stat.negative .stat-value { color:var(--negative); }
 
-  .toolbar { display:flex; flex-wrap:wrap; align-items:center; justify-content:space-between; gap:12px; margin:26px 0 12px; }
+  .toolbar { display:flex; flex-wrap:wrap; align-items:center; justify-content:space-between; gap:12px; margin:4px 0 14px; }
   .toolbar label { color:var(--muted); font-size:.9rem; }
   .stock-controls { display:flex; align-items:center; gap:8px; }
   button, select { font:inherit; }
@@ -49,9 +81,8 @@
     background:var(--surface); color:var(--text); padding:7px 12px;
   }
   .stock-controls button { border-color:var(--accent); background:var(--accent); color:#fff; cursor:pointer; font-weight:650; }
-  @media (prefers-color-scheme: dark) { .stock-controls button { color:#101522; } }
   button:disabled, select:disabled { cursor:not-allowed; opacity:.55; }
-  button:focus-visible, select:focus-visible, a:focus-visible { outline:3px solid var(--accent); outline-offset:3px; }
+  button:focus-visible, select:focus-visible, input:focus-visible, textarea:focus-visible, a:focus-visible { outline:3px solid var(--accent); outline-offset:3px; }
   #stockStatus { color:var(--muted); font-size:.85rem; }
   
   .filter-heading { margin:22px 0 10px; font-size:.95rem; font-weight:700; }
@@ -59,6 +90,25 @@
   .filters button { min-height:34px; border:1px solid var(--border); border-radius:999px; background:var(--surface);
     color:var(--muted); padding:5px 11px; cursor:pointer; font-size:.86rem; }
   .filters button.active { border-color:var(--accent); background:var(--accent-soft); color:var(--accent); font-weight:650; }
+
+  .comparison-panel { margin:18px 0; border:1px solid var(--border); border-radius:12px; background:var(--surface); padding:14px; }
+  .comparison-panel h2 { margin:0 0 10px; font-size:.95rem; }
+  .group-filters { display:flex; flex-wrap:wrap; gap:7px; margin-bottom:12px; }
+  .group-filters button { min-height:34px; border:1px solid var(--border); border-radius:999px; background:var(--surface);
+    color:var(--muted); padding:5px 11px; cursor:pointer; font-size:.84rem; }
+  .group-filters button.active { border-color:var(--accent); background:var(--accent-soft); color:var(--accent); font-weight:650; }
+  .comparison-grid { display:grid; grid-template-columns:repeat(auto-fit, minmax(140px, 1fr)); gap:8px; }
+  .comparison-item { border:1px solid var(--border); border-radius:9px; padding:9px; font-size:.78rem; }
+  .comparison-item strong { display:block; margin-bottom:3px; font-size:.9rem; }
+  .comparison-item span { margin-right:7px; }
+  .comparison-note { margin:0 0 9px; color:var(--muted); font-size:.78rem; }
+
+  .theme-panel { margin:18px 0; border:1px solid var(--border); border-radius:12px; background:var(--surface); padding:14px; }
+  .theme-panel h2 { margin:0 0 10px; font-size:.95rem; }
+  .theme-filters { display:flex; flex-wrap:wrap; gap:7px; }
+  .theme-filters button { min-height:36px; border:1px solid var(--border); border-radius:999px; background:var(--surface);
+    color:var(--muted); padding:5px 11px; cursor:pointer; font-size:.84rem; }
+  .theme-filters button.active { border-color:var(--accent); background:var(--accent-soft); color:var(--accent); font-weight:650; }
   
   .category-filters { display:flex; gap:6px; margin-bottom:18px; flex-wrap:wrap; }
   .cat-btn { border:1px solid var(--border); background:var(--surface); color:var(--muted); border-radius:8px; padding:4px 10px; font-size:.8rem; cursor:pointer; }
@@ -69,9 +119,119 @@
     background:var(--surface); color:var(--text); padding:8px 12px; font:inherit; }
   .search-row input::placeholder { color:var(--muted); }
   
+  .dashboard-layout { display:grid; grid-template-columns:245px minmax(0, 1fr) 285px; align-items:start; gap:14px; }
+  .sidebar, .feed-panel, .trending-panel { min-width:0; border:1px solid var(--border); border-radius:14px;
+    background:color-mix(in srgb, var(--surface) 88%, transparent); padding:15px; }
+  .sidebar { position:sticky; top:12px; max-height:calc(100vh - 24px); overflow-y:auto; }
+  .sidebar .toolbar { display:block; }
+  .sidebar .toolbar label { display:block; margin-bottom:8px; }
+  .sidebar .stock-controls { width:100%; }
+  .sidebar .stock-controls select { flex:1; min-width:0; }
+  .sidebar .filter-heading { margin:18px 0 9px; }
+  .sidebar .filters { gap:6px; }
+  .sidebar .filters button { flex:1 0 62px; }
+  .sidebar .comparison-panel, .sidebar .theme-panel { margin:16px 0 0; padding:12px; }
+  .sidebar .comparison-grid { grid-template-columns:repeat(2, minmax(0, 1fr)); }
+  .sidebar .comparison-note { font-size:.72rem; }
+  .sidebar .group-filters, .sidebar .theme-filters, .sidebar .category-filters { flex-direction:column; }
+  .sidebar .group-filters button, .sidebar .theme-filters button, .sidebar .cat-btn { width:100%; text-align:left; }
+  .portfolio-panel { margin:16px 0; border:1px solid var(--border); border-radius:11px; background:var(--surface); padding:12px; }
+  .portfolio-panel h2 { margin:0 0 7px; font-size:.95rem; }
+  .portfolio-panel p { margin:0 0 10px; color:var(--muted); font-size:.75rem; line-height:1.5; }
+  .portfolio-controls { display:flex; gap:7px; }
+  .portfolio-controls select { min-width:0; flex:1; border:1px solid var(--border); border-radius:8px;
+    background:var(--surface); color:var(--text); padding:6px; }
+  .portfolio-controls button { border:1px solid var(--accent); border-radius:8px; background:var(--accent);
+    color:#fff; padding:6px 9px; cursor:pointer; }
+  .portfolio-holdings { display:flex; flex-wrap:wrap; gap:6px; margin-top:9px; }
+  .portfolio-chip { display:flex; align-items:center; gap:5px; border:1px solid var(--border); border-radius:999px;
+    background:var(--surface-raised); padding:3px 7px; color:var(--text); font-size:.75rem; }
+  .portfolio-chip button { border:0; background:none; color:var(--muted); cursor:pointer; padding:0 2px; }
+  .portfolio-alerts { margin:0 0 12px; border:1px solid color-mix(in srgb, var(--gold) 44%, var(--border));
+    border-left:3px solid var(--gold); border-radius:10px; background:color-mix(in srgb, var(--gold) 8%, var(--surface));
+    padding:12px; }
+  .portfolio-alerts h3 { margin:0 0 7px; font-size:.9rem; color:var(--gold); }
+  .portfolio-alert-item { display:block; width:100%; border:0; border-top:1px solid var(--border); background:none;
+    color:var(--text); padding:9px 0; text-align:left; cursor:pointer; }
+  .portfolio-alert-item strong { display:block; font-size:.82rem; line-height:1.5; }
+  .portfolio-alert-item span { display:block; margin-top:3px; color:var(--muted); font-size:.73rem; }
+  .portfolio-empty { color:var(--muted); font-size:.8rem; }
+  .watchlist-panel { margin:16px 0; border:1px solid var(--border); border-radius:11px; background:var(--surface); padding:12px; }
+  .watchlist-panel h2 { margin:0 0 10px; font-size:.95rem; }
+  .watchlist-categories { display:flex; gap:6px; margin-bottom:9px; }
+  .watchlist-categories button { flex:1; border:1px solid var(--border); border-radius:7px; background:var(--surface-raised);
+    color:var(--muted); padding:6px 5px; cursor:pointer; font-size:.75rem; }
+  .watchlist-categories button.active { color:var(--accent); border-color:var(--accent); background:var(--accent-soft); }
+  .watchlist-controls { display:flex; gap:6px; }
+  .watchlist-controls select { min-width:0; flex:1; border:1px solid var(--border); border-radius:7px;
+    background:var(--surface); color:var(--text); padding:6px; }
+  .watchlist-controls button { border:1px solid var(--accent); border-radius:7px; background:var(--accent);
+    color:white; padding:6px 8px; cursor:pointer; }
+  .watchlist-list { display:grid; gap:5px; margin-top:10px; }
+  .watchlist-row { display:grid; grid-template-columns:minmax(0, 1fr) 52px auto 18px; align-items:center; gap:5px;
+    border:1px solid transparent; border-radius:8px; padding:6px; }
+  .watchlist-row.active { border-color:var(--accent); background:var(--accent-soft); }
+  .watchlist-row button { font:inherit; }
+  .watchlist-select { min-width:0; overflow:hidden; border:0; background:none; color:var(--text);
+    text-align:left; text-overflow:ellipsis; white-space:nowrap; cursor:pointer; font-weight:700; }
+  .sparkline { display:block; width:52px; height:22px; }
+  .watchlist-price { text-align:right; font-size:.73rem; white-space:nowrap; }
+  .watchlist-price small { display:block; }
+  .watchlist-remove { border:0; background:none; color:var(--muted); cursor:pointer; }
+  .stock-workspace { margin:18px 0; border:1px solid var(--border); border-radius:15px;
+    background:color-mix(in srgb, var(--surface) 92%, transparent); padding:18px; box-shadow:var(--shadow); }
+  .stock-detail-head { display:flex; align-items:flex-start; justify-content:space-between; gap:16px; }
+  .stock-detail-title { display:flex; flex-wrap:wrap; align-items:baseline; gap:8px; }
+  .stock-detail-title h2 { margin:0; font-size:1.35rem; }
+  .stock-detail-title span { color:var(--muted); font-size:.86rem; }
+  .stock-detail-price { margin-top:7px; font-size:1.7rem; font-weight:750; letter-spacing:-.03em; }
+  .stock-detail-change { margin-left:8px; font-size:.9rem; font-weight:650; }
+  .stock-after-hours { display:flex; flex-wrap:wrap; gap:10px; margin-top:7px; color:var(--muted); font-size:.78rem; }
+  .stock-after-hours strong { color:var(--text); }
+  .watchlist-toggle { flex:none; border:1px solid var(--accent); border-radius:8px; background:var(--accent);
+    color:white; padding:8px 12px; cursor:pointer; font-weight:650; }
+  .watchlist-toggle.added { border-color:var(--border); background:var(--surface-raised); color:var(--text); }
+  .stock-insight { margin:14px 0; border:1px solid color-mix(in srgb, var(--gold) 36%, var(--border));
+    border-left:3px solid var(--gold); border-radius:9px; background:color-mix(in srgb, var(--gold) 7%, var(--surface)); padding:11px 13px; }
+  .stock-insight h3 { margin:0 0 4px; color:var(--gold); font-size:.9rem; }
+  .stock-insight p { margin:0; color:var(--muted); font-size:.83rem; line-height:1.6; }
+  .stock-tabs { display:flex; overflow-x:auto; gap:4px; border-bottom:1px solid var(--border); margin:14px -2px 13px; }
+  .stock-tabs button { flex:none; border:0; border-bottom:2px solid transparent; background:none; color:var(--muted);
+    padding:9px 11px; cursor:pointer; font:inherit; font-size:.84rem; }
+  .stock-tabs button.active { border-bottom-color:var(--accent); color:var(--accent); font-weight:700; }
+  .timeframes { display:flex; flex-wrap:wrap; gap:5px; margin-bottom:10px; }
+  .timeframes button { min-width:40px; border:1px solid var(--border); border-radius:6px; background:var(--surface-raised);
+    color:var(--muted); padding:5px 7px; cursor:pointer; font-size:.75rem; }
+  .timeframes button.active { border-color:var(--accent); color:var(--accent); background:var(--accent-soft); }
+  .chart-wrap { min-height:240px; border:1px solid var(--border); border-radius:9px; background:var(--surface-raised); padding:8px; }
+  .price-chart { display:block; width:100%; height:210px; overflow:visible; }
+  .chart-empty { display:grid; min-height:210px; place-items:center; color:var(--muted); font-size:.85rem; }
+  .chart-volume { opacity:.3; }
+  .stock-metrics { display:grid; grid-template-columns:repeat(4, minmax(0, 1fr)); gap:8px; margin-top:12px; }
+  .metric-card { min-width:0; border:1px solid var(--border); border-radius:8px; background:var(--surface-raised); padding:10px; }
+  .metric-card span { display:block; color:var(--muted); font-size:.72rem; }
+  .metric-card strong { display:block; margin-top:4px; overflow:hidden; font-size:.9rem; text-overflow:ellipsis; white-space:nowrap; }
+  .stock-content-list { display:grid; gap:8px; }
+  .stock-content-item { border:1px solid var(--border); border-radius:8px; padding:10px; }
+  .stock-content-item strong { display:block; font-size:.86rem; line-height:1.5; }
+  .stock-content-item p { margin:5px 0 0; color:var(--muted); font-size:.78rem; line-height:1.55; }
+  .stock-related { display:flex; flex-wrap:wrap; align-items:center; gap:7px; margin-top:14px; }
+  .stock-related strong { margin-right:3px; font-size:.82rem; }
+  .stock-related button { border:1px solid var(--border); border-radius:999px; background:var(--surface-raised);
+    color:var(--accent); padding:5px 9px; cursor:pointer; font-size:.78rem; }
+  .stock-disclaimer { margin:10px 0 0; color:var(--muted); font-size:.7rem; }
+  .trending-topics { display:flex; flex-wrap:wrap; gap:6px; margin:0 0 10px; }
+  .trending-badge { border:1px solid var(--border); border-radius:999px; background:var(--surface-raised);
+    color:var(--text); padding:5px 8px; cursor:pointer; font-size:.74rem; }
+  .trending-badge:hover { border-color:var(--accent); color:var(--accent); }
+  .trending-badge span { color:var(--muted); margin-left:3px; }
+  .feed-panel { padding:16px; }
+  .feed-panel h2, .trending-panel h2 { margin:0 0 12px; font-size:1rem; }
+  .feed-heading { display:flex; justify-content:space-between; align-items:center; gap:10px; }
   #newsCount { margin:0 0 4px; color:var(--muted); font-size:.84rem; }
-  .card { margin:0; padding:20px 16px; border-top:1px solid var(--border); transition:background .18s ease; position:relative; }
-  .card:hover { background:color-mix(in srgb, var(--surface) 72%, var(--accent-soft)); }
+  .card { margin:0 0 10px; padding:15px; border:1px solid var(--border); border-radius:11px;
+    background:color-mix(in srgb, var(--surface) 88%, transparent); transition:background .18s ease, border-color .18s ease, transform .18s ease; position:relative; }
+  .card:hover { background:color-mix(in srgb, var(--surface-raised) 88%, var(--accent-soft)); border-color:color-mix(in srgb, var(--accent) 38%, var(--border)); transform:translateY(-1px); }
   .meta { display:flex; flex-wrap:wrap; align-items:center; gap:8px; color:var(--muted); font-size:.82rem; }
   .tag { border-radius:5px; background:var(--accent-soft); color:var(--accent); padding:2px 7px; font-weight:700; }
   .cat-tag { border-radius:5px; background:var(--border); color:var(--text); padding:2px 6px; font-size:.75rem; }
@@ -79,15 +239,37 @@
   .positive { color:var(--positive); } .negative { color:var(--negative); } .neutral { color:var(--muted); }
   
   .card-top { display: flex; justify-content: space-between; align-items: flex-start; }
+  .card-actions { display:flex; align-items:center; gap:9px; }
   .bookmark-btn { background: none; border: none; cursor: pointer; color: var(--muted); font-size: 1.1rem; padding: 0; }
   .bookmark-btn.bookmarked { color: #f59e0b; }
+  .note-btn { border:1px solid var(--border); border-radius:7px; background:var(--surface); color:var(--muted); padding:4px 8px;
+    cursor:pointer; font-size:.76rem; }
+  .note-btn.has-note { color:var(--accent); border-color:var(--accent); }
 
-  .card h2 { margin:9px 0 5px; font-size:1.06rem; line-height:1.55; }
+  .card h2 { margin:9px 0 5px; font-size:1rem; line-height:1.5; }
   .card p { margin:0; color:var(--muted); line-height:1.65; }
   .summary-missing { font-size:.9rem; font-style:italic; }
+  .journal-preview { margin-top:7px !important; font-size:.82rem; }
   .story-title { border:0; padding:0; background:none; color:inherit; font:inherit; text-align:left; cursor:pointer; }
   .story-title:hover { color:var(--accent); }
   .empty-state { border:1px dashed var(--border); border-radius:12px; padding:28px 16px; color:var(--muted); text-align:center; }
+  .skeleton-feed { display:grid; gap:10px; }
+  .skeleton-feed .skeleton-card { margin:0; }
+  .trending-panel { position:sticky; top:12px; }
+  .trending-intro { margin:-4px 0 12px; color:var(--muted); font-size:.78rem; line-height:1.55; }
+  .trending-item { display:block; width:100%; border:0; border-top:1px solid var(--border); background:none; color:var(--text);
+    padding:12px 0; text-align:left; cursor:pointer; }
+  .trending-item:hover strong { color:var(--accent); }
+  .trending-item strong { display:block; font-size:.84rem; line-height:1.5; }
+  .trending-item span { display:block; margin-top:5px; color:var(--muted); font-size:.73rem; }
+  .trending-empty { color:var(--muted); font-size:.84rem; }
+  .skeleton { position:relative; overflow:hidden; border-radius:6px; background:color-mix(in srgb, var(--muted) 14%, var(--surface)); }
+  .skeleton::after { position:absolute; inset:0; content:""; transform:translateX(-100%);
+    background:linear-gradient(90deg, transparent, color-mix(in srgb, var(--text) 8%, transparent), transparent);
+    animation:shimmer 1.4s infinite; }
+  .skeleton-card { height:132px; margin-bottom:10px; border:1px solid var(--border); border-radius:11px; }
+  .skeleton-quote { width:95px; height:29px; flex:none; }
+  @keyframes shimmer { to { transform:translateX(100%); } }
   footer { margin:30px 0 0; border-top:1px solid var(--border); padding-top:16px; color:var(--muted); font-size:.8rem; line-height:1.6; }
   
   dialog { width:min(650px, calc(100% - 32px)); max-height:85vh; overflow:auto; padding:24px;
@@ -99,92 +281,297 @@
   #dialogMeta, #translationNote { color:var(--muted); font-size:.9rem; }
   #dialogSummary { line-height:1.7; margin-bottom:15px; }
   
-  .ai-box { background:var(--accent-soft); border-radius:12px; padding:16px; margin:18px 0; border:1px solid var(--border); }
+  .ai-box { background:color-mix(in srgb, var(--accent-soft) 75%, var(--surface)); border-radius:12px; padding:16px; margin:18px 0; border:1px solid var(--border); }
   .ai-box-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 10px; }
   .ai-box h3 { margin:0; font-size:.95rem; color:var(--accent); }
-  #aiResultContent { font-size:.92rem; line-height:1.7; white-space:pre-line; }
+  #aiResultContent { font-size:.92rem; line-height:1.7; }
+  .ai-point { display:flex; gap:9px; padding:9px 0; border-top:1px solid var(--border); }
+  .ai-point:first-child { border-top:0; padding-top:0; }
+  .ai-point::before { flex:none; color:var(--accent); content:"✦"; font-size:.8rem; }
   .copy-ai-btn { background:var(--surface); border:1px solid var(--border); border-radius:6px; padding:4px 8px; font-size:0.75rem; cursor:pointer; color:var(--text); }
+
+  .journal-box { border:1px solid var(--border); border-radius:12px; padding:16px; margin:18px 0; }
+  .journal-box h3 { margin:0 0 10px; font-size:.95rem; }
+  .journal-box label { display:block; margin:10px 0 5px; color:var(--muted); font-size:.83rem; }
+  .journal-box textarea, .journal-box input { width:100%; border:1px solid var(--border); border-radius:8px; background:var(--surface);
+    color:var(--text); padding:9px 10px; font:inherit; }
+  .journal-box textarea { min-height:90px; resize:vertical; }
+  .journal-actions { display:flex; align-items:center; gap:9px; margin-top:10px; }
+  .journal-actions button { border:1px solid var(--accent); border-radius:8px; background:var(--accent); color:#fff; padding:7px 11px; cursor:pointer; }
+  .journal-actions button.secondary { border-color:var(--border); background:var(--surface); color:var(--text); }
+  #noteStatus { color:var(--muted); font-size:.8rem; }
+  .toast { position:fixed; z-index:20; right:22px; bottom:22px; max-width:min(360px, calc(100vw - 32px));
+    border:1px solid var(--border); border-radius:10px; background:var(--surface-raised); color:var(--text);
+    padding:11px 15px; box-shadow:var(--shadow); opacity:0; transform:translateY(10px); pointer-events:none;
+    transition:opacity .2s ease, transform .2s ease; }
+  .toast.visible { opacity:1; transform:translateY(0); }
 
   .dialog-actions { justify-content:space-between; margin-top:20px; border-top: 1px solid var(--border); padding-top: 15px; }
   .dialog-actions .links { display: flex; gap: 15px; }
   .dialog-actions a { color:var(--accent); font-weight:650; text-decoration:none; }
   .dialog-actions a:hover { text-decoration:underline; }
 
-  @media (max-width:700px) {
+  @media (max-width:1100px) {
+    .dashboard-layout { grid-template-columns:220px minmax(0, 1fr); }
+    .trending-panel { grid-column:2; position:static; }
+  }
+  @media (max-width:760px) {
+    main { width:min(100% - 24px, 700px); padding-top:18px; }
+    .hero-grid { grid-template-columns:1fr; }
+    .dashboard-layout { grid-template-columns:1fr; }
+    .sidebar { position:static; max-height:none; overflow:visible; }
+    .trending-panel { grid-column:auto; }
+    .sidebar .group-filters, .sidebar .theme-filters, .sidebar .category-filters { flex-direction:row; }
+    .sidebar .group-filters button, .sidebar .theme-filters button, .sidebar .cat-btn { width:auto; }
+    .sidebar .filters { flex-wrap:nowrap; overflow-x:auto; }
+    .sidebar .filters button { flex:0 0 auto; }
     .search-row { grid-template-columns:minmax(0, 1fr); }
+    .stock-metrics { grid-template-columns:repeat(2, minmax(0, 1fr)); }
   }
   @media (max-width:560px) {
-    main { width:min(100% - 24px, 900px); padding-top:22px; }
-    header { padding:24px 20px; border-radius:16px; }
+    main { width:min(100% - 20px, 900px); padding-top:14px; }
+    header { padding:22px 18px; border-radius:13px; }
     header::after { top:-90px; right:-100px; }
-    .overview { gap:8px; margin-bottom:22px; }
+    .hero-overview { gap:6px; }
     .stat { padding:12px 10px; }
     .stat-label { font-size:.72rem; }
-    .stat-value { font-size:1.25rem; }
+    .stat-value { font-size:1.15rem; }
     .toolbar { align-items:flex-start; flex-direction:column; }
     .stock-controls { width:100%; }
     .stock-controls select { flex:1; min-width:0; }
-    .filters { flex-wrap:nowrap; overflow-x:auto; padding:2px 2px 8px; }
-    .filters button { flex:0 0 auto; }
-    .card { padding:17px 10px; }
+    .card { padding:13px 11px; }
+    .feed-panel, .sidebar, .trending-panel { padding:12px; }
+    .ticker-bar { padding-left:12px; padding-right:12px; }
+    #tickerUpdated { display:none; }
+    .sentiment-meter-head { align-items:flex-start; flex-direction:column; gap:2px; }
+    .ai-box-header { align-items:flex-start; flex-direction:column; }
+    .toast { right:12px; bottom:12px; }
+    .stock-workspace { padding:13px; }
+    .stock-detail-head { align-items:flex-start; }
+    .watchlist-row { grid-template-columns:minmax(0, 1fr) 52px auto 18px; }
+    .stock-detail-title h2 { font-size:1.15rem; }
+    .stock-detail-price { font-size:1.45rem; }
+    .watchlist-toggle { padding:7px 9px; font-size:.78rem; }
+  }
+  @media (prefers-reduced-motion:reduce) {
+    *, *::before, *::after { scroll-behavior:auto !important; animation-duration:.01ms !important; animation-iteration-count:1 !important; transition-duration:.01ms !important; }
   }
 </style>
 </head>
 <body>
+<section class="ticker-bar" aria-label="ราคาหุ้น">
+  <span class="ticker-label">ราคาหุ้น</span>
+  <div class="ticker-items" id="tickerItems" aria-live="polite">
+    <span class="skeleton skeleton-quote" aria-hidden="true"></span>
+    <span class="skeleton skeleton-quote" aria-hidden="true"></span>
+    <span class="skeleton skeleton-quote" aria-hidden="true"></span>
+    <span class="skeleton skeleton-quote" aria-hidden="true"></span>
+  </div>
+  <span id="tickerUpdated">ข้อมูลตลาดอาจล่าช้า</span>
+</section>
 <main>
   <header>
     <p class="eyebrow">US TECH · MARKET BRIEF</p>
     <h1>ข่าวหุ้นเทคสหรัฐ</h1>
     <p class="intro">ข่าวล่าสุดและสรุปภาษาไทยในที่เดียว พร้อมวิเคราะห์เชิงลึกด้วย AI</p>
-    <span class="update-note">อัปเดตอัตโนมัติทุก 3 ชั่วโมง</span>
+    <span class="update-note">ตรวจข่าวทุก 15 นาที · สรุปตลาดทุก 3 ชั่วโมง</span>
   </header>
 
-  <section class="overview" aria-label="ภาพรวมข่าว">
-    <div class="stat"><span class="stat-label">ข่าวที่แสดง</span><strong class="stat-value" id="statTotal">0</strong></div>
-    <div class="stat positive"><span class="stat-label">มุมมองเชิงบวก</span><strong class="stat-value" id="statPositive">0</strong></div>
-    <div class="stat negative"><span class="stat-label">มุมมองเชิงลบ</span><strong class="stat-value" id="statNegative">0</strong></div>
+  <section class="hero-grid" aria-label="ภาพรวมตลาดวันนี้">
+    <div>
+      <section class="sentiment-meter" aria-labelledby="marketSentimentTitle">
+        <h2 id="marketSentimentTitle">ดัชนีความเชื่อมั่นข่าวหุ้นเทควันนี้</h2>
+        <div class="sentiment-meter-head">
+          <strong id="sentimentLabel">กำลังโหลดข้อมูล...</strong>
+          <span id="sentimentScore"></span>
+        </div>
+        <div class="sentiment-track" id="sentimentTrack" role="progressbar" aria-label="สัดส่วนข่าวเชิงบวก" aria-valuemin="0" aria-valuemax="100" hidden>
+          <div class="sentiment-fill" id="sentimentFill"></div>
+        </div>
+        <small id="sentimentMeta"></small>
+      </section>
+      <section class="hero-overview" aria-label="สถิติข่าววันนี้">
+        <div class="stat"><span class="stat-label">ข่าวที่แสดง</span><strong class="stat-value" id="statTotal">0</strong></div>
+        <div class="stat positive"><span class="stat-label">มุมมองเชิงบวก</span><strong class="stat-value" id="statPositive">0</strong></div>
+        <div class="stat negative"><span class="stat-label">มุมมองเชิงลบ</span><strong class="stat-value" id="statNegative">0</strong></div>
+      </section>
+    </div>
+    <section class="market-summary" aria-labelledby="marketSummaryTitle">
+      <h2 id="marketSummaryTitle">สรุปภาวะตลาดวันนี้โดย AI</h2>
+      <p id="marketSummaryText">กำลังโหลดสรุปตลาด...</p>
+      <small id="marketSummaryMeta"></small>
+    </section>
   </section>
 
-  <section aria-label="ตัวกรองข่าว">
-    <div class="toolbar">
-      <label for="stockPicker">ติดตามหุ้นเพิ่มเติม</label>
-      <div class="stock-controls">
-        <select id="stockPicker" aria-label="เลือกหุ้นที่ต้องการติดตาม"></select>
-        <button id="addStock" type="button">เพิ่มหุ้น</button>
+  <section class="stock-workspace" aria-labelledby="stockDetailSymbol">
+    <div class="stock-detail-head">
+      <div>
+        <div class="stock-detail-title">
+          <h2 id="stockDetailSymbol">NVDA</h2>
+          <span id="stockDetailName">NVIDIA Corporation</span>
+        </div>
+        <div>
+          <span class="stock-detail-price" id="stockDetailPrice">—</span>
+          <span class="stock-detail-change neutral" id="stockDetailChange">—</span>
+        </div>
+        <div class="stock-after-hours">
+          <span>ก่อนเปิดตลาด <strong id="preMarketPrice">ไม่มีข้อมูล</strong></span>
+          <span>หลังปิดตลาด <strong id="postMarketPrice">ไม่มีข้อมูล</strong></span>
+          <span id="stockMarketState">ข้อมูลอาจล่าช้า</span>
+        </div>
       </div>
-      <span id="stockStatus" aria-live="polite"></span>
+      <button id="stockWatchlistToggle" class="watchlist-toggle" type="button">＋ เพิ่มเข้า Watchlist</button>
     </div>
-    <h2 class="filter-heading">เลือกหุ้น</h2>
-    <div class="filters" id="filters" aria-label="กรองข่าวตามหุ้น"></div>
-    
-    <h2 class="filter-heading">หมวดหมู่เนื้อหา</h2>
-    <div class="category-filters" id="categoryFilters">
-      <button class="cat-btn active" data-cat="ALL">ทั้งหมด</button>
-      <button class="cat-btn" data-cat="AI">🤖 AI & ML</button>
-      <button class="cat-btn" data-cat="Hardware">💻 ฮาร์ดแวร์/ชิป</button>
-      <button class="cat-btn" data-cat="Financial">📈 ผลประกอบการ/การเงิน</button>
-      <button class="cat-btn" data-cat="General">📰 ข่าวทั่วไป</button>
-    </div>
+
+    <section class="stock-insight" aria-labelledby="stockInsightTitle">
+      <h3 id="stockInsightTitle">✨ วิเคราะห์ข่าวล่าสุด</h3>
+      <p id="stockInsightText">เลือกหุ้นเพื่อดูข่าวและข้อมูลตลาดที่เกี่ยวข้อง</p>
+    </section>
+
+    <nav class="stock-tabs" id="stockTabs" aria-label="มุมมองข้อมูลหุ้น">
+      <button type="button" class="active" data-stock-tab="overview" aria-pressed="true">ภาพรวม</button>
+      <button type="button" data-stock-tab="analysis" aria-pressed="false">การวิเคราะห์</button>
+      <button type="button" data-stock-tab="earnings" aria-pressed="false">ผลประกอบการ</button>
+      <button type="button" data-stock-tab="financials" aria-pressed="false">ข้อมูลทางการเงิน</button>
+      <button type="button" data-stock-tab="assets" aria-pressed="false">ทรัพยากร/ทรัพย์สิน</button>
+    </nav>
+
+    <section id="stockOverviewPanel" class="stock-tab-panel" aria-label="ภาพรวมหุ้น">
+      <div class="timeframes" id="chartTimeframes" aria-label="ช่วงเวลาของกราฟ">
+        <button type="button" data-timeframe="1D">1D</button>
+        <button type="button" data-timeframe="5D">5D</button>
+        <button type="button" data-timeframe="1M">1M</button>
+        <button type="button" data-timeframe="6M">6M</button>
+        <button type="button" data-timeframe="YTD">YTD</button>
+        <button type="button" data-timeframe="1Y">1Y</button>
+        <button type="button" data-timeframe="5Y">5Y</button>
+        <button type="button" data-timeframe="MAX">MAX</button>
+      </div>
+      <div class="chart-wrap">
+        <div id="stockChart" class="chart-empty">กำลังโหลดข้อมูลกราฟ...</div>
+      </div>
+      <div id="overviewMetrics" class="stock-metrics"></div>
+    </section>
+
+    <section id="stockAnalysisPanel" class="stock-tab-panel" aria-label="การวิเคราะห์หุ้น" hidden></section>
+    <section id="stockEarningsPanel" class="stock-tab-panel" aria-label="ข่าวผลประกอบการ" hidden></section>
+    <section id="stockFinancialsPanel" class="stock-tab-panel" aria-label="ตัวเลขทางการเงิน" hidden></section>
+    <section id="stockAssetsPanel" class="stock-tab-panel" aria-label="ทรัพยากรและทรัพย์สิน" hidden></section>
+    <div id="relatedStocks" class="stock-related" aria-label="หุ้นที่เกี่ยวข้อง"></div>
+    <p class="stock-disclaimer">ราคาและข้อมูลอาจล่าช้าหรือไม่มีให้บริการในบางสัญลักษณ์ · ไม่ใช่คำแนะนำการลงทุน</p>
   </section>
 
-  <div class="search-row">
-    <input id="newsSearch" type="search" placeholder="🔍 ค้นหาหุ้นหรือหัวข้อข่าว..." aria-label="ค้นหาหุ้นหรือหัวข้อข่าว" />
-    <select id="sentimentFilter" aria-label="กรองตามมุมมองข่าว">
-      <option value="all">ทุกมุมมองตลาด</option>
-      <option value="positive">▲ เชิงบวก</option>
-      <option value="neutral">● เป็นกลาง</option>
-      <option value="negative">▼ เชิงลบ</option>
-    </select>
-    <select id="viewMode" aria-label="โหมดการแสดงผล">
-      <option value="all">ข่าวทั้งหมด</option>
-      <option value="saved">⭐ ข่าวที่บันทึกไว้</option>
-    </select>
-  </div>
+  <div class="dashboard-layout">
+    <aside class="sidebar" aria-label="ตัวกรองและหุ้นที่ติดตาม">
+      <div class="toolbar">
+        <label for="stockPicker">ติดตามหุ้นเพิ่มเติม</label>
+        <div class="stock-controls">
+          <select id="stockPicker" aria-label="เลือกหุ้นที่ต้องการติดตาม"></select>
+          <button id="addStock" type="button">เพิ่ม</button>
+        </div>
+        <span id="stockStatus" aria-live="polite"></span>
+      </div>
+      <h2 class="filter-heading">หุ้นที่ติดตาม</h2>
+      <div class="filters" id="filters" aria-label="กรองข่าวตามหุ้น"></div>
 
-  <p id="newsCount" aria-live="polite"></p>
-  <div id="list" aria-live="polite">กำลังโหลดข่าว...</div>
+      <section class="watchlist-panel" aria-labelledby="watchlistTitle">
+        <h2 id="watchlistTitle">⭐ Watchlist</h2>
+        <div class="watchlist-categories" id="watchlistCategories" aria-label="หมวดหมู่รายการหุ้น">
+          <button type="button" data-watchlist-category="รายการหลัก">รายการหลัก</button>
+          <button type="button" data-watchlist-category="หุ้นออปชั่น">หุ้นออปชั่น</button>
+        </div>
+        <div class="watchlist-controls">
+          <select id="watchlistPicker" aria-label="เลือกหุ้นเพิ่มเข้า watchlist"></select>
+          <button id="addWatchlistTicker" type="button">เพิ่ม</button>
+        </div>
+        <div id="watchlistList" class="watchlist-list" aria-live="polite"></div>
+      </section>
+
+      <section class="portfolio-panel" aria-labelledby="portfolioTitle">
+        <h2 id="portfolioTitle">💼 My Portfolio</h2>
+        <p>เลือกหุ้นที่ถืออยู่ เพื่อไฮไลต์ข่าว AI ระดับผลกระทบสูงของหุ้นนั้น (เก็บในเบราว์เซอร์นี้)</p>
+        <div class="portfolio-controls">
+          <select id="portfolioPicker" aria-label="เลือกหุ้นเพิ่มเข้าพอร์ต"></select>
+          <button id="addPortfolioTicker" type="button">เพิ่มหุ้น</button>
+        </div>
+        <div class="portfolio-holdings" id="portfolioHoldings" aria-live="polite"></div>
+      </section>
+
+      <section class="comparison-panel" aria-labelledby="comparisonTitle">
+        <h2 id="comparisonTitle">เปรียบเทียบกลุ่มบริษัท</h2>
+        <div class="group-filters" id="groupFilters" aria-label="เลือกกลุ่มบริษัท">
+          <button type="button" class="active" data-group="ALL" aria-pressed="true">ทุกกลุ่ม</button>
+          <button type="button" data-group="semiconductors" aria-pressed="false">ชิป/เซมิคอนดักเตอร์</button>
+          <button type="button" data-group="software" aria-pressed="false">ซอฟต์แวร์/แพลตฟอร์ม</button>
+        </div>
+        <p class="comparison-note">จำนวนข่าวและมุมมองแยกตามหุ้น</p>
+        <div class="comparison-grid" id="comparisonGrid"></div>
+      </section>
+
+      <section class="theme-panel" aria-labelledby="themeTitle">
+        <h2 id="themeTitle">ธีมการลงทุน</h2>
+        <div class="theme-filters" id="themeFilters" aria-label="เลือกธีมการลงทุน">
+          <button type="button" class="active" data-theme="ALL" aria-pressed="true">ทุกธีม</button>
+          <button type="button" data-theme="aiInfrastructure" aria-pressed="false">🦾 AI Infrastructure</button>
+          <button type="button" data-theme="evAutonomous" aria-pressed="false">🚗 EV &amp; Autonomous</button>
+          <button type="button" data-theme="cloudEnterprise" aria-pressed="false">☁️ Cloud &amp; Enterprise</button>
+        </div>
+      </section>
+
+      <h2 class="filter-heading">หมวดหมู่ข่าว</h2>
+      <div class="category-filters" id="categoryFilters">
+        <button class="cat-btn active" data-cat="ALL">ทั้งหมด</button>
+        <button class="cat-btn" data-cat="AI">🤖 AI &amp; ML</button>
+        <button class="cat-btn" data-cat="Hardware">💻 ฮาร์ดแวร์/ชิป</button>
+        <button class="cat-btn" data-cat="Financial">📈 ผลประกอบการ/การเงิน</button>
+        <button class="cat-btn" data-cat="General">📰 ข่าวทั่วไป</button>
+      </div>
+    </aside>
+
+    <section class="feed-panel" aria-labelledby="feedTitle">
+      <div class="feed-heading">
+        <h2 id="feedTitle">ฟีดข่าวล่าสุด</h2>
+        <p id="newsCount" aria-live="polite"></p>
+      </div>
+      <div class="search-row">
+        <input id="newsSearch" type="search" placeholder="🔍 ค้นหาหุ้นหรือหัวข้อข่าว..." aria-label="ค้นหาหุ้นหรือหัวข้อข่าว" />
+        <select id="sentimentFilter" aria-label="กรองตามมุมมองข่าว">
+          <option value="all">ทุกมุมมองตลาด</option>
+          <option value="positive">▲ เชิงบวก</option>
+          <option value="neutral">● เป็นกลาง</option>
+          <option value="negative">▼ เชิงลบ</option>
+        </select>
+        <select id="viewMode" aria-label="โหมดการแสดงผล">
+          <option value="all">ข่าวทั้งหมด</option>
+          <option value="saved">⭐ ข่าวที่บันทึกหรือมีโน้ต</option>
+          <option value="portfolio">💼 ข่าวหุ้นในพอร์ต</option>
+        </select>
+      </div>
+      <section class="portfolio-alerts" id="portfolioAlerts" aria-labelledby="portfolioAlertsTitle" hidden>
+        <h3 id="portfolioAlertsTitle">⚠️ มีข่าวสำคัญส่งผลกระทบต่อหุ้นที่คุณถืออยู่!</h3>
+        <div id="portfolioAlertItems"></div>
+      </section>
+      <div id="list" class="skeleton-feed" aria-live="polite">
+        <div class="skeleton skeleton-card" aria-hidden="true"></div>
+        <div class="skeleton skeleton-card" aria-hidden="true"></div>
+        <div class="skeleton skeleton-card" aria-hidden="true"></div>
+      </div>
+    </section>
+
+    <aside class="trending-panel" aria-labelledby="trendingTitle">
+      <h2 id="trendingTitle">🔥 ข่าวเด่นประเด็นร้อน</h2>
+      <p class="trending-intro">ข่าวที่ AI จัดว่ามีผลกระทบสูง และข่าวล่าสุดในฟีด</p>
+      <h3 class="trending-subheading">กำลังเป็นที่พูดถึง · 7 วัน</h3>
+      <div class="trending-topics" id="trendingTopics" aria-label="หัวข้อยอดนิยม"></div>
+      <div id="trendingList" aria-live="polite">
+        <div class="skeleton skeleton-card" aria-hidden="true"></div>
+        <div class="skeleton skeleton-card" aria-hidden="true"></div>
+      </div>
+    </aside>
+  </div>
   <footer>สรุปโดย AI อาจมีข้อผิดพลาด ไม่ใช่คำแนะนำการลงทุน โปรดอ่านข่าวต้นฉบับก่อนตัดสินใจ</footer>
 </main>
+<div id="toast" class="toast" role="status" aria-live="polite"></div>
 
 <dialog id="newsDialog" aria-labelledby="dialogTitle">
   <div class="dialog-head">
@@ -203,6 +590,19 @@
     <div id="aiResultContent" style="margin-top: 10px; line-height: 1.7;">กำลังโหลดผลวิเคราะห์...</div>
   </div>
 
+  <section class="journal-box" aria-labelledby="journalTitle">
+    <h3 id="journalTitle">📝 โน้ตส่วนตัว / ราคาเป้าหมาย</h3>
+    <label for="personalNote">บันทึกโน้ตเกี่ยวกับข่าวนี้</label>
+    <textarea id="personalNote" maxlength="2000" placeholder="เช่น รอผลประกอบการไตรมาสหน้า..."></textarea>
+    <label for="targetPrice">ราคาเป้าหมาย (USD)</label>
+    <input id="targetPrice" type="number" min="0" step="0.01" inputmode="decimal" placeholder="เช่น 150.00">
+    <div class="journal-actions">
+      <button id="saveNote" type="button">บันทึกโน้ต</button>
+      <button id="clearNote" class="secondary" type="button">ลบโน้ต</button>
+      <span id="noteStatus" role="status" aria-live="polite"></span>
+    </div>
+  </section>
+
   <p id="translationNote">ปุ่มแปลจะเปิดบทความผ่าน Google Translate หากเว็บไซต์ต้นทางอนุญาต</p>
   <div class="dialog-actions">
     <div class="links">
@@ -214,11 +614,60 @@
 
 <script>
 const SENT = { positive:"▲ เชิงบวก", negative:"▼ เชิงลบ", neutral:"● เป็นกลาง" };
-const STOCK_OPTIONS = ["NVDA", "AAPL", "MSFT", "GOOGL", "AMZN", "META", "TSLA", "AMD", "AVGO", "ORCL", "CRM", "NFLX", "INTC", "QCOM", "PLTR", "SMCI", "IBM", "ADBE", "TSM"];
-let news = [], currentTicker = "ALL", currentCategory = "ALL";
+const STOCK_OPTIONS = ["NVDA", "AAPL", "MSFT", "GOOGL", "AMZN", "META", "TSLA", "AMD", "AVGO", "ORCL", "CRM", "NFLX", "INTC", "QCOM", "PLTR", "SMCI", "IBM", "ADBE", "TSM", "GCTK", "QUCY", "ONDS", "SNDK"];
+const GROUPS = {
+  semiconductors: ["NVDA", "AMD", "TSM", "AVGO", "INTC", "QCOM", "SMCI"],
+  software: ["MSFT", "GOOGL", "AMZN", "META", "ORCL", "CRM", "NFLX", "PLTR", "IBM", "ADBE"]
+};
+const THEMES = {
+  aiInfrastructure: ["NVDA", "SMCI", "AVGO", "TSM"],
+  evAutonomous: ["TSLA"],
+  cloudEnterprise: ["MSFT", "GOOGL", "AMZN", "IBM"]
+};
+const STOCK_METRICS = [
+  ["ราคาเปิด", "open", "currency"], ["ราคาสูงสุด", "high", "currency"],
+  ["ราคาต่ำสุด", "low", "currency"], ["มูลค่าตลาด", "market_cap", "compact"],
+  ["ปริมาณซื้อขายเฉลี่ย", "average_volume", "compact"], ["สูงสุด 52 สัปดาห์", "fifty_two_week_high", "currency"],
+  ["ต่ำสุด 52 สัปดาห์", "fifty_two_week_low", "currency"], ["EPS", "eps", "number"],
+  ["Beta", "beta", "number"], ["หุ้นที่ออกจำหน่าย", "shares_outstanding", "compact"],
+  ["พนักงาน", "employees", "compact"], ["ปริมาณซื้อขายล่าสุด", "volume", "compact"]
+];
+let news = [], currentTicker = "ALL", currentCategory = "ALL", currentGroup = "ALL", currentTheme = "ALL";
 let searchQuery = "", sentimentFilter = "all", viewMode = "all";
 let trackedTickers = [];
 let savedBookmarks = [];
+let personalNotes = {};
+let currentNoteLink = "";
+let toastTimer;
+let portfolioTickers = [];
+let trendingTopics = [];
+let topicSearchTerms = null;
+let newsLoaded = false;
+let marketData = { stocks: {}, quotes: [] };
+let selectedStock = "NVDA";
+let selectedTimeframe = "1D";
+let activeStockTab = "overview";
+let activeWatchlistCategory = "รายการหลัก";
+let stockWatchlist = { "รายการหลัก": [], "หุ้นออปชั่น": [] };
+const WATCHLIST_KEY = "stockWatchlist";
+const WATCHLIST_CATEGORIES = ["รายการหลัก", "หุ้นออปชั่น"];
+const RELATED_STOCKS = {
+  NVDA: ["AMD", "AVGO", "TSM", "SMCI", "INTC", "QCOM"],
+  AMD: ["NVDA", "AVGO", "TSM", "INTC", "QCOM"],
+  TSM: ["NVDA", "AMD", "AVGO", "INTC", "QCOM"],
+  AVGO: ["NVDA", "AMD", "TSM", "QCOM"],
+  INTC: ["NVDA", "AMD", "TSM", "QCOM"],
+  QCOM: ["NVDA", "AMD", "TSM", "AVGO", "INTC"],
+  SMCI: ["NVDA", "AMD", "AVGO", "TSM"],
+  MSFT: ["GOOGL", "AMZN", "ORCL", "CRM", "IBM", "ADBE"],
+  GOOGL: ["MSFT", "AMZN", "META", "ORCL"],
+  AMZN: ["MSFT", "GOOGL", "ORCL", "CRM"],
+  META: ["GOOGL", "MSFT", "AMZN"],
+  ORCL: ["MSFT", "AMZN", "CRM", "IBM"],
+  CRM: ["MSFT", "ORCL", "ADBE", "IBM"],
+  IBM: ["MSFT", "ORCL", "CRM", "ADBE"],
+  ADBE: ["MSFT", "CRM", "IBM"]
+};
 
 try {
   const savedTickers = JSON.parse(localStorage.getItem("trackedTickers") || "[]");
@@ -226,9 +675,31 @@ try {
   
   const savedBms = JSON.parse(localStorage.getItem("savedBookmarks") || "[]");
   if (Array.isArray(savedBms)) savedBookmarks = savedBms;
+  const savedPortfolio = JSON.parse(localStorage.getItem("portfolioTickers") || "[]");
+  if (Array.isArray(savedPortfolio)) portfolioTickers = [...new Set(savedPortfolio.filter(t => STOCK_OPTIONS.includes(t)))];
+  const savedNotes = JSON.parse(localStorage.getItem("personalNotes") || "{}");
+  if (savedNotes && typeof savedNotes === "object" && !Array.isArray(savedNotes)) {
+    personalNotes = Object.fromEntries(Object.entries(savedNotes).filter(([, note]) =>
+      note && typeof note === "object" &&
+      (typeof note.text === "string" || typeof note.targetPrice === "number")
+    ));
+  }
+  const savedWatchlist = JSON.parse(localStorage.getItem(WATCHLIST_KEY) || "null");
+  if (savedWatchlist && typeof savedWatchlist === "object" && !Array.isArray(savedWatchlist)) {
+    stockWatchlist = Object.fromEntries(WATCHLIST_CATEGORIES.map(category => [
+      category,
+      Array.isArray(savedWatchlist[category])
+        ? [...new Set(savedWatchlist[category].filter(ticker => STOCK_OPTIONS.includes(ticker)))]
+        : []
+    ]));
+  }
 } catch {}
 
-document.getElementById("newsSearch").addEventListener("input", e => { searchQuery = e.target.value.trim().toLowerCase(); render(); });
+document.getElementById("newsSearch").addEventListener("input", e => {
+  topicSearchTerms = null;
+  searchQuery = e.target.value.trim().toLowerCase();
+  render();
+});
 document.getElementById("sentimentFilter").addEventListener("change", e => { sentimentFilter = e.target.value; render(); });
 document.getElementById("viewMode").addEventListener("change", e => { viewMode = e.target.value; render(); });
 
@@ -241,20 +712,515 @@ document.querySelectorAll(".cat-btn").forEach(btn => {
   };
 });
 
-fetch("data/news.json?t=" + Date.now())
-  .then(res => { if (!res.ok) throw new Error(`HTTP ${res.status}`); return res.json(); })
-  .then(data => {
-    if (!Array.isArray(data)) throw new Error("ข้อมูลต้องเป็นอาเรย์");
-    news = data.filter(item => item && typeof item === "object" && typeof item.ticker === "string" && typeof item.title === "string");
-    buildStockPicker();
+document.querySelectorAll("#groupFilters button").forEach(button => {
+  button.onclick = () => {
+    currentGroup = button.dataset.group;
+    currentTheme = "ALL";
+    currentTicker = "ALL";
+    updateSelectedFilter("#themeFilters", "theme", currentTheme);
+    document.querySelectorAll("#groupFilters button").forEach(item => {
+      const active = item.dataset.group === currentGroup;
+      item.classList.toggle("active", active);
+      item.setAttribute("aria-pressed", String(active));
+    });
     buildFilters();
     render();
-  })
-  .catch(err => {
-    console.error("โหลดข่าวไม่สำเร็จ:", err);
-    document.getElementById("newsCount").textContent = "";
-    document.getElementById("list").textContent = "โหลดข่าวไม่สำเร็จ กรุณาลองใหม่อีกครั้งในภายหลัง";
+  };
+});
+
+document.querySelectorAll("#themeFilters button").forEach(button => {
+  button.onclick = () => {
+    currentTheme = button.dataset.theme;
+    currentGroup = "ALL";
+    currentTicker = "ALL";
+    updateSelectedFilter("#themeFilters", "theme", currentTheme);
+    updateSelectedFilter("#groupFilters", "group", currentGroup);
+    buildFilters();
+    render();
+  };
+});
+
+document.getElementById("addPortfolioTicker").onclick = () => {
+  const ticker = document.getElementById("portfolioPicker").value;
+  if (!ticker || portfolioTickers.includes(ticker)) return;
+  savePortfolioTickers([...portfolioTickers, ticker]);
+};
+
+document.getElementById("addWatchlistTicker").onclick = () => {
+  const ticker = document.getElementById("watchlistPicker").value;
+  if (ticker) updateWatchlist(ticker, activeWatchlistCategory, true);
+};
+document.getElementById("stockWatchlistToggle").onclick = () => {
+  const existingCategory = WATCHLIST_CATEGORIES.find(category => stockWatchlist[category].includes(selectedStock));
+  updateWatchlist(selectedStock, existingCategory || activeWatchlistCategory, !existingCategory);
+};
+document.querySelectorAll("[data-watchlist-category]").forEach(button => {
+  button.onclick = () => {
+    activeWatchlistCategory = button.dataset.watchlistCategory;
+    renderWatchlist();
+  };
+});
+document.querySelectorAll("[data-timeframe]").forEach(button => {
+  button.onclick = () => {
+    selectedTimeframe = button.dataset.timeframe;
+    renderStockChart();
+  };
+});
+document.querySelectorAll("[data-stock-tab]").forEach(button => {
+  button.onclick = () => {
+    activeStockTab = button.dataset.stockTab;
+    renderStockTabs();
+  };
+});
+document.getElementById("watchlistPicker").addEventListener("change", event => {
+  if (event.target.value) selectStock(event.target.value);
+});
+
+loadMarketData();
+loadDailySummary();
+loadDailySentiment();
+loadTrendingTopics();
+buildPortfolioPicker();
+renderPortfolioHoldings();
+buildWatchlistPicker();
+renderWatchlist();
+renderStockWorkspace();
+loadNews();
+window.setInterval(loadMarketData, 60_000);
+window.setInterval(() => {
+  loadNews();
+  loadTrendingTopics();
+  loadDailySummary();
+  loadDailySentiment();
+}, 15 * 60_000);
+
+async function loadNews() {
+  try {
+    const response = await fetch("data/news.json?t=" + Date.now());
+    if (!response.ok) throw new Error(`HTTP ${response.status}`);
+    const data = await response.json();
+    if (!Array.isArray(data)) throw new Error("ข้อมูลต้องเป็นอาเรย์");
+    news = data.filter(item => item && typeof item === "object" && typeof item.ticker === "string" && typeof item.title === "string");
+    newsLoaded = true;
+    buildStockPicker();
+    buildFilters();
+    buildPortfolioPicker();
+    renderPortfolioHoldings();
+    render();
+    renderStockWorkspace();
+  } catch (error) {
+    console.error("โหลดข่าวไม่สำเร็จ:", error);
+    if (!newsLoaded) {
+      document.getElementById("newsCount").textContent = "";
+      document.getElementById("list").textContent = "โหลดข่าวไม่สำเร็จ กรุณาลองใหม่อีกครั้งในภายหลัง";
+      document.getElementById("trendingList").innerHTML = '<p class="trending-empty">โหลดข่าวเด่นไม่สำเร็จ</p>';
+    }
+  }
+}
+
+async function loadMarketData() {
+  const tickerItems = document.getElementById("tickerItems");
+  try {
+    const response = await fetch("data/market_prices.json?t=" + Date.now());
+    if (!response.ok) throw new Error(`HTTP ${response.status}`);
+    const data = await response.json();
+    if (!Array.isArray(data.quotes)) throw new Error("รูปแบบข้อมูลราคาไม่ถูกต้อง");
+    marketData = {
+      quotes: data.quotes.filter(quote => quote && typeof quote.symbol === "string"),
+      stocks: data.stocks && typeof data.stocks === "object" ? data.stocks : {}
+    };
+    tickerItems.innerHTML = data.quotes.map(quote => {
+      if (!quote || typeof quote.symbol !== "string" || !Number.isFinite(quote.price) ||
+          !Number.isFinite(quote.change_percent)) return "";
+      const direction = quote.change_percent > 0 ? "ticker-up" : quote.change_percent < 0 ? "ticker-down" : "";
+      const sign = quote.change_percent > 0 ? "+" : "";
+      const currency = typeof quote.currency === "string" && /^[A-Z]{3}$/.test(quote.currency)
+        ? quote.currency
+        : "USD";
+      const price = new Intl.NumberFormat("en-US", {
+        style: "currency", currency, maximumFractionDigits: 2
+      }).format(quote.price);
+      return `<button type="button" class="ticker-quote" data-stock-select="${esc(quote.symbol)}" aria-label="ดูข้อมูล ${esc(quote.symbol)}">
+        <strong class="ticker-symbol">${esc(quote.symbol)}</strong>
+        <span>${price}</span><span class="ticker-change ${direction}">${sign}${quote.change_percent.toFixed(2)}%</span></button>`;
+    }).join("") || '<span class="ticker-label">ยังไม่มีข้อมูลราคา</span>';
+    tickerItems.querySelectorAll("[data-stock-select]").forEach(button => {
+      button.onclick = () => selectStock(button.dataset.stockSelect);
+    });
+    buildWatchlistPicker();
+    renderWatchlist();
+    renderStockWorkspace();
+    if (data.updated_at) {
+      const updated = new Date(data.updated_at);
+      document.getElementById("tickerUpdated").textContent = Number.isNaN(updated.getTime())
+        ? "ข้อมูลตลาดอาจล่าช้า"
+        : `อัปเดต ${updated.toLocaleTimeString("th-TH", { hour: "2-digit", minute: "2-digit" })} · ข้อมูลอาจล่าช้า`;
+    }
+  } catch (error) {
+    console.error("โหลดราคาหุ้นไม่สำเร็จ:", error);
+    tickerItems.textContent = "โหลดราคาหุ้นไม่สำเร็จ";
+  }
+}
+
+function formatStockNumber(value, options = {}) {
+  if (!Number.isFinite(value)) return "ไม่มีข้อมูล";
+  return new Intl.NumberFormat("en-US", {
+    maximumFractionDigits: 2,
+    ...options
+  }).format(value);
+}
+
+function formatStockCurrency(value, currency = "USD") {
+  if (!Number.isFinite(value) || !/^[A-Z]{3}$/.test(currency)) return "ไม่มีข้อมูล";
+  return new Intl.NumberFormat("en-US", {
+    style: "currency",
+    currency,
+    maximumFractionDigits: 2
+  }).format(value);
+}
+
+function formatExtendedPrice(quote, key, currency) {
+  const value = quote && quote[key];
+  if (!Number.isFinite(value)) return "ไม่มีข้อมูล";
+  const previousClose = Number.isFinite(quote.price) && Number.isFinite(quote.change)
+    ? quote.price - quote.change
+    : null;
+  if (!Number.isFinite(previousClose) || previousClose <= 0) {
+    return formatStockCurrency(value, currency);
+  }
+  const percent = (value - previousClose) / previousClose * 100;
+  const sign = percent > 0 ? "+" : "";
+  return `${formatStockCurrency(value, currency)} (${sign}${percent.toFixed(2)}%)`;
+}
+
+function stockFor(ticker = selectedStock) {
+  const stock = marketData.stocks[ticker];
+  if (stock && typeof stock === "object") return stock;
+  const quote = marketData.quotes.find(item => item.symbol === ticker);
+  return quote ? { quote, metrics: {}, history: {}, name: ticker } : null;
+}
+
+function buildWatchlistPicker() {
+  const picker = document.getElementById("watchlistPicker");
+  const saved = WATCHLIST_CATEGORIES.flatMap(category => stockWatchlist[category]);
+  const available = STOCK_OPTIONS.filter(ticker => !saved.includes(ticker));
+  picker.innerHTML = available.map(ticker => `<option value="${ticker}">${ticker}</option>`).join("");
+  picker.disabled = available.length === 0;
+  document.getElementById("addWatchlistTicker").disabled = available.length === 0;
+}
+
+function updateWatchlist(ticker, category, add) {
+  if (!STOCK_OPTIONS.includes(ticker) || !WATCHLIST_CATEGORIES.includes(category)) return;
+  const updated = Object.fromEntries(WATCHLIST_CATEGORIES.map(name => [
+    name,
+    stockWatchlist[name].filter(item => item !== ticker)
+  ]));
+  if (add) updated[category].push(ticker);
+  try {
+    localStorage.setItem(WATCHLIST_KEY, JSON.stringify(updated));
+    stockWatchlist = updated;
+  } catch (error) {
+    console.error("บันทึก watchlist ไม่สำเร็จ:", error);
+    showToast("บันทึก Watchlist ไม่สำเร็จ พื้นที่จัดเก็บอาจเต็ม");
+    return;
+  }
+  buildWatchlistPicker();
+  renderWatchlist();
+  renderStockWorkspace();
+  showToast(add ? `เพิ่ม ${ticker} ใน ${category} แล้ว` : `นำ ${ticker} ออกจาก Watchlist แล้ว`);
+}
+
+function selectStock(ticker) {
+  if (!STOCK_OPTIONS.includes(ticker)) return;
+  selectedStock = ticker;
+  selectedTimeframe = "1D";
+  renderWatchlist();
+  renderStockWorkspace();
+}
+
+function sparklineFor(history, color) {
+  const values = (Array.isArray(history) ? history : [])
+    .map(point => point && point.price).filter(Number.isFinite).slice(-40);
+  if (values.length < 2) return "";
+  const min = Math.min(...values), max = Math.max(...values), span = max - min || 1;
+  const points = values.map((value, index) =>
+    `${(index / (values.length - 1) * 52).toFixed(1)},${(20 - (value - min) / span * 18).toFixed(1)}`
+  ).join(" ");
+  return `<svg class="sparkline" viewBox="0 0 52 22" role="img" aria-label="แนวโน้มราคา">
+    <polyline points="${points}" fill="none" stroke="${color}" stroke-width="1.7" vector-effect="non-scaling-stroke"/></svg>`;
+}
+
+function renderWatchlist() {
+  document.querySelectorAll("[data-watchlist-category]").forEach(button => {
+    const active = button.dataset.watchlistCategory === activeWatchlistCategory;
+    button.classList.toggle("active", active);
+    button.setAttribute("aria-pressed", String(active));
   });
+  const list = document.getElementById("watchlistList");
+  const tickers = stockWatchlist[activeWatchlistCategory] || [];
+  list.innerHTML = tickers.map(ticker => {
+    const stock = stockFor(ticker);
+    const quote = stock && stock.quote;
+    const change = quote && Number.isFinite(quote.change_percent) ? quote.change_percent : null;
+    const color = change === null || change === 0 ? "var(--muted)" :
+      change > 0 ? "var(--positive)" : "var(--negative)";
+    const sign = change !== null && change > 0 ? "+" : "";
+    const currency = stock && stock.currency || quote && quote.currency || "USD";
+    return `<div class="watchlist-row ${ticker === selectedStock ? "active" : ""}">
+      <button type="button" class="watchlist-select" data-watchlist-select="${ticker}">${ticker}</button>
+      ${sparklineFor(stock && stock.history && (stock.history["1D"] || stock.history["5D"]), color)}
+      <span class="watchlist-price">${quote ? formatStockCurrency(quote.price, currency) : "—"}
+        <small style="color:${color}">${change === null ? "—" : `${sign}${change.toFixed(2)}%`}</small></span>
+      <button type="button" class="watchlist-remove" data-watchlist-remove="${ticker}" aria-label="นำ ${ticker} ออกจาก Watchlist">×</button>
+    </div>`;
+  }).join("") || '<p class="portfolio-empty">ยังไม่มีหุ้นในหมวดนี้</p>';
+  list.querySelectorAll("[data-watchlist-select]").forEach(button => {
+    button.onclick = () => selectStock(button.dataset.watchlistSelect);
+  });
+  list.querySelectorAll("[data-watchlist-remove]").forEach(button => {
+    button.onclick = () => updateWatchlist(button.dataset.watchlistRemove, activeWatchlistCategory, false);
+  });
+}
+
+function renderStockChart() {
+  const container = document.getElementById("stockChart");
+  const stock = stockFor();
+  const history = stock && stock.history && stock.history[selectedTimeframe];
+  document.querySelectorAll("[data-timeframe]").forEach(button => {
+    const active = button.dataset.timeframe === selectedTimeframe;
+    button.classList.toggle("active", active);
+    button.setAttribute("aria-pressed", String(active));
+  });
+  const points = (Array.isArray(history) ? history : []).filter(point =>
+    point && Number.isFinite(point.price) && Number.isFinite(point.time)
+  );
+  if (points.length < 2) {
+    container.className = "chart-empty";
+    container.textContent = points.length === 1
+      ? "มีข้อมูลราคาเพียงจุดเดียว ยังสร้างกราฟไม่ได้"
+      : `ไม่มีข้อมูลกราฟช่วง ${selectedTimeframe}`;
+    return;
+  }
+  const sampled = points.length > 180
+    ? Array.from({ length: 180 }, (_, index) => points[Math.round(index * (points.length - 1) / 179)])
+    : points;
+  const prices = sampled.map(point => point.price);
+  const min = Math.min(...prices), max = Math.max(...prices), span = max - min || 1;
+  const x = index => 8 + index / (sampled.length - 1) * 624;
+  const y = price => 148 - (price - min) / span * 128;
+  const line = sampled.map((point, index) => `${index ? "L" : "M"}${x(index).toFixed(1)},${y(point.price).toFixed(1)}`).join(" ");
+  const volumes = sampled.slice(-48);
+  const maxVolume = Math.max(1, ...volumes.map(point => Number.isFinite(point.volume) ? point.volume : 0));
+  const volumeBars = volumes.map((point, index) => {
+    const value = Number.isFinite(point.volume) ? point.volume : 0;
+    const width = Math.max(1, 576 / volumes.length - 1);
+    const height = value / maxVolume * 35;
+    return `<rect class="chart-volume" x="${(8 + index * (576 / volumes.length)).toFixed(1)}"
+      y="${(198 - height).toFixed(1)}" width="${width.toFixed(1)}" height="${height.toFixed(1)}" fill="var(--accent)"/>`;
+  }).join("");
+  const stroke = prices[prices.length - 1] >= prices[0] ? "var(--positive)" : "var(--negative)";
+  container.className = "";
+  container.innerHTML = `<svg class="price-chart" viewBox="0 0 640 210" preserveAspectRatio="none"
+    role="img" aria-label="${selectedStock} ${selectedTimeframe} price and volume chart">
+    <line x1="8" y1="158" x2="632" y2="158" stroke="var(--border)"/>
+    <line x1="8" y1="198" x2="632" y2="198" stroke="var(--border)"/>
+    ${volumeBars}
+    <path d="${line}" fill="none" stroke="${stroke}" stroke-width="2" vector-effect="non-scaling-stroke"/>
+    <text x="9" y="12" fill="var(--muted)" font-size="10">${formatStockCurrency(max, stock.currency || "USD")}</text>
+    <text x="9" y="146" fill="var(--muted)" font-size="10">${formatStockCurrency(min, stock.currency || "USD")}</text>
+    <text x="9" y="209" fill="var(--muted)" font-size="9">ราคา</text>
+    <text x="42" y="209" fill="var(--muted)" font-size="9">ปริมาณซื้อขาย</text>
+  </svg>`;
+}
+
+function metricValue(metrics, key, format, currency) {
+  const value = metrics && metrics[key];
+  if (!Number.isFinite(value)) return "ไม่มีข้อมูล";
+  if (format === "currency") return formatStockCurrency(value, currency);
+  return formatStockNumber(value, format === "compact" ? { notation: "compact", maximumFractionDigits: 2 } : {});
+}
+
+function renderStockTabs() {
+  document.querySelectorAll("[data-stock-tab]").forEach(button => {
+    const active = button.dataset.stockTab === activeStockTab;
+    button.classList.toggle("active", active);
+    button.setAttribute("aria-pressed", String(active));
+  });
+  const panels = {
+    overview: "stockOverviewPanel",
+    analysis: "stockAnalysisPanel",
+    earnings: "stockEarningsPanel",
+    financials: "stockFinancialsPanel",
+    assets: "stockAssetsPanel"
+  };
+  Object.entries(panels).forEach(([tab, id]) => {
+    document.getElementById(id).hidden = tab !== activeStockTab;
+  });
+}
+
+function renderStockWorkspace() {
+  const stock = stockFor();
+  const quote = stock && stock.quote;
+  const metrics = stock && stock.metrics || {};
+  const currency = stock && stock.currency || quote && quote.currency || "USD";
+  document.getElementById("stockDetailSymbol").textContent = selectedStock;
+  document.getElementById("stockDetailName").textContent = stock && stock.name || selectedStock;
+  document.getElementById("stockDetailPrice").textContent = quote
+    ? formatStockCurrency(quote.price, currency) : "ไม่มีข้อมูล";
+  const changeElement = document.getElementById("stockDetailChange");
+  if (quote && Number.isFinite(quote.change_percent)) {
+    const change = quote.change_percent;
+    const sign = change > 0 ? "+" : "";
+    changeElement.textContent = `${sign}${formatStockCurrency(quote.change, currency)} (${sign}${change.toFixed(2)}%)`;
+    changeElement.className = `stock-detail-change ${change > 0 ? "positive" : change < 0 ? "negative" : "neutral"}`;
+  } else {
+    changeElement.textContent = "ไม่มีข้อมูล";
+    changeElement.className = "stock-detail-change neutral";
+  }
+  document.getElementById("preMarketPrice").textContent = formatExtendedPrice(quote, "pre_market_price", currency);
+  document.getElementById("postMarketPrice").textContent = formatExtendedPrice(quote, "post_market_price", currency);
+  const marketState = quote && quote.market_state;
+  const stateLabel = marketState === "PRE" ? "ก่อนเปิดตลาด"
+    : marketState === "POST" ? "หลังปิดตลาด"
+      : marketState === "REGULAR" ? "ตลาดปกติ"
+        : null;
+  document.getElementById("stockMarketState").textContent = stateLabel
+    ? `${stateLabel} · ข้อมูลอาจล่าช้า` : "ข้อมูลอาจล่าช้า";
+  const existingCategory = WATCHLIST_CATEGORIES.find(category => stockWatchlist[category].includes(selectedStock));
+  const watchlistToggle = document.getElementById("stockWatchlistToggle");
+  watchlistToggle.textContent = existingCategory ? "✓ เพิ่มแล้ว" : "＋ เพิ่มเข้า Watchlist";
+  watchlistToggle.classList.toggle("added", Boolean(existingCategory));
+  watchlistToggle.setAttribute("aria-pressed", String(Boolean(existingCategory)));
+
+  const metricsMarkup = STOCK_METRICS.map(([label, key, format]) =>
+    `<div class="metric-card"><span>${label}</span><strong>${metricValue(metrics, key, format, currency)}</strong></div>`
+  ).join("");
+  document.getElementById("overviewMetrics").innerHTML = metricsMarkup;
+  document.getElementById("stockFinancialsPanel").innerHTML = `<div class="stock-metrics">${metricsMarkup}</div>`;
+  document.getElementById("stockAssetsPanel").innerHTML = `<div class="stock-metrics">
+    ${[["หุ้นที่ออกจำหน่าย", "shares_outstanding"], ["พนักงาน", "employees"], ["ปริมาณซื้อขายเฉลี่ย", "average_volume"]]
+      .map(([label, key]) => `<div class="metric-card"><span>${label}</span><strong>${metricValue(metrics, key, "compact", currency)}</strong></div>`).join("")}
+  </div>`;
+
+  const related = (RELATED_STOCKS[selectedStock] || []).filter(ticker => ticker !== selectedStock);
+  document.getElementById("relatedStocks").innerHTML = related.length
+    ? `<strong>หุ้นในกลุ่มใกล้เคียง</strong>${related.map(ticker =>
+      `<button type="button" data-stock-select="${ticker}">${ticker}</button>`).join("")}`
+    : "";
+  document.querySelectorAll("#relatedStocks [data-stock-select]").forEach(button => {
+    button.onclick = () => selectStock(button.dataset.stockSelect);
+  });
+
+  const stories = news.filter(item => item.ticker === selectedStock).slice(0, 4);
+  const noStories = '<p class="portfolio-empty">ยังไม่มีข่าวที่จัดหมวดผลประกอบการสำหรับหุ้นนี้</p>';
+  document.getElementById("stockAnalysisPanel").innerHTML = stories.length
+    ? `<div class="stock-content-list">${stories.map(item => `<article class="stock-content-item">
+      <strong>${esc(item.title)}</strong><p>${esc(item.summary_th || item.impact_reason || "ไม่มีบทวิเคราะห์เพิ่มเติม")} · ${esc(item.published || "")}</p>
+    </article>`).join("")}</div>`
+    : '<p class="portfolio-empty">ยังไม่มีบทวิเคราะห์หรือข่าวที่เกี่ยวข้อง</p>';
+  const earnings = stories.filter(item => /earning|revenue|profit|ผลประกอบการ|รายได้|กำไร/i.test(`${item.category || ""} ${item.title}`));
+  document.getElementById("stockEarningsPanel").innerHTML = earnings.length
+    ? `<div class="stock-content-list">${earnings.map(item => `<article class="stock-content-item"><strong>${esc(item.title)}</strong>
+      <p>${esc(item.summary_th || "ไม่มีรายละเอียดเพิ่มเติม")}</p></article>`).join("")}</div>`
+    : noStories;
+  const sentiment = stories.length
+    ? `${stories.filter(item => item.sentiment === "positive").length} ข่าวเชิงบวก · ${stories.filter(item => item.sentiment === "negative").length} ข่าวเชิงลบ · ${stories.length} ข่าวที่แสดง`
+    : "ยังไม่มีข้อมูลความเชื่อมั่นจากข่าว";
+  document.getElementById("stockInsightText").textContent = stories.length
+    ? `ข่าวล่าสุดที่เกี่ยวข้องกับ ${selectedStock}: ${stories[0].summary_th || stories[0].impact_reason || stories[0].title} · ${sentiment} ข้อมูลนี้เป็นการสรุปข่าว ไม่ได้ยืนยันสาเหตุการเคลื่อนไหวของราคา`
+    : `ยังไม่มีบทวิเคราะห์ AI หรือข่าวล่าสุดสำหรับ ${selectedStock}`;
+  document.getElementById("stockAnalysisPanel").insertAdjacentHTML("afterbegin",
+    `<p class="portfolio-empty">Sentiment จากข่าวที่แสดง: ${esc(sentiment)} · ไม่ใช่การคาดการณ์ผลตอบแทน</p>`);
+  renderStockChart();
+  renderStockTabs();
+}
+
+function easternDate() {
+  const parts = new Intl.DateTimeFormat("en-US", {
+    timeZone: "America/New_York", year: "numeric", month: "2-digit", day: "2-digit"
+  }).formatToParts(new Date());
+  const values = Object.fromEntries(parts.map(part => [part.type, part.value]));
+  return `${values.year}-${values.month}-${values.day}`;
+}
+
+async function loadDailySummary() {
+  try {
+    const response = await fetch("data/market_summary.json?t=" + Date.now());
+    if (!response.ok) throw new Error(`HTTP ${response.status}`);
+    const data = await response.json();
+    const isToday = data.date === easternDate();
+    document.getElementById("marketSummaryText").textContent = isToday && data.summary_th
+      ? data.summary_th
+      : "ยังไม่มีสรุป AI สำหรับวันนี้ ระบบจะอัปเดตเมื่อประมวลผลข่าวประจำวัน";
+    document.getElementById("marketSummaryMeta").textContent = isToday && data.source_count
+      ? `วิเคราะห์จากข่าว ${data.source_count} รายการ`
+      : "";
+  } catch (error) {
+    console.error("โหลดสรุปตลาดไม่สำเร็จ:", error);
+    document.getElementById("marketSummaryText").textContent = "โหลดสรุปตลาดไม่สำเร็จ";
+  }
+}
+
+async function loadTrendingTopics() {
+  try {
+    const response = await fetch("data/trending_topics.json?t=" + Date.now());
+    if (!response.ok) throw new Error(`HTTP ${response.status}`);
+    const data = await response.json();
+    if (!Array.isArray(data.topics)) throw new Error("รูปแบบข้อมูลหัวข้อยอดนิยมไม่ถูกต้อง");
+    trendingTopics = data.topics.filter(topic =>
+      topic && typeof topic.label === "string" && Array.isArray(topic.search_terms) &&
+      topic.search_terms.every(term => typeof term === "string")
+    );
+    renderTrendingTopics();
+  } catch (error) {
+    console.error("โหลดหัวข้อยอดนิยมไม่สำเร็จ:", error);
+    document.getElementById("trendingTopics").textContent = "โหลดหัวข้อยอดนิยมไม่สำเร็จ";
+  }
+}
+
+async function loadDailySentiment() {
+  try {
+    const response = await fetch("data/market_sentiment.json?t=" + Date.now());
+    if (!response.ok) throw new Error(`HTTP ${response.status}`);
+    const data = await response.json();
+    const isToday = data.date === easternDate();
+    const counts = data.counts;
+    const validCounts = counts && Number.isFinite(counts.positive) &&
+      Number.isFinite(counts.negative) && Number.isFinite(counts.neutral);
+    const score = Number.isFinite(data.score) ? Math.max(0, Math.min(100, data.score)) : null;
+    const track = document.getElementById("sentimentTrack");
+    track.hidden = !isToday || score === null;
+    if (isToday && score !== null && validCounts) {
+      const label = score >= 60 ? "Bullish · เชิงบวก" : score <= 40 ? "Bearish · ระมัดระวัง" : "Mixed · ผสมผสาน";
+      document.getElementById("sentimentLabel").textContent = label;
+      document.getElementById("sentimentScore").textContent = `${score}% ข่าวเชิงบวก`;
+      document.getElementById("sentimentFill").style.width = `${score}%`;
+      track.setAttribute("aria-valuenow", String(score));
+      track.setAttribute("aria-valuetext", `${label}, ${score}%`);
+      document.getElementById("sentimentMeta").textContent =
+        `${data.total} ข่าว · เชิงบวก ${counts.positive} · เชิงลบ ${counts.negative} · เป็นกลาง ${counts.neutral}`;
+    } else {
+      document.getElementById("sentimentLabel").textContent = "ยังไม่มีข้อมูล sentiment ของวันนี้";
+      document.getElementById("sentimentScore").textContent = "";
+      document.getElementById("sentimentMeta").textContent =
+        "คะแนนคำนวณจากสัดส่วนข่าวเชิงบวกต่อข่าวบวกและลบ ไม่ใช่การคาดการณ์ราคาหุ้น";
+    }
+  } catch (error) {
+    console.error("โหลดดัชนี sentiment ไม่สำเร็จ:", error);
+    document.getElementById("sentimentLabel").textContent = "โหลดดัชนี sentiment ไม่สำเร็จ";
+    document.getElementById("sentimentScore").textContent = "";
+    document.getElementById("sentimentMeta").textContent = "";
+    document.getElementById("sentimentTrack").hidden = true;
+  }
+}
+
+function updateSelectedFilter(selector, datasetKey, selectedValue) {
+  document.querySelectorAll(`${selector} button`).forEach(button => {
+    const active = button.dataset[datasetKey] === selectedValue;
+    button.classList.toggle("active", active);
+    button.setAttribute("aria-pressed", String(active));
+  });
+}
 
 function buildFilters() {
   const tickers = ["ALL", ...new Set([...news.map(n => n.ticker), ...trackedTickers])];
@@ -266,7 +1232,19 @@ function buildFilters() {
     b.type = "button";
     b.setAttribute("aria-pressed", String(t === currentTicker));
     if (t === currentTicker) b.className = "active";
-    b.onclick = () => { currentTicker = t; buildFilters(); render(); };
+    b.onclick = () => {
+      currentTicker = t;
+      if (t !== "ALL" && currentGroup !== "ALL") {
+        currentGroup = "ALL";
+        updateSelectedFilter("#groupFilters", "group", currentGroup);
+      }
+      if (t !== "ALL" && currentTheme !== "ALL") {
+        currentTheme = "ALL";
+        updateSelectedFilter("#themeFilters", "theme", currentTheme);
+      }
+      buildFilters();
+      render();
+    };
     box.appendChild(b);
   });
 }
@@ -279,6 +1257,39 @@ function buildStockPicker() {
   document.getElementById("addStock").disabled = available.length === 0;
 }
 
+function buildPortfolioPicker() {
+  const picker = document.getElementById("portfolioPicker");
+  const available = STOCK_OPTIONS.filter(ticker => !portfolioTickers.includes(ticker));
+  picker.innerHTML = available.map(ticker => `<option value="${ticker}">${ticker}</option>`).join("");
+  picker.disabled = available.length === 0;
+  document.getElementById("addPortfolioTicker").disabled = available.length === 0;
+}
+
+function savePortfolioTickers(tickers) {
+  try {
+    localStorage.setItem("portfolioTickers", JSON.stringify(tickers));
+    portfolioTickers = tickers;
+    buildPortfolioPicker();
+    renderPortfolioHoldings();
+    render();
+  } catch (error) {
+    console.error("บันทึกพอร์ตไม่สำเร็จ:", error);
+    showToast("บันทึกพอร์ตไม่สำเร็จ พื้นที่จัดเก็บอาจเต็ม");
+  }
+}
+
+function renderPortfolioHoldings() {
+  const container = document.getElementById("portfolioHoldings");
+  container.innerHTML = portfolioTickers.map(ticker => `
+    <span class="portfolio-chip">${esc(ticker)}
+      <button type="button" data-remove-ticker="${esc(ticker)}" aria-label="นำ ${esc(ticker)} ออกจากพอร์ต">×</button>
+    </span>
+  `).join("") || '<span class="portfolio-empty">ยังไม่มีหุ้นในพอร์ตจำลอง</span>';
+  container.querySelectorAll("[data-remove-ticker]").forEach(button => {
+    button.onclick = () => savePortfolioTickers(portfolioTickers.filter(ticker => ticker !== button.dataset.removeTicker));
+  });
+}
+
 document.getElementById("addStock").onclick = () => {
   const ticker = document.getElementById("stockPicker").value;
   if (!ticker || trackedTickers.includes(ticker)) return;
@@ -286,6 +1297,7 @@ document.getElementById("addStock").onclick = () => {
   localStorage.setItem("trackedTickers", JSON.stringify(trackedTickers));
   currentTicker = ticker;
   document.getElementById("stockStatus").textContent = `${ticker} เพิ่มในรายการติดตามแล้ว`;
+  showToast(`เพิ่ม ${ticker} ในรายการติดตามแล้ว`);
   buildStockPicker();
   buildFilters();
   render();
@@ -299,29 +1311,110 @@ window.toggleBookmark = function(link, event) {
   } else {
     savedBookmarks.push(link);
   }
-  localStorage.setItem("savedBookmarks", JSON.stringify(savedBookmarks));
+  try {
+    localStorage.setItem("savedBookmarks", JSON.stringify(savedBookmarks));
+  } catch (error) {
+    console.error("บันทึก bookmark ไม่สำเร็จ:", error);
+    showToast("บันทึกไม่สำเร็จ พื้นที่จัดเก็บอาจเต็ม");
+    return;
+  }
+  showToast(idx > -1 ? "นำข่าวออกจากรายการบันทึกแล้ว" : "บันทึกข่าวไว้แล้ว");
   render();
 };
 
+document.getElementById("saveNote").onclick = () => {
+  const note = document.getElementById("personalNote").value.trim();
+  const targetInput = document.getElementById("targetPrice");
+  const targetValue = targetInput.value.trim();
+  const targetPrice = targetValue === "" ? null : Number(targetValue);
+  targetInput.setCustomValidity(targetPrice !== null && (!Number.isFinite(targetPrice) || targetPrice < 0)
+    ? "กรุณากรอกราคาเป้าหมายที่ไม่ติดลบ"
+    : "");
+  if (!targetInput.reportValidity()) return;
+
+  const updatedNotes = { ...personalNotes };
+  if (!note && targetPrice === null) {
+    delete updatedNotes[currentNoteLink];
+  } else {
+    updatedNotes[currentNoteLink] = {
+      ...(note ? { text: note } : {}),
+      ...(targetPrice !== null ? { targetPrice } : {}),
+      updatedAt: new Date().toISOString()
+    };
+  }
+  if (persistPersonalNotes(updatedNotes)) {
+    document.getElementById("noteStatus").textContent = "บันทึกโน้ตแล้ว";
+    showToast("บันทึกโน้ตส่วนตัวแล้ว");
+    render();
+  }
+};
+
+document.getElementById("clearNote").onclick = () => {
+  const updatedNotes = { ...personalNotes };
+  delete updatedNotes[currentNoteLink];
+  if (persistPersonalNotes(updatedNotes)) {
+    document.getElementById("personalNote").value = "";
+    document.getElementById("targetPrice").value = "";
+    document.getElementById("noteStatus").textContent = "ลบโน้ตแล้ว";
+    showToast("ลบโน้ตส่วนตัวแล้ว");
+    render();
+  }
+};
+
+function persistPersonalNotes(updatedNotes) {
+  try {
+    localStorage.setItem("personalNotes", JSON.stringify(updatedNotes));
+    personalNotes = updatedNotes;
+    return true;
+  } catch (error) {
+    console.error("บันทึกโน้ตไม่สำเร็จ:", error);
+    document.getElementById("noteStatus").textContent = "บันทึกไม่สำเร็จ พื้นที่จัดเก็บอาจเต็ม";
+    return false;
+  }
+}
+
 function esc(s) { const d = document.createElement("div"); d.textContent = s ?? ""; return d.innerHTML; }
 
+function showToast(message) {
+  const toast = document.getElementById("toast");
+  toast.textContent = message;
+  toast.classList.add("visible");
+  window.clearTimeout(toastTimer);
+  toastTimer = window.setTimeout(() => toast.classList.remove("visible"), 2800);
+}
+
 function render() {
-  const items = news.filter(n => {
-    const matchesTicker = currentTicker === "ALL" || n.ticker === currentTicker;
+  const comparisonItems = news.filter(n => {
     const matchesCat = currentCategory === "ALL" || (n.category || "General") === currentCategory;
-    const matchesSearch = !searchQuery || `${n.ticker} ${n.title} ${n.summary_th || ""}`.toLowerCase().includes(searchQuery);
+    const searchable = `${n.ticker} ${n.title} ${n.summary_th || ""}`.toLowerCase();
+    const matchesSearch = topicSearchTerms
+      ? topicSearchTerms.some(term => searchable.includes(term.toLowerCase()))
+      : !searchQuery || searchable.includes(searchQuery);
     const matchesSentiment = sentimentFilter === "all" || n.sentiment === sentimentFilter;
-    const matchesView = viewMode === "all" || savedBookmarks.includes(n.link);
-    return matchesTicker && matchesCat && matchesSearch && matchesSentiment && matchesView;
+    const matchesView = viewMode === "all" ||
+      (viewMode === "saved" && (savedBookmarks.includes(n.link) || Boolean(personalNotes[n.link]))) ||
+      (viewMode === "portfolio" && portfolioTickers.includes(n.ticker));
+    const groupTickers = currentGroup === "ALL" ? null : GROUPS[currentGroup];
+    const matchesGroup = !groupTickers || groupTickers.includes(n.ticker);
+    const themeTickers = currentTheme === "ALL" ? null : THEMES[currentTheme];
+    const matchesTheme = !themeTickers || themeTickers.includes(n.ticker);
+    return matchesCat && matchesSearch && matchesSentiment && matchesView && matchesGroup && matchesTheme;
   });
+  const items = comparisonItems.filter(n => currentTicker === "ALL" || n.ticker === currentTicker);
+  renderComparison(comparisonItems);
+  renderPortfolioAlerts();
+  renderTrendingTopics();
 
   document.getElementById("statTotal").textContent = items.length;
   document.getElementById("statPositive").textContent = items.filter(item => item.sentiment === "positive").length;
   document.getElementById("statNegative").textContent = items.filter(item => item.sentiment === "negative").length;
   document.getElementById("newsCount").textContent = `${items.length} ข่าว`;
 
-  document.getElementById("list").innerHTML = items.map(n => {
+  const list = document.getElementById("list");
+  list.classList.remove("skeleton-feed");
+  list.innerHTML = items.map(n => {
     const isBookmarked = savedBookmarks.includes(n.link);
+    const hasNote = Boolean(personalNotes[n.link]);
     const categoryName = n.category ? `<span class="cat-tag">${esc(n.category)}</span>` : '';
     return `
       <article class="card">
@@ -332,38 +1425,155 @@ function render() {
             <span class="sentiment ${esc(n.sentiment)}">${SENT[n.sentiment] || ""}</span>
             <time>${esc(n.published)}</time>
           </div>
-          <button class="bookmark-btn ${isBookmarked ? 'bookmarked' : ''}" onclick="toggleBookmark('${esc(n.link)}', event)" title="บันทึกข่าวนี้">
-            ${isBookmarked ? '★' : '☆'}
-          </button>
+          <div class="card-actions">
+            <button class="bookmark-btn ${isBookmarked ? 'bookmarked' : ''}" type="button" title="บันทึกข่าวนี้" aria-label="${isBookmarked ? 'นำข่าวออกจากรายการบันทึก' : 'บันทึกข่าวนี้'}">
+              ${isBookmarked ? '★' : '☆'}
+            </button>
+            <button class="note-btn ${hasNote ? 'has-note' : ''}" type="button" aria-label="${hasNote ? 'แก้ไขโน้ตส่วนตัว' : 'เพิ่มโน้ตส่วนตัว'}">
+              ${hasNote ? '📝 โน้ต' : '＋ โน้ต'}
+            </button>
+          </div>
         </div>
         <h2><button class="story-title" type="button">${esc(n.title)}</button></h2>
         ${n.summary_th ? `<p>${esc(n.summary_th)}</p>` : '<p class="summary-missing">ยังไม่มีสรุปภาษาไทย</p>'}
+        ${hasNote ? `<p class="journal-preview">📝 ${esc(personalNotes[n.link].text || "")}${Number.isFinite(personalNotes[n.link].targetPrice) ? ` · เป้าหมาย $${personalNotes[n.link].targetPrice.toFixed(2)}` : ""}</p>` : ""}
       </article>`;
   }).join("") || '<div class="empty-state">ยังไม่มีข่าวในเงื่อนไขที่คุณเลือก</div>';
 
   document.querySelectorAll(".story-title").forEach((button, index) => {
     button.onclick = () => showNews(items[index]);
   });
+  document.querySelectorAll(".bookmark-btn").forEach((button, index) => {
+    button.onclick = event => window.toggleBookmark(items[index].link, event);
+  });
+  document.querySelectorAll(".note-btn").forEach((button, index) => {
+    button.onclick = () => {
+      showNews(items[index]);
+      document.getElementById("personalNote").focus();
+    };
+  });
+  renderTrending();
+}
+
+function renderTrending() {
+  const container = document.getElementById("trendingList");
+  const ranked = news
+    .map((item, index) => ({ item, index }))
+    .sort((a, b) => {
+      const impact = (b.item.impact_level === "high" ? 1 : 0) - (a.item.impact_level === "high" ? 1 : 0);
+      return impact || a.index - b.index;
+    })
+    .slice(0, 5);
+  container.innerHTML = ranked.map(({ item }, index) => `
+    <button class="trending-item" type="button" data-trending-index="${index}">
+      <strong>${item.impact_level === "high" ? "🔥 " : ""}${esc(item.title)}</strong>
+      <span>${esc(item.ticker)} · ${item.impact_level === "high" ? "ผลกระทบสูง" : "ข่าวล่าสุด"} · ${esc(SENT[item.sentiment] || "● เป็นกลาง")}</span>
+    </button>
+  `).join("") || '<p class="trending-empty">ยังไม่มีข่าวเด่น</p>';
+  container.querySelectorAll(".trending-item").forEach((button, index) => {
+    button.onclick = () => showNews(ranked[index].item);
+  });
+}
+
+function renderPortfolioAlerts() {
+  const section = document.getElementById("portfolioAlerts");
+  const container = document.getElementById("portfolioAlertItems");
+  const matching = news.filter(item =>
+    portfolioTickers.includes(item.ticker) &&
+    item.impact_level === "high"
+  );
+  section.hidden = matching.length === 0;
+  container.innerHTML = matching.slice(0, 5).map((item, index) => `
+    <button class="portfolio-alert-item" type="button" data-portfolio-alert="${index}">
+      <strong>${item.impact_direction === "positive" ? "▲" : item.impact_direction === "negative" ? "▼" : "!"} ${esc(item.ticker)} · ${esc(item.title)}</strong>
+      <span>${esc(item.impact_reason || item.summary_th || "ข่าวผลกระทบสูงที่ตรงกับหุ้นในพอร์ต")}</span>
+    </button>
+  `).join("");
+  container.querySelectorAll("[data-portfolio-alert]").forEach((button, index) => {
+    button.onclick = () => showNews(matching[index]);
+  });
+}
+
+function renderTrendingTopics() {
+  const container = document.getElementById("trendingTopics");
+  container.innerHTML = trendingTopics.map((topic, index) => `
+    <button class="trending-badge" type="button" data-topic-index="${index}" aria-label="กรองข่าว ${esc(topic.label)}">
+      ${esc(topic.label)} <span>${Number.isFinite(topic.count) ? topic.count : 0}</span>
+    </button>
+  `).join("") || '<span class="portfolio-empty">ยังไม่มีข้อมูลแนวโน้ม 7 วัน</span>';
+  container.querySelectorAll("[data-topic-index]").forEach((button, index) => {
+    button.onclick = () => {
+      const topic = trendingTopics[index];
+      topicSearchTerms = topic.search_terms;
+      searchQuery = topic.label.toLowerCase();
+      document.getElementById("newsSearch").value = topic.label;
+      currentTicker = "ALL";
+      currentGroup = "ALL";
+      currentTheme = "ALL";
+      updateSelectedFilter("#groupFilters", "group", currentGroup);
+      updateSelectedFilter("#themeFilters", "theme", currentTheme);
+      buildFilters();
+      render();
+      document.querySelector(".feed-panel").scrollIntoView({ behavior: "smooth", block: "start" });
+    };
+  });
+}
+
+function renderComparison(items) {
+  const tickers = currentGroup === "ALL"
+    ? [...new Set(Object.values(GROUPS).flat())]
+    : GROUPS[currentGroup];
+  document.getElementById("comparisonGrid").innerHTML = tickers.map(ticker => {
+    const articles = items.filter(item => item.ticker === ticker);
+    const positive = articles.filter(item => item.sentiment === "positive").length;
+    const negative = articles.filter(item => item.sentiment === "negative").length;
+    return `<div class="comparison-item"><strong>${ticker} · ${articles.length} ข่าว</strong>
+      <span class="positive">▲ ${positive}</span><span class="negative">▼ ${negative}</span></div>`;
+  }).join("");
 }
 
 function showNews(item) {
+  currentNoteLink = item.link;
   document.getElementById("dialogTitle").textContent = item.title || "ข่าว";
   document.getElementById("dialogMeta").textContent = `${item.ticker} · ${item.published || "ไม่ระบุเวลา"}`;
   document.getElementById("dialogSummary").textContent = item.summary_th || "ไม่มีสรุปภาษาไทยจากฟีดข่าวนี้";
   
-  // ดึงผลวิเคราะห์จาก AI ที่ทำเตรียมไว้ในไฟล์ JSON มาแสดงผลทันทีโดยไม่ต้องใช้ API Key หน้าเว็บ
-  document.getElementById("aiResultContent").textContent = item.ai_analysis || "ยังไม่มีข้อมูลวิเคราะห์เชิงลึกสำหรับข่าวนี้ (ระบบจะทยอยอัปเดตอัตโนมัติ)";
+  renderAiAnalysis(item.ai_analysis || "ยังไม่มีข้อมูลวิเคราะห์เชิงลึกสำหรับข่าวนี้ (ระบบจะทยอยอัปเดตอัตโนมัติ)");
+  const note = personalNotes[item.link] || {};
+  document.getElementById("personalNote").value = note.text || "";
+  document.getElementById("targetPrice").value = Number.isFinite(note.targetPrice) ? note.targetPrice : "";
+  document.getElementById("noteStatus").textContent = note.updatedAt
+    ? `บันทึกล่าสุด ${new Date(note.updatedAt).toLocaleString("th-TH")}`
+    : "";
   
   document.getElementById("originalNews").href = item.link;
   document.getElementById("translateNews").href = `https://translate.google.com/translate?sl=auto&tl=th&u=${encodeURIComponent(item.link)}`;
   document.getElementById("newsDialog").showModal();
 }
 
-document.getElementById("copyAiBtn").onclick = () => {
-  const text = document.getElementById("aiResultContent").textContent;
-  navigator.clipboard.writeText(text).then(() => {
-    alert("คัดลอกผลวิเคราะห์เรียบร้อยแล้ว!");
+function renderAiAnalysis(text) {
+  const container = document.getElementById("aiResultContent");
+  const points = text.split(/\r?\n/).map(line => line.trim()).filter(Boolean)
+    .map(line => line.replace(/^(?:\d+[.)]|[-*•])\s*/, ""));
+  container.replaceChildren();
+  container.dataset.plainText = points.join("\n");
+  points.forEach(point => {
+    const row = document.createElement("div");
+    row.className = "ai-point";
+    row.textContent = point;
+    container.appendChild(row);
   });
+}
+
+document.getElementById("copyAiBtn").onclick = async () => {
+  const text = document.getElementById("aiResultContent").dataset.plainText || "";
+  try {
+    await navigator.clipboard.writeText(text);
+    showToast("คัดลอกผลวิเคราะห์เรียบร้อยแล้ว");
+  } catch (error) {
+    console.error("คัดลอกผลวิเคราะห์ไม่สำเร็จ:", error);
+    showToast("คัดลอกไม่สำเร็จ กรุณาอนุญาตการเข้าถึงคลิปบอร์ด");
+  }
 };
 
 document.getElementById("closeDialog").onclick = () => document.getElementById("newsDialog").close();

@@ -1,0 +1,13 @@
+{
+  "date": null,
+  "score": null,
+  "label": "No data",
+  "counts": {
+    "positive": 0,
+    "negative": 0,
+    "neutral": 0
+  },
+  "total": 0,
+  "updated_at": null,
+  "articles": []
+}
