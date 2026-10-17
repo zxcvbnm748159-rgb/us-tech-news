@@ -1,8 +1,241 @@
 {
-  "date": null,
+  "date": "2026-10-16",
   "window_days": 7,
-  "source_count": 0,
-  "topics": [],
-  "updated_at": null,
-  "articles": []
+  "source_count": 12,
+  "topics": [
+    {
+      "label": "TSLA",
+      "query": "TSLA",
+      "search_terms": [
+        "TSLA"
+      ],
+      "count": 4,
+      "kind": "ticker"
+    },
+    {
+      "label": "AAPL",
+      "query": "AAPL",
+      "search_terms": [
+        "AAPL"
+      ],
+      "count": 2,
+      "kind": "ticker"
+    },
+    {
+      "label": "NVDA",
+      "query": "NVDA",
+      "search_terms": [
+        "NVDA"
+      ],
+      "count": 2,
+      "kind": "ticker"
+    },
+    {
+      "label": "AI Chip",
+      "query": "AI Chip",
+      "search_terms": [
+        "AI chip",
+        "GPU",
+        "accelerator",
+        "semiconductor"
+      ],
+      "count": 1,
+      "kind": "topic"
+    },
+    {
+      "label": "AMD",
+      "query": "AMD",
+      "search_terms": [
+        "AMD"
+      ],
+      "count": 1,
+      "kind": "ticker"
+    },
+    {
+      "label": "META",
+      "query": "META",
+      "search_terms": [
+        "META"
+      ],
+      "count": 1,
+      "kind": "ticker"
+    },
+    {
+      "label": "SMCI",
+      "query": "SMCI",
+      "search_terms": [
+        "SMCI"
+      ],
+      "count": 1,
+      "kind": "ticker"
+    },
+    {
+      "label": "TSM",
+      "query": "TSM",
+      "search_terms": [
+        "TSM"
+      ],
+      "count": 1,
+      "kind": "ticker"
+    }
+  ],
+  "updated_at": "2026-10-17T02:29:06.585326+00:00",
+  "articles": [
+    {
+      "ticker": "NVDA",
+      "title": "CoreWeave's not-so-secret weapons: Price hikes and an Nvidia trump card",
+      "link": "https://pitchbook.com/news/articles/coreweaves-not-so-secret-weapons-price-hikes-and-an-nvidia-trump-card?.tsrc=rss",
+      "published": "Fri, 16 Oct 2026 23:30:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-17T02:29:01.128284+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Prediction: Alphabet Will Be a Larger Company Than Apple by the End of 2027",
+      "link": "https://www.fool.com/investing/2026/10/16/prediction-alphabet-will-be-a-larger-company-than/?.tsrc=rss",
+      "published": "Fri, 16 Oct 2026 23:29:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-17T02:29:01.128367+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Will Starlink Mobile matter for Apple?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/starlink-mobile-matter-apple-010939746.html?.tsrc=rss",
+      "published": "Sat, 17 Oct 2026 01:09:39 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-17T02:29:01.484240+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "What Apple Holders Bought Into",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/apple-holders-bought-001436767.html?.tsrc=rss",
+      "published": "Sat, 17 Oct 2026 00:14:36 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-17T02:29:01.484297+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "$13k MRR founder reveals why Meta crushes TikTok for app marketing...",
+      "link": "https://starterstory.videonest.co/videos/2318438/13k-mrr-founder-reveals-why-meta-crushes-tiktok-fo-FFRSTYN4x1?.tsrc=rss",
+      "published": "Sat, 17 Oct 2026 01:31:51 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-17T02:29:03.193280+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Tesla’s Flying Roadster Has Wall Street Talking About SpaceX, Not Cars",
+      "link": "https://www.fool.com/investing/2026/10/16/teslas-flying-roadster-has-wall-street-talking-about-spacex-not-cars/?.tsrc=rss",
+      "published": "Sat, 17 Oct 2026 01:25:01 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-17T02:29:03.442537+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Battery X Metals Highlights Participation at X Takeover 2026, an Electric Vehicle and Emerging Technology Event Held at Tesla's Gigafactory Texas, Providing Exposure to Industry Perspectives and Technology Developments",
+      "link": "https://finance.yahoo.com/technology/articles/battery-x-metals-highlights-participation-012000266.html?.tsrc=rss",
+      "published": "Sat, 17 Oct 2026 01:20:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-17T02:29:03.442686+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Stocktwits Zero To Sixty — Tesla’s Roadster Flies With SpaceX Thrusters, Rivian Opens Cars To AI Agents, And Lucid Eyes France",
+      "link": "https://stocktwits.com/news-articles/markets/equity/stocktwits-zero-to-sixty-tesla-s-roadster-flies-with-space-x-thrusters-rivian-opens-cars-to-ai-agents-and-lucid-eyes-france/cZxjA7KRBt5?.tsrc=rss",
+      "published": "Sat, 17 Oct 2026 00:33:21 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-17T02:29:03.442775+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Tesla Has Built a Flying Car. It Will Blow Your Mind.",
+      "link": "https://finance.yahoo.com/m/33917906-5253-3056-8faf-6a7077a9d6dc/tesla-has-built-a-flying-car..html?.tsrc=rss",
+      "published": "Fri, 16 Oct 2026 23:12:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-17T02:29:03.442826+00:00"
+    },
+    {
+      "ticker": "AMD",
+      "title": "How much AMD stock does CEO Lisa Su actually own?",
+      "link": "https://www.thestreet.com/personalities/how-much-amd-stock-does-ceo-lisa-su-own?.tsrc=rss",
+      "published": "Fri, 16 Oct 2026 23:12:49 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-17T02:29:03.733018+00:00"
+    },
+    {
+      "ticker": "SMCI",
+      "title": "Was The Run In Super Micro Stock Hiding In Plain Sight?",
+      "link": "https://www.trefis.com/articles/618988/was-the-run-in-super-micro-stock-hiding-in-plain-sight/2026-10-16?.tsrc=rss",
+      "published": "Sat, 17 Oct 2026 01:20:39 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-17T02:29:05.803874+00:00"
+    },
+    {
+      "ticker": "TSM",
+      "title": "Taiwan Semiconductor Posts Record Q3 Results: Time to Buy the Dip?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-posts-record-q3-223600229.html?.tsrc=rss",
+      "published": "Fri, 16 Oct 2026 22:36:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-17T02:29:06.582907+00:00"
+    }
+  ]
 }
