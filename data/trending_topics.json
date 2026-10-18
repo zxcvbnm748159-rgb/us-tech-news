@@ -1,7 +1,7 @@
 {
   "date": "2026-10-18",
   "window_days": 7,
-  "source_count": 134,
+  "source_count": 142,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 47,
+      "count": 48,
       "kind": "ticker"
     },
     {
@@ -27,7 +27,7 @@
       "search_terms": [
         "AAPL"
       ],
-      "count": 11,
+      "count": 12,
       "kind": "ticker"
     },
     {
@@ -39,7 +39,7 @@
         "revenue guidance",
         "profit forecast"
       ],
-      "count": 9,
+      "count": 10,
       "kind": "topic"
     },
     {
@@ -48,7 +48,7 @@
       "search_terms": [
         "TSLA"
       ],
-      "count": 9,
+      "count": 10,
       "kind": "ticker"
     },
     {
@@ -57,7 +57,16 @@
       "search_terms": [
         "META"
       ],
-      "count": 8,
+      "count": 9,
+      "kind": "ticker"
+    },
+    {
+      "label": "TSM",
+      "query": "TSM",
+      "search_terms": [
+        "TSM"
+      ],
+      "count": 7,
       "kind": "ticker"
     },
     {
@@ -84,25 +93,7 @@
       "search_terms": [
         "MSFT"
       ],
-      "count": 5,
-      "kind": "ticker"
-    },
-    {
-      "label": "PLTR",
-      "query": "PLTR",
-      "search_terms": [
-        "PLTR"
-      ],
-      "count": 5,
-      "kind": "ticker"
-    },
-    {
-      "label": "TSM",
-      "query": "TSM",
-      "search_terms": [
-        "TSM"
-      ],
-      "count": 5,
+      "count": 6,
       "kind": "ticker"
     },
     {
@@ -114,11 +105,20 @@
         "accelerator",
         "semiconductor"
       ],
-      "count": 4,
+      "count": 5,
       "kind": "topic"
+    },
+    {
+      "label": "PLTR",
+      "query": "PLTR",
+      "search_terms": [
+        "PLTR"
+      ],
+      "count": 5,
+      "kind": "ticker"
     }
   ],
-  "updated_at": "2026-10-18T12:55:45.188307+00:00",
+  "updated_at": "2026-10-18T14:19:59.258419+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -1861,6 +1861,110 @@
       "impact_direction": "neutral",
       "sentiment": "neutral",
       "fetched_at": "2026-10-18T12:55:44.335416+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Own VGT? Here's How Much of It Is Really Nvidia, Apple, Microsoft, and Broadcom.",
+      "link": "https://www.fool.com/investing/2026/10/18/own-vgt-heres-how-much-of-it-is-really-nvidia-appl/?.tsrc=rss",
+      "published": "Sun, 18 Oct 2026 13:28:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-18T14:19:55.954909+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "iPhone Duo Preorders Sell Out Rapidly As Delivery Estimates Slip Into January",
+      "link": "https://www.tikr.com/blog/apple-stock-iphone-duo-preorders-sell-out?ref=yahoofinance&.tsrc=rss",
+      "published": "Sun, 18 Oct 2026 13:12:12 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-18T14:19:56.140302+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Top 3 British Penny Stocks To Watch In October 2026",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/top-3-british-penny-stocks-131011661.html?.tsrc=rss",
+      "published": "Sun, 18 Oct 2026 13:10:11 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-18T14:19:56.340387+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "What To Expect In Markets This Week: SPCX, TSLA, META, NFLX, IBM Earnings And More",
+      "link": "https://stocktwits.com/news-articles/markets/equity/what-to-expect-markets-this-week-oct-18-2026/cZxN1HjRBtA?.tsrc=rss",
+      "published": "Sun, 18 Oct 2026 13:58:16 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-18T14:19:56.899879+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "US Appeals Court Overturns Class Action Lawsuit Over Tesla Self-Driving Claims",
+      "link": "https://www.tikr.com/blog/tesla-stock-appeals-court-overturns-self-driving-class-action?ref=yahoofinance&.tsrc=rss",
+      "published": "Sun, 18 Oct 2026 12:55:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-18T14:19:57.072169+00:00"
+    },
+    {
+      "ticker": "QCOM",
+      "title": "Arm Stock Verdict Risk Grows After Qualcomm License Breach Ruling",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/arm-stock-verdict-risk-grows-131310835.html?.tsrc=rss",
+      "published": "Sun, 18 Oct 2026 13:13:10 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-18T14:19:58.369302+00:00"
+    },
+    {
+      "ticker": "TSM",
+      "title": "Chip toolmakers can’t catch a break, even as TSMC spends more",
+      "link": "https://www.thestreet.com/technology/tsmc-spending-surge-equipment-suppliers-drop?.tsrc=rss",
+      "published": "Sun, 18 Oct 2026 14:17:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-18T14:19:59.254287+00:00"
+    },
+    {
+      "ticker": "TSM",
+      "title": "Taiwan Semiconductor Supply Struggles To Keep Pace With Explosive Demand",
+      "link": "https://www.tikr.com/blog/taiwan-semiconductor-stock-supply-demand-ai-chips?ref=yahoofinance&.tsrc=rss",
+      "published": "Sun, 18 Oct 2026 12:53:31 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-18T14:19:59.254368+00:00"
     }
   ]
 }

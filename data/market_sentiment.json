@@ -1,14 +1,14 @@
 {
   "date": "2026-10-18",
-  "score": 91,
+  "score": 79,
   "label": "Bullish",
   "counts": {
-    "positive": 10,
-    "negative": 1,
-    "neutral": 15
+    "positive": 11,
+    "negative": 3,
+    "neutral": 20
   },
-  "total": 26,
-  "updated_at": "2026-10-18T12:55:45.183339+00:00",
+  "total": 34,
+  "updated_at": "2026-10-18T14:19:59.254638+00:00",
   "articles": [
     {
       "link": "https://finance.yahoo.com/technology/ai/articles/why-advanced-micro-devices-amd-051501677.html?.tsrc=rss",
@@ -113,6 +113,38 @@
     {
       "link": "https://finance.yahoo.com/media-advertising/articles/netflix-needs-another-squid-game-104517248.html?.tsrc=rss",
       "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/18/own-vgt-heres-how-much-of-it-is-really-nvidia-appl/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.tikr.com/blog/apple-stock-iphone-duo-preorders-sell-out?ref=yahoofinance&.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/top-3-british-penny-stocks-131011661.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://stocktwits.com/news-articles/markets/equity/what-to-expect-markets-this-week-oct-18-2026/cZxN1HjRBtA?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.tikr.com/blog/tesla-stock-appeals-court-overturns-self-driving-class-action?ref=yahoofinance&.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/arm-stock-verdict-risk-grows-131310835.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.thestreet.com/technology/tsmc-spending-surge-equipment-suppliers-drop?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.tikr.com/blog/taiwan-semiconductor-stock-supply-demand-ai-chips?ref=yahoofinance&.tsrc=rss",
+      "sentiment": "negative"
     }
   ]
 }
