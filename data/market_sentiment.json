@@ -1,14 +1,14 @@
 {
   "date": "2026-10-18",
-  "score": 69,
+  "score": 70,
   "label": "Bullish",
   "counts": {
-    "positive": 20,
+    "positive": 21,
     "negative": 9,
     "neutral": 32
   },
-  "total": 61,
-  "updated_at": "2026-10-18T19:31:34.198838+00:00",
+  "total": 62,
+  "updated_at": "2026-10-18T19:57:28.116715+00:00",
   "articles": [
     {
       "link": "https://finance.yahoo.com/technology/ai/articles/why-advanced-micro-devices-amd-051501677.html?.tsrc=rss",
@@ -253,6 +253,10 @@
     {
       "link": "https://www.thestreet.com/latest-news/netflix-content-calendar-layoffs-prompt-harsh-response-from-chris-versace?.tsrc=rss",
       "sentiment": "negative"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/18/taiwan-semiconductor-just-proved-why-its-a-top-ai/?.tsrc=rss",
+      "sentiment": "positive"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "date": "2026-10-18",
   "window_days": 7,
-  "source_count": 171,
+  "source_count": 172,
   "topics": [
     {
       "label": "NVDA",
@@ -52,19 +52,19 @@
       "kind": "ticker"
     },
     {
-      "label": "META",
-      "query": "META",
-      "search_terms": [
-        "META"
-      ],
-      "count": 11,
-      "kind": "ticker"
-    },
-    {
       "label": "TSM",
       "query": "TSM",
       "search_terms": [
         "TSM"
+      ],
+      "count": 12,
+      "kind": "ticker"
+    },
+    {
+      "label": "META",
+      "query": "META",
+      "search_terms": [
+        "META"
       ],
       "count": 11,
       "kind": "ticker"
@@ -78,7 +78,7 @@
         "accelerator",
         "semiconductor"
       ],
-      "count": 9,
+      "count": 10,
       "kind": "topic"
     },
     {
@@ -118,7 +118,7 @@
       "kind": "ticker"
     }
   ],
-  "updated_at": "2026-10-18T19:31:34.204835+00:00",
+  "updated_at": "2026-10-18T19:57:28.122691+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -2342,6 +2342,19 @@
       "impact_direction": "neutral",
       "sentiment": "negative",
       "fetched_at": "2026-10-18T19:31:32.781208+00:00"
+    },
+    {
+      "ticker": "TSM",
+      "title": "Taiwan Semiconductor Just Proved Why It's a Top AI Investment",
+      "link": "https://www.fool.com/investing/2026/10/18/taiwan-semiconductor-just-proved-why-its-a-top-ai/?.tsrc=rss",
+      "published": "Sun, 18 Oct 2026 19:43:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-18T19:57:28.116438+00:00"
     }
   ]
 }

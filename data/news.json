@@ -1,5 +1,18 @@
 [
   {
+    "ticker": "TSM",
+    "title": "Taiwan Semiconductor Just Proved Why It's a Top AI Investment",
+    "link": "https://www.fool.com/investing/2026/10/18/taiwan-semiconductor-just-proved-why-its-a-top-ai/?.tsrc=rss",
+    "published": "Sun, 18 Oct 2026 19:43:00 +0000",
+    "summary_th": "",
+    "category": "General",
+    "ai_analysis": "",
+    "impact_level": "low",
+    "impact_direction": "neutral",
+    "sentiment": "positive",
+    "fetched_at": "2026-10-18T19:57:28.116438+00:00"
+  },
+  {
     "ticker": "NVDA",
     "title": "President Trump's Push to Reschedule Marijuana Hit a Snag. Is Green Thumb Still a Buy?",
     "link": "https://www.fool.com/investing/2026/10/18/president-trumps-push-to-reschedule-marijuana-hit/?.tsrc=rss",
@@ -3589,14 +3602,5 @@
     "summary_th": "",
     "sentiment": "negative",
     "fetched_at": "2026-10-16T13:07:42.815848+00:00"
-  },
-  {
-    "ticker": "ORCL",
-    "title": "Oracle's Cloud Backlog Just Hit $664 Billion. Here's What a $1,000 Investment Could Be Worth If It Converts to Revenue on Schedule.",
-    "link": "https://www.fool.com/investing/2026/10/16/oracles-cloud-664-billion-1000-investment-worth/?.tsrc=rss",
-    "published": "Fri, 16 Oct 2026 11:35:00 +0000",
-    "summary_th": "",
-    "sentiment": "positive",
-    "fetched_at": "2026-10-16T13:07:43.049733+00:00"
   }
 ]
