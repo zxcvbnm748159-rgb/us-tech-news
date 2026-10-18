@@ -1,7 +1,7 @@
 {
   "date": "2026-10-17",
   "window_days": 7,
-  "source_count": 94,
+  "source_count": 102,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 33,
+      "count": 36,
       "kind": "ticker"
     },
     {
@@ -27,7 +27,25 @@
       "search_terms": [
         "GOOGL"
       ],
+      "count": 8,
+      "kind": "ticker"
+    },
+    {
+      "label": "TSLA",
+      "query": "TSLA",
+      "search_terms": [
+        "TSLA"
+      ],
       "count": 7,
+      "kind": "ticker"
+    },
+    {
+      "label": "AMZN",
+      "query": "AMZN",
+      "search_terms": [
+        "AMZN"
+      ],
+      "count": 6,
       "kind": "ticker"
     },
     {
@@ -43,19 +61,10 @@
       "kind": "topic"
     },
     {
-      "label": "TSLA",
-      "query": "TSLA",
+      "label": "META",
+      "query": "META",
       "search_terms": [
-        "TSLA"
-      ],
-      "count": 6,
-      "kind": "ticker"
-    },
-    {
-      "label": "AMZN",
-      "query": "AMZN",
-      "search_terms": [
-        "AMZN"
+        "META"
       ],
       "count": 5,
       "kind": "ticker"
@@ -67,15 +76,6 @@
         "PLTR"
       ],
       "count": 5,
-      "kind": "ticker"
-    },
-    {
-      "label": "META",
-      "query": "META",
-      "search_terms": [
-        "META"
-      ],
-      "count": 4,
       "kind": "ticker"
     },
     {
@@ -118,7 +118,7 @@
       "kind": "ticker"
     }
   ],
-  "updated_at": "2026-10-17T23:26:58.059017+00:00",
+  "updated_at": "2026-10-18T01:20:12.690702+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -1341,6 +1341,110 @@
       "impact_direction": "neutral",
       "sentiment": "neutral",
       "fetched_at": "2026-10-17T23:26:55.384067+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "How Nvidia Could Make $150 Billion Look Small",
+      "link": "https://www.fool.com/investing/2026/10/17/how-nvidia-could-make-usd150-billion-look-small/?.tsrc=rss",
+      "published": "Sun, 18 Oct 2026 00:21:01 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-18T01:20:09.975710+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "$3,000 Split Across Nvidia, Broadcom, and TSMC Could Be Worth This Much by 2030",
+      "link": "https://www.fool.com/investing/2026/10/17/3000-split-across-nvidia-broadcom-and-tsmc-could-b/?.tsrc=rss",
+      "published": "Sun, 18 Oct 2026 00:20:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-18T01:20:09.975808+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Citi Just Downgraded Bill Ackman's Pershing Square Stock to Sell, Citing a $45 Price Target Versus Its $60 Peak. Is PS Stock Overvalued After Its April IPO Rally?",
+      "link": "https://www.fool.com/investing/2026/10/17/citi-just-downgraded-bill-ackmans-pershing-square/?.tsrc=rss",
+      "published": "Sat, 17 Oct 2026 23:25:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-18T01:20:09.975874+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "How to Play NFLX Stock as Netflix Wipes Out Another 1,000 Jobs in Its Latest Round of Layoffs",
+      "link": "https://www.barchart.com/story/news/8144654/how-to-play-nflx-stock-as-netflix-wipes-out-another-1-000-jobs-in-its-latest-round-of-layoffs?.tsrc=rss",
+      "published": "Sat, 17 Oct 2026 18:30:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-18T01:20:10.467481+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Amazon.com (AMZN) Received An FDA Warning Over Unapproved STI Drug Listings",
+      "link": "https://finance.yahoo.com/healthcare/articles/amazon-com-amzn-received-fda-231339693.html?.tsrc=rss",
+      "published": "Sat, 17 Oct 2026 23:13:39 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-18T01:20:10.627269+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "Mark Zuckerberg’s Second Act?",
+      "link": "https://www.fool.com/investing/2026/10/17/mark-zuckerbergs-second-act/?.tsrc=rss",
+      "published": "Sun, 18 Oct 2026 00:38:05 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-18T01:20:10.759166+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Tesla (TSLA) Gets A Lift From China’s $37 Billion Subsidies And EV Tipping Point",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-gets-lift-china-231619635.html?.tsrc=rss",
+      "published": "Sat, 17 Oct 2026 23:16:19 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-18T01:20:10.885673+00:00"
+    },
+    {
+      "ticker": "ORCL",
+      "title": "Prediction: Oracle Stock Trails the S&P 500 Through 2030",
+      "link": "https://www.fool.com/investing/2026/10/17/prediction-oracle-stock-trails-the-s-and-p-500-through-2030/?.tsrc=rss",
+      "published": "Sun, 18 Oct 2026 00:06:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-18T01:20:11.302063+00:00"
     }
   ]
 }
