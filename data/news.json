@@ -1,6 +1,32 @@
 [
   {
     "ticker": "NVDA",
+    "title": "Coca-Cola Yields 2.3% and Nike Yields 4.4%. Here's Why Only 1 of These High-Yield Dividend Stocks Is a Buy This October.",
+    "link": "https://www.fool.com/investing/2026/10/18/coca-cola-nike-high-yield-dividend-stock-october/?.tsrc=rss",
+    "published": "Sun, 18 Oct 2026 17:25:00 +0000",
+    "summary_th": "",
+    "category": "General",
+    "ai_analysis": "",
+    "impact_level": "low",
+    "impact_direction": "neutral",
+    "sentiment": "neutral",
+    "fetched_at": "2026-10-18T17:43:46.599228+00:00"
+  },
+  {
+    "ticker": "QCOM",
+    "title": "Qualcomm (QCOM) Unveils First AI Native Wi Fi 8 Gateway For Home Broadband",
+    "link": "https://finance.yahoo.com/technology/ai/articles/qualcomm-qcom-unveils-first-ai-202313896.html?.tsrc=rss",
+    "published": "Thu, 15 Oct 2026 20:23:13 +0000",
+    "summary_th": "",
+    "category": "General",
+    "ai_analysis": "",
+    "impact_level": "low",
+    "impact_direction": "neutral",
+    "sentiment": "neutral",
+    "fetched_at": "2026-10-18T17:43:47.793320+00:00"
+  },
+  {
+    "ticker": "NVDA",
     "title": "'Just another scare': Wall Street sees the AI trade strong despite tech's latest rout",
     "link": "https://finance.yahoo.com/markets/article/just-another-scare-wall-street-sees-the-ai-trade-strong-despite-techs-latest-rout-155930040.html?.tsrc=rss",
     "published": "Sun, 18 Oct 2026 15:59:30 +0000",
@@ -3548,23 +3574,5 @@
     "summary_th": "",
     "sentiment": "neutral",
     "fetched_at": "2026-10-16T13:07:43.292083+00:00"
-  },
-  {
-    "ticker": "CRM",
-    "title": "How to Play CRM Stock as Salesforce Buys the Loops AI Platform",
-    "link": "https://www.barchart.com/story/news/7973132/how-to-play-crm-stock-as-salesforce-buys-the-loops-ai-platform?.tsrc=rss",
-    "published": "Thu, 15 Oct 2026 22:32:52 +0000",
-    "summary_th": "",
-    "sentiment": "positive",
-    "fetched_at": "2026-10-16T13:07:43.292137+00:00"
-  },
-  {
-    "ticker": "CRM",
-    "title": "ServiceNow Climbs 5% After Denying Decagon Acquisition Interest; Salesforce Rises 4%, Palantir Dips",
-    "link": "https://247wallst.com/investing/2026/10/15/servicenow-climbs-5-after-denying-decagon-acquisition-interest-salesforce-rises-4-palantir-dips/?.tsrc=rss",
-    "published": "Thu, 15 Oct 2026 16:58:00 +0000",
-    "summary_th": "",
-    "sentiment": "neutral",
-    "fetched_at": "2026-10-16T13:07:43.292214+00:00"
   }
 ]

@@ -5,10 +5,10 @@
   "counts": {
     "positive": 18,
     "negative": 8,
-    "neutral": 28
+    "neutral": 29
   },
-  "total": 54,
-  "updated_at": "2026-10-18T17:27:24.621771+00:00",
+  "total": 55,
+  "updated_at": "2026-10-18T17:43:48.278547+00:00",
   "articles": [
     {
       "link": "https://finance.yahoo.com/technology/ai/articles/why-advanced-micro-devices-amd-051501677.html?.tsrc=rss",
@@ -225,6 +225,10 @@
     {
       "link": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-tsm-profit-rose-143421492.html?.tsrc=rss",
       "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/18/coca-cola-nike-high-yield-dividend-stock-october/?.tsrc=rss",
+      "sentiment": "neutral"
     }
   ]
 }
