@@ -1,6 +1,149 @@
 [
   {
     "ticker": "NVDA",
+    "title": "The Best Growth Stock to Invest $10,000 in Right Now",
+    "link": "https://www.fool.com/investing/2026/10/18/the-best-growth-stock-to-invest-usd10-000-in-right-now/?.tsrc=rss",
+    "published": "Sun, 18 Oct 2026 12:43:01 +0000",
+    "summary_th": "",
+    "category": "General",
+    "ai_analysis": "",
+    "impact_level": "low",
+    "impact_direction": "neutral",
+    "sentiment": "positive",
+    "fetched_at": "2026-10-18T12:55:42.244013+00:00"
+  },
+  {
+    "ticker": "NVDA",
+    "title": "Breakfast News: The Sunday Edition",
+    "link": "https://www.fool.com/investing/breakfast-news/2026/10/18/breakfast-news/?.tsrc=rss",
+    "published": "Sun, 18 Oct 2026 11:50:00 +0000",
+    "summary_th": "",
+    "category": "General",
+    "ai_analysis": "",
+    "impact_level": "low",
+    "impact_direction": "neutral",
+    "sentiment": "neutral",
+    "fetched_at": "2026-10-18T12:55:42.244056+00:00"
+  },
+  {
+    "ticker": "NVDA",
+    "title": "Will Meta's earnings restore confidence in the AI boom?",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/meta-earnings-restore-confidence-ai-110009627.html?.tsrc=rss",
+    "published": "Sun, 18 Oct 2026 11:00:09 +0000",
+    "summary_th": "",
+    "category": "General",
+    "ai_analysis": "",
+    "impact_level": "low",
+    "impact_direction": "neutral",
+    "sentiment": "positive",
+    "fetched_at": "2026-10-18T12:55:42.244163+00:00"
+  },
+  {
+    "ticker": "NVDA",
+    "title": "We Just Witnessed a Unique Stock Market Measure Do Something for Only the 4th Time Since 1997, and It Offers a Chilling Outlook for Wall Street",
+    "link": "https://www.fool.com/investing/2026/10/18/just-witnessed-unique-stock-market-measure-do-something-4th-time-since-1997-chilling-outlook-for-wall-street/?.tsrc=rss",
+    "published": "Sun, 18 Oct 2026 10:56:02 +0000",
+    "summary_th": "",
+    "category": "General",
+    "ai_analysis": "",
+    "impact_level": "low",
+    "impact_direction": "neutral",
+    "sentiment": "neutral",
+    "fetched_at": "2026-10-18T12:55:42.244248+00:00"
+  },
+  {
+    "ticker": "NVDA",
+    "title": "Prediction: IonQ Could 10x by 2035",
+    "link": "https://www.fool.com/investing/2026/10/18/prediction-ionq-could-10x-by-2035/?.tsrc=rss",
+    "published": "Sun, 18 Oct 2026 12:13:00 +0000",
+    "summary_th": "",
+    "category": "General",
+    "ai_analysis": "",
+    "impact_level": "low",
+    "impact_direction": "neutral",
+    "sentiment": "neutral",
+    "fetched_at": "2026-10-18T12:55:42.244276+00:00"
+  },
+  {
+    "ticker": "MSFT",
+    "title": "Microsoft Scraps UK Data Center Deal With Nscale, Telegraph Says",
+    "link": "https://finance.yahoo.com/technology/ai/articles/microsoft-scraps-uk-data-center-083110363.html?.tsrc=rss",
+    "published": "Sun, 18 Oct 2026 08:31:10 +0000",
+    "summary_th": "",
+    "category": "General",
+    "ai_analysis": "",
+    "impact_level": "low",
+    "impact_direction": "neutral",
+    "sentiment": "neutral",
+    "fetched_at": "2026-10-18T12:55:42.546299+00:00"
+  },
+  {
+    "ticker": "GOOGL",
+    "title": "Prediction: Alphabet Will Report Google Cloud Revenue Growth Exceeding 100% on Oct. 28.",
+    "link": "https://www.fool.com/investing/2026/10/18/predict-alphabet-report-google-cloud-revenue/?.tsrc=rss",
+    "published": "Sun, 18 Oct 2026 12:05:00 +0000",
+    "summary_th": "",
+    "category": "General",
+    "ai_analysis": "",
+    "impact_level": "low",
+    "impact_direction": "neutral",
+    "sentiment": "positive",
+    "fetched_at": "2026-10-18T12:55:42.779417+00:00"
+  },
+  {
+    "ticker": "GOOGL",
+    "title": "Mastercard’s New Agent Detection Score Asks a Question No Card Network Has Asked Before",
+    "link": "https://finance.yahoo.com/technology/ai/articles/mastercard-agent-detection-score-asks-110827423.html?.tsrc=rss",
+    "published": "Sun, 18 Oct 2026 11:08:27 +0000",
+    "summary_th": "",
+    "category": "General",
+    "ai_analysis": "",
+    "impact_level": "low",
+    "impact_direction": "neutral",
+    "sentiment": "negative",
+    "fetched_at": "2026-10-18T12:55:42.779492+00:00"
+  },
+  {
+    "ticker": "META",
+    "title": "Why souring sentiment on CoreWeave should matter to investors",
+    "link": "https://finance.yahoo.com/markets/article/why-souring-sentiment-on-coreweave-should-matter-to-investors-120000030.html?.tsrc=rss",
+    "published": "Sun, 18 Oct 2026 12:00:00 +0000",
+    "summary_th": "",
+    "category": "General",
+    "ai_analysis": "",
+    "impact_level": "low",
+    "impact_direction": "neutral",
+    "sentiment": "neutral",
+    "fetched_at": "2026-10-18T12:55:43.082584+00:00"
+  },
+  {
+    "ticker": "NFLX",
+    "title": "Netflix Needs Another 'Squid Game' Moment As Growth Pressure Mounts",
+    "link": "https://finance.yahoo.com/media-advertising/articles/netflix-needs-another-squid-game-104517248.html?.tsrc=rss",
+    "published": "Sun, 18 Oct 2026 10:45:17 +0000",
+    "summary_th": "",
+    "category": "General",
+    "ai_analysis": "",
+    "impact_level": "low",
+    "impact_direction": "neutral",
+    "sentiment": "neutral",
+    "fetched_at": "2026-10-18T12:55:44.037305+00:00"
+  },
+  {
+    "ticker": "QCOM",
+    "title": "How an OpenAI model caught a spy inside its HQ",
+    "link": "https://finance.yahoo.com/video/openai-model-caught-spy-inside-110000144.html?.tsrc=rss",
+    "published": "Fri, 16 Oct 2026 11:00:00 +0000",
+    "summary_th": "",
+    "category": "General",
+    "ai_analysis": "",
+    "impact_level": "low",
+    "impact_direction": "neutral",
+    "sentiment": "neutral",
+    "fetched_at": "2026-10-18T12:55:44.335416+00:00"
+  },
+  {
+    "ticker": "NVDA",
     "title": "Prediction: $1,000 Invested in Taiwan Semiconductor Today Will Be Worth This Much by 2030",
     "link": "https://www.fool.com/investing/2026/10/18/prediction-1000-invested-in-taiwan-semiconductor-t/?.tsrc=rss",
     "published": "Sun, 18 Oct 2026 09:30:00 +0000",
@@ -3307,104 +3450,5 @@
     "summary_th": "",
     "sentiment": "positive",
     "fetched_at": "2026-10-16T13:07:45.031766+00:00"
-  },
-  {
-    "ticker": "ADBE",
-    "title": "Adobe and NVIDIA Expand Collaboration to Speed Agentic Creation",
-    "link": "https://finance.yahoo.com/technology/ai/articles/adobe-nvidia-expand-collaboration-speed-170000479.html?.tsrc=rss",
-    "published": "Thu, 15 Oct 2026 17:00:00 +0000",
-    "summary_th": "",
-    "sentiment": "positive",
-    "fetched_at": "2026-10-16T13:07:45.031836+00:00"
-  },
-  {
-    "ticker": "ADBE",
-    "title": "Adobe (ADBE) vs. ADSK and CRM: Can Firefly and GenStudio Turn AI Into Sustained Growth?",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/adobe-adbe-vs-adsk-crm-164519936.html?.tsrc=rss",
-    "published": "Wed, 14 Oct 2026 16:45:19 +0000",
-    "summary_th": "",
-    "sentiment": "positive",
-    "fetched_at": "2026-10-16T13:07:45.031894+00:00"
-  },
-  {
-    "ticker": "TSM",
-    "title": "TSMC Record Quarter Highlights Unprecedented Demand for AI Chips",
-    "link": "https://www.tikr.com/blog/tsm-stock-tsmc-record-quarter-ai-chip-demand?ref=yahoofinance&.tsrc=rss",
-    "published": "Fri, 16 Oct 2026 12:46:12 +0000",
-    "summary_th": "",
-    "sentiment": "neutral",
-    "fetched_at": "2026-10-16T13:07:45.267849+00:00"
-  },
-  {
-    "ticker": "TSM",
-    "title": "Taiwan Semiconductor is Right Back to Where It Was a Month Ago: Pull The Trigger?",
-    "link": "https://247wallst.com/investing/2026/10/16/taiwan-semiconductor-is-right-back-to-where-it-was-a-month-ago-pull-the-trigger/?.tsrc=rss",
-    "published": "Fri, 16 Oct 2026 12:45:50 +0000",
-    "summary_th": "",
-    "sentiment": "neutral",
-    "fetched_at": "2026-10-16T13:07:45.267898+00:00"
-  },
-  {
-    "ticker": "TSM",
-    "title": "TSMC’s ‘Leave No Food On The Table’ Pledge Signals More AI Chip Investment, Morningstar Says",
-    "link": "https://stocktwits.com/news-articles/markets/equity/tsmc-s-leave-no-food-on-the-table-pledge-signals-more-ai-chip-investment/cZxKGj2RBsa?.tsrc=rss",
-    "published": "Fri, 16 Oct 2026 11:26:05 +0000",
-    "summary_th": "",
-    "sentiment": "negative",
-    "fetched_at": "2026-10-16T13:07:45.267961+00:00"
-  },
-  {
-    "ticker": "TSM",
-    "title": "Amid TSMC-Terafab Talks, Taiwan Said To Be Mulling Greater Curbs On AI Chip Sales To China",
-    "link": "https://stocktwits.com/news-articles/markets/equity/amid-tsmc-terafab-talks-taiwan-said-to-be-mulling-greater-curbs-on-ai-chip-sales-to-china/cZx0Ho8RBsc?.tsrc=rss",
-    "published": "Fri, 16 Oct 2026 07:48:21 +0000",
-    "summary_th": "",
-    "sentiment": "positive",
-    "fetched_at": "2026-10-16T13:07:45.268046+00:00"
-  },
-  {
-    "ticker": "TSM",
-    "title": "3 AI Semiconductor Stocks Riding The Chip Supply Squeeze",
-    "link": "https://finance.yahoo.com/technology/ai/articles/3-ai-semiconductor-stocks-riding-061507826.html?.tsrc=rss",
-    "published": "Fri, 16 Oct 2026 06:15:07 +0000",
-    "summary_th": "",
-    "sentiment": "neutral",
-    "fetched_at": "2026-10-16T13:07:45.268077+00:00"
-  },
-  {
-    "ticker": "NVDA",
-    "title": "CoreWeave stock sinks in pre-market as AI financing worries linger",
-    "link": "https://finance.yahoo.com/markets/article/coreweave-stock-sinks-in-pre-market-as-ai-financing-worries-linger-124345588.html?.tsrc=rss",
-    "published": "Fri, 16 Oct 2026 12:43:45 +0000",
-    "summary_th": "",
-    "sentiment": "negative",
-    "fetched_at": "2026-10-16T12:58:07.636045+00:00"
-  },
-  {
-    "ticker": "NVDA",
-    "title": "We need an 'AI police': Should it be Nvidia's Jensen Huang?",
-    "link": "https://finance.yahoo.com/video/ai-police-nvidias-jensen-huang-120000694.html?.tsrc=rss",
-    "published": "Fri, 16 Oct 2026 12:00:00 +0000",
-    "summary_th": "",
-    "sentiment": "neutral",
-    "fetched_at": "2026-10-16T12:58:07.636110+00:00"
-  },
-  {
-    "ticker": "NVDA",
-    "title": "The Number Changing My View on Nvidia Stock",
-    "link": "https://www.fool.com/investing/2026/10/16/the-number-changing-my-view-on-nvidia-stock/?.tsrc=rss",
-    "published": "Fri, 16 Oct 2026 12:35:00 +0000",
-    "summary_th": "",
-    "sentiment": "neutral",
-    "fetched_at": "2026-10-16T12:58:07.636154+00:00"
-  },
-  {
-    "ticker": "NVDA",
-    "title": "Got $1,000? 1 Top Stock to Buy Amid the Semiconductor Sell-Off Before It Triples by 2030",
-    "link": "https://www.fool.com/investing/2026/10/16/got-usd1-000-1-top-stock-to-buy-amid-the-semiconductor-sell-off-before-it-triples-by-2030/?.tsrc=rss",
-    "published": "Fri, 16 Oct 2026 12:16:01 +0000",
-    "summary_th": "",
-    "sentiment": "positive",
-    "fetched_at": "2026-10-16T12:58:07.636228+00:00"
   }
 ]

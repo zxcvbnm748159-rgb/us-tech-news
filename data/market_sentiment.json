@@ -1,14 +1,14 @@
 {
   "date": "2026-10-18",
-  "score": 100,
+  "score": 91,
   "label": "Bullish",
   "counts": {
-    "positive": 7,
-    "negative": 0,
-    "neutral": 9
+    "positive": 10,
+    "negative": 1,
+    "neutral": 15
   },
-  "total": 16,
-  "updated_at": "2026-10-18T10:58:54.162443+00:00",
+  "total": 26,
+  "updated_at": "2026-10-18T12:55:45.183339+00:00",
   "articles": [
     {
       "link": "https://finance.yahoo.com/technology/ai/articles/why-advanced-micro-devices-amd-051501677.html?.tsrc=rss",
@@ -72,6 +72,46 @@
     },
     {
       "link": "https://www.fool.com/investing/2026/10/18/1-reason-tsmc-stock-rally-record-quarter/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/18/the-best-growth-stock-to-invest-usd10-000-in-right-now/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/breakfast-news/2026/10/18/breakfast-news/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/meta-earnings-restore-confidence-ai-110009627.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/18/just-witnessed-unique-stock-market-measure-do-something-4th-time-since-1997-chilling-outlook-for-wall-street/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/18/prediction-ionq-could-10x-by-2035/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/microsoft-scraps-uk-data-center-083110363.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/18/predict-alphabet-report-google-cloud-revenue/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/mastercard-agent-detection-score-asks-110827423.html?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/article/why-souring-sentiment-on-coreweave-should-matter-to-investors-120000030.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/media-advertising/articles/netflix-needs-another-squid-game-104517248.html?.tsrc=rss",
       "sentiment": "neutral"
     }
   ]

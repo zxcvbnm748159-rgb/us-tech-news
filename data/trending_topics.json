@@ -1,7 +1,7 @@
 {
   "date": "2026-10-18",
   "window_days": 7,
-  "source_count": 123,
+  "source_count": 134,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 42,
+      "count": 47,
       "kind": "ticker"
     },
     {
@@ -18,7 +18,7 @@
       "search_terms": [
         "GOOGL"
       ],
-      "count": 12,
+      "count": 14,
       "kind": "ticker"
     },
     {
@@ -31,6 +31,18 @@
       "kind": "ticker"
     },
     {
+      "label": "Earnings",
+      "query": "Earnings",
+      "search_terms": [
+        "earnings",
+        "quarterly results",
+        "revenue guidance",
+        "profit forecast"
+      ],
+      "count": 9,
+      "kind": "topic"
+    },
+    {
       "label": "TSLA",
       "query": "TSLA",
       "search_terms": [
@@ -40,24 +52,12 @@
       "kind": "ticker"
     },
     {
-      "label": "Earnings",
-      "query": "Earnings",
-      "search_terms": [
-        "earnings",
-        "quarterly results",
-        "revenue guidance",
-        "profit forecast"
-      ],
-      "count": 8,
-      "kind": "topic"
-    },
-    {
       "label": "META",
       "query": "META",
       "search_terms": [
         "META"
       ],
-      "count": 7,
+      "count": 8,
       "kind": "ticker"
     },
     {
@@ -76,6 +76,15 @@
         "AMZN"
       ],
       "count": 6,
+      "kind": "ticker"
+    },
+    {
+      "label": "MSFT",
+      "query": "MSFT",
+      "search_terms": [
+        "MSFT"
+      ],
+      "count": 5,
       "kind": "ticker"
     },
     {
@@ -107,18 +116,9 @@
       ],
       "count": 4,
       "kind": "topic"
-    },
-    {
-      "label": "AVGO",
-      "query": "AVGO",
-      "search_terms": [
-        "AVGO"
-      ],
-      "count": 4,
-      "kind": "ticker"
     }
   ],
-  "updated_at": "2026-10-18T10:58:54.164932+00:00",
+  "updated_at": "2026-10-18T12:55:45.188307+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -1718,6 +1718,149 @@
       "impact_direction": "neutral",
       "sentiment": "neutral",
       "fetched_at": "2026-10-18T10:58:54.162195+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "The Best Growth Stock to Invest $10,000 in Right Now",
+      "link": "https://www.fool.com/investing/2026/10/18/the-best-growth-stock-to-invest-usd10-000-in-right-now/?.tsrc=rss",
+      "published": "Sun, 18 Oct 2026 12:43:01 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-18T12:55:42.244013+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Breakfast News: The Sunday Edition",
+      "link": "https://www.fool.com/investing/breakfast-news/2026/10/18/breakfast-news/?.tsrc=rss",
+      "published": "Sun, 18 Oct 2026 11:50:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-18T12:55:42.244056+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Will Meta's earnings restore confidence in the AI boom?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/meta-earnings-restore-confidence-ai-110009627.html?.tsrc=rss",
+      "published": "Sun, 18 Oct 2026 11:00:09 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-18T12:55:42.244163+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "We Just Witnessed a Unique Stock Market Measure Do Something for Only the 4th Time Since 1997, and It Offers a Chilling Outlook for Wall Street",
+      "link": "https://www.fool.com/investing/2026/10/18/just-witnessed-unique-stock-market-measure-do-something-4th-time-since-1997-chilling-outlook-for-wall-street/?.tsrc=rss",
+      "published": "Sun, 18 Oct 2026 10:56:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-18T12:55:42.244248+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Prediction: IonQ Could 10x by 2035",
+      "link": "https://www.fool.com/investing/2026/10/18/prediction-ionq-could-10x-by-2035/?.tsrc=rss",
+      "published": "Sun, 18 Oct 2026 12:13:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-18T12:55:42.244276+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Microsoft Scraps UK Data Center Deal With Nscale, Telegraph Says",
+      "link": "https://finance.yahoo.com/technology/ai/articles/microsoft-scraps-uk-data-center-083110363.html?.tsrc=rss",
+      "published": "Sun, 18 Oct 2026 08:31:10 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-18T12:55:42.546299+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Prediction: Alphabet Will Report Google Cloud Revenue Growth Exceeding 100% on Oct. 28.",
+      "link": "https://www.fool.com/investing/2026/10/18/predict-alphabet-report-google-cloud-revenue/?.tsrc=rss",
+      "published": "Sun, 18 Oct 2026 12:05:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-18T12:55:42.779417+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Mastercard’s New Agent Detection Score Asks a Question No Card Network Has Asked Before",
+      "link": "https://finance.yahoo.com/technology/ai/articles/mastercard-agent-detection-score-asks-110827423.html?.tsrc=rss",
+      "published": "Sun, 18 Oct 2026 11:08:27 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-18T12:55:42.779492+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "Why souring sentiment on CoreWeave should matter to investors",
+      "link": "https://finance.yahoo.com/markets/article/why-souring-sentiment-on-coreweave-should-matter-to-investors-120000030.html?.tsrc=rss",
+      "published": "Sun, 18 Oct 2026 12:00:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-18T12:55:43.082584+00:00"
+    },
+    {
+      "ticker": "NFLX",
+      "title": "Netflix Needs Another 'Squid Game' Moment As Growth Pressure Mounts",
+      "link": "https://finance.yahoo.com/media-advertising/articles/netflix-needs-another-squid-game-104517248.html?.tsrc=rss",
+      "published": "Sun, 18 Oct 2026 10:45:17 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-18T12:55:44.037305+00:00"
+    },
+    {
+      "ticker": "QCOM",
+      "title": "How an OpenAI model caught a spy inside its HQ",
+      "link": "https://finance.yahoo.com/video/openai-model-caught-spy-inside-110000144.html?.tsrc=rss",
+      "published": "Fri, 16 Oct 2026 11:00:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-18T12:55:44.335416+00:00"
     }
   ]
 }
