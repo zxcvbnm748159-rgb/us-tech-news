@@ -1,14 +1,14 @@
 {
   "date": "2026-10-18",
-  "score": 79,
+  "score": 69,
   "label": "Bullish",
   "counts": {
-    "positive": 11,
-    "negative": 3,
-    "neutral": 20
+    "positive": 18,
+    "negative": 8,
+    "neutral": 28
   },
-  "total": 34,
-  "updated_at": "2026-10-18T14:19:59.254638+00:00",
+  "total": 54,
+  "updated_at": "2026-10-18T17:27:24.621771+00:00",
   "articles": [
     {
       "link": "https://finance.yahoo.com/technology/ai/articles/why-advanced-micro-devices-amd-051501677.html?.tsrc=rss",
@@ -145,6 +145,86 @@
     {
       "link": "https://www.tikr.com/blog/taiwan-semiconductor-stock-supply-demand-ai-chips?ref=yahoofinance&.tsrc=rss",
       "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/article/just-another-scare-wall-street-sees-the-ai-trade-strong-despite-techs-latest-rout-155930040.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/18/history-says-nvidia-stock-november-break-pattern/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/18/warren-buffetts-market-warning-is-hard-to-ignore/?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/18/asml-is-the-most-important-company-in-the-ai-ecosystem-and-it-just-delivered-record-results-here-s-where-the-stock-will-be-in-2028/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/18/one-analyst-thinks-alphabet-stock-could-jump-20-on/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.thestreet.com/retail/verizon-launches-customer-perks-after-price-increases?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaway-brk-b-buffett-144450448.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/alphabet-googl-low-p-e-143908109.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/4342d021-69d3-3aa1-9753-76f72c9ba95d/dow-jones-futures%3A-more-ai.html?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.thestreet.com/investing/metas-18-billion-teen-safety-deal-is-about-to-hit-earnings?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/articles/teslas-flying-roadster-requires-50-145000551.html?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/does-broadcom-avgo-face-ai-160933871.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/broadcom-avgo-went-nowhere-analysts-143448009.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/oracle-orcl-fallen-54-80-143038953.html?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.thestreet.com/employment/netflix-cut-1000-jobs-here-why-and-how-it-impacts-your-subscription?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/articles/intel-intc-lands-major-customer-151209880.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/18/better-ai-chip-stock-taiwan-semiconductor-vs-micro/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/18/tsmc-spending-64-billion-this-year-great-news/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/tsmc-tsm-record-ai-demand-144104490.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-tsm-profit-rose-143421492.html?.tsrc=rss",
+      "sentiment": "positive"
     }
   ]
 }
