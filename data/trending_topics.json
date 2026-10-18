@@ -1,7 +1,7 @@
 {
   "date": "2026-10-18",
   "window_days": 7,
-  "source_count": 109,
+  "source_count": 110,
   "topics": [
     {
       "label": "NVDA",
@@ -48,7 +48,7 @@
       "search_terms": [
         "TSLA"
       ],
-      "count": 7,
+      "count": 8,
       "kind": "ticker"
     },
     {
@@ -118,7 +118,7 @@
       "kind": "topic"
     }
   ],
-  "updated_at": "2026-10-18T06:10:37.500865+00:00",
+  "updated_at": "2026-10-18T07:41:06.782719+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -1536,6 +1536,19 @@
       "impact_direction": "neutral",
       "sentiment": "positive",
       "fetched_at": "2026-10-18T06:10:35.621469+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Elon Musk Says Optimus Is Tesla's Most Important Product. These 3 Suppliers Get Paid Before Tesla Does.",
+      "link": "https://www.fool.com/investing/2026/10/18/elon-musk-says-optimus-is-teslas-most-important-pr/?.tsrc=rss",
+      "published": "Sun, 18 Oct 2026 07:25:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-18T07:41:04.913340+00:00"
     }
   ]
 }

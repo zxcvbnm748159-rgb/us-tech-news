@@ -3,12 +3,12 @@
   "score": 100,
   "label": "Bullish",
   "counts": {
-    "positive": 2,
+    "positive": 3,
     "negative": 0,
     "neutral": 0
   },
-  "total": 2,
-  "updated_at": "2026-10-18T06:10:37.496816+00:00",
+  "total": 3,
+  "updated_at": "2026-10-18T07:41:06.778656+00:00",
   "articles": [
     {
       "link": "https://finance.yahoo.com/technology/ai/articles/why-advanced-micro-devices-amd-051501677.html?.tsrc=rss",
@@ -16,6 +16,10 @@
     },
     {
       "link": "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-buyers-were-041748578.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/18/elon-musk-says-optimus-is-teslas-most-important-pr/?.tsrc=rss",
       "sentiment": "positive"
     }
   ]
