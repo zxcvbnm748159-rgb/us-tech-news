@@ -1,14 +1,14 @@
 {
   "date": "2026-10-18",
-  "score": 70,
+  "score": 72,
   "label": "Bullish",
   "counts": {
-    "positive": 21,
+    "positive": 23,
     "negative": 9,
-    "neutral": 32
+    "neutral": 36
   },
-  "total": 62,
-  "updated_at": "2026-10-18T19:57:28.116715+00:00",
+  "total": 68,
+  "updated_at": "2026-10-18T21:52:31.116257+00:00",
   "articles": [
     {
       "link": "https://finance.yahoo.com/technology/ai/articles/why-advanced-micro-devices-amd-051501677.html?.tsrc=rss",
@@ -256,6 +256,30 @@
     },
     {
       "link": "https://www.fool.com/investing/2026/10/18/taiwan-semiconductor-just-proved-why-its-a-top-ai/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/18/the-5-trillion-club-which-is-the-better-stock-to-o/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/18/where-will-crispr-therapeutics-stock-be-in-2030/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/18/some-investors-are-questioning-the-ai-trade-micros/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/media-advertising/articles/meta-earnings-puts-adobe-stock-201147047.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/eb235398-85bc-3d45-8ef9-15600968317b/tesla%E2%80%99s-flying-roadster-and.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-ai-stocks-earnings-growth-211058029.html?.tsrc=rss",
       "sentiment": "positive"
     }
   ]

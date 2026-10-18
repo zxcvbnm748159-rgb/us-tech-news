@@ -1,5 +1,83 @@
 [
   {
+    "ticker": "NVDA",
+    "title": "The $5 Trillion Club: Which Is the Better Stock to Own, Apple or Nvidia?",
+    "link": "https://www.fool.com/investing/2026/10/18/the-5-trillion-club-which-is-the-better-stock-to-o/?.tsrc=rss",
+    "published": "Sun, 18 Oct 2026 20:20:00 +0000",
+    "summary_th": "",
+    "category": "General",
+    "ai_analysis": "",
+    "impact_level": "low",
+    "impact_direction": "neutral",
+    "sentiment": "positive",
+    "fetched_at": "2026-10-18T21:52:28.460202+00:00"
+  },
+  {
+    "ticker": "NVDA",
+    "title": "Where Will CRISPR Therapeutics Stock Be in 2030?",
+    "link": "https://www.fool.com/investing/2026/10/18/where-will-crispr-therapeutics-stock-be-in-2030/?.tsrc=rss",
+    "published": "Sun, 18 Oct 2026 21:33:00 +0000",
+    "summary_th": "",
+    "category": "General",
+    "ai_analysis": "",
+    "impact_level": "low",
+    "impact_direction": "neutral",
+    "sentiment": "neutral",
+    "fetched_at": "2026-10-18T21:52:28.460269+00:00"
+  },
+  {
+    "ticker": "MSFT",
+    "title": "Some Investors Are Questioning the AI Trade. Microsoft Is Bucking the Trend",
+    "link": "https://www.fool.com/investing/2026/10/18/some-investors-are-questioning-the-ai-trade-micros/?.tsrc=rss",
+    "published": "Sun, 18 Oct 2026 21:05:00 +0000",
+    "summary_th": "",
+    "category": "General",
+    "ai_analysis": "",
+    "impact_level": "low",
+    "impact_direction": "neutral",
+    "sentiment": "neutral",
+    "fetched_at": "2026-10-18T21:52:28.747478+00:00"
+  },
+  {
+    "ticker": "META",
+    "title": "Meta Earnings Puts Adobe Stock And AI Ad Software Names In Focus",
+    "link": "https://finance.yahoo.com/media-advertising/articles/meta-earnings-puts-adobe-stock-201147047.html?.tsrc=rss",
+    "published": "Sun, 18 Oct 2026 20:11:47 +0000",
+    "summary_th": "",
+    "category": "General",
+    "ai_analysis": "",
+    "impact_level": "low",
+    "impact_direction": "neutral",
+    "sentiment": "neutral",
+    "fetched_at": "2026-10-18T21:52:29.186047+00:00"
+  },
+  {
+    "ticker": "TSLA",
+    "title": "Tesla’s Flying Roadster and the SpaceX Halo",
+    "link": "https://finance.yahoo.com/m/eb235398-85bc-3d45-8ef9-15600968317b/tesla%E2%80%99s-flying-roadster-and.html?.tsrc=rss",
+    "published": "Sun, 18 Oct 2026 20:23:00 +0000",
+    "summary_th": "",
+    "category": "General",
+    "ai_analysis": "",
+    "impact_level": "low",
+    "impact_direction": "neutral",
+    "sentiment": "neutral",
+    "fetched_at": "2026-10-18T21:52:29.348949+00:00"
+  },
+  {
+    "ticker": "AMD",
+    "title": "3 AI Stocks With Earnings Growth Over 33% To Watch",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/3-ai-stocks-earnings-growth-211058029.html?.tsrc=rss",
+    "published": "Sun, 18 Oct 2026 21:10:58 +0000",
+    "summary_th": "",
+    "category": "General",
+    "ai_analysis": "",
+    "impact_level": "low",
+    "impact_direction": "neutral",
+    "sentiment": "positive",
+    "fetched_at": "2026-10-18T21:52:29.511624+00:00"
+  },
+  {
     "ticker": "TSM",
     "title": "Taiwan Semiconductor Just Proved Why It's a Top AI Investment",
     "link": "https://www.fool.com/investing/2026/10/18/taiwan-semiconductor-just-proved-why-its-a-top-ai/?.tsrc=rss",
@@ -3548,59 +3626,5 @@
     "summary_th": "",
     "sentiment": "positive",
     "fetched_at": "2026-10-16T13:07:41.822504+00:00"
-  },
-  {
-    "ticker": "TSLA",
-    "title": "Happy Friday! We have flying cars now. Here's a closer look at Tesla's SpaceX-powered Roadster.",
-    "link": "https://finance.yahoo.com/video/happy-friday-we-have-flying-cars-now-heres-a-closer-look-at-teslas-spacex-powered-roadster-125842429.html?.tsrc=rss",
-    "published": "Fri, 16 Oct 2026 12:58:42 +0000",
-    "summary_th": "",
-    "sentiment": "positive",
-    "fetched_at": "2026-10-16T13:07:42.330495+00:00"
-  },
-  {
-    "ticker": "TSLA",
-    "title": "Tesla’s Flying Roadster Fuels SpaceX Merger Speculation, But Analysts Question Earnings Impact",
-    "link": "https://stocktwits.com/news-articles/markets/equity/tesla-roadster-spacex-merger-speculation-dan-ives-gary-black-reaction/cZxKTvIRBs0?.tsrc=rss",
-    "published": "Fri, 16 Oct 2026 12:54:46 +0000",
-    "summary_th": "",
-    "sentiment": "neutral",
-    "fetched_at": "2026-10-16T13:07:42.330554+00:00"
-  },
-  {
-    "ticker": "AVGO",
-    "title": "Capital Over Chips: Broadcom CEO Warns Financing Costs Could Slow AI Expansion",
-    "link": "https://finance.yahoo.com/technology/ai/articles/capital-over-chips-broadcom-ceo-104509569.html?.tsrc=rss",
-    "published": "Fri, 16 Oct 2026 10:45:09 +0000",
-    "summary_th": "",
-    "sentiment": "neutral",
-    "fetched_at": "2026-10-16T13:07:42.815696+00:00"
-  },
-  {
-    "ticker": "AVGO",
-    "title": "AI Capex, Gamble or Jackpot?: Market Snapshot",
-    "link": "https://finance.yahoo.com/video/ai-capex-gamble-jackpot-market-072350913.html?.tsrc=rss",
-    "published": "Fri, 16 Oct 2026 07:23:50 +0000",
-    "summary_th": "",
-    "sentiment": "neutral",
-    "fetched_at": "2026-10-16T13:07:42.815737+00:00"
-  },
-  {
-    "ticker": "AVGO",
-    "title": "Will AI Spending Warning Change Broadcom (AVGO) Narrative",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/ai-spending-warning-change-broadcom-031330056.html?.tsrc=rss",
-    "published": "Fri, 16 Oct 2026 03:13:30 +0000",
-    "summary_th": "",
-    "sentiment": "negative",
-    "fetched_at": "2026-10-16T13:07:42.815789+00:00"
-  },
-  {
-    "ticker": "AVGO",
-    "title": "Broadcom CEO Hock Tan Echoes Warren Buffett in Warning About \"Casino\"-Like Investing",
-    "link": "https://www.fool.com/investing/2026/10/15/broadcom-ceo-hock-tan-echoes-warren-buffett/?.tsrc=rss",
-    "published": "Thu, 15 Oct 2026 17:37:00 +0000",
-    "summary_th": "",
-    "sentiment": "negative",
-    "fetched_at": "2026-10-16T13:07:42.815848+00:00"
   }
 ]
