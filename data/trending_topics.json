@@ -1,7 +1,7 @@
 {
   "date": "2026-10-18",
   "window_days": 7,
-  "source_count": 165,
+  "source_count": 171,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 53,
+      "count": 54,
       "kind": "ticker"
     },
     {
@@ -18,7 +18,7 @@
       "search_terms": [
         "GOOGL"
       ],
-      "count": 18,
+      "count": 19,
       "kind": "ticker"
     },
     {
@@ -27,7 +27,7 @@
       "search_terms": [
         "AAPL"
       ],
-      "count": 12,
+      "count": 13,
       "kind": "ticker"
     },
     {
@@ -43,19 +43,19 @@
       "kind": "topic"
     },
     {
-      "label": "META",
-      "query": "META",
-      "search_terms": [
-        "META"
-      ],
-      "count": 11,
-      "kind": "ticker"
-    },
-    {
       "label": "TSLA",
       "query": "TSLA",
       "search_terms": [
         "TSLA"
+      ],
+      "count": 12,
+      "kind": "ticker"
+    },
+    {
+      "label": "META",
+      "query": "META",
+      "search_terms": [
+        "META"
       ],
       "count": 11,
       "kind": "ticker"
@@ -82,6 +82,15 @@
       "kind": "topic"
     },
     {
+      "label": "AVGO",
+      "query": "AVGO",
+      "search_terms": [
+        "AVGO"
+      ],
+      "count": 7,
+      "kind": "ticker"
+    },
+    {
       "label": "AMD",
       "query": "AMD",
       "search_terms": [
@@ -100,15 +109,6 @@
       "kind": "ticker"
     },
     {
-      "label": "AVGO",
-      "query": "AVGO",
-      "search_terms": [
-        "AVGO"
-      ],
-      "count": 6,
-      "kind": "ticker"
-    },
-    {
       "label": "MSFT",
       "query": "MSFT",
       "search_terms": [
@@ -118,7 +118,7 @@
       "kind": "ticker"
     }
   ],
-  "updated_at": "2026-10-18T17:43:48.281640+00:00",
+  "updated_at": "2026-10-18T19:31:34.204835+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -2264,6 +2264,84 @@
       "impact_direction": "neutral",
       "sentiment": "neutral",
       "fetched_at": "2026-10-18T17:43:47.793320+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "President Trump's Push to Reschedule Marijuana Hit a Snag. Is Green Thumb Still a Buy?",
+      "link": "https://www.fool.com/investing/2026/10/18/president-trumps-push-to-reschedule-marijuana-hit/?.tsrc=rss",
+      "published": "Sun, 18 Oct 2026 18:20:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-18T19:31:30.474318+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Apple Keeps Hitting Record Highs. Bitcoin Hasn’t Set One All Year. Which Is the Better Buy?",
+      "link": "https://247wallst.com/investing/cryptocurrency/2026/10/18/apple-keeps-hitting-record-highs-bitcoin-hasnt-set-one-all-year-which-is-the-better-buy/?.tsrc=rss",
+      "published": "Sun, 18 Oct 2026 18:00:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-18T19:31:30.701010+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Zohran Mamdani Says Quantum Is Poised to Become a ‘Multi-Trillion Dollar Industry’ and New Yorkers Should ‘Share in That Profit’",
+      "link": "https://finance.yahoo.com/technology/ai/articles/zohran-mamdani-says-quantum-poised-180016409.html?.tsrc=rss",
+      "published": "Sun, 18 Oct 2026 18:00:16 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-18T19:31:31.080209+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Tesla’s Roadster and the SpaceX Halo",
+      "link": "https://finance.yahoo.com/m/eb235398-85bc-3d45-8ef9-15600968317b/tesla%E2%80%99s-roadster-and-the.html?.tsrc=rss",
+      "published": "Sun, 18 Oct 2026 18:15:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-18T19:31:31.714105+00:00"
+    },
+    {
+      "ticker": "AVGO",
+      "title": "Nine Companies, Including Broadcom and Verizon, Object to Their Shares Being Tokenized. Can They Stop It?",
+      "link": "https://247wallst.com/investing/cryptocurrency/2026/10/18/nine-companies-including-broadcom-and-verizon-object-to-their-shares-being-tokenized-can-they-stop-it/?.tsrc=rss",
+      "published": "Sun, 18 Oct 2026 18:30:29 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-18T19:31:32.116961+00:00"
+    },
+    {
+      "ticker": "NFLX",
+      "title": "Netflix's content calendar, layoffs prompt harsh response from fund manager",
+      "link": "https://www.thestreet.com/latest-news/netflix-content-calendar-layoffs-prompt-harsh-response-from-chris-versace?.tsrc=rss",
+      "published": "Sun, 18 Oct 2026 19:13:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-18T19:31:32.781208+00:00"
     }
   ]
 }

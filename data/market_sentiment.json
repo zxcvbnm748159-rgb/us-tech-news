@@ -3,12 +3,12 @@
   "score": 69,
   "label": "Bullish",
   "counts": {
-    "positive": 18,
-    "negative": 8,
-    "neutral": 29
+    "positive": 20,
+    "negative": 9,
+    "neutral": 32
   },
-  "total": 55,
-  "updated_at": "2026-10-18T17:43:48.278547+00:00",
+  "total": 61,
+  "updated_at": "2026-10-18T19:31:34.198838+00:00",
   "articles": [
     {
       "link": "https://finance.yahoo.com/technology/ai/articles/why-advanced-micro-devices-amd-051501677.html?.tsrc=rss",
@@ -229,6 +229,30 @@
     {
       "link": "https://www.fool.com/investing/2026/10/18/coca-cola-nike-high-yield-dividend-stock-october/?.tsrc=rss",
       "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/18/president-trumps-push-to-reschedule-marijuana-hit/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://247wallst.com/investing/cryptocurrency/2026/10/18/apple-keeps-hitting-record-highs-bitcoin-hasnt-set-one-all-year-which-is-the-better-buy/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/zohran-mamdani-says-quantum-poised-180016409.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/eb235398-85bc-3d45-8ef9-15600968317b/tesla%E2%80%99s-roadster-and-the.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://247wallst.com/investing/cryptocurrency/2026/10/18/nine-companies-including-broadcom-and-verizon-object-to-their-shares-being-tokenized-can-they-stop-it/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.thestreet.com/latest-news/netflix-content-calendar-layoffs-prompt-harsh-response-from-chris-versace?.tsrc=rss",
+      "sentiment": "negative"
     }
   ]
 }
