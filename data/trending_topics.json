@@ -1,7 +1,7 @@
 {
-  "date": "2026-10-17",
+  "date": "2026-10-18",
   "window_days": 7,
-  "source_count": 104,
+  "source_count": 109,
   "topics": [
     {
       "label": "NVDA",
@@ -27,8 +27,20 @@
       "search_terms": [
         "GOOGL"
       ],
-      "count": 8,
+      "count": 9,
       "kind": "ticker"
+    },
+    {
+      "label": "Earnings",
+      "query": "Earnings",
+      "search_terms": [
+        "earnings",
+        "quarterly results",
+        "revenue guidance",
+        "profit forecast"
+      ],
+      "count": 8,
+      "kind": "topic"
     },
     {
       "label": "TSLA",
@@ -37,6 +49,15 @@
         "TSLA"
       ],
       "count": 7,
+      "kind": "ticker"
+    },
+    {
+      "label": "AMD",
+      "query": "AMD",
+      "search_terms": [
+        "AMD"
+      ],
+      "count": 6,
       "kind": "ticker"
     },
     {
@@ -49,24 +70,12 @@
       "kind": "ticker"
     },
     {
-      "label": "Earnings",
-      "query": "Earnings",
-      "search_terms": [
-        "earnings",
-        "quarterly results",
-        "revenue guidance",
-        "profit forecast"
-      ],
-      "count": 6,
-      "kind": "topic"
-    },
-    {
       "label": "META",
       "query": "META",
       "search_terms": [
         "META"
       ],
-      "count": 5,
+      "count": 6,
       "kind": "ticker"
     },
     {
@@ -107,18 +116,9 @@
       ],
       "count": 3,
       "kind": "topic"
-    },
-    {
-      "label": "AMD",
-      "query": "AMD",
-      "search_terms": [
-        "AMD"
-      ],
-      "count": 3,
-      "kind": "ticker"
     }
   ],
-  "updated_at": "2026-10-18T02:35:56.981094+00:00",
+  "updated_at": "2026-10-18T06:10:37.500865+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -1471,6 +1471,71 @@
       "impact_direction": "neutral",
       "sentiment": "positive",
       "fetched_at": "2026-10-18T02:35:55.485415+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Unity Stock In Focus After Google AI Game Creation Partnership",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/unity-stock-focus-google-ai-021620952.html?.tsrc=rss",
+      "published": "Sun, 18 Oct 2026 02:16:20 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-18T06:10:34.956511+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "Dow Jones Futures Loom After S&P 500, Nasdaq Break Support; Will Meta Earnings Save AI?",
+      "link": "https://finance.yahoo.com/m/4342d021-69d3-3aa1-9753-76f72c9ba95d/dow-jones-futures-loom-after.html?.tsrc=rss",
+      "published": "Sun, 18 Oct 2026 02:57:39 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-18T06:10:35.283092+00:00"
+    },
+    {
+      "ticker": "AMD",
+      "title": "Why Is Advanced Micro Devices (AMD) Gaining Ground In AI Infrastructure?",
+      "link": "https://finance.yahoo.com/technology/ai/articles/why-advanced-micro-devices-amd-051501677.html?.tsrc=rss",
+      "published": "Sun, 18 Oct 2026 05:15:01 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-18T06:10:35.621310+00:00"
+    },
+    {
+      "ticker": "AMD",
+      "title": "What Advanced Micro Devices Buyers Were Betting On Before A 137% Rally",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-buyers-were-041748578.html?.tsrc=rss",
+      "published": "Sun, 18 Oct 2026 04:17:48 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-18T06:10:35.621368+00:00"
+    },
+    {
+      "ticker": "AMD",
+      "title": "What to Expect From Advanced Micro Devices’ Q3 2026 Earnings Report",
+      "link": "https://www.barchart.com/story/news/8148770/what-to-expect-from-advanced-micro-devices-q3-2026-earnings-report?.tsrc=rss",
+      "published": "Sat, 17 Oct 2026 22:27:10 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-18T06:10:35.621469+00:00"
     }
   ]
 }
