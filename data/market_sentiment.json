@@ -1,14 +1,14 @@
 {
   "date": "2026-10-18",
-  "score": 72,
+  "score": 70,
   "label": "Bullish",
   "counts": {
     "positive": 23,
-    "negative": 9,
-    "neutral": 36
+    "negative": 10,
+    "neutral": 38
   },
-  "total": 68,
-  "updated_at": "2026-10-18T21:52:31.116257+00:00",
+  "total": 71,
+  "updated_at": "2026-10-18T22:42:17.355693+00:00",
   "articles": [
     {
       "link": "https://finance.yahoo.com/technology/ai/articles/why-advanced-micro-devices-amd-051501677.html?.tsrc=rss",
@@ -281,6 +281,18 @@
     {
       "link": "https://finance.yahoo.com/markets/stocks/articles/3-ai-stocks-earnings-growth-211058029.html?.tsrc=rss",
       "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/18/the-bond-market-is-sending-a-warning-to-nvidia-sha/?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-2-other-fast-growing-220935780.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/4342d021-69d3-3aa1-9753-76f72c9ba95d/dow-jones-futures-rise-amid.html?.tsrc=rss",
+      "sentiment": "neutral"
     }
   ]
 }

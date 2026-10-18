@@ -1,7 +1,7 @@
 {
   "date": "2026-10-18",
   "window_days": 7,
-  "source_count": 178,
+  "source_count": 181,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 56,
+      "count": 58,
       "kind": "ticker"
     },
     {
@@ -30,7 +30,7 @@
         "revenue guidance",
         "profit forecast"
       ],
-      "count": 14,
+      "count": 15,
       "kind": "topic"
     },
     {
@@ -43,21 +43,21 @@
       "kind": "ticker"
     },
     {
+      "label": "META",
+      "query": "META",
+      "search_terms": [
+        "META"
+      ],
+      "count": 13,
+      "kind": "ticker"
+    },
+    {
       "label": "TSLA",
       "query": "TSLA",
       "search_terms": [
         "TSLA"
       ],
       "count": 13,
-      "kind": "ticker"
-    },
-    {
-      "label": "META",
-      "query": "META",
-      "search_terms": [
-        "META"
-      ],
-      "count": 12,
       "kind": "ticker"
     },
     {
@@ -118,7 +118,7 @@
       "kind": "ticker"
     }
   ],
-  "updated_at": "2026-10-18T21:52:31.122352+00:00",
+  "updated_at": "2026-10-18T22:42:17.359316+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -2433,6 +2433,45 @@
       "impact_direction": "neutral",
       "sentiment": "positive",
       "fetched_at": "2026-10-18T21:52:29.511624+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "The Bond Market Is Sending a Warning to Nvidia Shareholders",
+      "link": "https://www.fool.com/investing/2026/10/18/the-bond-market-is-sending-a-warning-to-nvidia-sha/?.tsrc=rss",
+      "published": "Sun, 18 Oct 2026 22:30:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-18T22:42:13.979304+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "NVIDIA And 2 Other Fast Growing Stocks To Own",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-2-other-fast-growing-220935780.html?.tsrc=rss",
+      "published": "Sun, 18 Oct 2026 22:09:35 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-18T22:42:13.979362+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "Dow Jones Futures Rise Amid AI Fears; Can Meta, SpaceX, Tesla Earnings Save The Day?",
+      "link": "https://finance.yahoo.com/m/4342d021-69d3-3aa1-9753-76f72c9ba95d/dow-jones-futures-rise-amid.html?.tsrc=rss",
+      "published": "Sun, 18 Oct 2026 22:23:15 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-18T22:42:14.873894+00:00"
     }
   ]
 }
