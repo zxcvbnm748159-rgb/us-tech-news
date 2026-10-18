@@ -1,5 +1,70 @@
 [
   {
+    "ticker": "GOOGL",
+    "title": "American Electric Power Company (AEP) Faces A 12% Fair Value Gap As Google Deal Lands",
+    "link": "https://finance.yahoo.com/energy/articles/american-electric-power-company-aep-231338036.html?.tsrc=rss",
+    "published": "Sun, 18 Oct 2026 23:13:38 +0000",
+    "summary_th": "",
+    "category": "General",
+    "ai_analysis": "",
+    "impact_level": "low",
+    "impact_direction": "neutral",
+    "sentiment": "positive",
+    "fetched_at": "2026-10-18T23:48:11.296048+00:00"
+  },
+  {
+    "ticker": "META",
+    "title": "Dow Jones Futures Rebound After AI Sell-Off; Meta, SpaceX, Tesla Earnings Key",
+    "link": "https://finance.yahoo.com/m/4342d021-69d3-3aa1-9753-76f72c9ba95d/dow-jones-futures-rebound.html?.tsrc=rss",
+    "published": "Sun, 18 Oct 2026 23:31:14 +0000",
+    "summary_th": "",
+    "category": "General",
+    "ai_analysis": "",
+    "impact_level": "low",
+    "impact_direction": "neutral",
+    "sentiment": "neutral",
+    "fetched_at": "2026-10-18T23:48:11.685102+00:00"
+  },
+  {
+    "ticker": "META",
+    "title": "Top 4 Earnings Reports This Week: What Tesla, Meta, SpaceX, Netflix Must Show",
+    "link": "https://beincrypto.com/tesla-meta-spacex-netflix-earnings-ai/?.tsrc=rss",
+    "published": "Sun, 18 Oct 2026 23:00:00 +0000",
+    "summary_th": "",
+    "category": "General",
+    "ai_analysis": "",
+    "impact_level": "low",
+    "impact_direction": "neutral",
+    "sentiment": "positive",
+    "fetched_at": "2026-10-18T23:48:11.685154+00:00"
+  },
+  {
+    "ticker": "META",
+    "title": "AI Sector Pressure, Earnings and Other Key Things to Watch this Week",
+    "link": "https://www.barchart.com/story/news/8169595/ai-sector-pressure-earnings-and-other-key-things-to-watch-this-week?.tsrc=rss",
+    "published": "Sun, 18 Oct 2026 17:00:02 +0000",
+    "summary_th": "",
+    "category": "General",
+    "ai_analysis": "",
+    "impact_level": "low",
+    "impact_direction": "neutral",
+    "sentiment": "negative",
+    "fetched_at": "2026-10-18T23:48:11.685208+00:00"
+  },
+  {
+    "ticker": "TSLA",
+    "title": "Elon Musk Admits He Has ‘No Idea’ How to Make Chips. Tesla Investors May Help Pay for Him to Learn.",
+    "link": "https://www.barchart.com/story/news/8170232/elon-musk-admits-he-has-no-idea-how-to-make-chips-tesla-investors-may-help-pay-for-him-to-learn?.tsrc=rss",
+    "published": "Sun, 18 Oct 2026 17:30:02 +0000",
+    "summary_th": "",
+    "category": "General",
+    "ai_analysis": "",
+    "impact_level": "low",
+    "impact_direction": "neutral",
+    "sentiment": "positive",
+    "fetched_at": "2026-10-18T23:48:11.929566+00:00"
+  },
+  {
     "ticker": "NVDA",
     "title": "The Bond Market Is Sending a Warning to Nvidia Shareholders",
     "link": "https://www.fool.com/investing/2026/10/18/the-bond-market-is-sending-a-warning-to-nvidia-sha/?.tsrc=rss",
@@ -3593,50 +3658,5 @@
     "summary_th": "",
     "sentiment": "positive",
     "fetched_at": "2026-10-16T13:16:27.350624+00:00"
-  },
-  {
-    "ticker": "CRM",
-    "title": "Investors Heavily Search Salesforce, Inc. (CRM): Here is What You Need to Know",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/investors-heavily-search-salesforce-inc-120007316.html?.tsrc=rss",
-    "published": "Fri, 16 Oct 2026 12:00:07 +0000",
-    "summary_th": "",
-    "sentiment": "neutral",
-    "fetched_at": "2026-10-16T13:16:28.409336+00:00"
-  },
-  {
-    "ticker": "PLTR",
-    "title": "Palantir Technologies Inc. (PLTR) is Attracting Investor Attention: Here is What You Should Know",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-technologies-inc-pltr-attracting-120006946.html?.tsrc=rss",
-    "published": "Fri, 16 Oct 2026 12:00:06 +0000",
-    "summary_th": "",
-    "sentiment": "positive",
-    "fetched_at": "2026-10-16T13:16:29.415131+00:00"
-  },
-  {
-    "ticker": "NVDA",
-    "title": "CoreWeave stock sinks in premarket trading as AI financing worries linger",
-    "link": "https://finance.yahoo.com/markets/stocks/article/coreweave-stock-sinks-in-premarket-trading-as-ai-financing-worries-linger-130516571.html?.tsrc=rss",
-    "published": "Fri, 16 Oct 2026 12:43:45 +0000",
-    "summary_th": "",
-    "sentiment": "negative",
-    "fetched_at": "2026-10-16T13:07:40.838795+00:00"
-  },
-  {
-    "ticker": "NVDA",
-    "title": "Navan Advances Open Model Strategy with NVIDIA to Deploy NVIDIA Nemotron 3.5 Super VL",
-    "link": "https://finance.yahoo.com/technology/ai/articles/navan-advances-open-model-strategy-130000722.html?.tsrc=rss",
-    "published": "Fri, 16 Oct 2026 13:00:00 +0000",
-    "summary_th": "",
-    "sentiment": "positive",
-    "fetched_at": "2026-10-16T13:07:40.838921+00:00"
-  },
-  {
-    "ticker": "NVDA",
-    "title": "Who’s Really Paying for the AI Boom? The Bond Market Is Starting to Ask",
-    "link": "https://247wallst.com/investing/2026/10/16/whos-really-paying-for-the-ai-boom-the-bond-market-is-starting-to-ask/?.tsrc=rss",
-    "published": "Fri, 16 Oct 2026 12:50:50 +0000",
-    "summary_th": "",
-    "sentiment": "neutral",
-    "fetched_at": "2026-10-16T13:07:40.838985+00:00"
   }
 ]

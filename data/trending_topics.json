@@ -1,7 +1,7 @@
 {
   "date": "2026-10-18",
   "window_days": 7,
-  "source_count": 181,
+  "source_count": 186,
   "topics": [
     {
       "label": "NVDA",
@@ -18,7 +18,7 @@
       "search_terms": [
         "GOOGL"
       ],
-      "count": 19,
+      "count": 20,
       "kind": "ticker"
     },
     {
@@ -30,17 +30,8 @@
         "revenue guidance",
         "profit forecast"
       ],
-      "count": 15,
+      "count": 18,
       "kind": "topic"
-    },
-    {
-      "label": "AAPL",
-      "query": "AAPL",
-      "search_terms": [
-        "AAPL"
-      ],
-      "count": 13,
-      "kind": "ticker"
     },
     {
       "label": "META",
@@ -48,7 +39,7 @@
       "search_terms": [
         "META"
       ],
-      "count": 13,
+      "count": 16,
       "kind": "ticker"
     },
     {
@@ -56,6 +47,15 @@
       "query": "TSLA",
       "search_terms": [
         "TSLA"
+      ],
+      "count": 14,
+      "kind": "ticker"
+    },
+    {
+      "label": "AAPL",
+      "query": "AAPL",
+      "search_terms": [
+        "AAPL"
       ],
       "count": 13,
       "kind": "ticker"
@@ -118,7 +118,7 @@
       "kind": "ticker"
     }
   ],
-  "updated_at": "2026-10-18T22:42:17.359316+00:00",
+  "updated_at": "2026-10-18T23:48:14.252668+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -2472,6 +2472,71 @@
       "impact_direction": "neutral",
       "sentiment": "neutral",
       "fetched_at": "2026-10-18T22:42:14.873894+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "American Electric Power Company (AEP) Faces A 12% Fair Value Gap As Google Deal Lands",
+      "link": "https://finance.yahoo.com/energy/articles/american-electric-power-company-aep-231338036.html?.tsrc=rss",
+      "published": "Sun, 18 Oct 2026 23:13:38 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-18T23:48:11.296048+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "Dow Jones Futures Rebound After AI Sell-Off; Meta, SpaceX, Tesla Earnings Key",
+      "link": "https://finance.yahoo.com/m/4342d021-69d3-3aa1-9753-76f72c9ba95d/dow-jones-futures-rebound.html?.tsrc=rss",
+      "published": "Sun, 18 Oct 2026 23:31:14 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-18T23:48:11.685102+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "Top 4 Earnings Reports This Week: What Tesla, Meta, SpaceX, Netflix Must Show",
+      "link": "https://beincrypto.com/tesla-meta-spacex-netflix-earnings-ai/?.tsrc=rss",
+      "published": "Sun, 18 Oct 2026 23:00:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-18T23:48:11.685154+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "AI Sector Pressure, Earnings and Other Key Things to Watch this Week",
+      "link": "https://www.barchart.com/story/news/8169595/ai-sector-pressure-earnings-and-other-key-things-to-watch-this-week?.tsrc=rss",
+      "published": "Sun, 18 Oct 2026 17:00:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-18T23:48:11.685208+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Elon Musk Admits He Has ‘No Idea’ How to Make Chips. Tesla Investors May Help Pay for Him to Learn.",
+      "link": "https://www.barchart.com/story/news/8170232/elon-musk-admits-he-has-no-idea-how-to-make-chips-tesla-investors-may-help-pay-for-him-to-learn?.tsrc=rss",
+      "published": "Sun, 18 Oct 2026 17:30:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-18T23:48:11.929566+00:00"
     }
   ]
 }

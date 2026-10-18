@@ -3,12 +3,12 @@
   "score": 70,
   "label": "Bullish",
   "counts": {
-    "positive": 23,
-    "negative": 10,
-    "neutral": 38
+    "positive": 26,
+    "negative": 11,
+    "neutral": 39
   },
-  "total": 71,
-  "updated_at": "2026-10-18T22:42:17.355693+00:00",
+  "total": 76,
+  "updated_at": "2026-10-18T23:48:14.246238+00:00",
   "articles": [
     {
       "link": "https://finance.yahoo.com/technology/ai/articles/why-advanced-micro-devices-amd-051501677.html?.tsrc=rss",
@@ -293,6 +293,26 @@
     {
       "link": "https://finance.yahoo.com/m/4342d021-69d3-3aa1-9753-76f72c9ba95d/dow-jones-futures-rise-amid.html?.tsrc=rss",
       "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/energy/articles/american-electric-power-company-aep-231338036.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/4342d021-69d3-3aa1-9753-76f72c9ba95d/dow-jones-futures-rebound.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://beincrypto.com/tesla-meta-spacex-netflix-earnings-ai/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.barchart.com/story/news/8169595/ai-sector-pressure-earnings-and-other-key-things-to-watch-this-week?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.barchart.com/story/news/8170232/elon-musk-admits-he-has-no-idea-how-to-make-chips-tesla-investors-may-help-pay-for-him-to-learn?.tsrc=rss",
+      "sentiment": "positive"
     }
   ]
 }
