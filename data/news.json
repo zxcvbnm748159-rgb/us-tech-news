@@ -1,6 +1,32 @@
 [
   {
     "ticker": "NVDA",
+    "title": "Elon Musk Says Jensen Huang 'Rocks' as SpaceX, Nvidia Team Up on AI Data Centers in Space: ‘Far Better Than Almost Anyone Expects’",
+    "link": "https://finance.yahoo.com/technology/ai/articles/elon-musk-says-jensen-huang-003013948.html?.tsrc=rss",
+    "published": "Sun, 18 Oct 2026 00:30:13 +0000",
+    "summary_th": "",
+    "category": "General",
+    "ai_analysis": "",
+    "impact_level": "low",
+    "impact_direction": "neutral",
+    "sentiment": "positive",
+    "fetched_at": "2026-10-18T02:35:54.411042+00:00"
+  },
+  {
+    "ticker": "AVGO",
+    "title": "Why Broadcom Stock Is a Good Buy Now",
+    "link": "https://www.barchart.com/story/news/8145801/why-broadcom-stock-is-a-good-buy-now?.tsrc=rss",
+    "published": "Sat, 17 Oct 2026 19:30:02 +0000",
+    "summary_th": "",
+    "category": "General",
+    "ai_analysis": "",
+    "impact_level": "low",
+    "impact_direction": "neutral",
+    "sentiment": "positive",
+    "fetched_at": "2026-10-18T02:35:55.485415+00:00"
+  },
+  {
+    "ticker": "NVDA",
     "title": "How Nvidia Could Make $150 Billion Look Small",
     "link": "https://www.fool.com/investing/2026/10/17/how-nvidia-could-make-usd150-billion-look-small/?.tsrc=rss",
     "published": "Sun, 18 Oct 2026 00:21:01 +0000",
@@ -3304,23 +3330,5 @@
     "summary_th": "",
     "sentiment": "neutral",
     "fetched_at": "2026-10-16T12:58:08.610339+00:00"
-  },
-  {
-    "ticker": "META",
-    "title": "Stock market today: Dow, S&P 500, Nasdaq futures mixed amid volatile week",
-    "link": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-futures-mixed-amid-volatile-week-112939401.html?.tsrc=rss",
-    "published": "Fri, 16 Oct 2026 11:29:39 +0000",
-    "summary_th": "",
-    "sentiment": "neutral",
-    "fetched_at": "2026-10-16T12:58:08.867088+00:00"
-  },
-  {
-    "ticker": "META",
-    "title": "Can Meta AI Break Into The Enterprise? Why Zuckerberg Thinks So",
-    "link": "https://finance.yahoo.com/m/4d3c7a2d-5d0d-3d50-b11c-4253fdf8c943/can-meta-ai-break-into-the.html?.tsrc=rss",
-    "published": "Fri, 16 Oct 2026 12:00:44 +0000",
-    "summary_th": "",
-    "sentiment": "neutral",
-    "fetched_at": "2026-10-16T12:58:08.867130+00:00"
   }
 ]

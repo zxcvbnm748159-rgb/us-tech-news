@@ -1,14 +1,14 @@
 {
   "date": "2026-10-17",
-  "score": 70,
+  "score": 72,
   "label": "Bullish",
   "counts": {
-    "positive": 26,
+    "positive": 28,
     "negative": 11,
     "neutral": 46
   },
-  "total": 83,
-  "updated_at": "2026-10-18T01:20:12.686548+00:00",
+  "total": 85,
+  "updated_at": "2026-10-18T02:35:56.976799+00:00",
   "articles": [
     {
       "link": "https://www.fool.com/investing/2026/10/17/missed-out-on-micron-and-sandisk-make-sure-you-don/?.tsrc=rss",
@@ -341,6 +341,14 @@
     {
       "link": "https://www.fool.com/investing/2026/10/17/prediction-oracle-stock-trails-the-s-and-p-500-through-2030/?.tsrc=rss",
       "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/elon-musk-says-jensen-huang-003013948.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.barchart.com/story/news/8145801/why-broadcom-stock-is-a-good-buy-now?.tsrc=rss",
+      "sentiment": "positive"
     }
   ]
 }
