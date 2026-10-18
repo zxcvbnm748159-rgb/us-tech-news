@@ -1,7 +1,7 @@
 {
   "date": "2026-10-18",
   "window_days": 7,
-  "source_count": 110,
+  "source_count": 123,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,16 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 37,
+      "count": 42,
+      "kind": "ticker"
+    },
+    {
+      "label": "GOOGL",
+      "query": "GOOGL",
+      "search_terms": [
+        "GOOGL"
+      ],
+      "count": 12,
       "kind": "ticker"
     },
     {
@@ -22,10 +31,10 @@
       "kind": "ticker"
     },
     {
-      "label": "GOOGL",
-      "query": "GOOGL",
+      "label": "TSLA",
+      "query": "TSLA",
       "search_terms": [
-        "GOOGL"
+        "TSLA"
       ],
       "count": 9,
       "kind": "ticker"
@@ -43,12 +52,12 @@
       "kind": "topic"
     },
     {
-      "label": "TSLA",
-      "query": "TSLA",
+      "label": "META",
+      "query": "META",
       "search_terms": [
-        "TSLA"
+        "META"
       ],
-      "count": 8,
+      "count": 7,
       "kind": "ticker"
     },
     {
@@ -70,15 +79,6 @@
       "kind": "ticker"
     },
     {
-      "label": "META",
-      "query": "META",
-      "search_terms": [
-        "META"
-      ],
-      "count": 6,
-      "kind": "ticker"
-    },
-    {
       "label": "PLTR",
       "query": "PLTR",
       "search_terms": [
@@ -88,21 +88,12 @@
       "kind": "ticker"
     },
     {
-      "label": "AVGO",
-      "query": "AVGO",
-      "search_terms": [
-        "AVGO"
-      ],
-      "count": 4,
-      "kind": "ticker"
-    },
-    {
       "label": "TSM",
       "query": "TSM",
       "search_terms": [
         "TSM"
       ],
-      "count": 4,
+      "count": 5,
       "kind": "ticker"
     },
     {
@@ -114,11 +105,20 @@
         "accelerator",
         "semiconductor"
       ],
-      "count": 3,
+      "count": 4,
       "kind": "topic"
+    },
+    {
+      "label": "AVGO",
+      "query": "AVGO",
+      "search_terms": [
+        "AVGO"
+      ],
+      "count": 4,
+      "kind": "ticker"
     }
   ],
-  "updated_at": "2026-10-18T07:41:06.782719+00:00",
+  "updated_at": "2026-10-18T10:58:54.164932+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -1549,6 +1549,175 @@
       "impact_direction": "neutral",
       "sentiment": "positive",
       "fetched_at": "2026-10-18T07:41:04.913340+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Prediction: $1,000 Invested in Taiwan Semiconductor Today Will Be Worth This Much by 2030",
+      "link": "https://www.fool.com/investing/2026/10/18/prediction-1000-invested-in-taiwan-semiconductor-t/?.tsrc=rss",
+      "published": "Sun, 18 Oct 2026 09:30:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-18T10:58:51.261409+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "2 Retail Stocks to Buy Before the Holiday Shopping Season",
+      "link": "https://www.fool.com/investing/2026/10/18/2-retail-stocks-to-buy-before-the-holiday-shopping-season/?.tsrc=rss",
+      "published": "Sun, 18 Oct 2026 10:39:01 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-18T10:58:51.261464+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "SpaceX Bids for Space Dominance, Plans 456 Starship Launches Per Year",
+      "link": "https://www.fool.com/investing/2026/10/18/spacex-bids-for-space-dominance-plans-456-starship/?.tsrc=rss",
+      "published": "Sun, 18 Oct 2026 10:26:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-18T10:58:51.261503+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "As Bitcoin Matures, Altcoins Face a Reckoning. Here's Which Ones Have a Real Use.",
+      "link": "https://www.fool.com/investing/2026/10/18/as-bitcoin-matures-altcoins-face-a-reckoning-heres/?.tsrc=rss",
+      "published": "Sun, 18 Oct 2026 10:20:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-18T10:58:51.261528+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Netflix Stock Has Gained in the Fourth Quarter in 17 of the Last 24 Years",
+      "link": "https://www.fool.com/investing/2026/10/18/netflix-stock-has-gained-in-the-fourth-quarter-in-17-of-the-last-24-years/?.tsrc=rss",
+      "published": "Sun, 18 Oct 2026 10:08:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-18T10:58:51.261563+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Microsoft pulls out of UK data centre deal with Nscale, Telegraph reports",
+      "link": "https://finance.yahoo.com/technology/ai/articles/microsoft-pulls-uk-data-centre-095253878.html?.tsrc=rss",
+      "published": "Sun, 18 Oct 2026 09:52:53 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-18T10:58:51.630644+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Where Will Microsoft Stock Be in 2030?",
+      "link": "https://www.fool.com/investing/2026/10/18/where-will-microsoft-stock-be-in-2030/?.tsrc=rss",
+      "published": "Sun, 18 Oct 2026 08:43:01 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-18T10:58:51.630672+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "3 Cash Flow Stocks To Watch In October 2026",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-cash-flow-stocks-watch-101147480.html?.tsrc=rss",
+      "published": "Sun, 18 Oct 2026 10:11:47 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-18T10:58:51.770444+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Can Alphabet Stock Double By 2030?",
+      "link": "https://www.fool.com/investing/2026/10/18/can-alphabet-stock-double-by-2030/?.tsrc=rss",
+      "published": "Sun, 18 Oct 2026 09:50:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-18T10:58:51.770467+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "What to Expect in Markets This Week: Meta, Tesla Report; Airlines, Streaming Giants’ Results Due",
+      "link": "https://www.investopedia.com/what-to-expect-in-markets-this-week-meta-tesla-report-airlines-streaming-giants-results-also-due-earnings-12173877?.tsrc=rss",
+      "published": "Sun, 18 Oct 2026 09:00:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-18T10:58:51.770496+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "5 big analyst AI moves: Meta gets Street-high PT; Salesforce double upgraded",
+      "link": "https://finance.yahoo.com/technology/ai/articles/5-big-analyst-ai-moves-074804234.html?.tsrc=rss",
+      "published": "Sun, 18 Oct 2026 07:48:04 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-18T10:58:52.089121+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "TSLA, CSIQ Stocks In Focus As China Tightens Solar Manufacturing Technology Exports",
+      "link": "https://stocktwits.com/news-articles/markets/equity/tsla-csiq-stocks-focus-china-tightens-solar-technology-exports/cZxNQy6RBtV?.tsrc=rss",
+      "published": "Sun, 18 Oct 2026 10:16:21 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-18T10:58:52.245229+00:00"
+    },
+    {
+      "ticker": "TSM",
+      "title": "1 Reason TSMC Stock Could Rally After Its Record Quarter",
+      "link": "https://www.fool.com/investing/2026/10/18/1-reason-tsmc-stock-rally-record-quarter/?.tsrc=rss",
+      "published": "Sun, 18 Oct 2026 09:03:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-18T10:58:54.162195+00:00"
     }
   ]
 }

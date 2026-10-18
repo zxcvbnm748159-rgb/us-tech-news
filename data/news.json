@@ -1,5 +1,174 @@
 [
   {
+    "ticker": "NVDA",
+    "title": "Prediction: $1,000 Invested in Taiwan Semiconductor Today Will Be Worth This Much by 2030",
+    "link": "https://www.fool.com/investing/2026/10/18/prediction-1000-invested-in-taiwan-semiconductor-t/?.tsrc=rss",
+    "published": "Sun, 18 Oct 2026 09:30:00 +0000",
+    "summary_th": "",
+    "category": "General",
+    "ai_analysis": "",
+    "impact_level": "low",
+    "impact_direction": "neutral",
+    "sentiment": "positive",
+    "fetched_at": "2026-10-18T10:58:51.261409+00:00"
+  },
+  {
+    "ticker": "NVDA",
+    "title": "2 Retail Stocks to Buy Before the Holiday Shopping Season",
+    "link": "https://www.fool.com/investing/2026/10/18/2-retail-stocks-to-buy-before-the-holiday-shopping-season/?.tsrc=rss",
+    "published": "Sun, 18 Oct 2026 10:39:01 +0000",
+    "summary_th": "",
+    "category": "General",
+    "ai_analysis": "",
+    "impact_level": "low",
+    "impact_direction": "neutral",
+    "sentiment": "positive",
+    "fetched_at": "2026-10-18T10:58:51.261464+00:00"
+  },
+  {
+    "ticker": "NVDA",
+    "title": "SpaceX Bids for Space Dominance, Plans 456 Starship Launches Per Year",
+    "link": "https://www.fool.com/investing/2026/10/18/spacex-bids-for-space-dominance-plans-456-starship/?.tsrc=rss",
+    "published": "Sun, 18 Oct 2026 10:26:00 +0000",
+    "summary_th": "",
+    "category": "General",
+    "ai_analysis": "",
+    "impact_level": "low",
+    "impact_direction": "neutral",
+    "sentiment": "positive",
+    "fetched_at": "2026-10-18T10:58:51.261503+00:00"
+  },
+  {
+    "ticker": "NVDA",
+    "title": "As Bitcoin Matures, Altcoins Face a Reckoning. Here's Which Ones Have a Real Use.",
+    "link": "https://www.fool.com/investing/2026/10/18/as-bitcoin-matures-altcoins-face-a-reckoning-heres/?.tsrc=rss",
+    "published": "Sun, 18 Oct 2026 10:20:00 +0000",
+    "summary_th": "",
+    "category": "General",
+    "ai_analysis": "",
+    "impact_level": "low",
+    "impact_direction": "neutral",
+    "sentiment": "neutral",
+    "fetched_at": "2026-10-18T10:58:51.261528+00:00"
+  },
+  {
+    "ticker": "NVDA",
+    "title": "Netflix Stock Has Gained in the Fourth Quarter in 17 of the Last 24 Years",
+    "link": "https://www.fool.com/investing/2026/10/18/netflix-stock-has-gained-in-the-fourth-quarter-in-17-of-the-last-24-years/?.tsrc=rss",
+    "published": "Sun, 18 Oct 2026 10:08:02 +0000",
+    "summary_th": "",
+    "category": "General",
+    "ai_analysis": "",
+    "impact_level": "low",
+    "impact_direction": "neutral",
+    "sentiment": "positive",
+    "fetched_at": "2026-10-18T10:58:51.261563+00:00"
+  },
+  {
+    "ticker": "MSFT",
+    "title": "Microsoft pulls out of UK data centre deal with Nscale, Telegraph reports",
+    "link": "https://finance.yahoo.com/technology/ai/articles/microsoft-pulls-uk-data-centre-095253878.html?.tsrc=rss",
+    "published": "Sun, 18 Oct 2026 09:52:53 +0000",
+    "summary_th": "",
+    "category": "General",
+    "ai_analysis": "",
+    "impact_level": "low",
+    "impact_direction": "neutral",
+    "sentiment": "neutral",
+    "fetched_at": "2026-10-18T10:58:51.630644+00:00"
+  },
+  {
+    "ticker": "MSFT",
+    "title": "Where Will Microsoft Stock Be in 2030?",
+    "link": "https://www.fool.com/investing/2026/10/18/where-will-microsoft-stock-be-in-2030/?.tsrc=rss",
+    "published": "Sun, 18 Oct 2026 08:43:01 +0000",
+    "summary_th": "",
+    "category": "General",
+    "ai_analysis": "",
+    "impact_level": "low",
+    "impact_direction": "neutral",
+    "sentiment": "neutral",
+    "fetched_at": "2026-10-18T10:58:51.630672+00:00"
+  },
+  {
+    "ticker": "GOOGL",
+    "title": "3 Cash Flow Stocks To Watch In October 2026",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/3-cash-flow-stocks-watch-101147480.html?.tsrc=rss",
+    "published": "Sun, 18 Oct 2026 10:11:47 +0000",
+    "summary_th": "",
+    "category": "General",
+    "ai_analysis": "",
+    "impact_level": "low",
+    "impact_direction": "neutral",
+    "sentiment": "neutral",
+    "fetched_at": "2026-10-18T10:58:51.770444+00:00"
+  },
+  {
+    "ticker": "GOOGL",
+    "title": "Can Alphabet Stock Double By 2030?",
+    "link": "https://www.fool.com/investing/2026/10/18/can-alphabet-stock-double-by-2030/?.tsrc=rss",
+    "published": "Sun, 18 Oct 2026 09:50:00 +0000",
+    "summary_th": "",
+    "category": "General",
+    "ai_analysis": "",
+    "impact_level": "low",
+    "impact_direction": "neutral",
+    "sentiment": "neutral",
+    "fetched_at": "2026-10-18T10:58:51.770467+00:00"
+  },
+  {
+    "ticker": "GOOGL",
+    "title": "What to Expect in Markets This Week: Meta, Tesla Report; Airlines, Streaming Giants’ Results Due",
+    "link": "https://www.investopedia.com/what-to-expect-in-markets-this-week-meta-tesla-report-airlines-streaming-giants-results-also-due-earnings-12173877?.tsrc=rss",
+    "published": "Sun, 18 Oct 2026 09:00:00 +0000",
+    "summary_th": "",
+    "category": "General",
+    "ai_analysis": "",
+    "impact_level": "low",
+    "impact_direction": "neutral",
+    "sentiment": "neutral",
+    "fetched_at": "2026-10-18T10:58:51.770496+00:00"
+  },
+  {
+    "ticker": "META",
+    "title": "5 big analyst AI moves: Meta gets Street-high PT; Salesforce double upgraded",
+    "link": "https://finance.yahoo.com/technology/ai/articles/5-big-analyst-ai-moves-074804234.html?.tsrc=rss",
+    "published": "Sun, 18 Oct 2026 07:48:04 +0000",
+    "summary_th": "",
+    "category": "General",
+    "ai_analysis": "",
+    "impact_level": "low",
+    "impact_direction": "neutral",
+    "sentiment": "neutral",
+    "fetched_at": "2026-10-18T10:58:52.089121+00:00"
+  },
+  {
+    "ticker": "TSLA",
+    "title": "TSLA, CSIQ Stocks In Focus As China Tightens Solar Manufacturing Technology Exports",
+    "link": "https://stocktwits.com/news-articles/markets/equity/tsla-csiq-stocks-focus-china-tightens-solar-technology-exports/cZxNQy6RBtV?.tsrc=rss",
+    "published": "Sun, 18 Oct 2026 10:16:21 +0000",
+    "summary_th": "",
+    "category": "General",
+    "ai_analysis": "",
+    "impact_level": "low",
+    "impact_direction": "neutral",
+    "sentiment": "neutral",
+    "fetched_at": "2026-10-18T10:58:52.245229+00:00"
+  },
+  {
+    "ticker": "TSM",
+    "title": "1 Reason TSMC Stock Could Rally After Its Record Quarter",
+    "link": "https://www.fool.com/investing/2026/10/18/1-reason-tsmc-stock-rally-record-quarter/?.tsrc=rss",
+    "published": "Sun, 18 Oct 2026 09:03:00 +0000",
+    "summary_th": "",
+    "category": "General",
+    "ai_analysis": "",
+    "impact_level": "low",
+    "impact_direction": "neutral",
+    "sentiment": "neutral",
+    "fetched_at": "2026-10-18T10:58:54.162195+00:00"
+  },
+  {
     "ticker": "TSLA",
     "title": "Elon Musk Says Optimus Is Tesla's Most Important Product. These 3 Suppliers Get Paid Before Tesla Does.",
     "link": "https://www.fool.com/investing/2026/10/18/elon-musk-says-optimus-is-teslas-most-important-pr/?.tsrc=rss",
@@ -3237,122 +3406,5 @@
     "summary_th": "",
     "sentiment": "positive",
     "fetched_at": "2026-10-16T12:58:07.636228+00:00"
-  },
-  {
-    "ticker": "NVDA",
-    "title": "NVIDIA RTX Spark PCs Available Today — A New Beginning for Windows PCs",
-    "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-rtx-spark-pcs-available-120000506.html?.tsrc=rss",
-    "published": "Fri, 16 Oct 2026 12:00:00 +0000",
-    "summary_th": "",
-    "sentiment": "positive",
-    "fetched_at": "2026-10-16T12:58:07.636282+00:00"
-  },
-  {
-    "ticker": "AAPL",
-    "title": "iPhone Duo: Apple opens pre-orders for new folding phone – and has already run out",
-    "link": "https://www.independent.co.uk/tech/apple-iphone-duo-pre-order-release-date-b3068113.html?.tsrc=rss",
-    "published": "Fri, 16 Oct 2026 12:47:11 +0000",
-    "summary_th": "",
-    "sentiment": "neutral",
-    "fetched_at": "2026-10-16T12:58:07.874662+00:00"
-  },
-  {
-    "ticker": "AAPL",
-    "title": "Apple and Meta Just Teamed Up on AI, and Zuckerberg Thanked Apple’s CEO by Name",
-    "link": "https://247wallst.com/investing/2026/10/16/apple-and-meta-just-teamed-up-on-ai-and-zuckerberg-thanked-apples-ceo-by-name/?.tsrc=rss",
-    "published": "Fri, 16 Oct 2026 11:36:06 +0000",
-    "summary_th": "",
-    "sentiment": "positive",
-    "fetched_at": "2026-10-16T12:58:07.874752+00:00"
-  },
-  {
-    "ticker": "AAPL",
-    "title": "Palantir, Apple and Microsoft Brace for Democrats to Go on Offensive",
-    "link": "https://finance.yahoo.com/economy/policy/articles/palantir-apple-microsoft-brace-democrats-110000498.html?.tsrc=rss",
-    "published": "Fri, 16 Oct 2026 11:00:00 +0000",
-    "summary_th": "",
-    "sentiment": "negative",
-    "fetched_at": "2026-10-16T12:58:07.874810+00:00"
-  },
-  {
-    "ticker": "AAPL",
-    "title": "6 Blue Chip Stocks Trading Well Below Their Highs",
-    "link": "https://www.fool.com/investing/2026/10/16/6-blue-chip-stocks-trading-well-below-their-highs/?.tsrc=rss",
-    "published": "Fri, 16 Oct 2026 09:50:00 +0000",
-    "summary_th": "",
-    "sentiment": "positive",
-    "fetched_at": "2026-10-16T12:58:07.874861+00:00"
-  },
-  {
-    "ticker": "AAPL",
-    "title": "Meta Releases Muse Spark Open With an Unlikely Assist From Apple: Why It Can Afford to Give It Away",
-    "link": "https://www.tikr.com/blog/meta-releases-muse-spark-open-with-an-unlikely-assist-from-apple-why-it-can-afford-to-give-it-away?ref=yahoofinance&.tsrc=rss",
-    "published": "Fri, 16 Oct 2026 07:47:10 +0000",
-    "summary_th": "",
-    "sentiment": "positive",
-    "fetched_at": "2026-10-16T12:58:07.874928+00:00"
-  },
-  {
-    "ticker": "MSFT",
-    "title": "NiSource announces long-term agreement with Microsoft expected to increase customer savings and support Indiana’s economic growth",
-    "link": "https://finance.yahoo.com/energy/articles/nisource-announces-long-term-agreement-111500978.html?.tsrc=rss",
-    "published": "Fri, 16 Oct 2026 11:15:00 +0000",
-    "summary_th": "",
-    "sentiment": "positive",
-    "fetched_at": "2026-10-16T12:58:08.108861+00:00"
-  },
-  {
-    "ticker": "MSFT",
-    "title": "Microsoft's Business Software Proposed to Receive Increased UK Regulatory Scrutiny",
-    "link": "https://finance.yahoo.com/technology/articles/microsoft-apos-business-software-proposed-101151763.html?.tsrc=rss",
-    "published": "Fri, 16 Oct 2026 10:11:51 +0000",
-    "summary_th": "",
-    "sentiment": "positive",
-    "fetched_at": "2026-10-16T12:58:08.108932+00:00"
-  },
-  {
-    "ticker": "MSFT",
-    "title": "Microsoft CEO Satya Nadella Just Shared Bad News for Nvidia and Great News for This Rival Chipmaker",
-    "link": "https://www.fool.com/investing/2026/10/16/microsoft-ceo-satya-nadella-just-shared-bad-news-f/?.tsrc=rss",
-    "published": "Fri, 16 Oct 2026 09:13:00 +0000",
-    "summary_th": "",
-    "sentiment": "positive",
-    "fetched_at": "2026-10-16T12:58:08.109056+00:00"
-  },
-  {
-    "ticker": "MSFT",
-    "title": "This Week In Cloud AI - Akamai Technologies Boosts Global Cloud Service Adoption",
-    "link": "https://finance.yahoo.com/technology/ai/articles/week-cloud-ai-akamai-technologies-123752277.html?.tsrc=rss",
-    "published": "Fri, 16 Oct 2026 12:37:52 +0000",
-    "summary_th": "",
-    "sentiment": "positive",
-    "fetched_at": "2026-10-16T12:58:08.109117+00:00"
-  },
-  {
-    "ticker": "GOOGL",
-    "title": "How an OpenAI model caught a spy inside its HQ",
-    "link": "https://finance.yahoo.com/video/openai-model-caught-spy-inside-110000144.html?.tsrc=rss",
-    "published": "Fri, 16 Oct 2026 11:00:00 +0000",
-    "summary_th": "",
-    "sentiment": "neutral",
-    "fetched_at": "2026-10-16T12:58:08.354314+00:00"
-  },
-  {
-    "ticker": "GOOGL",
-    "title": "Some Anthropic Investors Now See a $1.5 Trillion IPO, Not $2 Trillion",
-    "link": "https://247wallst.com/investing/2026/10/16/some-anthropic-investors-now-see-a-1-5-trillion-ipo-not-2-trillion/?.tsrc=rss",
-    "published": "Fri, 16 Oct 2026 12:24:07 +0000",
-    "summary_th": "",
-    "sentiment": "neutral",
-    "fetched_at": "2026-10-16T12:58:08.354363+00:00"
-  },
-  {
-    "ticker": "GOOGL",
-    "title": "S&P 500 Correction Risk Grows as Index Rally Lacks Broad Participation",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-correction-risk-grows-121800987.html?.tsrc=rss",
-    "published": "Fri, 16 Oct 2026 12:18:00 +0000",
-    "summary_th": "",
-    "sentiment": "negative",
-    "fetched_at": "2026-10-16T12:58:08.354430+00:00"
   }
 ]
