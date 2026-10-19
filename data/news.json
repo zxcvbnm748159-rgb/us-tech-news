@@ -1,5 +1,70 @@
 [
   {
+    "ticker": "GOOGL",
+    "title": "Fuel Cell Deal Could Be A Game Changer For American Electric Power Company (AEP)",
+    "link": "https://finance.yahoo.com/energy/articles/fuel-cell-deal-could-game-020758767.html?.tsrc=rss",
+    "published": "Mon, 19 Oct 2026 02:07:58 +0000",
+    "summary_th": "",
+    "category": "General",
+    "ai_analysis": "",
+    "impact_level": "low",
+    "impact_direction": "neutral",
+    "sentiment": "neutral",
+    "fetched_at": "2026-10-19T02:49:27.055422+00:00"
+  },
+  {
+    "ticker": "SMCI",
+    "title": "CFOs On the Move: Week ending Oct. 16",
+    "link": "https://www.cfo.com/news/cfos-on-the-move-oct-16-Mark-Long-Super-Micro-Jeff-Schrader-Sierra-Space-Joseph-Sesin-Denver-Broncos/833181/?.tsrc=rss",
+    "published": "Fri, 16 Oct 2026 13:39:23 +0000",
+    "summary_th": "",
+    "category": "General",
+    "ai_analysis": "",
+    "impact_level": "low",
+    "impact_direction": "neutral",
+    "sentiment": "neutral",
+    "fetched_at": "2026-10-19T02:49:28.796106+00:00"
+  },
+  {
+    "ticker": "IBM",
+    "title": "Can Healthy Increase in Software Revenues Benefit IBM's Q3 Earnings?",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/healthy-increase-software-revenues-benefit-125900890.html?.tsrc=rss",
+    "published": "Fri, 16 Oct 2026 12:59:00 +0000",
+    "summary_th": "",
+    "category": "General",
+    "ai_analysis": "",
+    "impact_level": "low",
+    "impact_direction": "neutral",
+    "sentiment": "positive",
+    "fetched_at": "2026-10-19T02:49:28.955289+00:00"
+  },
+  {
+    "ticker": "IBM",
+    "title": "Stay Ahead of the Game With IBM (IBM) Q3 Earnings: Wall Street's Insights on Key Metrics",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/stay-ahead-game-ibm-ibm-121526755.html?.tsrc=rss",
+    "published": "Fri, 16 Oct 2026 12:15:26 +0000",
+    "summary_th": "",
+    "category": "General",
+    "ai_analysis": "",
+    "impact_level": "low",
+    "impact_direction": "neutral",
+    "sentiment": "neutral",
+    "fetched_at": "2026-10-19T02:49:28.955342+00:00"
+  },
+  {
+    "ticker": "TSM",
+    "title": "Taiwan Semiconductor Could Partner With Elon Musk’s Terafab, but It Has 1 Condition",
+    "link": "https://www.barchart.com/story/news/8173563/taiwan-semiconductor-could-partner-with-elon-musks-terafab-but-it-has-1-condition?.tsrc=rss",
+    "published": "Sun, 18 Oct 2026 20:30:03 +0000",
+    "summary_th": "",
+    "category": "General",
+    "ai_analysis": "",
+    "impact_level": "low",
+    "impact_direction": "neutral",
+    "sentiment": "neutral",
+    "fetched_at": "2026-10-19T02:49:29.262151+00:00"
+  },
+  {
     "ticker": "NVDA",
     "title": "Here’s What a $10,000 Investment in Nvidia Stock Will Be Worth by 2030",
     "link": "https://www.fool.com/investing/2026/10/18/here-s-what-a-usd10-000-investment-in-nvidia-stock-will-be-worth-by-2030/?.tsrc=rss",
@@ -3631,60 +3696,5 @@
     "ai_analysis": "",
     "sentiment": "neutral",
     "fetched_at": "2026-10-16T14:17:59.717747+00:00"
-  },
-  {
-    "ticker": "META",
-    "title": "Ahead of Meta Platforms (META) Q3 Earnings: Get Ready With Wall Street Estimates for Key Metrics",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/ahead-meta-platforms-meta-q3-121522821.html?.tsrc=rss",
-    "published": "Fri, 16 Oct 2026 12:15:22 +0000",
-    "summary_th": "",
-    "category": "General",
-    "ai_analysis": "",
-    "sentiment": "positive",
-    "fetched_at": "2026-10-16T14:17:59.717818+00:00"
-  },
-  {
-    "ticker": "TSLA",
-    "title": "Tesla Roadster takes flight — 3 reasons why investors should be celebrating",
-    "link": "https://finance.yahoo.com/video/tesla-roadster-takes-flight--3-reasons-why-investors-should-be-celebrating-135353791.html?.tsrc=rss",
-    "published": "Fri, 16 Oct 2026 13:53:53 +0000",
-    "summary_th": "",
-    "category": "General",
-    "ai_analysis": "",
-    "sentiment": "positive",
-    "fetched_at": "2026-10-16T14:17:59.859182+00:00"
-  },
-  {
-    "ticker": "TSLA",
-    "title": "Could Tesla’s flying car send sales and shares soaring?",
-    "link": "https://www.euronews.com/2026/10/16/could-teslas-flying-car-send-sales-and-shares-soaring?.tsrc=rss",
-    "published": "Fri, 16 Oct 2026 14:04:48 +0000",
-    "summary_th": "",
-    "category": "General",
-    "ai_analysis": "",
-    "sentiment": "positive",
-    "fetched_at": "2026-10-16T14:17:59.859251+00:00"
-  },
-  {
-    "ticker": "AMD",
-    "title": "Is AMD Stock Safer Or Riskier Than A Year Ago?",
-    "link": "https://www.trefis.com/articles/619014/is-amd-stock-safer-or-riskier-than-a-year-ago/2026-10-16?.tsrc=rss",
-    "published": "Fri, 16 Oct 2026 13:49:39 +0000",
-    "summary_th": "",
-    "category": "General",
-    "ai_analysis": "",
-    "sentiment": "neutral",
-    "fetched_at": "2026-10-16T14:18:00.000070+00:00"
-  },
-  {
-    "ticker": "NFLX",
-    "title": "Netflix stock falls as executive shake-up aims to revive viewership growth",
-    "link": "https://finance.yahoo.com/markets/stocks/article/netflix-stock-falls-as-executive-shake-up-aims-to-revive-viewership-growth-135228949.html?.tsrc=rss",
-    "published": "Fri, 16 Oct 2026 13:28:37 +0000",
-    "summary_th": "",
-    "category": "General",
-    "ai_analysis": "",
-    "sentiment": "positive",
-    "fetched_at": "2026-10-16T14:18:00.593728+00:00"
   }
 ]

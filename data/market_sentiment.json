@@ -5,10 +5,10 @@
   "counts": {
     "positive": 30,
     "negative": 11,
-    "neutral": 45
+    "neutral": 47
   },
-  "total": 86,
-  "updated_at": "2026-10-19T02:23:45.072066+00:00",
+  "total": 88,
+  "updated_at": "2026-10-19T02:49:29.262498+00:00",
   "articles": [
     {
       "link": "https://finance.yahoo.com/technology/ai/articles/why-advanced-micro-devices-amd-051501677.html?.tsrc=rss",
@@ -353,6 +353,14 @@
     {
       "link": "https://www.barchart.com/story/news/8172434/jefferies-makes-a-bold-85-call-on-netflix-stock?.tsrc=rss",
       "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/energy/articles/fuel-cell-deal-could-game-020758767.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.barchart.com/story/news/8173563/taiwan-semiconductor-could-partner-with-elon-musks-terafab-but-it-has-1-condition?.tsrc=rss",
+      "sentiment": "neutral"
     }
   ]
 }
