@@ -5,10 +5,10 @@
   "counts": {
     "positive": 1,
     "negative": 3,
-    "neutral": 5
+    "neutral": 7
   },
-  "total": 9,
-  "updated_at": "2026-10-19T07:58:03.442162+00:00",
+  "total": 11,
+  "updated_at": "2026-10-19T08:22:47.131045+00:00",
   "articles": [
     {
       "link": "https://stocktwits.com/news-articles/markets/equity/stocktwits-tech-watch-netflix-and-meta-report-earnings-as-nvidia-oracle-product-events-loom/cZx8WbvRBME?.tsrc=rss",
@@ -45,6 +45,14 @@
     {
       "link": "https://www.tikr.com/blog/palantir-stock-fell-7-on-friday-heres-where-shares-could-go-in-2026?ref=yahoofinance&.tsrc=rss",
       "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/reply-earns-nvidia-physical-ai-080000134.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.electronicpaymentsinternational.com/news/uk-to-push-apple-to-open-iphone-payment-technology/?.tsrc=rss",
+      "sentiment": "neutral"
     }
   ]
 }

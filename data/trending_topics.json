@@ -1,7 +1,7 @@
 {
   "date": "2026-10-19",
   "window_days": 7,
-  "source_count": 218,
+  "source_count": 220,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 63,
+      "count": 64,
       "kind": "ticker"
     },
     {
@@ -43,21 +43,21 @@
       "kind": "ticker"
     },
     {
+      "label": "AAPL",
+      "query": "AAPL",
+      "search_terms": [
+        "AAPL"
+      ],
+      "count": 17,
+      "kind": "ticker"
+    },
+    {
       "label": "META",
       "query": "META",
       "search_terms": [
         "META"
       ],
       "count": 17,
-      "kind": "ticker"
-    },
-    {
-      "label": "AAPL",
-      "query": "AAPL",
-      "search_terms": [
-        "AAPL"
-      ],
-      "count": 16,
       "kind": "ticker"
     },
     {
@@ -118,7 +118,7 @@
       "kind": "ticker"
     }
   ],
-  "updated_at": "2026-10-19T07:58:03.491983+00:00",
+  "updated_at": "2026-10-19T08:22:47.138338+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -2953,6 +2953,32 @@
       "impact_direction": "neutral",
       "sentiment": "positive",
       "fetched_at": "2026-10-19T07:58:02.827877+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Reply Earns \"NVIDIA Physical AI Specialization\" for Production-Ready Robotics and Digital Twins",
+      "link": "https://finance.yahoo.com/technology/ai/articles/reply-earns-nvidia-physical-ai-080000134.html?.tsrc=rss",
+      "published": "Mon, 19 Oct 2026 08:00:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-19T08:22:44.545200+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "UK regulator set to push Apple to open iPhone payment technology – report",
+      "link": "https://www.electronicpaymentsinternational.com/news/uk-to-push-apple-to-open-iphone-payment-technology/?.tsrc=rss",
+      "published": "Mon, 19 Oct 2026 08:13:45 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-19T08:22:44.678523+00:00"
     }
   ]
 }

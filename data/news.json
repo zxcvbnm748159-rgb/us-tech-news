@@ -1,6 +1,32 @@
 [
   {
     "ticker": "NVDA",
+    "title": "Reply Earns \"NVIDIA Physical AI Specialization\" for Production-Ready Robotics and Digital Twins",
+    "link": "https://finance.yahoo.com/technology/ai/articles/reply-earns-nvidia-physical-ai-080000134.html?.tsrc=rss",
+    "published": "Mon, 19 Oct 2026 08:00:00 +0000",
+    "summary_th": "",
+    "category": "General",
+    "ai_analysis": "",
+    "impact_level": "low",
+    "impact_direction": "neutral",
+    "sentiment": "neutral",
+    "fetched_at": "2026-10-19T08:22:44.545200+00:00"
+  },
+  {
+    "ticker": "AAPL",
+    "title": "UK regulator set to push Apple to open iPhone payment technology – report",
+    "link": "https://www.electronicpaymentsinternational.com/news/uk-to-push-apple-to-open-iphone-payment-technology/?.tsrc=rss",
+    "published": "Mon, 19 Oct 2026 08:13:45 +0000",
+    "summary_th": "",
+    "category": "General",
+    "ai_analysis": "",
+    "impact_level": "low",
+    "impact_direction": "neutral",
+    "sentiment": "neutral",
+    "fetched_at": "2026-10-19T08:22:44.678523+00:00"
+  },
+  {
+    "ticker": "NVDA",
     "title": "Stocktwits Tech Watch: Netflix And Meta Report Earnings As Nvidia, Oracle Product Events Loom",
     "link": "https://stocktwits.com/news-articles/markets/equity/stocktwits-tech-watch-netflix-and-meta-report-earnings-as-nvidia-oracle-product-events-loom/cZx8WbvRBME?.tsrc=rss",
     "published": "Mon, 19 Oct 2026 06:29:23 +0000",
@@ -3708,27 +3734,5 @@
     "ai_analysis": "",
     "sentiment": "positive",
     "fetched_at": "2026-10-16T18:34:23.626706+00:00"
-  },
-  {
-    "ticker": "TSM",
-    "title": "Taiwan Semiconductor Manufacturing: 3 Key Takeaways for Long-Term Investors",
-    "link": "https://www.fool.com/earnings/takeaways/2026/10/16/taiwan-semiconductor-manufacturing-3-key-takeaways-for-long-term-investors/?.tsrc=rss",
-    "published": "Fri, 16 Oct 2026 15:38:03 +0000",
-    "summary_th": "",
-    "category": "General",
-    "ai_analysis": "",
-    "sentiment": "neutral",
-    "fetched_at": "2026-10-16T18:34:23.829669+00:00"
-  },
-  {
-    "ticker": "TSM",
-    "title": "Stock Market Swings On AI Fears, Tumbling Yields; Taiwan Semi, ASML, JPMorgan In Focus: Weekly Review",
-    "link": "https://finance.yahoo.com/m/019a21df-91ed-3f62-b0c9-1afb4c229ebc/stock-market-swings-on-ai.html?.tsrc=rss",
-    "published": "Fri, 16 Oct 2026 14:43:24 +0000",
-    "summary_th": "",
-    "category": "General",
-    "ai_analysis": "",
-    "sentiment": "negative",
-    "fetched_at": "2026-10-16T18:34:23.829744+00:00"
   }
 ]
