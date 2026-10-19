@@ -1,7 +1,7 @@
 {
-  "date": "2026-10-18",
+  "date": "2026-10-19",
   "window_days": 7,
-  "source_count": 201,
+  "source_count": 218,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 60,
+      "count": 63,
       "kind": "ticker"
     },
     {
@@ -18,7 +18,7 @@
       "search_terms": [
         "GOOGL"
       ],
-      "count": 23,
+      "count": 25,
       "kind": "ticker"
     },
     {
@@ -30,8 +30,17 @@
         "revenue guidance",
         "profit forecast"
       ],
-      "count": 20,
+      "count": 23,
       "kind": "topic"
+    },
+    {
+      "label": "TSLA",
+      "query": "TSLA",
+      "search_terms": [
+        "TSLA"
+      ],
+      "count": 18,
+      "kind": "ticker"
     },
     {
       "label": "META",
@@ -39,7 +48,7 @@
       "search_terms": [
         "META"
       ],
-      "count": 16,
+      "count": 17,
       "kind": "ticker"
     },
     {
@@ -48,16 +57,7 @@
       "search_terms": [
         "AAPL"
       ],
-      "count": 15,
-      "kind": "ticker"
-    },
-    {
-      "label": "TSLA",
-      "query": "TSLA",
-      "search_terms": [
-        "TSLA"
-      ],
-      "count": 15,
+      "count": 16,
       "kind": "ticker"
     },
     {
@@ -87,7 +87,7 @@
       "search_terms": [
         "AMD"
       ],
-      "count": 8,
+      "count": 9,
       "kind": "ticker"
     },
     {
@@ -96,7 +96,16 @@
       "search_terms": [
         "AMZN"
       ],
-      "count": 7,
+      "count": 9,
+      "kind": "ticker"
+    },
+    {
+      "label": "MSFT",
+      "query": "MSFT",
+      "search_terms": [
+        "MSFT"
+      ],
+      "count": 8,
       "kind": "ticker"
     },
     {
@@ -107,18 +116,9 @@
       ],
       "count": 7,
       "kind": "ticker"
-    },
-    {
-      "label": "MSFT",
-      "query": "MSFT",
-      "search_terms": [
-        "MSFT"
-      ],
-      "count": 7,
-      "kind": "ticker"
     }
   ],
-  "updated_at": "2026-10-19T02:49:29.269261+00:00",
+  "updated_at": "2026-10-19T07:58:03.491983+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -2732,6 +2732,227 @@
       "impact_direction": "neutral",
       "sentiment": "neutral",
       "fetched_at": "2026-10-19T02:49:29.262151+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Stocktwits Tech Watch: Netflix And Meta Report Earnings As Nvidia, Oracle Product Events Loom",
+      "link": "https://stocktwits.com/news-articles/markets/equity/stocktwits-tech-watch-netflix-and-meta-report-earnings-as-nvidia-oracle-product-events-loom/cZx8WbvRBME?.tsrc=rss",
+      "published": "Mon, 19 Oct 2026 06:29:23 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-19T07:58:00.822244+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Trump’s $330 Million White House Ballroom Donor List Reveals Nvidia, Apple and Google Among Top Tech Contributors: Report (UPDATED)",
+      "link": "https://finance.yahoo.com/technology/articles/trump-330-million-white-house-033011715.html?.tsrc=rss",
+      "published": "Mon, 19 Oct 2026 03:30:11 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-19T07:58:00.822351+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Intelligent Scopes Unveils the ISC 100: The Solution Enabling Urology AI to Work Beside Any Cystoscopy Tower — No Replacement, No Rewiring, No Cloud",
+      "link": "https://finance.yahoo.com/healthcare/articles/intelligent-scopes-unveils-isc-100-033000381.html?.tsrc=rss",
+      "published": "Mon, 19 Oct 2026 03:30:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-19T07:58:00.822507+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Apple’s Home Segment Is Down 14% Since 2022, and It Just Got a Robot HomeView Plan. Here’s What It Means for AAPL Stock",
+      "link": "https://www.tikr.com/blog/apples-home-segment-is-down-14-since-2022-and-it-just-got-a-robot-homeview-plan-heres-what-it-means-for-aapl-stock?ref=yahoofinance&.tsrc=rss",
+      "published": "Sun, 18 Oct 2026 18:19:32 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-19T07:58:00.952694+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Microsoft Walks Away From Nscale’s UK Data Center as the Grid Runs Out of Power",
+      "link": "https://www.tikr.com/blog/microsoft-walks-away-from-nscales-uk-data-center-as-the-grid-runs-out-of-power?ref=yahoofinance&.tsrc=rss",
+      "published": "Mon, 19 Oct 2026 06:52:11 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-19T07:58:01.077972+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "CoreWeave, Oracle have an interest rate problem",
+      "link": "https://www.thestreet.com/investing/stocks/coreweave-oracle-interest-rate-problem-ai-debt?.tsrc=rss",
+      "published": "Mon, 19 Oct 2026 02:47:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-19T07:58:01.232767+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "OpenAI, Anthropic’s AI Lead Is ‘Very Perishable,’ IMD Professor Says: ‘You Don’t Need to Drive a Ferrari to Go to Walmart’",
+      "link": "https://finance.yahoo.com/technology/ai/articles/openai-anthropic-ai-lead-very-023013634.html?.tsrc=rss",
+      "published": "Mon, 19 Oct 2026 02:30:13 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-19T07:58:01.232849+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Prediction: Amazon Stock Will Soar After Oct. 29",
+      "link": "https://www.fool.com/investing/2026/10/19/prediction-amazon-stock-will-soar-after-oct-29/?.tsrc=rss",
+      "published": "Mon, 19 Oct 2026 04:20:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-19T07:58:01.402062+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Amazon.com vs. Walmart: Which Stock Is a Better Buy in 2026?",
+      "link": "https://www.fool.com/coverage/better-buy/2026/10/18/amazoncom-vs-walmart-which-consumer-stock-is-a-better-buy-in-2026/?.tsrc=rss",
+      "published": "Mon, 19 Oct 2026 03:20:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-19T07:58:01.402139+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "No ‘Black Monday’? Nasdaq, S&P 500, Dow Futures Spike As Big Tech Earnings Loom This Week — Retail Stays Cautious",
+      "link": "https://stocktwits.com/news-articles/markets/equity/no-black-monday-nasdaq-s-and-p-500-dow-futures-spike-as-big-tech-earnings-loom-this-week-retail-stays-cautious/cZx8aBfRBt6?.tsrc=rss",
+      "published": "Mon, 19 Oct 2026 04:07:56 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-19T07:58:01.554552+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "TSLA, SPCX Eye Green Open: Gary Black Predicts $420 SpaceX Buyout Of Tesla — Sees Announcement In ‘Next Few Weeks’",
+      "link": "https://stocktwits.com/news-articles/markets/equity/tsla-spcx-gary-black-spacex-buyout-tesla-announcement-next-few-weeks/cZx8LWQRBMJ?.tsrc=rss",
+      "published": "Mon, 19 Oct 2026 07:20:05 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-19T07:58:01.697339+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "NIO Stock Climbs Overnight: EV Firm Outsells German Luxury Rivals In China Sales For First Time — CEO Hails Tesla’s Flying Roadster",
+      "link": "https://stocktwits.com/news-articles/markets/equity/nio-stock-ev-firm-outsells-german-luxury-rivals-china-sales-first-time-ceo-hails-tesla-roadster/cZx8gSyRBMd?.tsrc=rss",
+      "published": "Mon, 19 Oct 2026 06:09:44 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-19T07:58:01.697405+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Sam Altman praises the Tesla Roadster he gave up on",
+      "link": "https://www.thestreet.com/markets/sam-altman-praises-the-tesla-roadster-he-gave-up-on?.tsrc=rss",
+      "published": "Mon, 19 Oct 2026 03:07:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-19T07:58:01.697458+00:00"
+    },
+    {
+      "ticker": "AMD",
+      "title": "INTC, AMD, MU, SNDK: US Chip Stocks Rebound After Worst Week Since March",
+      "link": "https://stocktwits.com/news-articles/markets/equity/intc-amd-mu-sndk-us-chip-stocks-rebound-after-worst-week-since-march/cZx8OKxRBMR?.tsrc=rss",
+      "published": "Mon, 19 Oct 2026 04:54:42 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-19T07:58:01.853482+00:00"
+    },
+    {
+      "ticker": "NFLX",
+      "title": "Netflix (NFLX) To Report Earnings Tomorrow: Here Is What To Expect",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/netflix-nflx-report-earnings-tomorrow-045417973.html?.tsrc=rss",
+      "published": "Mon, 19 Oct 2026 04:54:17 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-19T07:58:02.392845+00:00"
+    },
+    {
+      "ticker": "INTC",
+      "title": "Intel vs. AMD: The CPU Comeback Has Become a 2-Stock Fight, But 1 Is the Better Buy",
+      "link": "https://www.barchart.com/story/news/8173821/intel-vs-amd-the-cpu-comeback-has-become-a-2-stock-fight-but-1-is-the-better-buy?.tsrc=rss",
+      "published": "Sun, 18 Oct 2026 20:46:26 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-19T07:58:02.529532+00:00"
+    },
+    {
+      "ticker": "PLTR",
+      "title": "Palantir Stock Fell 7% on Friday. Here’s Where Shares Could Go in 2026",
+      "link": "https://www.tikr.com/blog/palantir-stock-fell-7-on-friday-heres-where-shares-could-go-in-2026?ref=yahoofinance&.tsrc=rss",
+      "published": "Mon, 19 Oct 2026 07:33:57 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-19T07:58:02.827877+00:00"
     }
   ]
 }
