@@ -1,14 +1,14 @@
 {
   "date": "2026-10-18",
-  "score": 70,
+  "score": 73,
   "label": "Bullish",
   "counts": {
-    "positive": 26,
+    "positive": 30,
     "negative": 11,
-    "neutral": 39
+    "neutral": 45
   },
-  "total": 76,
-  "updated_at": "2026-10-18T23:48:14.246238+00:00",
+  "total": 86,
+  "updated_at": "2026-10-19T02:23:45.072066+00:00",
   "articles": [
     {
       "link": "https://finance.yahoo.com/technology/ai/articles/why-advanced-micro-devices-amd-051501677.html?.tsrc=rss",
@@ -312,6 +312,46 @@
     },
     {
       "link": "https://www.barchart.com/story/news/8170232/elon-musk-admits-he-has-no-idea-how-to-make-chips-tesla-investors-may-help-pay-for-him-to-learn?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/18/here-s-what-a-usd10-000-investment-in-nvidia-stock-will-be-worth-by-2030/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/next-ai-race-won-credit-210000006.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://stocktwits.com/news-articles/markets/equity/aapl-tsla-nflx-gme-rklb-why-retail-traders-couldn-t-take-their-eyes-off-these-stocks-last-week/cZx8ICsRBtH?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.thestreet.com/investing/apples-1999-iphone-bet-just-got-its-first-answer?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.thestreet.com/investing/stocks/cramer-points-to-rare-reddit-buy-opportunity-amid-google-ai-threat?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/american-electric-power-aep-stock-010929963.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.thestreet.com/personalities/how-much-amazon-stock-does-ceo-andy-jassy-own?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://stocktwits.com/news-articles/markets/equity/tsla-stock-musk-tesla-value-optimus-cybercab-analyst-flying-halo-car-luring-buyers/cZx8eXmRBtv?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/18/this-is-amds-biggest-hurdle-in-an-ai-sell-off-and/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.barchart.com/story/news/8172434/jefferies-makes-a-bold-85-call-on-netflix-stock?.tsrc=rss",
       "sentiment": "positive"
     }
   ]

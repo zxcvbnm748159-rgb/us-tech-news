@@ -1,7 +1,7 @@
 {
   "date": "2026-10-18",
   "window_days": 7,
-  "source_count": 186,
+  "source_count": 196,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 58,
+      "count": 60,
       "kind": "ticker"
     },
     {
@@ -18,7 +18,7 @@
       "search_terms": [
         "GOOGL"
       ],
-      "count": 20,
+      "count": 22,
       "kind": "ticker"
     },
     {
@@ -43,21 +43,21 @@
       "kind": "ticker"
     },
     {
-      "label": "TSLA",
-      "query": "TSLA",
-      "search_terms": [
-        "TSLA"
-      ],
-      "count": 14,
-      "kind": "ticker"
-    },
-    {
       "label": "AAPL",
       "query": "AAPL",
       "search_terms": [
         "AAPL"
       ],
-      "count": 13,
+      "count": 15,
+      "kind": "ticker"
+    },
+    {
+      "label": "TSLA",
+      "query": "TSLA",
+      "search_terms": [
+        "TSLA"
+      ],
+      "count": 15,
       "kind": "ticker"
     },
     {
@@ -87,6 +87,15 @@
       "search_terms": [
         "AMD"
       ],
+      "count": 8,
+      "kind": "ticker"
+    },
+    {
+      "label": "AMZN",
+      "query": "AMZN",
+      "search_terms": [
+        "AMZN"
+      ],
       "count": 7,
       "kind": "ticker"
     },
@@ -107,18 +116,9 @@
       ],
       "count": 7,
       "kind": "ticker"
-    },
-    {
-      "label": "AMZN",
-      "query": "AMZN",
-      "search_terms": [
-        "AMZN"
-      ],
-      "count": 6,
-      "kind": "ticker"
     }
   ],
-  "updated_at": "2026-10-18T23:48:14.252668+00:00",
+  "updated_at": "2026-10-19T02:23:45.076081+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -2537,6 +2537,136 @@
       "impact_direction": "neutral",
       "sentiment": "positive",
       "fetched_at": "2026-10-18T23:48:11.929566+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Here’s What a $10,000 Investment in Nvidia Stock Will Be Worth by 2030",
+      "link": "https://www.fool.com/investing/2026/10/18/here-s-what-a-usd10-000-investment-in-nvidia-stock-will-be-worth-by-2030/?.tsrc=rss",
+      "published": "Mon, 19 Oct 2026 01:06:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-19T02:23:41.926691+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "The next AI race will be won at the credit desk",
+      "link": "https://finance.yahoo.com/technology/ai/articles/next-ai-race-won-credit-210000006.html?.tsrc=rss",
+      "published": "Sun, 18 Oct 2026 21:00:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-19T02:23:41.926760+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "AAPL, TSLA, NFLX, GME, RKLB: Why Retail Traders Couldn’t Take Their Eyes Off These Stocks Last Week",
+      "link": "https://stocktwits.com/news-articles/markets/equity/aapl-tsla-nflx-gme-rklb-why-retail-traders-couldn-t-take-their-eyes-off-these-stocks-last-week/cZx8ICsRBtH?.tsrc=rss",
+      "published": "Mon, 19 Oct 2026 02:04:48 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-19T02:23:42.128373+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Apple’s $1,999 iPhone bet just got its first answer",
+      "link": "https://www.thestreet.com/investing/apples-1999-iphone-bet-just-got-its-first-answer?.tsrc=rss",
+      "published": "Mon, 19 Oct 2026 01:47:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-19T02:23:42.128412+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Cramer points to rare Reddit buy opportunity amid Google AI threat",
+      "link": "https://www.thestreet.com/investing/stocks/cramer-points-to-rare-reddit-buy-opportunity-amid-google-ai-threat?.tsrc=rss",
+      "published": "Mon, 19 Oct 2026 02:03:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-19T02:23:42.436008+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "American Electric Power (AEP) Stock Could Be 11% Overvalued Following Generator Deal",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/american-electric-power-aep-stock-010929963.html?.tsrc=rss",
+      "published": "Mon, 19 Oct 2026 01:09:29 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-19T02:23:42.436051+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "How much Amazon stock does CEO Andy Jassy actually own?",
+      "link": "https://www.thestreet.com/personalities/how-much-amazon-stock-does-ceo-andy-jassy-own?.tsrc=rss",
+      "published": "Mon, 19 Oct 2026 01:09:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-19T02:23:42.600282+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "TSLA Stock Rises Overnight: Musk Bets Tesla’s Value On Optimus, Cybercab — Analyst Sees Flying ‘Halo Car’ Luring Buyers",
+      "link": "https://stocktwits.com/news-articles/markets/equity/tsla-stock-musk-tesla-value-optimus-cybercab-analyst-flying-halo-car-luring-buyers/cZx8eXmRBtv?.tsrc=rss",
+      "published": "Mon, 19 Oct 2026 02:19:23 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-19T02:23:42.933067+00:00"
+    },
+    {
+      "ticker": "AMD",
+      "title": "This Is AMD's Biggest Hurdle in an AI Sell-Off (and No, It's Not Nvidia)",
+      "link": "https://www.fool.com/investing/2026/10/18/this-is-amds-biggest-hurdle-in-an-ai-sell-off-and/?.tsrc=rss",
+      "published": "Mon, 19 Oct 2026 01:20:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-19T02:23:43.119758+00:00"
+    },
+    {
+      "ticker": "NFLX",
+      "title": "Jefferies Makes a Bold $85 Call on Netflix Stock",
+      "link": "https://www.barchart.com/story/news/8172434/jefferies-makes-a-bold-85-call-on-netflix-stock?.tsrc=rss",
+      "published": "Sun, 18 Oct 2026 19:30:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-19T02:23:43.835538+00:00"
     }
   ]
 }
