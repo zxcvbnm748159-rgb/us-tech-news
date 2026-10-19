@@ -1,14 +1,14 @@
 {
   "date": "2026-10-19",
-  "score": 67,
+  "score": 66,
   "label": "Bullish",
   "counts": {
-    "positive": 20,
-    "negative": 10,
-    "neutral": 46
+    "positive": 23,
+    "negative": 12,
+    "neutral": 51
   },
-  "total": 76,
-  "updated_at": "2026-10-19T15:16:51.390290+00:00",
+  "total": 86,
+  "updated_at": "2026-10-19T16:06:32.912127+00:00",
   "articles": [
     {
       "link": "https://stocktwits.com/news-articles/markets/equity/stocktwits-tech-watch-netflix-and-meta-report-earnings-as-nvidia-oracle-product-events-loom/cZx8WbvRBME?.tsrc=rss",
@@ -313,6 +313,46 @@
     {
       "link": "https://www.tikr.com/blog/tsmc-gets-sold-on-ai-fears-four-days-after-calling-demand-extremely-robust?ref=yahoofinance&.tsrc=rss",
       "sentiment": "negative"
+    },
+    {
+      "link": "https://app.moby.co/home/news/news-frances-streets-start-shaking-the-bond-market?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/19/why-sandisk-stock-shot-higher-today/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/ee2fc04a-d21b-3b33-b9d2-0baa749bd849/stock-market-today%3A-dow-up%2C.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/10/19/the-major-ones-all-end-badly-pulitzer-winning-crash-historian-on-us-stocks-at-250-of-gdp/?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/10/19/apples-iphone-duo-sold-out-in-minutes-the-last-time-apple-reinvented-the-phone-one-apple-suppliers-stock-soared-about-1200-in-a-decade/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/esw-guide-explains-copilot-studio-152500140.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-names-amazon-top-152533250.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://stocktwits.com/news-articles/markets/equity/netflix-is-in-a-show-me-period-ahead-of-earnings-seaport-says-amid-price-target-cut/cZx8sIIRBMH?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/10/19/palantir-is-expanding-beyond-government-contracts-heres-why-investors-should-care/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/19/semiconductor-sell-off-5-stocks-to-buy-on-the-dip/?.tsrc=rss",
+      "sentiment": "neutral"
     }
   ]
 }

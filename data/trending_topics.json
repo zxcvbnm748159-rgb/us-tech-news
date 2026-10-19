@@ -1,7 +1,7 @@
 {
   "date": "2026-10-19",
   "window_days": 7,
-  "source_count": 285,
+  "source_count": 303,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 69,
+      "count": 73,
       "kind": "ticker"
     },
     {
@@ -21,7 +21,7 @@
         "revenue guidance",
         "profit forecast"
       ],
-      "count": 32,
+      "count": 33,
       "kind": "topic"
     },
     {
@@ -39,7 +39,7 @@
       "search_terms": [
         "AAPL"
       ],
-      "count": 22,
+      "count": 23,
       "kind": "ticker"
     },
     {
@@ -66,7 +66,7 @@
       "search_terms": [
         "TSM"
       ],
-      "count": 17,
+      "count": 18,
       "kind": "ticker"
     },
     {
@@ -78,7 +78,7 @@
         "accelerator",
         "semiconductor"
       ],
-      "count": 15,
+      "count": 17,
       "kind": "topic"
     },
     {
@@ -87,7 +87,7 @@
       "search_terms": [
         "AMZN"
       ],
-      "count": 13,
+      "count": 14,
       "kind": "ticker"
     },
     {
@@ -96,7 +96,7 @@
       "search_terms": [
         "MSFT"
       ],
-      "count": 13,
+      "count": 14,
       "kind": "ticker"
     },
     {
@@ -109,16 +109,16 @@
       "kind": "ticker"
     },
     {
-      "label": "AVGO",
-      "query": "AVGO",
+      "label": "NFLX",
+      "query": "NFLX",
       "search_terms": [
-        "AVGO"
+        "NFLX"
       ],
-      "count": 11,
+      "count": 12,
       "kind": "ticker"
     }
   ],
-  "updated_at": "2026-10-19T15:16:51.398372+00:00",
+  "updated_at": "2026-10-19T16:06:32.917590+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -3824,6 +3824,240 @@
       "impact_direction": "neutral",
       "sentiment": "negative",
       "fetched_at": "2026-10-19T15:16:51.389792+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "France’s Streets Start Shaking the Bond Market",
+      "link": "https://app.moby.co/home/news/news-frances-streets-start-shaking-the-bond-market?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+      "published": "Mon, 19 Oct 2026 15:51:38 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-19T16:06:29.517959+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Why Sandisk Stock Shot Higher Today",
+      "link": "https://www.fool.com/investing/2026/10/19/why-sandisk-stock-shot-higher-today/?.tsrc=rss",
+      "published": "Mon, 19 Oct 2026 15:48:38 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-19T16:06:29.517996+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Stock Market Today: Dow Up, Nasdaq Rallies; Sandisk Surges As This Biotech Play Tests Entry (Live Coverage)",
+      "link": "https://finance.yahoo.com/m/ee2fc04a-d21b-3b33-b9d2-0baa749bd849/stock-market-today%3A-dow-up%2C.html?.tsrc=rss",
+      "published": "Mon, 19 Oct 2026 15:44:53 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-19T16:06:29.518051+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "‘The Major Ones All End Badly’: Pulitzer-Winning Crash Historian on US Stocks at 250% of GDP",
+      "link": "https://247wallst.com/investing/2026/10/19/the-major-ones-all-end-badly-pulitzer-winning-crash-historian-on-us-stocks-at-250-of-gdp/?.tsrc=rss",
+      "published": "Mon, 19 Oct 2026 15:35:34 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-19T16:06:29.518102+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Apple’s iPhone Duo Sold Out In Minutes. The Last Time Apple Reinvented The Phone, One Apple Supplier’s Stock Soared About 1,200% In A Decade",
+      "link": "https://247wallst.com/investing/2026/10/19/apples-iphone-duo-sold-out-in-minutes-the-last-time-apple-reinvented-the-phone-one-apple-suppliers-stock-soared-about-1200-in-a-decade/?.tsrc=rss",
+      "published": "Mon, 19 Oct 2026 15:49:32 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-19T16:06:29.693211+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "New ESW Guide Explains Copilot Studio Agent Pricing and the Controls to Set First",
+      "link": "https://finance.yahoo.com/technology/ai/articles/esw-guide-explains-copilot-studio-152500140.html?.tsrc=rss",
+      "published": "Mon, 19 Oct 2026 15:25:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-19T16:06:29.919639+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Morgan Stanley names Amazon \"Top Pick\" amid AWS strength",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-names-amazon-top-152533250.html?.tsrc=rss",
+      "published": "Mon, 19 Oct 2026 15:25:33 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-19T16:06:30.269565+00:00"
+    },
+    {
+      "ticker": "CRM",
+      "title": "Salesforce (CRM) Suffers a Larger Drop Than the General Market: Key Insights",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/salesforce-crm-suffers-larger-drop-204506562.html?.tsrc=rss",
+      "published": "Fri, 16 Oct 2026 20:45:06 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-19T16:06:31.376636+00:00"
+    },
+    {
+      "ticker": "CRM",
+      "title": "Salesforce Stock Is Up About 30% Since July 31. Here’s Where It Could Go by 2031",
+      "link": "https://www.tikr.com/blog/salesforce-stock-is-up-about-30-since-july-31-heres-where-it-could-go-by-2031?ref=yahoofinance&.tsrc=rss",
+      "published": "Fri, 16 Oct 2026 20:09:45 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-19T16:06:31.376681+00:00"
+    },
+    {
+      "ticker": "NFLX",
+      "title": "Netflix Is In A ‘Show-Me’ Period Ahead Of Earnings, Seaport Says Amid Price Target Cut",
+      "link": "https://stocktwits.com/news-articles/markets/equity/netflix-is-in-a-show-me-period-ahead-of-earnings-seaport-says-amid-price-target-cut/cZx8sIIRBMH?.tsrc=rss",
+      "published": "Mon, 19 Oct 2026 15:58:20 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-19T16:06:31.562519+00:00"
+    },
+    {
+      "ticker": "QCOM",
+      "title": "Arm and AMD Fall 5% as Qualcomm Verdict Adds to Chip Selloff; Taiwan Semiconductor Slips",
+      "link": "https://247wallst.com/investing/2026/10/16/arm-and-amd-fall-5-as-qualcomm-verdict-adds-to-chip-selloff-taiwan-semiconductor-slips/?.tsrc=rss",
+      "published": "Fri, 16 Oct 2026 18:10:37 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-19T16:06:31.967933+00:00"
+    },
+    {
+      "ticker": "PLTR",
+      "title": "Palantir Is Expanding Beyond Government Contracts. Here’s Why Investors Should Care",
+      "link": "https://247wallst.com/investing/2026/10/19/palantir-is-expanding-beyond-government-contracts-heres-why-investors-should-care/?.tsrc=rss",
+      "published": "Mon, 19 Oct 2026 15:30:20 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-19T16:06:32.206754+00:00"
+    },
+    {
+      "ticker": "SMCI",
+      "title": "Super Micro Named a New CFO After Burning Nearly $7 Billion in Free Cash Flow. Here’s Where the Stock Could Go by 2031",
+      "link": "https://www.tikr.com/blog/super-micro-named-a-new-cfo-after-burning-nearly-7-billion-in-free-cash-flow-heres-where-the-stock-could-go-by-2031?ref=yahoofinance&.tsrc=rss",
+      "published": "Fri, 16 Oct 2026 19:48:42 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-19T16:06:32.381137+00:00"
+    },
+    {
+      "ticker": "SMCI",
+      "title": "Hewlett Packard Enterprise Falls 5% as AI Financing Worries Extend Hardware Selloff; Super Micro Sinks 7%, Dell Drops 3%",
+      "link": "https://247wallst.com/investing/2026/10/16/hewlett-packard-enterprise-falls-5-as-ai-financing-worries-extend-hardware-selloff-super-micro-sinks-7-dell-drops-3/?.tsrc=rss",
+      "published": "Fri, 16 Oct 2026 15:42:22 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-19T16:06:32.381211+00:00"
+    },
+    {
+      "ticker": "ADBE",
+      "title": "Adobe Systems (ADBE) Registers a Bigger Fall Than the Market: Important Facts to Note",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/adobe-systems-adbe-registers-bigger-204505874.html?.tsrc=rss",
+      "published": "Fri, 16 Oct 2026 20:45:05 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-19T16:06:32.734111+00:00"
+    },
+    {
+      "ticker": "ADBE",
+      "title": "CORRECTING and REPLACING Adobe: U.S. Holiday Shopping Season to Hit Record $275.1 Billion Online, Rising 6.7% YoY",
+      "link": "https://finance.yahoo.com/media-advertising/articles/adobe-u-holiday-shopping-season-120000427.html?.tsrc=rss",
+      "published": "Fri, 16 Oct 2026 16:56:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-19T16:06:32.734169+00:00"
+    },
+    {
+      "ticker": "ADBE",
+      "title": "Is Adobe A Better Way Than Salesforce To Own AI Software Growth?",
+      "link": "https://www.trefis.com/articles/618989/is-adobe-a-better-way-than-salesforce-to-own-ai-software-growth/2026-10-16?.tsrc=rss",
+      "published": "Fri, 16 Oct 2026 16:02:09 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-19T16:06:32.734212+00:00"
+    },
+    {
+      "ticker": "TSM",
+      "title": "Semiconductor Sell-Off: 5 Stocks to Buy on the Dip",
+      "link": "https://www.fool.com/investing/2026/10/19/semiconductor-sell-off-5-stocks-to-buy-on-the-dip/?.tsrc=rss",
+      "published": "Mon, 19 Oct 2026 15:20:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-19T16:06:32.911579+00:00"
     }
   ]
 }
