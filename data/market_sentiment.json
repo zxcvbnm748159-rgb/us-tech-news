@@ -1,14 +1,14 @@
 {
   "date": "2026-10-19",
-  "score": 69,
+  "score": 70,
   "label": "Bullish",
   "counts": {
-    "positive": 44,
-    "negative": 20,
-    "neutral": 85
+    "positive": 51,
+    "negative": 22,
+    "neutral": 96
   },
-  "total": 149,
-  "updated_at": "2026-10-19T20:39:49.777176+00:00",
+  "total": 169,
+  "updated_at": "2026-10-19T21:55:32.480816+00:00",
   "articles": [
     {
       "link": "https://stocktwits.com/news-articles/markets/equity/stocktwits-tech-watch-netflix-and-meta-report-earnings-as-nvidia-oracle-product-events-loom/cZx8WbvRBME?.tsrc=rss",
@@ -605,6 +605,86 @@
     {
       "link": "https://finance.yahoo.com/markets/stocks/articles/tsmc-tsm-upgraded-strong-buy-150004178.html?.tsrc=rss",
       "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/19/where-history-says-vti-will-be-in-20-years/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/fc8c5a2b-d77d-3107-a23a-2331f80e2b71/dow-jones-futures%3A-amd%2C.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/19/2-stocks-down-68-and-71-to-buy-now-and-hold-for/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-deal-highlights-value-tinys-211900191.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-cleveland-cliffs-inc-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.thestreet.com/investing/microsoft-ai-expansion-loughton-england-delay-electricity-physical-limit?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tech-heavy-nasdaq-leads-wall-204243443.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/article/palantir-datadog-and-chip-stocks-bounce-back-as-amazon-lifts-wall-street-204043191.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3m-stock-rises-3-6b-213632761.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/10/19/stock-market-today-oct-19-amazon-surges-on-morgan-stanley-top-pick-and-usd350-price-target/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-amazon-amzn-stock-today-205655028.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/481643d0-68ce-3569-b0b4-1c9559b60c46/nuclear-stock-x-energy-ends-a.html?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.tikr.com/blog/shots-fired-meta-is-developers-on-outside-ai-tools-in-half-thats-a-big-problem-for-anthropic?ref=yahoofinance&.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-amd-surpasses-204503379.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/applied-materials-lam-research-marvell-212855831.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/formfactor-teradyne-entegris-kulicke-soffa-212055180.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-intel-intc-stock-today-204055591.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/video/palantir-is-flirting-with-all-time-highs-but-investors-should-be-cautious-205358541.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.barchart.com/story/news/8201273/super-micro-is-getting-a-new-cfo-what-that-means-for-smci-stock?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/buy-top-ranked-tech-stock-202600390.html?.tsrc=rss",
+      "sentiment": "neutral"
     }
   ]
 }
