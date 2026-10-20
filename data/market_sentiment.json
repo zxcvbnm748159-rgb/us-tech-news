@@ -3,12 +3,12 @@
   "score": 76,
   "label": "Bullish",
   "counts": {
-    "positive": 60,
-    "negative": 19,
-    "neutral": 123
+    "positive": 67,
+    "negative": 21,
+    "neutral": 136
   },
-  "total": 202,
-  "updated_at": "2026-10-20T21:34:17.405102+00:00",
+  "total": 224,
+  "updated_at": "2026-10-20T23:35:17.965728+00:00",
   "articles": [
     {
       "link": "https://www.independent.co.uk/tech/nvidia-jensen-huang-germany-ai-b3069662.html?.tsrc=rss",
@@ -817,6 +817,94 @@
     {
       "link": "https://www.barchart.com/story/news/8235829/a-4-billion-reason-to-buy-tsmc-stock-now?.tsrc=rss",
       "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/20/2-stocks-to-buy-from-the-5-that-make-up-roughly-61/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/20/this-nuclear-stock-could-be-your-ticket-to-million/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://beincrypto.com/spacex-ai-spending-shock-3-stocks-upside/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/moment-jensen-huang-realized-nvidia-221554282.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://app.moby.co/home/news/news-spacex-crushes-q3-with-some-help-from-musk?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/apple-aapl-stock-sinks-market-204502756.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.thestreet.com/investing/morgan-stanley-microsoft-earnings-test?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/20/amazon-vs-alphabet-which-magnificent-seven-stock-is-the-better-buy-right-now/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.thestreet.com/crypto/business/major-gold-holder-backs-nvidia-challenger?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/anthropic-cloud-partnerships-getting-messy-212522443.html?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-3m-mmm-stock-rocketing-222950865.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/40378091-9f13-35f6-a4eb-65961ef4434c/dow-jones-futures%3A-ai-stocks.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.thestreet.com/crypto/markets/aptos-cuts-apt-supply-growth-by-70-after-token-overhaul-report-finds?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/video/spacex-tesla-merger-musk-speaks-on-tap-dancing-through-a-minefield-215718083.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-tesla-boards-form-special-225757753.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://stocktwits.com/news-articles/markets/equity/space-x-tesla-form-independent-committees-to-explore-merger-elon-musk-says-deal-not-a-certainty/cZxABS0RBHQ?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.marketbeat.com/instant-alerts/transcript-netflix-q3-earnings-call-highlights-2026-10-20/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/media-advertising/articles/netflix-shares-drop-slowing-engagement-224135488.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/20/netflix-cut-its-ad-revenue-forecast-by-300-million-does-that-matter-more-than-its-earnings-beat/?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.thestreet.com/investing/earnings/netflix-nflx-q3-2026-earnings-call-stock-forecast-updates?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-qcom-beats-stock-market-204505184.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/65105cf9-3f6e-373a-89e7-00b311f8a8ea/super-micro-computer-surges.html?.tsrc=rss",
+      "sentiment": "positive"
     }
   ]
 }
