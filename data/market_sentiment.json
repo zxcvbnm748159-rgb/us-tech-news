@@ -1,14 +1,14 @@
 {
   "date": "2026-10-20",
-  "score": 77,
+  "score": 74,
   "label": "Bullish",
   "counts": {
-    "positive": 48,
-    "negative": 14,
-    "neutral": 90
+    "positive": 51,
+    "negative": 18,
+    "neutral": 97
   },
-  "total": 152,
-  "updated_at": "2026-10-20T18:06:41.105497+00:00",
+  "total": 166,
+  "updated_at": "2026-10-20T18:52:11.349520+00:00",
   "articles": [
     {
       "link": "https://www.independent.co.uk/tech/nvidia-jensen-huang-germany-ai-b3069662.html?.tsrc=rss",
@@ -617,6 +617,62 @@
     {
       "link": "https://finance.yahoo.com/real-estate/articles/leon-capital-group-breaks-ground-130000583.html?.tsrc=rss",
       "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.euronews.com/2026/10/20/investment-summit-german-government-strikes-ai-deal-with-nvidia?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/20/nvidia-reportedly-just-landed-usd35-billion-in-chip-orders-from-chinese-companies-here-s-why-that-could-be-great-news-for-the-stock/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.proactiveinvestors.com/companies/news/1100418/apple-faces-gross-margin-pressure-as-ubs-flags-slowing-iphone-growth-ahead-of-earnings-1100418.html?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/10/20/what-happened-to-1000-invested-in-microsoft-before-its-cloud-and-ai-boom/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://uk.finance.yahoo.com/news/bank-england-investigates-google-outage-182810666.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/eric-schmidt-reportedly-owns-half-175512820.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/small-business/articles/amazon-creates-over-300-000-183100154.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.cbsnews.com/news/amazon-seasonal-jobs-holiday-hiring-pay/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/article/meta-q3-earnings-to-test-wall-streets-stomach-for-ai-spending-184105375.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/ten-million-downloads-six-weeks-183100965.html?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/92a71cf7-ae4b-3d0b-b8d0-b823186d79ef/meta-stocks-slides-as.html?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.investopedia.com/market-update-todays-earnings-are-an-opportunity-for-netflix-unloved-stock-to-win-back-fans-nflx-12184137?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://stocktwits.com/news-articles/markets/equity/qualcomm-to-reportedly-conduct-global-layoffs-in-performance-driven-overhaul/cZxAcMrRBHI?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/best-strong-buy-stocks-buy-173400302.html?.tsrc=rss",
+      "sentiment": "positive"
     }
   ]
 }

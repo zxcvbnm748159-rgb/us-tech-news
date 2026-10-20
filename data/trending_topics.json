@@ -1,7 +1,7 @@
 {
   "date": "2026-10-20",
   "window_days": 7,
-  "source_count": 571,
+  "source_count": 585,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 106,
+      "count": 108,
       "kind": "ticker"
     },
     {
@@ -21,7 +21,7 @@
         "revenue guidance",
         "profit forecast"
       ],
-      "count": 68,
+      "count": 73,
       "kind": "topic"
     },
     {
@@ -30,7 +30,7 @@
       "search_terms": [
         "GOOGL"
       ],
-      "count": 59,
+      "count": 61,
       "kind": "ticker"
     },
     {
@@ -39,7 +39,7 @@
       "search_terms": [
         "META"
       ],
-      "count": 41,
+      "count": 44,
       "kind": "ticker"
     },
     {
@@ -48,7 +48,7 @@
       "search_terms": [
         "AAPL"
       ],
-      "count": 39,
+      "count": 40,
       "kind": "ticker"
     },
     {
@@ -57,7 +57,7 @@
       "search_terms": [
         "AMZN"
       ],
-      "count": 38,
+      "count": 40,
       "kind": "ticker"
     },
     {
@@ -75,7 +75,7 @@
       "search_terms": [
         "MSFT"
       ],
-      "count": 32,
+      "count": 33,
       "kind": "ticker"
     },
     {
@@ -84,7 +84,7 @@
       "search_terms": [
         "TSM"
       ],
-      "count": 26,
+      "count": 27,
       "kind": "ticker"
     },
     {
@@ -114,11 +114,11 @@
       "search_terms": [
         "NFLX"
       ],
-      "count": 24,
+      "count": 25,
       "kind": "ticker"
     }
   ],
-  "updated_at": "2026-10-20T18:06:41.120058+00:00",
+  "updated_at": "2026-10-20T18:52:11.364366+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -7542,6 +7542,188 @@
       "impact_direction": "neutral",
       "sentiment": "neutral",
       "fetched_at": "2026-10-20T18:06:41.104937+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Not left behind after all? German government strikes AI deal with Nvidia",
+      "link": "https://www.euronews.com/2026/10/20/investment-summit-german-government-strikes-ai-deal-with-nvidia?.tsrc=rss",
+      "published": "Tue, 20 Oct 2026 18:40:57 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-20T18:52:08.092849+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Nvidia Reportedly Just Landed $35 Billion In Chip Orders From Chinese Companies. Here's Why That Could Be Great News for the Stock",
+      "link": "https://www.fool.com/investing/2026/10/20/nvidia-reportedly-just-landed-usd35-billion-in-chip-orders-from-chinese-companies-here-s-why-that-could-be-great-news-for-the-stock/?.tsrc=rss",
+      "published": "Tue, 20 Oct 2026 18:28:01 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-20T18:52:08.092933+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Apple faces gross margin pressure as UBS flags slowing iPhone growth ahead of earnings",
+      "link": "https://www.proactiveinvestors.com/companies/news/1100418/apple-faces-gross-margin-pressure-as-ubs-flags-slowing-iphone-growth-ahead-of-earnings-1100418.html?.tsrc=rss",
+      "published": "Tue, 20 Oct 2026 18:46:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-20T18:52:08.269291+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "What Happened to $1,000 Invested in Microsoft Before Its Cloud and AI Boom?",
+      "link": "https://247wallst.com/investing/2026/10/20/what-happened-to-1000-invested-in-microsoft-before-its-cloud-and-ai-boom/?.tsrc=rss",
+      "published": "Tue, 20 Oct 2026 18:15:59 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-20T18:52:08.441776+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Bank of England investigates Google outage",
+      "link": "https://uk.finance.yahoo.com/news/bank-england-investigates-google-outage-182810666.html?.tsrc=rss",
+      "published": "Tue, 20 Oct 2026 18:28:10 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-20T18:52:08.615087+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
+      "link": "https://finance.yahoo.com/technology/ai/articles/eric-schmidt-reportedly-owns-half-175512820.html?.tsrc=rss",
+      "published": "Tue, 20 Oct 2026 17:55:12 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-20T18:52:08.615129+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Amazon Creates Over 300,000 New U.S. Jobs This Holiday Season with Increased Pay and Expanded Benefits",
+      "link": "https://finance.yahoo.com/small-business/articles/amazon-creates-over-300-000-183100154.html?.tsrc=rss",
+      "published": "Tue, 20 Oct 2026 18:31:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-20T18:52:08.791013+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Amazon to hire 300,000 workers for seasonal jobs this year",
+      "link": "https://www.cbsnews.com/news/amazon-seasonal-jobs-holiday-hiring-pay/?.tsrc=rss",
+      "published": "Tue, 20 Oct 2026 18:28:11 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-20T18:52:08.791048+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "Meta Q3 earnings to test Wall Street's stomach for AI spending",
+      "link": "https://finance.yahoo.com/technology/article/meta-q3-earnings-to-test-wall-streets-stomach-for-ai-spending-184105375.html?.tsrc=rss",
+      "published": "Tue, 20 Oct 2026 18:41:05 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-20T18:52:08.972729+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "Ten Million Downloads in Six Weeks: The Fight for the AI Agent in Your Pocket Has Started",
+      "link": "https://finance.yahoo.com/technology/ai/articles/ten-million-downloads-six-weeks-183100965.html?.tsrc=rss",
+      "published": "Tue, 20 Oct 2026 18:31:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-20T18:52:08.972805+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "Meta Stocks Slides as Earnings Loom. Is Muse Losing Its Shine Already?",
+      "link": "https://finance.yahoo.com/m/92a71cf7-ae4b-3d0b-b8d0-b823186d79ef/meta-stocks-slides-as.html?.tsrc=rss",
+      "published": "Tue, 20 Oct 2026 17:10:13 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-20T18:52:08.972860+00:00"
+    },
+    {
+      "ticker": "NFLX",
+      "title": "Netflix’s ‘Unloved Stock’ Faces a Crucial Test With Today’s Earnings Report",
+      "link": "https://www.investopedia.com/market-update-todays-earnings-are-an-opportunity-for-netflix-unloved-stock-to-win-back-fans-nflx-12184137?.tsrc=rss",
+      "published": "Tue, 20 Oct 2026 14:04:58 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-20T18:52:10.042796+00:00"
+    },
+    {
+      "ticker": "QCOM",
+      "title": "Qualcomm To Reportedly Conduct Global Layoffs In Performance-Driven Overhaul",
+      "link": "https://stocktwits.com/news-articles/markets/equity/qualcomm-to-reportedly-conduct-global-layoffs-in-performance-driven-overhaul/cZxAcMrRBHI?.tsrc=rss",
+      "published": "Tue, 20 Oct 2026 18:07:15 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-20T18:52:10.400989+00:00"
+    },
+    {
+      "ticker": "TSM",
+      "title": "The Best \"Strong Buy\" Stocks to Buy Now During Q3 Earnings Season",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/best-strong-buy-stocks-buy-173400302.html?.tsrc=rss",
+      "published": "Tue, 20 Oct 2026 17:34:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-20T18:52:11.348912+00:00"
     }
   ]
 }
