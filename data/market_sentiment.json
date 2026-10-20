@@ -1,14 +1,14 @@
 {
   "date": "2026-10-20",
-  "score": 71,
+  "score": 70,
   "label": "Bullish",
   "counts": {
-    "positive": 5,
-    "negative": 2,
-    "neutral": 6
+    "positive": 7,
+    "negative": 3,
+    "neutral": 8
   },
-  "total": 13,
-  "updated_at": "2026-10-20T08:01:44.143131+00:00",
+  "total": 18,
+  "updated_at": "2026-10-20T08:23:13.708294+00:00",
   "articles": [
     {
       "link": "https://www.independent.co.uk/tech/nvidia-jensen-huang-germany-ai-b3069662.html?.tsrc=rss",
@@ -60,6 +60,26 @@
     },
     {
       "link": "https://finance.yahoo.com/markets/stocks/articles/ibm-ibm-q3-earnings-report-051750580.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/20/warren-buffett-is-issuing-a-stark-warning-about-th/?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/20/prediction-oct-21-will-be-a-huge-day-for-the-stock-market/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://stocktwits.com/news-articles/markets/equity/early-uber-investor-jason-calacanis-waymo-buy-lucid-rivian-chinese-car-optics-really-bad/cZxq82oRBu0?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/7caf99c3-816b-36f3-8b90-e08fea22398d/netflix-needs-an-earnings-win.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://beincrypto.com/ark-invest-tesla-price-target-2031/?.tsrc=rss",
       "sentiment": "neutral"
     }
   ]
