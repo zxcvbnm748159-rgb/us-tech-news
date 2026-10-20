@@ -3,12 +3,12 @@
   "score": 71,
   "label": "Bullish",
   "counts": {
-    "positive": 55,
-    "negative": 22,
-    "neutral": 106
+    "positive": 59,
+    "negative": 24,
+    "neutral": 111
   },
-  "total": 183,
-  "updated_at": "2026-10-19T23:56:07.562850+00:00",
+  "total": 194,
+  "updated_at": "2026-10-20T02:51:10.904757+00:00",
   "articles": [
     {
       "link": "https://stocktwits.com/news-articles/markets/equity/stocktwits-tech-watch-netflix-and-meta-report-earnings-as-nvidia-oracle-product-events-loom/cZx8WbvRBME?.tsrc=rss",
@@ -741,6 +741,50 @@
     {
       "link": "https://finance.yahoo.com/markets/stocks/articles/why-intel-intc-outpaced-stock-204501885.html?.tsrc=rss",
       "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-vs-tsmc-business-depends-185630787.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://stocktwits.com/news-articles/markets/equity/an-oil-refiner-is-beating-nvidia-this-year-analyst-thinks-it-can-rally-16-more-from-here/cZxqXy0RBu3?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/19/meet-the-dividend-king-stock-that-yields-more-than/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://beincrypto.com/citi-microsoft-neoclouds-ai-debt-squeeze/?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/slower-growth-outlook-change-reddit-020921936.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/articles/mipi-alliance-announces-board-leadership-020700536.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://stocktwits.com/news-articles/markets/equity/tesla-stock-cathie-wood-ark-robotaxis-spacex-merger-5-years/cZxqgkXRBuE?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://stocktwits.com/news-articles/markets/equity/mmm-stock-jumps-overnight-amazon-could-own-a-piece-of-3-m-if-it-spends-6-b-on-its-data-center-products/cZxqgneRBu4?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-tesla-earnings-deck-key-232400685.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/articles/broadcom-advance-ntt-docomo-private-010000359.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/video/spacex-netflix-gm-united-airlines-000000356.html?.tsrc=rss",
+      "sentiment": "positive"
     }
   ]
 }
