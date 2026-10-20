@@ -1,7 +1,7 @@
 {
-  "date": "2026-10-19",
+  "date": "2026-10-20",
   "window_days": 7,
-  "source_count": 413,
+  "source_count": 432,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 88,
+      "count": 91,
       "kind": "ticker"
     },
     {
@@ -21,7 +21,7 @@
         "revenue guidance",
         "profit forecast"
       ],
-      "count": 47,
+      "count": 54,
       "kind": "topic"
     },
     {
@@ -30,16 +30,7 @@
       "search_terms": [
         "GOOGL"
       ],
-      "count": 44,
-      "kind": "ticker"
-    },
-    {
-      "label": "AAPL",
-      "query": "AAPL",
-      "search_terms": [
-        "AAPL"
-      ],
-      "count": 28,
+      "count": 46,
       "kind": "ticker"
     },
     {
@@ -48,7 +39,16 @@
       "search_terms": [
         "META"
       ],
-      "count": 28,
+      "count": 31,
+      "kind": "ticker"
+    },
+    {
+      "label": "AAPL",
+      "query": "AAPL",
+      "search_terms": [
+        "AAPL"
+      ],
+      "count": 29,
       "kind": "ticker"
     },
     {
@@ -57,7 +57,7 @@
       "search_terms": [
         "AMZN"
       ],
-      "count": 27,
+      "count": 29,
       "kind": "ticker"
     },
     {
@@ -66,7 +66,7 @@
       "search_terms": [
         "TSLA"
       ],
-      "count": 27,
+      "count": 29,
       "kind": "ticker"
     },
     {
@@ -87,7 +87,7 @@
       "search_terms": [
         "MSFT"
       ],
-      "count": 21,
+      "count": 22,
       "kind": "ticker"
     },
     {
@@ -118,7 +118,7 @@
       "kind": "ticker"
     }
   ],
-  "updated_at": "2026-10-20T03:00:03.297310+00:00",
+  "updated_at": "2026-10-20T08:01:44.156046+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -5488,6 +5488,253 @@
       "impact_direction": "neutral",
       "sentiment": "neutral",
       "fetched_at": "2026-10-20T03:00:00.325647+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Nvidia chief makes surprising prediction about AI replacing human industry",
+      "link": "https://www.independent.co.uk/tech/nvidia-jensen-huang-germany-ai-b3069662.html?.tsrc=rss",
+      "published": "Tue, 20 Oct 2026 07:33:10 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-20T08:01:40.859751+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "3 European AI Factory Automation Stocks Retail Investors Should Watch Now",
+      "link": "https://finance.yahoo.com/technology/ai/articles/3-european-ai-factory-automation-051514947.html?.tsrc=rss",
+      "published": "Tue, 20 Oct 2026 05:15:14 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-20T08:01:40.859800+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Chip Stocks Just Had Their Longest Losing Streak Since 2008. Should You Buy Nvidia Stock Now?",
+      "link": "https://www.fool.com/investing/2026/10/19/chip-stocks-just-had-their-longest-losing-streak-since-2008-should-you-buy-nvidia-stock-now/?.tsrc=rss",
+      "published": "Tue, 20 Oct 2026 03:43:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-20T08:01:40.859861+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Deep Hardware-Software Integration Drives Apple’s (AAPL) Underappreciated AI Advantage",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/deep-hardware-software-integration-drives-163110026.html?.tsrc=rss",
+      "published": "Tue, 20 Oct 2026 02:41:10 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-20T08:01:41.072690+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Microsoft vs. Oracle: Which Tech Stock Is a Better Buy in 2026?",
+      "link": "https://www.fool.com/coverage/better-buy/2026/10/19/microsoft-vs-oracle-which-tech-stock-is-a-better-buy-in-2026/?.tsrc=rss",
+      "published": "Tue, 20 Oct 2026 04:10:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-20T08:01:41.216098+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "SpaceX Faces Earnings Test Today: RBC Flags Over 50% Upside As Tesla Merger Buzz Builds, S&P Flags AI Financing Risks",
+      "link": "https://stocktwits.com/news-articles/markets/equity/spacex-earnings-test-rbc-upside-tesla-merger-buzz-sandp-ai-financing-risks/cZxqVYwRBuh?.tsrc=rss",
+      "published": "Tue, 20 Oct 2026 07:26:56 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-20T08:01:41.374566+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Eric Schmidt Wrote a Check to Anthropic Before the AI Boom: Here’s How Big the Payoff Could Get",
+      "link": "https://finance.yahoo.com/technology/ai/articles/eric-schmidt-wrote-check-anthropic-043353226.html?.tsrc=rss",
+      "published": "Tue, 20 Oct 2026 04:33:53 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-20T08:01:41.374640+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Amazon Stock to Top $300 in October? Prediction Market Punters Trade the Odds as Morgan Stanley Raises Near-Term Target",
+      "link": "https://www.benzinga.com/markets/prediction-markets/26/10/62457636/amzn-stock-amazon-price-prediction-polymarket-prediction?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+      "published": "Tue, 20 Oct 2026 05:36:56 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-20T08:01:41.560994+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "AWS Margin Expansion and Retail Execution Power Amazon (AMZN) in Q3",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/aws-margin-expansion-retail-execution-160812419.html?.tsrc=rss",
+      "published": "Tue, 20 Oct 2026 02:45:12 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-20T08:01:41.561060+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "Meta Earnings: What To Look For From META",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/meta-earnings-look-meta-071750379.html?.tsrc=rss",
+      "published": "Tue, 20 Oct 2026 07:17:50 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-20T08:01:41.779630+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "Dow, S&P 500, Nasdaq Edge Higher Amid Tech Rebound As Q3 Earnings Season Forges Ahead: DJT, AMZN, CBRS, CRWV Stocks In Focus",
+      "link": "https://stocktwits.com/news-articles/markets/equity/dow-s-and-p-500-nasdaq-edge-higher-amid-tech-rebound-as-q3-earnings-season-forges-ahead-djt-amzn-cbrs-crwv-stocks-in-focus/cZxq0LsRBuB?.tsrc=rss",
+      "published": "Tue, 20 Oct 2026 03:31:56 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-20T08:01:41.779761+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "Accelerating Ad Business and Distribution Scale Create Compelling Value at Meta Platforms (META)",
+      "link": "https://finance.yahoo.com/media-advertising/articles/accelerating-ad-business-distribution-scale-144207449.html?.tsrc=rss",
+      "published": "Tue, 20 Oct 2026 03:20:07 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-20T08:01:41.779921+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Tesla (TSLA) Reports Earnings Tomorrow: What To Expect",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-reports-earnings-tomorrow-074950484.html?.tsrc=rss",
+      "published": "Tue, 20 Oct 2026 07:49:50 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-20T08:01:41.984735+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "SpaceX vs. Tesla: Which Is the Better Elon Musk Stock to Own for the Next 5 Years",
+      "link": "https://www.fool.com/investing/2026/10/20/spacex-vs-tesla-which-is-the-better-elon-musk-stoc/?.tsrc=rss",
+      "published": "Tue, 20 Oct 2026 07:20:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-20T08:01:41.984821+00:00"
+    },
+    {
+      "ticker": "AVGO",
+      "title": "AVGO Stock Edges Up Overnight After 10-Year Docomo Deal, But Retail Stays On Edge Over CEO’s AI ‘Casino’ Remarks",
+      "link": "https://stocktwits.com/news-articles/markets/equity/avgo-stock-10-year-docomo-deal-retail-on-edge-ceo-ai-casino-remarks/cZxqiudRBuJ?.tsrc=rss",
+      "published": "Tue, 20 Oct 2026 03:08:22 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-20T08:01:42.355946+00:00"
+    },
+    {
+      "ticker": "ORCL",
+      "title": "Oracle and AstraZeneca Partner to Advance AI-enabled Healthcare Innovation",
+      "link": "https://finance.yahoo.com/healthcare/articles/oracle-astrazeneca-partner-advance-ai-040000282.html?.tsrc=rss",
+      "published": "Tue, 20 Oct 2026 04:00:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-20T08:01:42.533064+00:00"
+    },
+    {
+      "ticker": "NFLX",
+      "title": "Should You Buy Netflix Stock Before Its Earnings Report After Hours Today?",
+      "link": "https://www.fool.com/investing/2026/10/20/should-you-buy-netflix-stock-before-its-earnings-report-after-hours-today/?.tsrc=rss",
+      "published": "Tue, 20 Oct 2026 04:50:01 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-20T08:01:42.856534+00:00"
+    },
+    {
+      "ticker": "NFLX",
+      "title": "NFLX Stock Flat Overnight: Netflix's ‘Largest Content Deal’ With Brazil Media Giant Globo Fails To Sway Retail Ahead Of Earnings",
+      "link": "https://stocktwits.com/news-articles/markets/equity/nflx-stock-flat-overnight-netflix-s-largest-content-deal-with-brazil-media-giant-globo-fails-to-sway-retail-ahead-of-earnings/cZxq18eRBuO?.tsrc=rss",
+      "published": "Tue, 20 Oct 2026 04:17:39 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-20T08:01:42.856634+00:00"
+    },
+    {
+      "ticker": "IBM",
+      "title": "IBM (IBM) Q3 Earnings Report Preview: What To Look For",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ibm-ibm-q3-earnings-report-051750580.html?.tsrc=rss",
+      "published": "Tue, 20 Oct 2026 05:17:50 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-20T08:01:43.739128+00:00"
     }
   ]
 }
