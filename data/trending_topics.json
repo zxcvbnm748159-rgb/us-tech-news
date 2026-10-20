@@ -1,7 +1,7 @@
 {
   "date": "2026-10-20",
   "window_days": 7,
-  "source_count": 500,
+  "source_count": 512,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 98,
+      "count": 101,
       "kind": "ticker"
     },
     {
@@ -21,7 +21,7 @@
         "revenue guidance",
         "profit forecast"
       ],
-      "count": 60,
+      "count": 61,
       "kind": "topic"
     },
     {
@@ -30,7 +30,7 @@
       "search_terms": [
         "GOOGL"
       ],
-      "count": 53,
+      "count": 55,
       "kind": "ticker"
     },
     {
@@ -43,6 +43,15 @@
       "kind": "ticker"
     },
     {
+      "label": "AMZN",
+      "query": "AMZN",
+      "search_terms": [
+        "AMZN"
+      ],
+      "count": 35,
+      "kind": "ticker"
+    },
+    {
       "label": "TSLA",
       "query": "TSLA",
       "search_terms": [
@@ -52,21 +61,12 @@
       "kind": "ticker"
     },
     {
-      "label": "AMZN",
-      "query": "AMZN",
-      "search_terms": [
-        "AMZN"
-      ],
-      "count": 34,
-      "kind": "ticker"
-    },
-    {
       "label": "AAPL",
       "query": "AAPL",
       "search_terms": [
         "AAPL"
       ],
-      "count": 33,
+      "count": 34,
       "kind": "ticker"
     },
     {
@@ -109,16 +109,16 @@
       "kind": "ticker"
     },
     {
-      "label": "INTC",
-      "query": "INTC",
+      "label": "AVGO",
+      "query": "AVGO",
       "search_terms": [
-        "INTC"
+        "AVGO"
       ],
       "count": 20,
       "kind": "ticker"
     }
   ],
-  "updated_at": "2026-10-20T13:32:30.934267+00:00",
+  "updated_at": "2026-10-20T14:01:55.763899+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -6619,6 +6619,162 @@
       "impact_direction": "neutral",
       "sentiment": "neutral",
       "fetched_at": "2026-10-20T13:32:30.881382+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Chips lead Nasdaq lower, oil tops 5-month high: AlphaCheck",
+      "link": "https://finance.yahoo.com/markets/article/chips-lead-nasdaq-lower-oil-tops-5-month-high-alphacheck-134325052.html?.tsrc=rss",
+      "published": "Tue, 20 Oct 2026 13:43:25 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-20T14:01:53.916883+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Hedge Funds Dumped Tech Stocks at the Fastest Pace in a Decade, Goldman Says",
+      "link": "https://247wallst.com/investing/2026/10/20/hedge-funds-dumped-tech-stocks-at-the-fastest-pace-in-a-decade-goldman-says/?.tsrc=rss",
+      "published": "Tue, 20 Oct 2026 13:35:27 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-20T14:01:53.917000+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "NVIDIA Gets the Attention, but Broadcom Could Deliver the Bigger Surprise",
+      "link": "https://247wallst.com/investing/2026/10/20/nvidia-gets-the-attention-but-broadcom-could-deliver-the-bigger-surprise/?.tsrc=rss",
+      "published": "Tue, 20 Oct 2026 13:30:17 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-20T14:01:53.917074+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Apple Stock Downgraded As Analysts Turn Cautious On iPhone Maker",
+      "link": "https://finance.yahoo.com/m/0e91d904-b722-3eca-9e6f-93961c30a035/apple-stock-downgraded-as.html?.tsrc=rss",
+      "published": "Tue, 20 Oct 2026 13:48:10 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-20T14:01:54.025438+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Meta (META): Can WhatsApp Become a Meaningful Business Beyond Advertising?",
+      "link": "https://finance.yahoo.com/technology/articles/meta-meta-whatsapp-become-meaningful-134325729.html?.tsrc=rss",
+      "published": "Tue, 20 Oct 2026 13:43:25 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-20T14:01:54.227125+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Alphabet (GOOGL): Can YouTube Subscriptions Make Its Earnings More Resilient?",
+      "link": "https://finance.yahoo.com/technology/articles/alphabet-googl-youtube-subscriptions-earnings-133856164.html?.tsrc=rss",
+      "published": "Tue, 20 Oct 2026 13:38:56 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-20T14:01:54.227169+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Amazon (AMZN): How Much More Can It Earn From Sellers Before Their Economics Suffer?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/amazon-amzn-much-more-earn-134004519.html?.tsrc=rss",
+      "published": "Tue, 20 Oct 2026 13:40:04 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-20T14:01:54.340612+00:00"
+    },
+    {
+      "ticker": "AVGO",
+      "title": "Broadcom (AVGO): Can VMware Remain a Durable Cash Engine as Customers Reassess Private Clouds?",
+      "link": "https://finance.yahoo.com/technology/articles/broadcom-avgo-vmware-remain-durable-134447254.html?.tsrc=rss",
+      "published": "Tue, 20 Oct 2026 13:44:47 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-20T14:01:54.724183+00:00"
+    },
+    {
+      "ticker": "ORCL",
+      "title": "Oracle (ORCL): Can Rival Clouds Become Its Best Database Sales Channel?",
+      "link": "https://finance.yahoo.com/technology/articles/oracle-orcl-rival-clouds-become-134541503.html?.tsrc=rss",
+      "published": "Tue, 20 Oct 2026 13:45:41 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-20T14:01:54.819885+00:00"
+    },
+    {
+      "ticker": "ORCL",
+      "title": "Billionaires Ken Fisher and Paul Tudor Jones Were Buying This AI Stock",
+      "link": "https://finance.yahoo.com/technology/ai/articles/billionaires-ken-fisher-paul-tudor-133332049.html?.tsrc=rss",
+      "published": "Tue, 20 Oct 2026 13:33:32 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-20T14:01:54.819966+00:00"
+    },
+    {
+      "ticker": "CRM",
+      "title": "Klaviyo shares jump 8% as Salesforce moves to acquire rival Braze for $5.7 billion",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/klaviyo-shares-jump-8-salesforce-134516165.html?.tsrc=rss",
+      "published": "Tue, 20 Oct 2026 13:45:16 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-20T14:01:54.938326+00:00"
+    },
+    {
+      "ticker": "CRM",
+      "title": "Salesforce Retreats 2% on $5.66B Deal for Braze, Even as ServiceNow and Adobe Gain 2%",
+      "link": "https://247wallst.com/investing/2026/10/20/salesforce-retreats-2-on-5-66b-deal-for-braze-even-as-servicenow-and-adobe-gain-2/?.tsrc=rss",
+      "published": "Tue, 20 Oct 2026 13:37:23 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-20T14:01:54.938438+00:00"
     }
   ]
 }
