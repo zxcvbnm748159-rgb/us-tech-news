@@ -3,12 +3,12 @@
   "score": 71,
   "label": "Bullish",
   "counts": {
-    "positive": 59,
+    "positive": 60,
     "negative": 24,
-    "neutral": 111
+    "neutral": 112
   },
-  "total": 194,
-  "updated_at": "2026-10-20T02:51:10.904757+00:00",
+  "total": 196,
+  "updated_at": "2026-10-20T03:00:03.283850+00:00",
   "articles": [
     {
       "link": "https://stocktwits.com/news-articles/markets/equity/stocktwits-tech-watch-netflix-and-meta-report-earnings-as-nvidia-oracle-product-events-loom/cZx8WbvRBME?.tsrc=rss",
@@ -785,6 +785,14 @@
     {
       "link": "https://finance.yahoo.com/video/spacex-netflix-gm-united-airlines-000000356.html?.tsrc=rss",
       "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/19/up-10-in-the-last-two-weeks-is-airbnb-the-perfect-stock-for-today-s-market/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.cbsnews.com/news/california-billionaire-tax-stanford-study/?.tsrc=rss",
+      "sentiment": "neutral"
     }
   ]
 }

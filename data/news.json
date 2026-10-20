@@ -1,6 +1,45 @@
 [
   {
     "ticker": "NVDA",
+    "title": "Up 10% in the Last Two Weeks, Is Airbnb the Perfect Stock for Today's Market?",
+    "link": "https://www.fool.com/investing/2026/10/19/up-10-in-the-last-two-weeks-is-airbnb-the-perfect-stock-for-today-s-market/?.tsrc=rss",
+    "published": "Tue, 20 Oct 2026 02:50:02 +0000",
+    "summary_th": "",
+    "category": "General",
+    "ai_analysis": "",
+    "impact_level": "low",
+    "impact_direction": "neutral",
+    "sentiment": "positive",
+    "fetched_at": "2026-10-20T02:59:59.729383+00:00"
+  },
+  {
+    "ticker": "GOOGL",
+    "title": "California billionaire tax could backfire, Stanford study says",
+    "link": "https://www.cbsnews.com/news/california-billionaire-tax-stanford-study/?.tsrc=rss",
+    "published": "Tue, 20 Oct 2026 02:55:14 +0000",
+    "summary_th": "",
+    "category": "General",
+    "ai_analysis": "",
+    "impact_level": "low",
+    "impact_direction": "neutral",
+    "sentiment": "neutral",
+    "fetched_at": "2026-10-20T03:00:00.325647+00:00"
+  },
+  {
+    "ticker": "CRM",
+    "title": "5 big analyst AI moves: Meta gets Street-high PT; Salesforce double upgraded",
+    "link": "https://finance.yahoo.com/technology/ai/articles/5-big-analyst-ai-moves-074804234.html?.tsrc=rss",
+    "published": "Sun, 18 Oct 2026 07:48:04 +0000",
+    "summary_th": "",
+    "category": "General",
+    "ai_analysis": "",
+    "impact_level": "low",
+    "impact_direction": "neutral",
+    "sentiment": "neutral",
+    "fetched_at": "2026-10-20T03:00:01.666829+00:00"
+  },
+  {
+    "ticker": "NVDA",
     "title": "Nvidia vs. TSMC: Which Business Depends Less on Picking the Winning AI Chip?",
     "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-vs-tsmc-business-depends-185630787.html?.tsrc=rss",
     "published": "Tue, 20 Oct 2026 01:29:30 +0000",
@@ -3859,44 +3898,5 @@
     "impact_direction": "neutral",
     "sentiment": "positive",
     "fetched_at": "2026-10-18T10:58:51.261563+00:00"
-  },
-  {
-    "ticker": "MSFT",
-    "title": "Microsoft pulls out of UK data centre deal with Nscale, Telegraph reports",
-    "link": "https://finance.yahoo.com/technology/ai/articles/microsoft-pulls-uk-data-centre-095253878.html?.tsrc=rss",
-    "published": "Sun, 18 Oct 2026 09:52:53 +0000",
-    "summary_th": "",
-    "category": "General",
-    "ai_analysis": "",
-    "impact_level": "low",
-    "impact_direction": "neutral",
-    "sentiment": "neutral",
-    "fetched_at": "2026-10-18T10:58:51.630644+00:00"
-  },
-  {
-    "ticker": "MSFT",
-    "title": "Where Will Microsoft Stock Be in 2030?",
-    "link": "https://www.fool.com/investing/2026/10/18/where-will-microsoft-stock-be-in-2030/?.tsrc=rss",
-    "published": "Sun, 18 Oct 2026 08:43:01 +0000",
-    "summary_th": "",
-    "category": "General",
-    "ai_analysis": "",
-    "impact_level": "low",
-    "impact_direction": "neutral",
-    "sentiment": "neutral",
-    "fetched_at": "2026-10-18T10:58:51.630672+00:00"
-  },
-  {
-    "ticker": "GOOGL",
-    "title": "3 Cash Flow Stocks To Watch In October 2026",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/3-cash-flow-stocks-watch-101147480.html?.tsrc=rss",
-    "published": "Sun, 18 Oct 2026 10:11:47 +0000",
-    "summary_th": "",
-    "category": "General",
-    "ai_analysis": "",
-    "impact_level": "low",
-    "impact_direction": "neutral",
-    "sentiment": "neutral",
-    "fetched_at": "2026-10-18T10:58:51.770444+00:00"
   }
 ]
