@@ -1,14 +1,14 @@
 {
   "date": "2026-10-20",
-  "score": 74,
+  "score": 76,
   "label": "Bullish",
   "counts": {
-    "positive": 51,
-    "negative": 18,
-    "neutral": 97
+    "positive": 60,
+    "negative": 19,
+    "neutral": 123
   },
-  "total": 166,
-  "updated_at": "2026-10-20T18:52:11.349520+00:00",
+  "total": 202,
+  "updated_at": "2026-10-20T21:34:17.405102+00:00",
   "articles": [
     {
       "link": "https://www.independent.co.uk/tech/nvidia-jensen-huang-germany-ai-b3069662.html?.tsrc=rss",
@@ -673,6 +673,150 @@
     {
       "link": "https://finance.yahoo.com/markets/stocks/articles/best-strong-buy-stocks-buy-173400302.html?.tsrc=rss",
       "sentiment": "positive"
+    },
+    {
+      "link": "https://247wallst.com/investing/etf/2026/10/20/unretired-at-68-and-the-paycheck-is-back-these-3-etfs-decide-what-the-new-money-should-do/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/amazon-stockpiles-nvidia-ai-hardware-194615746.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/market-chatter-amazon-buying-more-192912711.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/20/2-dividend-stocks-crushing-the-market-in-2026-and/?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/20/chevron-is-pouring-billions-into-venezuela-heres-t/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/apple-1-999-foldable-phone-210536588.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/20/prediction-apples-stock-is-due-for-a-reality-check/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/0f052461-d633-37b3-a256-1c249c2d9e75/laurene-powell-jobs-bought.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://decrypt.co/381448/microsoft-alphabet-goldman-sachs-growing-list-objecting-tokenized-stocks?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/microsoft-msft-withdraws-uk-ai-200925824.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/71d9b8d2-7bae-3287-a073-f80ce7e01129/boeing%2C-microsoft-reveal-ai.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-mixed-afternoon-194226083.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/f3498525-5b31-3702-9e4b-aa8f358f4086/stock-market-today%3A-dow-jumps.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/20/meta-vs-alphabet-meta-is-better-built-for-agi/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/20/amazon-stock-costs-more-than-the-market-i-d-still-buy-it-for-the-next-5-years/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.thestreet.com/investing/amazons-350-target-rests-on-an-ai-bet-beyond-the-cloud?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.tennessean.com/story/money/business/2026/10/20/amazon-tennessee-holiday-season-hiring-jobs-employment/92343784007/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/40378091-9f13-35f6-a4eb-65961ef4434c/dow-jones-futures%3A-indexes-at.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/meta-earnings-2-other-ai-192300043.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/video/tesla-q3-earnings-preview-3-key-things-to-watch-200654318.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.barchart.com/story/news/8231491/amd-lost-its-1-trillion-status-two-options-trades-to-play-the-comeback?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/10/20/stock-market-today-oct-20-salesforce-agrees-to-acquire-braze-for-usd5-66-billion-brze-stock-soars-52/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/articles/opero-relaunches-firm-designs-builds-205800161.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.tikr.com/blog/braze-soars-51-as-salesforce-agrees-to-5-66-billion-buyout-to-deliver-that-wow-moment?ref=yahoofinance&.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/articles/salesforce-needs-integrate-braze-while-184657254.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/video/netflix-q3-earnings-streamer-is-facing-an-attention-scarcity-issue-204316694.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://stocktwits.com/news-articles/markets/equity/netflix-stock-drops-after-hours-as-revenue-growth-slows-further-and-q4-sales-miss-expectations/cZxAIpzRBHa?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/10/20/stock-market-today-oct-20-netflix-q3-revenue-rises-12-on-pricing-power/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/9921f3df-9651-341f-b620-4e2a2bf59960/netflix-stock-falls-on-mixed.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/media-advertising/articles/netflix-projects-lower-expected-2026-203516471.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/supermicro-stock-surges-12-raising-210904986.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/supermicro-provides-first-quarter-fiscal-203000342.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.barchart.com/story/news/8232611/here-s-what-to-expect-from-super-micro-computers-next-earnings-report?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.trefis.com/articles/619437/what-gave-ibm-stock-its-edge-over-cognizant/2026-10-20?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-tsm-draws-210944988.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.barchart.com/story/news/8235829/a-4-billion-reason-to-buy-tsmc-stock-now?.tsrc=rss",
+      "sentiment": "neutral"
     }
   ]
 }
