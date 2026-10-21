@@ -1,7 +1,7 @@
 {
   "date": "2026-10-21",
   "window_days": 7,
-  "source_count": 845,
+  "source_count": 853,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 145,
+      "count": 146,
       "kind": "ticker"
     },
     {
@@ -30,7 +30,7 @@
       "search_terms": [
         "GOOGL"
       ],
-      "count": 86,
+      "count": 88,
       "kind": "ticker"
     },
     {
@@ -48,7 +48,7 @@
       "search_terms": [
         "TSLA"
       ],
-      "count": 59,
+      "count": 60,
       "kind": "ticker"
     },
     {
@@ -61,19 +61,19 @@
       "kind": "ticker"
     },
     {
-      "label": "AMZN",
-      "query": "AMZN",
-      "search_terms": [
-        "AMZN"
-      ],
-      "count": 53,
-      "kind": "ticker"
-    },
-    {
       "label": "MSFT",
       "query": "MSFT",
       "search_terms": [
         "MSFT"
+      ],
+      "count": 54,
+      "kind": "ticker"
+    },
+    {
+      "label": "AMZN",
+      "query": "AMZN",
+      "search_terms": [
+        "AMZN"
       ],
       "count": 53,
       "kind": "ticker"
@@ -84,7 +84,7 @@
       "search_terms": [
         "NFLX"
       ],
-      "count": 52,
+      "count": 53,
       "kind": "ticker"
     },
     {
@@ -118,7 +118,7 @@
       "kind": "topic"
     }
   ],
-  "updated_at": "2026-10-21T18:54:51.033516+00:00",
+  "updated_at": "2026-10-21T19:04:50.934093+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -11104,6 +11104,110 @@
       "impact_direction": "neutral",
       "sentiment": "neutral",
       "fetched_at": "2026-10-21T18:54:51.006436+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "ASML Has Incredible News for Nvidia Stock and Micron Stock Investors",
+      "link": "https://www.fool.com/investing/2026/10/21/asml-has-incredible-news-for-nvidia-stock-and-micron-stock-investors/?.tsrc=rss",
+      "published": "Wed, 21 Oct 2026 18:52:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-21T19:04:48.187126+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Steve Ballmer Is Worth $164 Billion, After Being Kicked Out Of Microsoft",
+      "link": "https://247wallst.com/investing/2026/10/21/steve-ballmer-is-worth-164-billion-after-being-kicked-out-of-microsoft/?.tsrc=rss",
+      "published": "Wed, 21 Oct 2026 18:51:59 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-21T19:04:48.494167+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Anthropic Has Over $600 Billion in Compute Contracts — And It's Not Enough",
+      "link": "https://www.benzinga.com/markets/tech/26/10/62508469/anthropic-has-over-600-billion-in-compute-contracts-and-its-not-enough?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+      "published": "Wed, 21 Oct 2026 18:55:25 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-21T19:04:48.621276+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Cars Are Changing. How GM Plans to Win in the Age of AI and EVs.",
+      "link": "https://finance.yahoo.com/m/746a2c9b-e10f-3c32-8d6c-c451c2405ab5/cars-are-changing.-how-gm.html?.tsrc=rss",
+      "published": "Wed, 21 Oct 2026 18:00:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-21T19:04:48.621377+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "For Tesla, This Is the Most Important Number",
+      "link": "https://finance.yahoo.com/m/0218f0b8-f806-3b10-a5ad-dca3d11e832b/for-tesla%2C-this-is-the-most.html?.tsrc=rss",
+      "published": "Wed, 21 Oct 2026 18:22:52 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-21T19:04:49.115631+00:00"
+    },
+    {
+      "ticker": "NFLX",
+      "title": "Netflix Must Focus On Its Original-Content Roots to Fend off YouTube",
+      "link": "https://finance.yahoo.com/m/58f49508-44a6-3c29-bc6f-6c2c82b70426/netflix-must-focus-on-its.html?.tsrc=rss",
+      "published": "Wed, 21 Oct 2026 18:20:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-21T19:04:49.825710+00:00"
+    },
+    {
+      "ticker": "SMCI",
+      "title": "2 Reasons Why Dell Stock Is Having a Super Day",
+      "link": "https://finance.yahoo.com/m/3e68fbb1-ce59-3818-9081-2ed4908c0330/2-reasons-why-dell-stock-is.html?.tsrc=rss",
+      "published": "Wed, 21 Oct 2026 17:56:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-21T19:04:50.396166+00:00"
+    },
+    {
+      "ticker": "SMCI",
+      "title": "Micron Stock’s Welcome AI Boost After Tough Few Weeks",
+      "link": "https://finance.yahoo.com/m/e703f518-92c5-37e1-a30b-67fdc1265d91/micron-stock%E2%80%99s-welcome-ai.html?.tsrc=rss",
+      "published": "Wed, 21 Oct 2026 17:31:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-21T19:04:50.396264+00:00"
     }
   ]
 }

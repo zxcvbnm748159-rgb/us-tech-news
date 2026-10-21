@@ -1,14 +1,14 @@
 {
   "date": "2026-10-21",
-  "score": 77,
+  "score": 78,
   "label": "Bullish",
   "counts": {
-    "positive": 72,
+    "positive": 77,
     "negative": 22,
-    "neutral": 78
+    "neutral": 81
   },
-  "total": 172,
-  "updated_at": "2026-10-21T18:54:51.007131+00:00",
+  "total": 180,
+  "updated_at": "2026-10-21T19:04:50.906074+00:00",
   "articles": [
     {
       "link": "https://finance.yahoo.com/technology/ai/articles/f5-telenor-partner-build-ai-040000756.html?.tsrc=rss",
@@ -697,6 +697,38 @@
     {
       "link": "https://finance.yahoo.com/markets/stocks/articles/moody-upgrades-tsmc-rating-aa2-161637254.html?.tsrc=rss",
       "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/21/asml-has-incredible-news-for-nvidia-stock-and-micron-stock-investors/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/10/21/steve-ballmer-is-worth-164-billion-after-being-kicked-out-of-microsoft/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.benzinga.com/markets/tech/26/10/62508469/anthropic-has-over-600-billion-in-compute-contracts-and-its-not-enough?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/746a2c9b-e10f-3c32-8d6c-c451c2405ab5/cars-are-changing.-how-gm.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/0218f0b8-f806-3b10-a5ad-dca3d11e832b/for-tesla%2C-this-is-the-most.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/58f49508-44a6-3c29-bc6f-6c2c82b70426/netflix-must-focus-on-its.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/3e68fbb1-ce59-3818-9081-2ed4908c0330/2-reasons-why-dell-stock-is.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/e703f518-92c5-37e1-a30b-67fdc1265d91/micron-stock%E2%80%99s-welcome-ai.html?.tsrc=rss",
+      "sentiment": "positive"
     }
   ]
 }
