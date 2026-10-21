@@ -1,14 +1,14 @@
 {
   "date": "2026-10-21",
-  "score": 78,
+  "score": 76,
   "label": "Bullish",
   "counts": {
-    "positive": 77,
-    "negative": 22,
-    "neutral": 81
+    "positive": 92,
+    "negative": 29,
+    "neutral": 99
   },
-  "total": 180,
-  "updated_at": "2026-10-21T19:04:50.906074+00:00",
+  "total": 220,
+  "updated_at": "2026-10-21T22:02:25.347414+00:00",
   "articles": [
     {
       "link": "https://finance.yahoo.com/technology/ai/articles/f5-telenor-partner-build-ai-040000756.html?.tsrc=rss",
@@ -729,6 +729,166 @@
     {
       "link": "https://finance.yahoo.com/m/e703f518-92c5-37e1-a30b-67fdc1265d91/micron-stock%E2%80%99s-welcome-ai.html?.tsrc=rss",
       "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/21/think-its-too-risky-to-invest-in-the-stock-market/?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/05f98e64-c547-3e0e-bc8f-7caac7bce120/nvidia-aims-to-speed.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://app.moby.co/home/news/news-meta-beat-on-eps-if-you-ignore-the-court-fees?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-teledyne-technologies-incorporated-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-northern-trust-corporation-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://247wallst.com/investing/etf/2026/10/21/here-are-5-etfs-retirees-use-to-get-paid-without-leaning-on-the-magnificent-seven/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/crypto/articles/microsoft-alphabet-opt-tokenized-stocks-170821308.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/21/prediction-this-artificial-intelligence-ai-stock-w/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/video/why-meta-didnt-offer-2027-revenue-guidance-q3-earnings-takeaways-204412297.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://unchainedcrypto.com/kazakhstans-aifc-regulator-turns-to-apple-and-google-to-enforce-coinbase-htx-injunctions/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/3cb9e8ae-4da0-30bd-9cec-6a0531abd9df/stock-market-today%3A-dow-pops%3B.html?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.proactiveinvestors.com/companies/news/1100499/amazon-logistics-automation-offers-long-term-margin-gains-jefferies-says-1100499.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/real-estate/articles/amazon-abandons-427-million-gw-181914510.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.bisnow.com/news/national/data-center-development/amazon-ditches-ashburn-data-center-plans-mixed-use-development?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/video/zuckerberg-expects-meta-to-grow-muse-to-serve-billions-of-people-205630409.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.thestreet.com/investing/earnings/meta-q3-2026-earnings-call-stock-forecast-updates?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/2bd9a8b9-7491-307a-8f54-b091a90905b0/dow-jones-futures%3A-meta%2C.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://stocktwits.com/news-articles/markets/equity/meta-stock-jumps-3-after-hours-after-q3-revenue-beats-expectations-with-a-narrowed-ai-capex-outlook-and-new-non-voting-class-c-stock/cZxMhJJRBv6?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/0e6f45c4-f583-3080-9285-aee877fe5b99/tesla-earnings-beat%2C-fsd.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.axios.com/2026/10/21/tesla-earnings-elon-musk#utm_source=yahoo_finance&utm_medium=partner&utm_campaign=subs-partner-yahoo-finance-AI?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-report-earnings-elon-musk-194150176.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/video/spacex-tesla-combine-steve-westly-211540585.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.thestreet.com/investing/stocks/oracle-orcl-larry-ellison-just-suffered-historic-wealth-collapse?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/top-analyst-reports-salesforce-p-193300324.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.proactiveinvestors.com/companies/news/1100498/salesforce-s-braze-deal-wins-ubs-backing-on-strategy-but-growth-concerns-remain-1100498.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/4c61ded3-e4d6-3d6b-8e9f-7b28238c43ed/netflix-stock-slammed-with.html?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/10/21/stock-market-today-oct-21-netflix-cuts-ad-revenue-guidance-stock-slides-5/?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-netflix-nflx-shares-falling-195039227.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/21/netflix-is-down-38-since-completing-its-10-for-1-s/?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/palantir-accelerates-delivery-sovereign-ai-200100948.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-rise-blockbuster-213900431.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/10/21/stock-market-today-oct-21-super-micro-computer-raises-full-year-revenue-guidance-on-strong-ai-demand/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.thestreet.com/investing/stocks/analysts-revamp-super-micro-stock-price-targets-after-10-surge-on-revenue-boost-smci?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-super-micro-smci-stock-203039748.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/b5819104-1f56-306b-99d6-3c2a65cd182f/ibm-stock-jumps-after-q3.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ibm-shares-climb-earnings-beat-204654838.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ibm-nyse-ibm-q3-2026-202502743.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ibm-q3-earnings-snapshot-202226220.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ibm-releases-third-quarter-results-200800787.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/adobe-adbe-buy-sell-hold-190239064.html?.tsrc=rss",
+      "sentiment": "neutral"
     }
   ]
 }
