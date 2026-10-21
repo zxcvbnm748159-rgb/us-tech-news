@@ -1,14 +1,14 @@
 {
   "date": "2026-10-21",
-  "score": 76,
+  "score": 77,
   "label": "Bullish",
   "counts": {
-    "positive": 92,
-    "negative": 29,
-    "neutral": 99
+    "positive": 100,
+    "negative": 30,
+    "neutral": 111
   },
-  "total": 220,
-  "updated_at": "2026-10-21T22:02:25.347414+00:00",
+  "total": 241,
+  "updated_at": "2026-10-21T23:52:16.975735+00:00",
   "articles": [
     {
       "link": "https://finance.yahoo.com/technology/ai/articles/f5-telenor-partner-build-ai-040000756.html?.tsrc=rss",
@@ -888,6 +888,90 @@
     },
     {
       "link": "https://finance.yahoo.com/markets/stocks/articles/adobe-adbe-buy-sell-hold-190239064.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/21/history-says-this-etf-is-a-millionaire-maker-her/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://beincrypto.com/lbank-nvidia-stock-trading-crypto-exchange/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.thestreet.com/technology/spacex-shares-soar-possible-merger-with-tesla?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/everpure-p-stock-trades-why-230239370.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/21/why-netflix-stock-dropped-today/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.barchart.com/story/news/8285076/dear-apple-stock-fans-mark-your-calendars-for-october-28?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/a0d7d835-5df2-3366-bdd4-4acf3f300a8f/ibm-stock-rallies-as-earnings.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-gain-powered-by-meta-tesla-stock-spcx-meta-tsla-skyd-ibm-in-focus/cZxM14eRBwR?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/meta-wants-pay-broad-ai-224534564.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.cnn.com/2026/10/21/tech/meta-25-billion-new-mexico-judgment?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/meta-beats-expectations-legal-penalties-221324264.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.socialmediatoday.com/news/meta-adds-users-and-revenue-as-ai-costs-climb/833671/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/video/musk-optimus-will-be-the-biggest-product-on-earth-but-ramp-up-will-take-a-year-220230403.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/2bd9a8b9-7491-307a-8f54-b091a90905b0/dow-jones-futures-fall%3B-meta%2C.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-profits-drop-top-analyst-205828910.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/teradyne-vishay-intertechnology-allegro-microsystems-231839928.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://stocktwits.com/news-articles/markets/equity/skyd-surges-after-media-baron-john-malone-predicts-8-10-b-space-x-investment/cZxMaceRBvU?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.thestreet.com/technology/netflix-ceos-comments-suggest-a-price-hike-is-coming?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://beincrypto.com/netflix-stock-26-month-low-earnings/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://stocktwits.com/news-articles/markets/equity/ibm-stock-rises-after-hours-tops-q3-revenue-estimates-on-software-strength-and-recovery-in-delayed-contracts/cZxMiSpRBwb?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ibm-ibm-surpasses-q3-earnings-205005914.html?.tsrc=rss",
       "sentiment": "neutral"
     }
   ]

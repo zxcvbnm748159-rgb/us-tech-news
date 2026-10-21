@@ -1,7 +1,7 @@
 {
   "date": "2026-10-21",
   "window_days": 7,
-  "source_count": 893,
+  "source_count": 914,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 151,
+      "count": 156,
       "kind": "ticker"
     },
     {
@@ -21,7 +21,7 @@
         "revenue guidance",
         "profit forecast"
       ],
-      "count": 120,
+      "count": 123,
       "kind": "topic"
     },
     {
@@ -30,7 +30,7 @@
       "search_terms": [
         "GOOGL"
       ],
-      "count": 92,
+      "count": 93,
       "kind": "ticker"
     },
     {
@@ -39,7 +39,7 @@
       "search_terms": [
         "META"
       ],
-      "count": 67,
+      "count": 72,
       "kind": "ticker"
     },
     {
@@ -48,16 +48,7 @@
       "search_terms": [
         "TSLA"
       ],
-      "count": 64,
-      "kind": "ticker"
-    },
-    {
-      "label": "AAPL",
-      "query": "AAPL",
-      "search_terms": [
-        "AAPL"
-      ],
-      "count": 57,
+      "count": 67,
       "kind": "ticker"
     },
     {
@@ -66,7 +57,16 @@
       "search_terms": [
         "NFLX"
       ],
-      "count": 57,
+      "count": 59,
+      "kind": "ticker"
+    },
+    {
+      "label": "AAPL",
+      "query": "AAPL",
+      "search_terms": [
+        "AAPL"
+      ],
+      "count": 58,
       "kind": "ticker"
     },
     {
@@ -93,7 +93,7 @@
       "search_terms": [
         "ORCL"
       ],
-      "count": 36,
+      "count": 37,
       "kind": "ticker"
     },
     {
@@ -106,19 +106,16 @@
       "kind": "ticker"
     },
     {
-      "label": "AI Chip",
-      "query": "AI Chip",
+      "label": "AMD",
+      "query": "AMD",
       "search_terms": [
-        "AI chip",
-        "GPU",
-        "accelerator",
-        "semiconductor"
+        "AMD"
       ],
-      "count": 32,
-      "kind": "topic"
+      "count": 33,
+      "kind": "ticker"
     }
   ],
-  "updated_at": "2026-10-21T22:02:25.376302+00:00",
+  "updated_at": "2026-10-21T23:52:17.004454+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -11728,6 +11725,279 @@
       "impact_direction": "neutral",
       "sentiment": "neutral",
       "fetched_at": "2026-10-21T22:02:25.187329+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "History Says This ETF Is a Millionaire Maker. Here's What You'd Need to Invest Each Month to Get There.",
+      "link": "https://www.fool.com/investing/2026/10/21/history-says-this-etf-is-a-millionaire-maker-her/?.tsrc=rss",
+      "published": "Wed, 21 Oct 2026 23:20:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-21T23:52:14.174233+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Crypto Exchanges Want Your Next Stock Trade in 2027",
+      "link": "https://beincrypto.com/lbank-nvidia-stock-trading-crypto-exchange/?.tsrc=rss",
+      "published": "Wed, 21 Oct 2026 21:39:43 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-21T23:52:14.174313+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "SpaceX shares soar on possible tie-up with Tesla",
+      "link": "https://www.thestreet.com/technology/spacex-shares-soar-possible-merger-with-tesla?.tsrc=rss",
+      "published": "Wed, 21 Oct 2026 23:23:23 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-21T23:52:14.174357+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Everpure (P) stock trades up, here is why",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/everpure-p-stock-trades-why-230239370.html?.tsrc=rss",
+      "published": "Wed, 21 Oct 2026 23:02:39 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-21T23:52:14.174387+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Why Netflix Stock Dropped Today",
+      "link": "https://www.fool.com/investing/2026/10/21/why-netflix-stock-dropped-today/?.tsrc=rss",
+      "published": "Wed, 21 Oct 2026 22:10:35 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-21T23:52:14.174411+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Dear Apple Stock Fans, Mark Your Calendars for October 28",
+      "link": "https://www.barchart.com/story/news/8285076/dear-apple-stock-fans-mark-your-calendars-for-october-28?.tsrc=rss",
+      "published": "Wed, 21 Oct 2026 17:16:18 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-21T23:52:14.324383+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "IBM Stock Rallies as Earnings Offer Glimmer of Recovery",
+      "link": "https://finance.yahoo.com/m/a0d7d835-5df2-3366-bdd4-4acf3f300a8f/ibm-stock-rallies-as-earnings.html?.tsrc=rss",
+      "published": "Wed, 21 Oct 2026 21:49:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-21T23:52:14.667491+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "S&P 500, Nasdaq Gain, Powered By Meta, Tesla Stock — SPCX, META, TSLA, SKYD, IBM In Focus",
+      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-gain-powered-by-meta-tesla-stock-spcx-meta-tsla-skyd-ibm-in-focus/cZxM14eRBwR?.tsrc=rss",
+      "published": "Wed, 21 Oct 2026 23:15:19 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-21T23:52:14.978194+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "Meta wants to pay for its broad AI buildout with a newly created class of stock",
+      "link": "https://finance.yahoo.com/technology/ai/articles/meta-wants-pay-broad-ai-224534564.html?.tsrc=rss",
+      "published": "Wed, 21 Oct 2026 22:45:34 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-21T23:52:14.978299+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "Meta ordered to pay $25 billion in New Mexico case over Cambridge Analytica scandal",
+      "link": "https://www.cnn.com/2026/10/21/tech/meta-25-billion-new-mexico-judgment?.tsrc=rss",
+      "published": "Wed, 21 Oct 2026 22:13:58 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-21T23:52:14.978381+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "Meta beats expectations but legal penalties hit profit amid AI race",
+      "link": "https://finance.yahoo.com/technology/ai/articles/meta-beats-expectations-legal-penalties-221324264.html?.tsrc=rss",
+      "published": "Wed, 21 Oct 2026 22:13:24 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-21T23:52:14.978452+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "Meta adds users and revenue as AI costs climb",
+      "link": "https://www.socialmediatoday.com/news/meta-adds-users-and-revenue-as-ai-costs-climb/833671/?.tsrc=rss",
+      "published": "Wed, 21 Oct 2026 22:08:33 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-21T23:52:14.978482+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Musk: Optimus will be 'the biggest product on earth,' but ramp-up will take a year",
+      "link": "https://finance.yahoo.com/video/musk-optimus-will-be-the-biggest-product-on-earth-but-ramp-up-will-take-a-year-220230403.html?.tsrc=rss",
+      "published": "Wed, 21 Oct 2026 22:02:30 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-21T23:52:15.133883+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Dow Jones Futures Fall; Meta, Tesla Are Earnings Movers After SpaceX, Super Micro Lead Bullish Nasdaq Move",
+      "link": "https://finance.yahoo.com/m/2bd9a8b9-7491-307a-8f54-b091a90905b0/dow-jones-futures-fall%3B-meta%2C.html?.tsrc=rss",
+      "published": "Wed, 21 Oct 2026 23:20:52 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-21T23:52:15.133999+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Tesla profits drop on tech spending spree as 'Elon Inc.' talk builds",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-profits-drop-top-analyst-205828910.html?.tsrc=rss",
+      "published": "Wed, 21 Oct 2026 23:41:30 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-21T23:52:15.134054+00:00"
+    },
+    {
+      "ticker": "AMD",
+      "title": "Teradyne, Vishay Intertechnology, Allegro MicroSystems, Entegris, and AMD shares are soaring, what you need to know",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/teradyne-vishay-intertechnology-allegro-microsystems-231839928.html?.tsrc=rss",
+      "published": "Wed, 21 Oct 2026 23:18:39 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-21T23:52:15.265804+00:00"
+    },
+    {
+      "ticker": "ORCL",
+      "title": "SKYD Surges After Media Baron John Malone Predicts $8–10B SpaceX Investment",
+      "link": "https://stocktwits.com/news-articles/markets/equity/skyd-surges-after-media-baron-john-malone-predicts-8-10-b-space-x-investment/cZxMaceRBvU?.tsrc=rss",
+      "published": "Wed, 21 Oct 2026 18:49:57 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-21T23:52:15.587085+00:00"
+    },
+    {
+      "ticker": "NFLX",
+      "title": "Netflix does everything but tell members prices are going up",
+      "link": "https://www.thestreet.com/technology/netflix-ceos-comments-suggest-a-price-hike-is-coming?.tsrc=rss",
+      "published": "Wed, 21 Oct 2026 23:17:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-21T23:52:15.886154+00:00"
+    },
+    {
+      "ticker": "NFLX",
+      "title": "Netflix Stock Hits 26-Month Low, But Revenue Tells a Different Story",
+      "link": "https://beincrypto.com/netflix-stock-26-month-low-earnings/?.tsrc=rss",
+      "published": "Wed, 21 Oct 2026 23:10:03 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-21T23:52:15.886239+00:00"
+    },
+    {
+      "ticker": "IBM",
+      "title": "IBM Stock Rises After-Hours, Tops Q3 Revenue Estimates On Software Strength And Recovery In Delayed Contracts",
+      "link": "https://stocktwits.com/news-articles/markets/equity/ibm-stock-rises-after-hours-tops-q3-revenue-estimates-on-software-strength-and-recovery-in-delayed-contracts/cZxMiSpRBwb?.tsrc=rss",
+      "published": "Wed, 21 Oct 2026 22:12:58 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-21T23:52:16.660852+00:00"
+    },
+    {
+      "ticker": "IBM",
+      "title": "IBM (IBM) Surpasses Q3 Earnings and Revenue Estimates",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ibm-ibm-surpasses-q3-earnings-205005914.html?.tsrc=rss",
+      "published": "Wed, 21 Oct 2026 20:50:05 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-21T23:52:16.660895+00:00"
     }
   ]
 }
