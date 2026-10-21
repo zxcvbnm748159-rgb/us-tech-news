@@ -3,12 +3,12 @@
   "score": 76,
   "label": "Bullish",
   "counts": {
-    "positive": 67,
+    "positive": 68,
     "negative": 21,
     "neutral": 136
   },
-  "total": 224,
-  "updated_at": "2026-10-20T23:35:17.965728+00:00",
+  "total": 225,
+  "updated_at": "2026-10-21T00:07:43.629962+00:00",
   "articles": [
     {
       "link": "https://www.independent.co.uk/tech/nvidia-jensen-huang-germany-ai-b3069662.html?.tsrc=rss",
@@ -904,6 +904,10 @@
     },
     {
       "link": "https://finance.yahoo.com/m/65105cf9-3f6e-373a-89e7-00b311f8a8ea/super-micro-computer-surges.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/43b6b732-d0a2-3c03-bfb2-181d681ee337/super-micro-stock-surges-on.html?.tsrc=rss",
       "sentiment": "positive"
     }
   ]

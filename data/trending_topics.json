@@ -1,7 +1,7 @@
 {
   "date": "2026-10-20",
   "window_days": 7,
-  "source_count": 643,
+  "source_count": 644,
   "topics": [
     {
       "label": "NVDA",
@@ -118,7 +118,7 @@
       "kind": "ticker"
     }
   ],
-  "updated_at": "2026-10-20T23:35:17.986389+00:00",
+  "updated_at": "2026-10-21T00:07:43.650556+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -8478,6 +8478,19 @@
       "impact_direction": "neutral",
       "sentiment": "positive",
       "fetched_at": "2026-10-20T23:35:17.535480+00:00"
+    },
+    {
+      "ticker": "SMCI",
+      "title": "Super Micro Stock Surges on Strong AI Demand. Why Chip Investors Remain Cautious.",
+      "link": "https://finance.yahoo.com/m/43b6b732-d0a2-3c03-bfb2-181d681ee337/super-micro-stock-surges-on.html?.tsrc=rss",
+      "published": "Tue, 20 Oct 2026 23:11:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-21T00:07:43.102423+00:00"
     }
   ]
 }
