@@ -1,7 +1,7 @@
 {
   "date": "2026-10-21",
   "window_days": 7,
-  "source_count": 691,
+  "source_count": 711,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 127,
+      "count": 131,
       "kind": "ticker"
     },
     {
@@ -21,7 +21,7 @@
         "revenue guidance",
         "profit forecast"
       ],
-      "count": 83,
+      "count": 87,
       "kind": "topic"
     },
     {
@@ -30,7 +30,7 @@
       "search_terms": [
         "GOOGL"
       ],
-      "count": 73,
+      "count": 75,
       "kind": "ticker"
     },
     {
@@ -39,7 +39,7 @@
       "search_terms": [
         "META"
       ],
-      "count": 50,
+      "count": 53,
       "kind": "ticker"
     },
     {
@@ -66,7 +66,7 @@
       "search_terms": [
         "AMZN"
       ],
-      "count": 45,
+      "count": 46,
       "kind": "ticker"
     },
     {
@@ -75,7 +75,7 @@
       "search_terms": [
         "MSFT"
       ],
-      "count": 39,
+      "count": 43,
       "kind": "ticker"
     },
     {
@@ -84,7 +84,7 @@
       "search_terms": [
         "NFLX"
       ],
-      "count": 37,
+      "count": 40,
       "kind": "ticker"
     },
     {
@@ -93,16 +93,16 @@
       "search_terms": [
         "TSM"
       ],
-      "count": 29,
+      "count": 30,
       "kind": "ticker"
     },
     {
-      "label": "AMD",
-      "query": "AMD",
+      "label": "ORCL",
+      "query": "ORCL",
       "search_terms": [
-        "AMD"
+        "ORCL"
       ],
-      "count": 27,
+      "count": 28,
       "kind": "ticker"
     },
     {
@@ -114,11 +114,11 @@
         "accelerator",
         "semiconductor"
       ],
-      "count": 26,
+      "count": 27,
       "kind": "topic"
     }
   ],
-  "updated_at": "2026-10-21T08:12:20.896755+00:00",
+  "updated_at": "2026-10-21T09:37:42.617662+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -9102,6 +9102,266 @@
       "impact_direction": "neutral",
       "sentiment": "positive",
       "fetched_at": "2026-10-21T08:12:20.508832+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "\"I am giving you money!\" Nvidia's CEO wants every country to build its own AI",
+      "link": "https://www.axios.com/2026/10/21/nvidia-ceo-jensen-huang-europe-sovereign-ai-tour-bubble#utm_source=yahoo_finance&utm_medium=partner&utm_campaign=subs-partner-yahoo-finance-AI?.tsrc=rss",
+      "published": "Wed, 21 Oct 2026 09:00:07 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-21T09:37:40.086183+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Trumpflation Is Evolving, and There's a New Twist That Threatens to Sink Stocks",
+      "link": "https://www.fool.com/investing/2026/10/21/trumpflation-is-evolving-new-twist-threatens-to-sink-stocks/?.tsrc=rss",
+      "published": "Wed, 21 Oct 2026 08:26:01 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-21T09:37:40.086276+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Micron and Nvidia Are the 2 Biggest Drivers of S&P 500 Earnings Growth. Are Their Stocks Buys?",
+      "link": "https://www.fool.com/investing/2026/10/21/micron-and-nvidia-are-the-2-biggest-drivers-of-s-and-p-500-earnings-growth-are-their-stocks-buys/?.tsrc=rss",
+      "published": "Wed, 21 Oct 2026 08:04:01 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-21T09:37:40.086352+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "2 Nasdaq-100 Stocks to Buy Before They Soar 105% and 130%, According to Wall Street",
+      "link": "https://www.fool.com/investing/2026/10/21/2-nasdaq-100-stocks-to-buy-before-soar-130-wall-street/?.tsrc=rss",
+      "published": "Wed, 21 Oct 2026 09:08:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-21T09:37:40.086393+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Document AI Market Size, Share, Trends, and Global Forecast to 2031 | Document AI Market Forecasts Growth from $17.51 Billion (2026) to $35.34 Billion by 2031, Profiling Google, Microsoft, IBM, ABBYY & 40 Other Key Players",
+      "link": "https://finance.yahoo.com/technology/ai/articles/document-ai-market-size-share-091200021.html?.tsrc=rss",
+      "published": "Wed, 21 Oct 2026 09:12:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-21T09:37:40.346178+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Edge AI Software Market Size, Share, Trends, and Global Forecast to 2032 | Generative AI Moves to the Device, Sending Edge AI Software Toward $120 Billion",
+      "link": "https://finance.yahoo.com/technology/ai/articles/edge-ai-software-market-size-090800352.html?.tsrc=rss",
+      "published": "Wed, 21 Oct 2026 09:08:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-21T09:37:40.346269+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Agentic AI Market Size, Share, Trends, and Global Forecast to 2033 | Companies Move From Copilots to Autonomous Agents, Fueling a $206 Billion Market",
+      "link": "https://finance.yahoo.com/technology/ai/articles/agentic-ai-market-size-share-090700017.html?.tsrc=rss",
+      "published": "Wed, 21 Oct 2026 09:07:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-21T09:37:40.346349+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Microsoft Word used to monitor blackout risk",
+      "link": "https://uk.finance.yahoo.com/news/grid-staff-used-microsoft-word-070000054.html?.tsrc=rss",
+      "published": "Wed, 21 Oct 2026 07:00:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-21T09:37:40.346395+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Warren Buffett's Successor, Greg Abel, Just Went Shopping in the Tech Sector Again!",
+      "link": "https://www.fool.com/investing/2026/10/21/warren-buffett-successor-greg-abel-just-went-shopping-in-the-tech-sector-again/?.tsrc=rss",
+      "published": "Wed, 21 Oct 2026 09:26:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-21T09:37:40.489125+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "IBM Has a Chance to Rewrite Its Narrative. Can Earnings Spark a Comeback?",
+      "link": "https://finance.yahoo.com/m/a0d7d835-5df2-3366-bdd4-4acf3f300a8f/ibm-has-a-chance-to-rewrite.html?.tsrc=rss",
+      "published": "Wed, 21 Oct 2026 08:15:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-21T09:37:40.489224+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Small caps pops as market rally broadens beyond Big Tech",
+      "link": "https://finance.yahoo.com/video/small-caps-pops-as-market-rally-broadens-beyond-big-tech-202036205.html?.tsrc=rss",
+      "published": "Tue, 20 Oct 2026 20:20:36 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-21T09:37:40.631623+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "Mark Zuckerberg Will Announce Muse on Meta Glasses Soon? Crypto Bettors Say Don't Hold Your Breath",
+      "link": "https://www.benzinga.com/markets/prediction-markets/26/10/62487868/meta-glasses-ai-muse-mark-zuckerberg-q3?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+      "published": "Wed, 21 Oct 2026 09:28:07 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-21T09:37:40.777299+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "Nasdaq Futures Rise Premarket As SpaceX AI Boom Lifts Chip Stocks: SMCI, TSLA, META, IBM, CRWV, NFLX, BE In Focus",
+      "link": "https://stocktwits.com/news-articles/markets/equity/nasdaq-futures-rise-premarket-spacex-ai-boom-lifts-chip-stocks-smci-tsla-meta-ibm-crwv-nflx-be-in-focus/cZxtvuZRBHU?.tsrc=rss",
+      "published": "Wed, 21 Oct 2026 08:41:06 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-21T09:37:40.777355+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "Musk on possible SpaceX-Tesla merger; Meta to report - what’s moving markets",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/musk-possible-spacex-tesla-merger-082552026.html?.tsrc=rss",
+      "published": "Wed, 21 Oct 2026 08:25:52 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-21T09:37:40.777397+00:00"
+    },
+    {
+      "ticker": "ORCL",
+      "title": "Software-Defined Data Center Market Size, Share, Growth Trends, and Global Forecast to 2031 | Retailers Lean on AI Forecasting as Retail Analytics Heads for $23.21bn",
+      "link": "https://finance.yahoo.com/technology/articles/software-defined-data-center-market-090600332.html?.tsrc=rss",
+      "published": "Wed, 21 Oct 2026 09:06:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-21T09:37:41.305899+00:00"
+    },
+    {
+      "ticker": "ORCL",
+      "title": "Market Chatter: Oracle Chairman Larry Ellison Borrowed Billions to Finance Son's Warner Bros. Discovery Acquisition",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-oracle-chairman-larry-085851192.html?.tsrc=rss",
+      "published": "Wed, 21 Oct 2026 08:58:51 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-21T09:37:41.305974+00:00"
+    },
+    {
+      "ticker": "NFLX",
+      "title": "NFLX Stock Slips More Than 6% Premarket: Morningstar Sees 'Best Buying Opportunity' For Netflix Amid Negative Sentiment",
+      "link": "https://stocktwits.com/news-articles/markets/equity/nflx-stock-slips-more-than-6-premarket-morningstar-sees-best-buying-opportunity-for-netflix-amid-negative-sentiment/cZxtvG5RBHv?.tsrc=rss",
+      "published": "Wed, 21 Oct 2026 08:09:15 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-21T09:37:41.582533+00:00"
+    },
+    {
+      "ticker": "NFLX",
+      "title": "Netflix Lost $17 Billion Over a $300 Million Ad Miss. Here’s What 20x Earnings Already Prices In",
+      "link": "https://www.tikr.com/blog/netflix-lost-17-billion-over-a-300-million-ad-miss-heres-what-20x-earnings-already-prices-in?ref=yahoofinance&.tsrc=rss",
+      "published": "Wed, 21 Oct 2026 08:01:06 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-21T09:37:41.582627+00:00"
+    },
+    {
+      "ticker": "NFLX",
+      "title": "NFLX Q3 Earnings Call Highlights Advertising Growth & Content Strategy",
+      "link": "https://finance.yahoo.com/media-advertising/articles/nflx-q3-earnings-call-highlights-074700331.html?.tsrc=rss",
+      "published": "Wed, 21 Oct 2026 07:47:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-21T09:37:41.582684+00:00"
+    },
+    {
+      "ticker": "TSM",
+      "title": "North America Semiconductor Silicon Wafer Market - Share, Trends, and Forecasts (2026-2031) | AI Fabs, CHIPS Act Incentives, and 300 mm Wafers Fuel Growth",
+      "link": "https://finance.yahoo.com/technology/articles/north-america-semiconductor-silicon-wafer-081800994.html?.tsrc=rss",
+      "published": "Wed, 21 Oct 2026 08:18:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-21T09:37:42.595246+00:00"
     }
   ]
 }

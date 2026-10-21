@@ -1,14 +1,14 @@
 {
   "date": "2026-10-21",
-  "score": 83,
+  "score": 81,
   "label": "Bullish",
   "counts": {
-    "positive": 10,
-    "negative": 2,
-    "neutral": 9
+    "positive": 21,
+    "negative": 5,
+    "neutral": 14
   },
-  "total": 21,
-  "updated_at": "2026-10-21T08:12:20.875744+00:00",
+  "total": 40,
+  "updated_at": "2026-10-21T09:37:42.595624+00:00",
   "articles": [
     {
       "link": "https://finance.yahoo.com/technology/ai/articles/f5-telenor-partner-build-ai-040000756.html?.tsrc=rss",
@@ -93,6 +93,82 @@
     {
       "link": "https://www.fool.com/investing/2026/10/21/1-reason-why-netflix-stock-looks-oversold/?.tsrc=rss",
       "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.axios.com/2026/10/21/nvidia-ceo-jensen-huang-europe-sovereign-ai-tour-bubble#utm_source=yahoo_finance&utm_medium=partner&utm_campaign=subs-partner-yahoo-finance-AI?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/21/trumpflation-is-evolving-new-twist-threatens-to-sink-stocks/?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/21/micron-and-nvidia-are-the-2-biggest-drivers-of-s-and-p-500-earnings-growth-are-their-stocks-buys/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/21/2-nasdaq-100-stocks-to-buy-before-soar-130-wall-street/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/document-ai-market-size-share-091200021.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/edge-ai-software-market-size-090800352.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/agentic-ai-market-size-share-090700017.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://uk.finance.yahoo.com/news/grid-staff-used-microsoft-word-070000054.html?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/21/warren-buffett-successor-greg-abel-just-went-shopping-in-the-tech-sector-again/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/a0d7d835-5df2-3366-bdd4-4acf3f300a8f/ibm-has-a-chance-to-rewrite.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.benzinga.com/markets/prediction-markets/26/10/62487868/meta-glasses-ai-muse-mark-zuckerberg-q3?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://stocktwits.com/news-articles/markets/equity/nasdaq-futures-rise-premarket-spacex-ai-boom-lifts-chip-stocks-smci-tsla-meta-ibm-crwv-nflx-be-in-focus/cZxtvuZRBHU?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/musk-possible-spacex-tesla-merger-082552026.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/articles/software-defined-data-center-market-090600332.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-oracle-chairman-larry-085851192.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://stocktwits.com/news-articles/markets/equity/nflx-stock-slips-more-than-6-premarket-morningstar-sees-best-buying-opportunity-for-netflix-amid-negative-sentiment/cZxtvG5RBHv?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.tikr.com/blog/netflix-lost-17-billion-over-a-300-million-ad-miss-heres-what-20x-earnings-already-prices-in?ref=yahoofinance&.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/media-advertising/articles/nflx-q3-earnings-call-highlights-074700331.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/articles/north-america-semiconductor-silicon-wafer-081800994.html?.tsrc=rss",
+      "sentiment": "positive"
     }
   ]
 }
