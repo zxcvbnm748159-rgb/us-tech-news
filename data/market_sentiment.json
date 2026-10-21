@@ -1,14 +1,14 @@
 {
   "date": "2026-10-21",
-  "score": 78,
+  "score": 75,
   "label": "Bullish",
   "counts": {
-    "positive": 45,
-    "negative": 13,
-    "neutral": 49
+    "positive": 47,
+    "negative": 16,
+    "neutral": 56
   },
-  "total": 107,
-  "updated_at": "2026-10-21T14:18:05.616699+00:00",
+  "total": 119,
+  "updated_at": "2026-10-21T14:40:10.467541+00:00",
   "articles": [
     {
       "link": "https://finance.yahoo.com/technology/ai/articles/f5-telenor-partner-build-ai-040000756.html?.tsrc=rss",
@@ -437,6 +437,54 @@
     {
       "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-122600409.html?.tsrc=rss",
       "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/video/ais-billion-dollar-question-when-will-the-spending-pay-off-143351707.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/10/21/prediction-nvidias-road-to-1-trillion-in-annual-revenue-could-transform-its-stock/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://investorshub.advfn.com/market-news/article/38458/how-is-nvidia-expanding-ai-powered-telecom-networks-following-t-mobiles-first-ai-ran-call?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.proactiveinvestors.com/companies/news/1100483/nvidia-unveils-modular-ai-factories-to-cut-data-centre-deployment-to-14-days-1100483.html?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/ex-google-ceo-got-job-143000996.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/video/the-bull-case-for-coreweave-as-gpu-demand-surges-141533082.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/video/heres-how-metas-earnings-could-end-up-being-a-recipe-for-disaster-143333318.html?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.cryptoprowl.com/releases/a-spacex-and-tesla-merger-would-consolidate-30000-bitcoin-7376?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://stocktwits.com/news-articles/markets/equity/amd-qcom-targets-raised-while-intc-cohr-face-cuts-susquehanna-sees-modest-upside-for-chip-earnings/cZxM53zRBvK?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.marketingdive.com/news/netflix-lowers-ad-revenue-forecast-by-10-continues-to-beef-up-ad-suite/833571/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://investorshub.advfn.com/market-news/article/38460/why-is-netflix-stock-falling-over-5-despite-beating-third-quarter-earnings-estimates?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.tikr.com/blog/super-micro-soars-12-as-preliminary-revenue-blows-past-guidance-on-increased-demand-for-ai-platforms?ref=yahoofinance&.tsrc=rss",
+      "sentiment": "positive"
     }
   ]
 }

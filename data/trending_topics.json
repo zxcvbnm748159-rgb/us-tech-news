@@ -1,7 +1,7 @@
 {
   "date": "2026-10-21",
   "window_days": 7,
-  "source_count": 780,
+  "source_count": 792,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 136,
+      "count": 140,
       "kind": "ticker"
     },
     {
@@ -21,7 +21,7 @@
         "revenue guidance",
         "profit forecast"
       ],
-      "count": 98,
+      "count": 101,
       "kind": "topic"
     },
     {
@@ -30,7 +30,7 @@
       "search_terms": [
         "GOOGL"
       ],
-      "count": 79,
+      "count": 81,
       "kind": "ticker"
     },
     {
@@ -39,7 +39,7 @@
       "search_terms": [
         "META"
       ],
-      "count": 58,
+      "count": 59,
       "kind": "ticker"
     },
     {
@@ -48,7 +48,7 @@
       "search_terms": [
         "TSLA"
       ],
-      "count": 53,
+      "count": 54,
       "kind": "ticker"
     },
     {
@@ -84,7 +84,7 @@
       "search_terms": [
         "NFLX"
       ],
-      "count": 45,
+      "count": 47,
       "kind": "ticker"
     },
     {
@@ -114,11 +114,11 @@
         "accelerator",
         "semiconductor"
       ],
-      "count": 30,
+      "count": 31,
       "kind": "topic"
     }
   ],
-  "updated_at": "2026-10-21T14:18:05.750157+00:00",
+  "updated_at": "2026-10-21T14:40:10.539600+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -10259,6 +10259,162 @@
       "impact_direction": "neutral",
       "sentiment": "neutral",
       "fetched_at": "2026-10-21T14:18:05.616065+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "AI's billion-dollar question: When will the spending pay off?",
+      "link": "https://finance.yahoo.com/video/ais-billion-dollar-question-when-will-the-spending-pay-off-143351707.html?.tsrc=rss",
+      "published": "Wed, 21 Oct 2026 14:33:51 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-21T14:40:07.723815+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Prediction: Nvidia’s Road to $1 Trillion in Annual Revenue Could Transform Its Stock",
+      "link": "https://247wallst.com/investing/2026/10/21/prediction-nvidias-road-to-1-trillion-in-annual-revenue-could-transform-its-stock/?.tsrc=rss",
+      "published": "Wed, 21 Oct 2026 14:30:57 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-21T14:40:07.723880+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "How Is NVIDIA Expanding AI-Powered Telecom Networks Following T-Mobile’s First AI-RAN Call?",
+      "link": "https://investorshub.advfn.com/market-news/article/38458/how-is-nvidia-expanding-ai-powered-telecom-networks-following-t-mobiles-first-ai-ran-call?.tsrc=rss",
+      "published": "Wed, 21 Oct 2026 14:04:07 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-21T14:40:07.723924+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "NVIDIA unveils modular AI factories to cut data centre deployment to 14 days",
+      "link": "https://www.proactiveinvestors.com/companies/news/1100483/nvidia-unveils-modular-ai-factories-to-cut-data-centre-deployment-to-14-days-1100483.html?.tsrc=rss",
+      "published": "Wed, 21 Oct 2026 14:02:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-21T14:40:07.723989+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Ex-Google CEO got the job after a Burning Man trip with Larry Page. Now an ex’s intro could make him $20B on Anthropic",
+      "link": "https://finance.yahoo.com/technology/ai/articles/ex-google-ceo-got-job-143000996.html?.tsrc=rss",
+      "published": "Wed, 21 Oct 2026 14:30:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-21T14:40:08.143126+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "The bull case for CoreWeave as GPU demand surges",
+      "link": "https://finance.yahoo.com/video/the-bull-case-for-coreweave-as-gpu-demand-surges-141533082.html?.tsrc=rss",
+      "published": "Wed, 21 Oct 2026 14:15:33 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-21T14:40:08.143199+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "Here's how Meta's earnings could end up being a recipe for disaster",
+      "link": "https://finance.yahoo.com/video/heres-how-metas-earnings-could-end-up-being-a-recipe-for-disaster-143333318.html?.tsrc=rss",
+      "published": "Wed, 21 Oct 2026 14:33:33 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-21T14:40:08.428217+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "A SpaceX And Tesla Merger Would Consolidate 30,000 Bitcoin",
+      "link": "https://www.cryptoprowl.com/releases/a-spacex-and-tesla-merger-would-consolidate-30000-bitcoin-7376?.tsrc=rss",
+      "published": "Wed, 21 Oct 2026 14:24:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-21T14:40:08.611807+00:00"
+    },
+    {
+      "ticker": "AMD",
+      "title": "AMD, QCOM Targets Raised While INTC, COHR Face Cuts — Susquehanna Sees ‘Modest Upside’ For Chip Earnings",
+      "link": "https://stocktwits.com/news-articles/markets/equity/amd-qcom-targets-raised-while-intc-cohr-face-cuts-susquehanna-sees-modest-upside-for-chip-earnings/cZxM53zRBvK?.tsrc=rss",
+      "published": "Wed, 21 Oct 2026 14:30:29 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-21T14:40:08.746263+00:00"
+    },
+    {
+      "ticker": "NFLX",
+      "title": "Netflix lowers ad revenue forecast by 10%, continues to beef up ad suite",
+      "link": "https://www.marketingdive.com/news/netflix-lowers-ad-revenue-forecast-by-10-continues-to-beef-up-ad-suite/833571/?.tsrc=rss",
+      "published": "Wed, 21 Oct 2026 14:21:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-21T14:40:09.418693+00:00"
+    },
+    {
+      "ticker": "NFLX",
+      "title": "Why Is Netflix Stock Falling Over 5% Despite Beating Third-Quarter Earnings Estimates?",
+      "link": "https://investorshub.advfn.com/market-news/article/38460/why-is-netflix-stock-falling-over-5-despite-beating-third-quarter-earnings-estimates?.tsrc=rss",
+      "published": "Wed, 21 Oct 2026 14:05:49 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-21T14:40:09.418794+00:00"
+    },
+    {
+      "ticker": "SMCI",
+      "title": "Super Micro Soars 12% as Preliminary Revenue Blows Past Guidance on “Increased Demand for AI Platforms”",
+      "link": "https://www.tikr.com/blog/super-micro-soars-12-as-preliminary-revenue-blows-past-guidance-on-increased-demand-for-ai-platforms?ref=yahoofinance&.tsrc=rss",
+      "published": "Wed, 21 Oct 2026 14:12:47 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-21T14:40:09.956466+00:00"
     }
   ]
 }
