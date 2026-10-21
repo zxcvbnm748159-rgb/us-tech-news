@@ -1,7 +1,7 @@
 {
   "date": "2026-10-20",
   "window_days": 7,
-  "source_count": 644,
+  "source_count": 664,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 118,
+      "count": 121,
       "kind": "ticker"
     },
     {
@@ -30,7 +30,7 @@
       "search_terms": [
         "GOOGL"
       ],
-      "count": 66,
+      "count": 69,
       "kind": "ticker"
     },
     {
@@ -48,7 +48,7 @@
       "search_terms": [
         "AAPL"
       ],
-      "count": 44,
+      "count": 46,
       "kind": "ticker"
     },
     {
@@ -57,7 +57,7 @@
       "search_terms": [
         "AMZN"
       ],
-      "count": 44,
+      "count": 45,
       "kind": "ticker"
     },
     {
@@ -66,7 +66,7 @@
       "search_terms": [
         "TSLA"
       ],
-      "count": 42,
+      "count": 45,
       "kind": "ticker"
     },
     {
@@ -75,7 +75,7 @@
       "search_terms": [
         "MSFT"
       ],
-      "count": 38,
+      "count": 39,
       "kind": "ticker"
     },
     {
@@ -84,7 +84,7 @@
       "search_terms": [
         "NFLX"
       ],
-      "count": 34,
+      "count": 35,
       "kind": "ticker"
     },
     {
@@ -118,7 +118,7 @@
       "kind": "ticker"
     }
   ],
-  "updated_at": "2026-10-21T00:07:43.650556+00:00",
+  "updated_at": "2026-10-21T02:54:33.175248+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -8491,6 +8491,266 @@
       "impact_direction": "neutral",
       "sentiment": "positive",
       "fetched_at": "2026-10-21T00:07:43.102423+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "CRWV, NBIS, NVDA Jump Overnight: Musk Says SpaceX Could Rent Compute ‘Several Times Over,’ Analyst Dismisses Glut Fears",
+      "link": "https://stocktwits.com/news-articles/markets/equity/crwv-nbis-nvda-musk-spacex-rent-compute-several-times-analyst-dismisses-glut-fears/cZxtV5VRBHk?.tsrc=rss",
+      "published": "Wed, 21 Oct 2026 02:37:20 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-21T02:54:30.047297+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Nvidia Stock Pops After Hours As Elon Musk Says SpaceX Is Adding 200,000 Chips a Month — Daniel Newman Says NVDA Is 'Ripping'",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-pops-hours-elon-013406375.html?.tsrc=rss",
+      "published": "Wed, 21 Oct 2026 01:34:06 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-21T02:54:30.047352+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Oracle Calls Force Majeure Already?",
+      "link": "https://www.fool.com/investing/2026/10/20/oracle-calls-force-majeure-already/?.tsrc=rss",
+      "published": "Wed, 21 Oct 2026 00:51:34 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-21T02:54:30.047370+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Bank of America finds a quicker path to Apple's iPhone Duo",
+      "link": "https://www.thestreet.com/markets/bank-of-america-finds-a-quicker-path-to-apples-iphone-duo?.tsrc=rss",
+      "published": "Wed, 21 Oct 2026 00:37:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-21T02:54:30.184619+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "This Analyst Is Losing Faith in Apple Stock. Here's Why",
+      "link": "https://www.barchart.com/story/news/8247015/this-analyst-is-losing-faith-in-apple-stock-here-s-why?.tsrc=rss",
+      "published": "Tue, 20 Oct 2026 20:31:48 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-21T02:54:30.184699+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "AI Is Splitting Software Into Winners and Losers, Citi’s Tyler Radke Says",
+      "link": "https://beincrypto.com/ai-splits-software-winners-losers-citi/?.tsrc=rss",
+      "published": "Wed, 21 Oct 2026 02:22:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-21T02:54:30.340872+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "What Is The Case For Waiting On CoreWeave Stock?",
+      "link": "https://www.trefis.com/articles/619421/what-is-the-case-for-waiting-on-coreweave-stock/2026-10-20?.tsrc=rss",
+      "published": "Wed, 21 Oct 2026 02:20:11 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-21T02:54:30.481981+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Tech Giants May Spend $7 Trillion on AI. His $250,000 Paycheck Still Has a $65,500 Social Security Blind Spot",
+      "link": "https://247wallst.com/personal-finance/social-security/2026/10/20/tech-giants-may-spend-7-trillion-on-ai-his-250000-paycheck-still-has-a-65500-social-security-blind-spot/?.tsrc=rss",
+      "published": "Wed, 21 Oct 2026 02:12:31 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-21T02:54:30.482068+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "What Needs To Be True To Buy QBTS Stock Now?",
+      "link": "https://www.trefis.com/articles/619358/what-needs-to-be-true-to-buy-qbts-stock-now/2026-10-20?.tsrc=rss",
+      "published": "Wed, 21 Oct 2026 01:16:35 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-21T02:54:30.482100+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Are You Overpaying For Costco Stock Versus Its Rivals?",
+      "link": "https://www.trefis.com/articles/619359/are-you-overpaying-for-costco-stock-versus-its-rivals/2026-10-20?.tsrc=rss",
+      "published": "Wed, 21 Oct 2026 00:31:37 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-21T02:54:30.671183+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Elon Musk Teases Tesla Merger and $1 Trillion Milestone for SpaceX",
+      "link": "https://beincrypto.com/spacex-musk-tesla-merger-q3-2026/?.tsrc=rss",
+      "published": "Wed, 21 Oct 2026 02:00:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-21T02:54:30.975632+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Tesla (TSLA) Just Formed A Special Committee To Explore A Merger",
+      "link": "https://finance.yahoo.com/technology/ai/articles/tesla-tsla-just-formed-special-010957562.html?.tsrc=rss",
+      "published": "Wed, 21 Oct 2026 01:09:57 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-21T02:54:30.975686+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Musk Says SpaceX and Tesla Formed Committees to Discuss Potential Merger",
+      "link": "https://finance.yahoo.com/video/musk-says-spacex-tesla-formed-234400202.html?.tsrc=rss",
+      "published": "Tue, 20 Oct 2026 23:44:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-21T02:54:30.975707+00:00"
+    },
+    {
+      "ticker": "AVGO",
+      "title": "Broadcom fought AT&T over VMware: Now a telecom giant is all in",
+      "link": "https://www.thestreet.com/technology/broadcom-vmware-docomo-10-year-deal?.tsrc=rss",
+      "published": "Wed, 21 Oct 2026 02:03:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-21T02:54:31.378288+00:00"
+    },
+    {
+      "ticker": "ORCL",
+      "title": "Bloom Energy vs. Oracle: Which AI Infrastructure Stock Is the Better Buy After the Jupiter Setback?",
+      "link": "https://www.fool.com/investing/2026/10/20/bloom-energy-vs-oracle-which-ai-infrastructure-sto/?.tsrc=rss",
+      "published": "Wed, 21 Oct 2026 02:35:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-21T02:54:31.531131+00:00"
+    },
+    {
+      "ticker": "CRM",
+      "title": "What Did Salesforce Stock Investors Miss Before The Run?",
+      "link": "https://www.trefis.com/articles/619385/what-did-salesforce-stock-investors-miss-before-the-run/2026-10-20?.tsrc=rss",
+      "published": "Wed, 21 Oct 2026 01:45:05 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-21T02:54:31.749564+00:00"
+    },
+    {
+      "ticker": "NFLX",
+      "title": "NFLX Stock Tumbles Overnight: Co-CEO Wants Netflix To Be Last Service Customers 'Ever Cancel', Says Live Events 'Drive New Membership'",
+      "link": "https://stocktwits.com/news-articles/markets/equity/nflx-stock-tumbles-overnight-co-ceo-wants-netflix-to-be-last-service-customers-ever-cancel-says-live-events-drive-new-membership/cZxtZTCRBH0?.tsrc=rss",
+      "published": "Wed, 21 Oct 2026 01:58:06 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-21T02:54:31.919858+00:00"
+    },
+    {
+      "ticker": "INTC",
+      "title": "Intel Vs. Micron: Who Is More Exposed By Chinese Rival CXMT’s Progress?",
+      "link": "https://247wallst.com/investing/2026/10/20/intel-vs-micron-who-is-more-exposed-by-chinese-rival-cxmts-progress/?.tsrc=rss",
+      "published": "Tue, 20 Oct 2026 16:45:12 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-21T02:54:32.103254+00:00"
+    },
+    {
+      "ticker": "SMCI",
+      "title": "Asian chip stocks rally as Super Micro forecast revives AI demand optimism",
+      "link": "https://finance.yahoo.com/technology/ai/articles/asian-chip-stocks-rally-super-023854114.html?.tsrc=rss",
+      "published": "Wed, 21 Oct 2026 02:38:54 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-21T02:54:32.664663+00:00"
+    },
+    {
+      "ticker": "SMCI",
+      "title": "SMCI Stock Surges 16% As Preliminary Q1 Sales Smash Estimates Amid AI Boom",
+      "link": "https://stocktwits.com/news-articles/markets/equity/smci-stock-surges-16-as-preliminary-q1-sales-smash-estimates-amid-ai-boom/cZxAOcyRBHg?.tsrc=rss",
+      "published": "Tue, 20 Oct 2026 23:55:34 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-21T02:54:32.664704+00:00"
     }
   ]
 }
