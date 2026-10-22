@@ -1,7 +1,7 @@
 {
   "date": "2026-10-22",
   "window_days": 7,
-  "source_count": 1149,
+  "source_count": 1185,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 188,
+      "count": 193,
       "kind": "ticker"
     },
     {
@@ -21,7 +21,7 @@
         "revenue guidance",
         "profit forecast"
       ],
-      "count": 154,
+      "count": 160,
       "kind": "topic"
     },
     {
@@ -30,7 +30,7 @@
       "search_terms": [
         "GOOGL"
       ],
-      "count": 114,
+      "count": 117,
       "kind": "ticker"
     },
     {
@@ -39,7 +39,7 @@
       "search_terms": [
         "META"
       ],
-      "count": 105,
+      "count": 110,
       "kind": "ticker"
     },
     {
@@ -48,7 +48,7 @@
       "search_terms": [
         "TSLA"
       ],
-      "count": 96,
+      "count": 99,
       "kind": "ticker"
     },
     {
@@ -57,7 +57,7 @@
       "search_terms": [
         "AMZN"
       ],
-      "count": 72,
+      "count": 76,
       "kind": "ticker"
     },
     {
@@ -66,7 +66,7 @@
       "search_terms": [
         "AAPL"
       ],
-      "count": 70,
+      "count": 73,
       "kind": "ticker"
     },
     {
@@ -75,7 +75,7 @@
       "search_terms": [
         "NFLX"
       ],
-      "count": 69,
+      "count": 73,
       "kind": "ticker"
     },
     {
@@ -84,7 +84,16 @@
       "search_terms": [
         "MSFT"
       ],
-      "count": 66,
+      "count": 67,
+      "kind": "ticker"
+    },
+    {
+      "label": "ORCL",
+      "query": "ORCL",
+      "search_terms": [
+        "ORCL"
+      ],
+      "count": 46,
       "kind": "ticker"
     },
     {
@@ -97,25 +106,16 @@
       "kind": "ticker"
     },
     {
-      "label": "ORCL",
-      "query": "ORCL",
-      "search_terms": [
-        "ORCL"
-      ],
-      "count": 43,
-      "kind": "ticker"
-    },
-    {
       "label": "AMD",
       "query": "AMD",
       "search_terms": [
         "AMD"
       ],
-      "count": 42,
+      "count": 43,
       "kind": "ticker"
     }
   ],
-  "updated_at": "2026-10-22T19:19:40.270578+00:00",
+  "updated_at": "2026-10-22T22:32:44.937537+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -15053,6 +15053,474 @@
       "impact_direction": "neutral",
       "sentiment": "positive",
       "fetched_at": "2026-10-22T19:19:39.493885+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "FirstService Corporation Q3 2026 Earnings Call Summary",
+      "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-firstservice-corporation-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 21:27:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-22T22:32:41.816852+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Valero Energy Corporation Q3 2026 Earnings Call Summary",
+      "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-valero-energy-corporation-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 21:25:48 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-22T22:32:41.816902+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Visteon Corporation Q3 2026 Earnings Call Summary",
+      "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-visteon-corporation-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 21:25:44 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-22T22:32:41.816920+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Tractor Supply Company Q3 2026 Earnings Call Summary",
+      "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-tractor-supply-company-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 21:25:40 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-22T22:32:41.816936+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Ryder System, Inc. Q3 2026 Earnings Call Summary",
+      "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-ryder-system-inc-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 21:25:34 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-22T22:32:41.816951+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Apple’s foldable iPhone has a $2,000 app problem",
+      "link": "https://finance.yahoo.com/video/apples-foldable-iphone-has-a-2000-app-problem-203418718.html?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 20:34:18 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-22T22:32:41.964957+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Apple Reportedly Raised Its iPhone Duo Target 44%. Here’s What November 2 Has to Show",
+      "link": "https://www.tikr.com/blog/apple-reportedly-raised-its-iphone-duo-target-44-heres-what-november-2-has-to-show?ref=yahoofinance&.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 20:32:05 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-22T22:32:41.965011+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "How much Apple stock does CEO John Ternus actually own?",
+      "link": "https://www.thestreet.com/personalities/how-much-apple-stock-does-john-ternus-own?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 19:51:39 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-22T22:32:41.965033+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Microsoft (MSFT) Falls More Steeply Than Broader Market: What Investors Need to Know",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/microsoft-msft-falls-more-steeply-204503019.html?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 20:45:03 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-22T22:32:42.132174+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "When Could Quantum Computers or AI Break Bitcoin? An Updated Threat Window",
+      "link": "https://unchainedcrypto.com/when-could-quantum-computers-or-ai-break-bitcoin-an-updated-threat-window/?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 22:00:43 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-22T22:32:42.284970+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Meta Eyes an Early Equity Deal for Its AI War Chest—and Berkshire Could Be a Buyer",
+      "link": "https://finance.yahoo.com/m/640c88c4-a539-3735-a0ee-746427e88883/meta-eyes-an-early-equity.html?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 20:44:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-22T22:32:42.285035+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Roundtable CEO, Coinbase's D'Agostino discuss USDC \"forcing function\" partnership",
+      "link": "https://www.thestreet.com/crypto/innovation/roundtable-ceo-coinbases-dagostino-discuss-usdc-forcing-function-partnership?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 20:39:53 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-22T22:32:42.285061+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Amazon (AMZN) Suffers a Larger Drop Than the General Market: Key Insights",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/amazon-amzn-suffers-larger-drop-204502324.html?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 20:45:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-22T22:32:42.440512+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Top Research Reports for Amazon, GE Aerospace & TotalEnergies",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/top-research-reports-amazon-ge-204100398.html?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 20:41:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-22T22:32:42.440586+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Alphabet (GOOGL) vs. MSFT and AMZN: Can AI Investments and Google Cloud Growth Unlock a 26% Upside?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/alphabet-googl-vs-msft-amzn-202624782.html?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 20:26:24 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-22T22:32:42.440644+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Duke Energy (DUK) Stock Could Be 19% Overvalued Despite Data Center Cost Deal",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/duke-energy-duk-stock-could-201407603.html?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 20:14:07 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-22T22:32:42.440674+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "Dow Jones Futures: Moderna Crashes, Meta Fuels AI Meltdown, But Warren Buffett Market Thriving",
+      "link": "https://finance.yahoo.com/m/47e878bb-824d-3243-a8e9-b86b1c3f85d3/dow-jones-futures%3A-moderna.html?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 22:27:52 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-22T22:32:42.648743+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "Bill Ackman Says Meta Can Finance 'Whatever They Want,' Points to $82 Billion Cash",
+      "link": "https://www.benzinga.com/markets/prediction-markets/26/10/62548583/meta-ai-spending-bill-ackman-cash?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 21:15:12 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-22T22:32:42.648814+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "Mark Zuckerberg threatened to leave California over its 5% wealth tax — so Meta created a new stock class to keep him",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/mark-zuckerberg-threatened-leave-california-210000965.html?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 21:00:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-22T22:32:42.648908+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "How Meta Stock Can Be Both the ‘Cleanest’ AI Winner and a Risky Play",
+      "link": "https://finance.yahoo.com/m/f2a99186-6900-320c-aea2-7778906800e5/how-meta-stock-can-be-both.html?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 21:00:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-22T22:32:42.648967+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "Tesla, SpaceX, Meta, Lockheed Martin, Lam Research, Spotify, and More Stocks That Explain Today’s Market",
+      "link": "https://finance.yahoo.com/m/add35572-856e-31cb-981d-91d3cc20d822/tesla%2C-spacex%2C-meta%2C-lockheed.html?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 20:53:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-22T22:32:42.648997+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Musk wants to merge SpaceX and Tesla: Here's what to know",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/musks-wants-merge-spacex-tesla-205406983.html?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 21:10:54 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-22T22:32:42.802468+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "US Equity Markets End Lower After Meta, Tesla Fail to Meet Expectations, Higher Crude Oil Prices",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-markets-end-lower-202732071.html?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 20:27:32 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-22T22:32:42.802579+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Sector Update: Consumer Stocks Mixed Late Afternoon",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sector-consumer-stocks-mixed-afternoon-194726150.html?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 19:47:26 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-22T22:32:42.802599+00:00"
+    },
+    {
+      "ticker": "AMD",
+      "title": "Is nVent Electric (NVT) Undervalued On Its AMD AI Data Center Cooling Deal?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nvent-electric-nvt-undervalued-amd-221535600.html?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 22:15:35 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-22T22:32:42.988973+00:00"
+    },
+    {
+      "ticker": "AVGO",
+      "title": "Broadcom Inc. (AVGO) Suffers a Larger Drop Than the General Market: Key Insights",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/broadcom-inc-avgo-suffers-larger-204502208.html?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 20:45:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-22T22:32:43.153423+00:00"
+    },
+    {
+      "ticker": "ORCL",
+      "title": "Oracle (ORCL) Stock Looks Cheap As Shares Fell 55%",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/oracle-orcl-stock-looks-cheap-221149479.html?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 22:11:49 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-22T22:32:43.291387+00:00"
+    },
+    {
+      "ticker": "ORCL",
+      "title": "Oracle (ORCL) Falls More Steeply Than Broader Market: What Investors Need to Know",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/oracle-orcl-falls-more-steeply-204503699.html?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 20:45:03 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-22T22:32:43.291426+00:00"
+    },
+    {
+      "ticker": "ORCL",
+      "title": "Oracle Is Down More Than a Third in 2026 Even as TD Cowen Flags Possible Nvidia Support. Here’s Where the Stock Could Go by 2031",
+      "link": "https://www.tikr.com/blog/oracle-is-down-more-than-a-third-in-2026-even-as-td-cowen-flags-possible-nvidia-support-heres-where-the-stock-could-go-by-2031?ref=yahoofinance&.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 19:55:07 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-22T22:32:43.291491+00:00"
+    },
+    {
+      "ticker": "CRM",
+      "title": "Salesforce to Buy Braze for $5.66B, Betting Big on Real-Time AI Marketing",
+      "link": "https://www.marketbeat.com/instant-alerts/event-salesforce-to-buy-braze-for-566b-betting-big-on-real-time-ai-marketing-2026-10-22/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 22:04:19 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-22T22:32:43.476381+00:00"
+    },
+    {
+      "ticker": "NFLX",
+      "title": "Stock Market Today, Oct. 22: Netflix Rises as Investors Capitalize on Post-Earnings Sell-Off",
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/10/22/stock-market-today-oct-22-netflix-rises-as-investors-capitalize-on-post-earnings-sell-off/?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 22:12:42 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-22T22:32:43.675417+00:00"
+    },
+    {
+      "ticker": "NFLX",
+      "title": "Netflix CFO Eyes Double-Digit Revenue Growth Into 2027 Despite ‘Modest’ Viewership Gains, Points to 3 Key Drivers: ‘Not Overly Dependent…’",
+      "link": "https://finance.yahoo.com/media-advertising/articles/netflix-cfo-eyes-double-digit-193007001.html?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 19:30:07 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-22T22:32:43.675517+00:00"
+    },
+    {
+      "ticker": "NFLX",
+      "title": "The Truth About Netflix’s Massive Stock Buybacks",
+      "link": "https://www.fool.com/investing/2026/10/22/the-truth-about-netflixs-massive-stock-buybacks/?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 19:23:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-22T22:32:43.675542+00:00"
+    },
+    {
+      "ticker": "NFLX",
+      "title": "Ted Sarandos Says Netflix 'Could Do Better’ as YouTube, TikTok Threaten to Steal Viewers: Time to Take Shows and Movies 'To The Next Level'",
+      "link": "https://finance.yahoo.com/media-advertising/articles/ted-sarandos-says-netflix-could-183012329.html?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 18:30:12 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-22T22:32:43.675633+00:00"
+    },
+    {
+      "ticker": "QCOM",
+      "title": "Intel vs. Qualcomm: A Widening Gap in Revenue",
+      "link": "https://www.fool.com/coverage/charts/2026/10/22/intel-vs-qualcomm-a-widening-gap-in-revenue/?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 20:45:16 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-22T22:32:44.007269+00:00"
+    },
+    {
+      "ticker": "PLTR",
+      "title": "Palantir Technologies Inc. (PLTR) Declines More Than Market: Some Information for Investors",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-technologies-inc-pltr-declines-204503515.html?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 20:45:03 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-22T22:32:44.207418+00:00"
     }
   ]
 }
