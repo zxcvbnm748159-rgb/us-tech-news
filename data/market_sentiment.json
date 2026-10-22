@@ -1,14 +1,14 @@
 {
   "date": "2026-10-22",
-  "score": 73,
+  "score": 78,
   "label": "Bullish",
   "counts": {
-    "positive": 11,
-    "negative": 4,
-    "neutral": 10
+    "positive": 21,
+    "negative": 6,
+    "neutral": 20
   },
-  "total": 25,
-  "updated_at": "2026-10-22T08:13:11.221225+00:00",
+  "total": 47,
+  "updated_at": "2026-10-22T10:22:00.018889+00:00",
   "articles": [
     {
       "link": "https://finance.yahoo.com/markets/stocks/articles/microsoft-msft-stock-may-22-042528043.html?.tsrc=rss",
@@ -109,6 +109,94 @@
     {
       "link": "https://finance.yahoo.com/markets/stocks/articles/why-supermicro-stock-9-5-071456113.html?.tsrc=rss",
       "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/tacticaai-nvidia-collaborate-scale-agentic-100100138.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/22/signs-are-growing-that-cryptos-altseason-is-right/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/22/nvidia-80-portfolio-invested-2-ai-stocks/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/22/if-market-correction-history-smart-investing/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/22/growth-stocks-build-quantum-computing-iqmx-qnt/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/product-launches-us-supply-deals-091721554.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/apple-cash-flow-machine-makes-084538291.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.benzinga.com/markets/prediction-markets/26/10/62519265/googles-ai-dominance-has-prediction-markets-betting-big-but-anthropic-could-flip-the-script?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/a0d7d835-5df2-3366-bdd4-4acf3f300a8f/ibm-earnings-offer-a-glimmer.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/small-business/articles/goldman-sachs-commits-500-million-090000062.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/22/analyst-amazon-stock-upside-bull-case-buy/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/22/will-alphabet-stock-soar-after-oct-28-history-offers-an-answer-that-s-strikingly-clear/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-21-dow-sp-500-nasdaq-tesla-meta-094500493.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/meta-platforms-q3-earnings-revenue-084607712.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://stocktwits.com/news-articles/markets/equity/meta-stock-in-focus-morningstar-sees-22-upside-as-meta-muse-ai-adoption-boosts-confidence-along-with-ad-growth/cZxwTsGRBwS?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/meta-revenue-beat-tesla-lower-082837580.html?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/meta-q3-deep-dive-ai-082227868.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/article/tesla-is-spending-less-now-but-the-bill-is-coming-later-chart-of-the-day-100000662.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/article/tesla-meta-and-ibm-3-earnings-call-shout-outs-that-left-us-thinking-091924234.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/tesla-begin-full-production-optimus-094953632.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/braze-brze-stock-sees-fair-081505615.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/article/netflix-is-losing-viewers--but-theyre-still-subscribed-100000245.html?.tsrc=rss",
+      "sentiment": "negative"
     }
   ]
 }

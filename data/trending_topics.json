@@ -1,7 +1,7 @@
 {
   "date": "2026-10-22",
   "window_days": 7,
-  "source_count": 978,
+  "source_count": 1000,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 167,
+      "count": 172,
       "kind": "ticker"
     },
     {
@@ -21,7 +21,7 @@
         "revenue guidance",
         "profit forecast"
       ],
-      "count": 137,
+      "count": 141,
       "kind": "topic"
     },
     {
@@ -30,7 +30,7 @@
       "search_terms": [
         "GOOGL"
       ],
-      "count": 99,
+      "count": 102,
       "kind": "ticker"
     },
     {
@@ -39,7 +39,7 @@
       "search_terms": [
         "META"
       ],
-      "count": 85,
+      "count": 90,
       "kind": "ticker"
     },
     {
@@ -48,7 +48,7 @@
       "search_terms": [
         "TSLA"
       ],
-      "count": 80,
+      "count": 83,
       "kind": "ticker"
     },
     {
@@ -57,7 +57,7 @@
       "search_terms": [
         "NFLX"
       ],
-      "count": 62,
+      "count": 63,
       "kind": "ticker"
     },
     {
@@ -66,7 +66,7 @@
       "search_terms": [
         "AMZN"
       ],
-      "count": 60,
+      "count": 62,
       "kind": "ticker"
     },
     {
@@ -75,7 +75,7 @@
       "search_terms": [
         "AAPL"
       ],
-      "count": 58,
+      "count": 60,
       "kind": "ticker"
     },
     {
@@ -115,7 +115,7 @@
       "kind": "ticker"
     }
   ],
-  "updated_at": "2026-10-22T08:13:11.243876+00:00",
+  "updated_at": "2026-10-22T10:22:00.035677+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -12830,6 +12830,292 @@
       "impact_direction": "neutral",
       "sentiment": "neutral",
       "fetched_at": "2026-10-22T08:13:10.814977+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "TACTICAAI and NVIDIA Collaborate to Scale Agentic AI Capabilities with NVIDIA Nemotron",
+      "link": "https://finance.yahoo.com/technology/ai/articles/tacticaai-nvidia-collaborate-scale-agentic-100100138.html?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 10:01:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-22T10:21:58.445077+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Signs Are Growing That Crypto's Altseason Is Right Around the Corner. Here's the 1 Altcoin I'm Buying Right Now.",
+      "link": "https://www.fool.com/investing/2026/10/22/signs-are-growing-that-cryptos-altseason-is-right/?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 09:59:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-22T10:21:58.445151+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Nvidia Has 80% of Its Portfolio Invested in 2 Artificial Intelligence (AI) Stocks",
+      "link": "https://www.fool.com/investing/2026/10/22/nvidia-80-portfolio-invested-2-ai-stocks/?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 09:13:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-22T10:21:58.445202+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "If a Market Correction Is Coming, History Says This Is the Smartest Investing Move You Can Make",
+      "link": "https://www.fool.com/investing/2026/10/22/if-market-correction-history-smart-investing/?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 09:05:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-22T10:21:58.445245+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Got $1,000? 2 Growth Stocks Building the Quantum Computing Revolution",
+      "link": "https://www.fool.com/investing/2026/10/22/growth-stocks-build-quantum-computing-iqmx-qnt/?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 08:35:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-22T10:21:58.445280+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Is Product Launches And US Supply Deals Altering The Investment Case For Apple (AAPL)?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/product-launches-us-supply-deals-091721554.html?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 09:17:21 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-22T10:21:58.523935+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Apple’s Cash Flow Machine Makes It Investors’ Favorite AI Hedge",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/apple-cash-flow-machine-makes-084538291.html?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 08:45:38 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-22T10:21:58.524002+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Google’s AI Dominance Has Prediction Markets Betting Big — But Anthropic Could Flip the Script",
+      "link": "https://www.benzinga.com/markets/prediction-markets/26/10/62519265/googles-ai-dominance-has-prediction-markets-betting-big-but-anthropic-could-flip-the-script?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 10:09:55 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-22T10:21:58.682443+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "IBM Earnings Offer a Glimmer of Recovery",
+      "link": "https://finance.yahoo.com/m/a0d7d835-5df2-3366-bdd4-4acf3f300a8f/ibm-earnings-offer-a-glimmer.html?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 09:19:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-22T10:21:58.682486+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Goldman Sachs Commits $500 Million to Launch Small Business AI Institute and Expand 10,000 Small Businesses",
+      "link": "https://finance.yahoo.com/small-business/articles/goldman-sachs-commits-500-million-090000062.html?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 09:00:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-22T10:21:58.682543+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "1 Analyst Says Amazon Stock Has 30% Upside. What's the Bull Case for Buying Amazon Right Now?",
+      "link": "https://www.fool.com/investing/2026/10/22/analyst-amazon-stock-upside-bull-case-buy/?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 08:47:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-22T10:21:58.784323+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Will Alphabet Stock Soar After Oct. 28? History Offers an Answer That’s Strikingly Clear.",
+      "link": "https://www.fool.com/investing/2026/10/22/will-alphabet-stock-soar-after-oct-28-history-offers-an-answer-that-s-strikingly-clear/?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 08:15:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-22T10:21:58.784380+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "Stock market today: Dow, S&P 500, Nasdaq futures fall as traders assess Tesla, Meta earnings",
+      "link": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-21-dow-sp-500-nasdaq-tesla-meta-094500493.html?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 09:45:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-22T10:21:58.866256+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "Update: Update: Meta Platforms Q3 Earnings, Revenue Rise; Q4 Guidance Set",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/meta-platforms-q3-earnings-revenue-084607712.html?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 08:46:07 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-22T10:21:58.866288+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "META Stock In Focus: Morningstar Sees 22% Upside As Meta Muse AI Adoption Boosts Confidence Along With Ad Growth",
+      "link": "https://stocktwits.com/news-articles/markets/equity/meta-stock-in-focus-morningstar-sees-22-upside-as-meta-muse-ai-adoption-boosts-confidence-along-with-ad-growth/cZxwTsGRBwS?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 08:33:24 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-22T10:21:58.866368+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "Meta’s revenue beat; Tesla’s lower annual sales goal - what’s moving markets",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/meta-revenue-beat-tesla-lower-082837580.html?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 08:28:37 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-22T10:21:58.866413+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "META Q3 deep dive: AI investments drive engagement, legal costs hit margins, Muse launches",
+      "link": "https://finance.yahoo.com/technology/ai/articles/meta-q3-deep-dive-ai-082227868.html?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 08:22:27 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-22T10:21:58.866456+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Tesla is spending less now, but the bill is coming later: Chart of the Day",
+      "link": "https://finance.yahoo.com/markets/article/tesla-is-spending-less-now-but-the-bill-is-coming-later-chart-of-the-day-100000662.html?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 10:00:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-22T10:21:58.949300+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Tesla, Meta and IBM: 3 earnings call shout outs that left us thinking",
+      "link": "https://finance.yahoo.com/technology/ai/article/tesla-meta-and-ibm-3-earnings-call-shout-outs-that-left-us-thinking-091924234.html?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 09:19:24 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-22T10:21:58.949341+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Tesla to Begin Full Production of Optimus Robots in Late 2027 at the Earliest, Elon Musk Says",
+      "link": "https://finance.yahoo.com/technology/ai/articles/tesla-begin-full-production-optimus-094953632.html?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 09:49:53 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-22T10:21:58.949368+00:00"
+    },
+    {
+      "ticker": "CRM",
+      "title": "Braze (BRZE) Stock Sees Fair Value Lift After Salesforce Deal Set A Ceiling",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/braze-brze-stock-sees-fair-081505615.html?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 08:15:05 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-22T10:21:59.292471+00:00"
+    },
+    {
+      "ticker": "NFLX",
+      "title": "Netflix is losing viewers — but they're still subscribed",
+      "link": "https://finance.yahoo.com/technology/article/netflix-is-losing-viewers--but-theyre-still-subscribed-100000245.html?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 10:00:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-22T10:21:59.377666+00:00"
     }
   ]
 }
