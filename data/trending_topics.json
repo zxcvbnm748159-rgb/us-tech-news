@@ -1,7 +1,7 @@
 {
   "date": "2026-10-22",
   "window_days": 7,
-  "source_count": 1143,
+  "source_count": 1149,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 187,
+      "count": 188,
       "kind": "ticker"
     },
     {
@@ -39,7 +39,7 @@
       "search_terms": [
         "META"
       ],
-      "count": 103,
+      "count": 105,
       "kind": "ticker"
     },
     {
@@ -48,7 +48,7 @@
       "search_terms": [
         "TSLA"
       ],
-      "count": 94,
+      "count": 96,
       "kind": "ticker"
     },
     {
@@ -115,7 +115,7 @@
       "kind": "ticker"
     }
   ],
-  "updated_at": "2026-10-22T19:00:50.560702+00:00",
+  "updated_at": "2026-10-22T19:19:40.270578+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -14975,6 +14975,84 @@
       "impact_direction": "neutral",
       "sentiment": "positive",
       "fetched_at": "2026-10-22T19:00:50.539693+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Better Buffett Stock: Alphabet vs. Apple",
+      "link": "https://www.fool.com/investing/2026/10/22/better-buffett-stock-alphabet-vs-apple/?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 19:05:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-22T19:19:36.995803+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "Mark Zuckerberg makes deal with Meta to help him pay California billionaire tax, if it passes",
+      "link": "https://finance.yahoo.com/economy/policy/articles/mark-zuckerberg-makes-deal-meta-191534322.html?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 19:15:34 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-22T19:19:37.885323+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "Meta Creates Non-Voting Stock to Fund AI Buildout, Keeping Zuckerberg in Control",
+      "link": "https://decrypt.co/381640/meta-non-voting-stock-fund-ai-buildout-zuckerberg-control?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 19:06:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-22T19:19:37.885375+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "This level-headed Tesla bull still expects something huge from the Cybercab",
+      "link": "https://finance.yahoo.com/markets/article/this-level-headed-tesla-bull-still-expects-something-huge-from-the-cybercab-191541580.html?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 19:15:41 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-22T19:19:38.080739+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Early SpaceX investor Diamandis: Elon’s empire could hit $1 trillion revenue by 2028-29",
+      "link": "https://247wallst.com/investing/2026/10/22/early-spacex-investor-diamandis-elons-empire-could-hit-1-trillion-revenue-by-2028-29/?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 18:20:49 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-22T19:19:38.080792+00:00"
+    },
+    {
+      "ticker": "PLTR",
+      "title": "With Robust Growth, Palantir Stock Is Worth Considering at a Premium",
+      "link": "https://www.barchart.com/story/news/8319672/with-robust-growth-palantir-stock-is-worth-considering-at-a-premium?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 13:00:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-22T19:19:39.493885+00:00"
     }
   ]
 }

@@ -1,14 +1,14 @@
 {
   "date": "2026-10-22",
-  "score": 69,
+  "score": 70,
   "label": "Bullish",
   "counts": {
-    "positive": 68,
+    "positive": 73,
     "negative": 31,
-    "neutral": 90
+    "neutral": 91
   },
-  "total": 189,
-  "updated_at": "2026-10-22T19:00:50.540170+00:00",
+  "total": 195,
+  "updated_at": "2026-10-22T19:19:40.241727+00:00",
   "articles": [
     {
       "link": "https://finance.yahoo.com/markets/stocks/articles/microsoft-msft-stock-may-22-042528043.html?.tsrc=rss",
@@ -764,6 +764,30 @@
     },
     {
       "link": "https://247wallst.com/investing/2026/10/22/taiwan-semiconductor-wants-in-on-spacexs-terafab-but-only-if-it-runs-the-fab/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/22/better-buffett-stock-alphabet-vs-apple/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/economy/policy/articles/mark-zuckerberg-makes-deal-meta-191534322.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://decrypt.co/381640/meta-non-voting-stock-fund-ai-buildout-zuckerberg-control?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/article/this-level-headed-tesla-bull-still-expects-something-huge-from-the-cybercab-191541580.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/10/22/early-spacex-investor-diamandis-elons-empire-could-hit-1-trillion-revenue-by-2028-29/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.barchart.com/story/news/8319672/with-robust-growth-palantir-stock-is-worth-considering-at-a-premium?.tsrc=rss",
       "sentiment": "positive"
     }
   ]
