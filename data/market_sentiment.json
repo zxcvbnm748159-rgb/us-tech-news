@@ -1,14 +1,14 @@
 {
   "date": "2026-10-22",
-  "score": 68,
+  "score": 69,
   "label": "Bullish",
   "counts": {
-    "positive": 82,
+    "positive": 84,
     "negative": 38,
-    "neutral": 111
+    "neutral": 112
   },
-  "total": 231,
-  "updated_at": "2026-10-22T22:32:44.914066+00:00",
+  "total": 234,
+  "updated_at": "2026-10-22T23:49:16.368558+00:00",
   "articles": [
     {
       "link": "https://finance.yahoo.com/markets/stocks/articles/microsoft-msft-stock-may-22-042528043.html?.tsrc=rss",
@@ -933,6 +933,18 @@
     {
       "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-technologies-inc-pltr-declines-204503515.html?.tsrc=rss",
       "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.thestreet.com/technology/nvidia-ceo-huang-plan-could-dramatically-accelerate-ai-buildout?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://stocktwits.com/news-articles/markets/equity/tsla-spcx-boards-confirm-special-committees-on-potential-combination-as-megapack-deals-and-terafab-plans-deepen-ties/cZxwF7cRBDj?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/228e17ee-90e4-382d-ac0e-aa9c4255c0aa/a-spacex-tesla-merger-feels.html?.tsrc=rss",
+      "sentiment": "positive"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "date": "2026-10-22",
   "window_days": 7,
-  "source_count": 1185,
+  "source_count": 1188,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 193,
+      "count": 194,
       "kind": "ticker"
     },
     {
@@ -48,7 +48,7 @@
       "search_terms": [
         "TSLA"
       ],
-      "count": 99,
+      "count": 101,
       "kind": "ticker"
     },
     {
@@ -115,7 +115,7 @@
       "kind": "ticker"
     }
   ],
-  "updated_at": "2026-10-22T22:32:44.937537+00:00",
+  "updated_at": "2026-10-22T23:49:16.404779+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -15521,6 +15521,45 @@
       "impact_direction": "neutral",
       "sentiment": "neutral",
       "fetched_at": "2026-10-22T22:32:44.207418+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Nvidia CEO's new plan could dramatically reshape the AI race",
+      "link": "https://www.thestreet.com/technology/nvidia-ceo-huang-plan-could-dramatically-accelerate-ai-buildout?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 22:33:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-22T23:49:12.945915+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "TSLA, SPCX Boards Confirm Special Committees On Potential Combination As Megapack Deals And Terafab Plans Deepen Ties",
+      "link": "https://stocktwits.com/news-articles/markets/equity/tsla-spcx-boards-confirm-special-committees-on-potential-combination-as-megapack-deals-and-terafab-plans-deepen-ties/cZxwF7cRBDj?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 22:34:48 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-22T23:49:14.064599+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "A SpaceX-Tesla Merger Feels Inevitable. Is It Actually a Good Deal?",
+      "link": "https://finance.yahoo.com/m/228e17ee-90e4-382d-ac0e-aa9c4255c0aa/a-spacex-tesla-merger-feels.html?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 20:16:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-22T23:49:14.064679+00:00"
     }
   ]
 }
