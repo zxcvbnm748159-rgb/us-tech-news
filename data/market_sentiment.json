@@ -1,14 +1,14 @@
 {
   "date": "2026-10-22",
-  "score": 50,
-  "label": "Mixed",
+  "score": 73,
+  "label": "Bullish",
   "counts": {
-    "positive": 1,
-    "negative": 1,
-    "neutral": 5
+    "positive": 11,
+    "negative": 4,
+    "neutral": 10
   },
-  "total": 7,
-  "updated_at": "2026-10-22T05:20:56.827266+00:00",
+  "total": 25,
+  "updated_at": "2026-10-22T08:13:11.221225+00:00",
   "articles": [
     {
       "link": "https://finance.yahoo.com/markets/stocks/articles/microsoft-msft-stock-may-22-042528043.html?.tsrc=rss",
@@ -37,6 +37,78 @@
     {
       "link": "https://stocktwits.com/news-articles/markets/equity/why-did-nflx-cmg-avex-stocks-crash-to-52-week-lows-today/cZxvDBvRBw9?.tsrc=rss",
       "sentiment": "negative"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/22/does-super-micro-s-big-quarter-make-nvidia-stock-a-buy/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/rhymeq-raises-2-2-million-070000300.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/22/big-blues-wild-wednesday-ride-ibm-crushes-q3-earnings-so-why-did-the-stock-tank-mid-call/?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/supermicro-introduces-nvidia-vera-cpu-060000573.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://stocktwits.com/news-articles/markets/equity/nvda-burry-partnership-blitz-analyst-full-stack-strategy-underappreciated/cZxvyOnRBwQ?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/22/wall-street-firm-names-amazon-its-top-pick-with-mo/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/amazon-com-amzn-reasonable-ai-071525241.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.thestreet.com/retail/kohls-and-target-just-gave-stock-investors-something-to-watch?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/media-advertising/articles/market-chatter-meta-sued-australia-080638695.html?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/articles/3-enterprise-software-stocks-digital-055741870.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.tikr.com/blog/metas-free-cash-flow-turned-negative-its-new-share-class-opens-another-funding-option?ref=yahoofinance&.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/earnings/call-transcripts/2026/10/22/tesla-tsla-q3-2026-earnings-call-transcript/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.tikr.com/blog/tesla-cuts-2026-capex-to-20-billion-but-q4-could-still-be-its-biggest-spending-quarter-since-2023?ref=yahoofinance&.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.euronews.com/2026/10/22/teslas-profit-drops-as-it-explores-a-possible-merger-with-musks-other-public-company-space?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/elon-musk-says-hed-stunned-052803880.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-endorsement-spacex-tesla-052216458.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/22/netflix-stock-is-on-track-for-its-worst-year-since-2022-is-it-finally-a-buy/?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-supermicro-stock-9-5-071456113.html?.tsrc=rss",
+      "sentiment": "neutral"
     }
   ]
 }

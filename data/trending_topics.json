@@ -1,7 +1,7 @@
 {
   "date": "2026-10-22",
   "window_days": 7,
-  "source_count": 960,
+  "source_count": 978,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 162,
+      "count": 167,
       "kind": "ticker"
     },
     {
@@ -21,7 +21,7 @@
         "revenue guidance",
         "profit forecast"
       ],
-      "count": 135,
+      "count": 137,
       "kind": "topic"
     },
     {
@@ -39,7 +39,7 @@
       "search_terms": [
         "META"
       ],
-      "count": 82,
+      "count": 85,
       "kind": "ticker"
     },
     {
@@ -48,7 +48,7 @@
       "search_terms": [
         "TSLA"
       ],
-      "count": 75,
+      "count": 80,
       "kind": "ticker"
     },
     {
@@ -57,7 +57,16 @@
       "search_terms": [
         "NFLX"
       ],
-      "count": 61,
+      "count": 62,
+      "kind": "ticker"
+    },
+    {
+      "label": "AMZN",
+      "query": "AMZN",
+      "search_terms": [
+        "AMZN"
+      ],
+      "count": 60,
       "kind": "ticker"
     },
     {
@@ -67,15 +76,6 @@
         "AAPL"
       ],
       "count": 58,
-      "kind": "ticker"
-    },
-    {
-      "label": "AMZN",
-      "query": "AMZN",
-      "search_terms": [
-        "AMZN"
-      ],
-      "count": 57,
       "kind": "ticker"
     },
     {
@@ -115,7 +115,7 @@
       "kind": "ticker"
     }
   ],
-  "updated_at": "2026-10-22T05:20:56.846777+00:00",
+  "updated_at": "2026-10-22T08:13:11.243876+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -12596,6 +12596,240 @@
       "impact_direction": "neutral",
       "sentiment": "positive",
       "fetched_at": "2026-10-22T05:20:56.506544+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Does Super Micro's Big Quarter Make Nvidia Stock a Buy?",
+      "link": "https://www.fool.com/investing/2026/10/22/does-super-micro-s-big-quarter-make-nvidia-stock-a-buy/?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 07:32:01 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-22T08:13:08.939951+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "RhymeQ Raises $2.2 Million to Make Coding for Quantum Computers Easy for Millions of Developers Worldwide",
+      "link": "https://finance.yahoo.com/technology/ai/articles/rhymeq-raises-2-2-million-070000300.html?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 07:00:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-22T08:13:08.940035+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Big Blue's Wild Wednesday Ride: IBM Crushes Q3 Earnings, So Why Did the Stock Tank Mid-Call?",
+      "link": "https://www.fool.com/investing/2026/10/22/big-blues-wild-wednesday-ride-ibm-crushes-q3-earnings-so-why-did-the-stock-tank-mid-call/?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 06:57:01 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-22T08:13:08.940092+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Supermicro Introduces the NVIDIA Vera CPU Rack, a 256 CPU, 100% Liquid-Cooled Rack-Scale Solution, Complementing the NVIDIA Vera Rubin Platform, for Agentic AI at Scale",
+      "link": "https://finance.yahoo.com/technology/ai/articles/supermicro-introduces-nvidia-vera-cpu-060000573.html?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 06:00:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-22T08:13:08.940159+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "NVDA Logs Best Day In Over A Month: Burry Spotlights Partnership Blitz — Analyst Calls Full-Stack Strategy ‘Underappreciated’",
+      "link": "https://stocktwits.com/news-articles/markets/equity/nvda-burry-partnership-blitz-analyst-full-stack-strategy-underappreciated/cZxvyOnRBwQ?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 05:46:57 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-22T08:13:08.940209+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Wall Street Firm Names Amazon Its Top Pick With More Than 30% Upside. Is the Stock a Buy?",
+      "link": "https://www.fool.com/investing/2026/10/22/wall-street-firm-names-amazon-its-top-pick-with-mo/?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 07:25:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-22T08:13:09.449185+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Is Amazon.com (AMZN) Reasonable After Its AI Spending Push?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/amazon-com-amzn-reasonable-ai-071525241.html?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 07:15:25 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-22T08:13:09.449226+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Kohl's and Target just gave stock investors something to watch",
+      "link": "https://www.thestreet.com/retail/kohls-and-target-just-gave-stock-investors-something-to-watch?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 04:03:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-22T08:13:09.449252+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "Market Chatter: Meta Sued in Australia Over Alleged Social Media Harm to Minors",
+      "link": "https://finance.yahoo.com/media-advertising/articles/market-chatter-meta-sued-australia-080638695.html?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 08:06:38 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-22T08:13:09.597579+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "3 Enterprise Software Stocks for Digital Trust and Safety Investors",
+      "link": "https://finance.yahoo.com/technology/articles/3-enterprise-software-stocks-digital-055741870.html?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 05:57:41 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-22T08:13:09.597648+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "Meta’s Free Cash Flow Turned Negative. Its New Share Class Opens Another Funding Option.",
+      "link": "https://www.tikr.com/blog/metas-free-cash-flow-turned-negative-its-new-share-class-opens-another-funding-option?ref=yahoofinance&.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 05:40:33 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-22T08:13:09.597714+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Tesla (TSLA) Q3 2026 Earnings Call Transcript",
+      "link": "https://www.fool.com/earnings/call-transcripts/2026/10/22/tesla-tsla-q3-2026-earnings-call-transcript/?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 07:58:46 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-22T08:13:09.729723+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Tesla Cuts 2026 Capex to $20 Billion, but Q4 Could Still Be Its Biggest Spending Quarter Since 2023",
+      "link": "https://www.tikr.com/blog/tesla-cuts-2026-capex-to-20-billion-but-q4-could-still-be-its-biggest-spending-quarter-since-2023?ref=yahoofinance&.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 06:33:47 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-22T08:13:09.729787+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Tesla's profit drops as it explores a possible merger with Musk's other public company, SpaceX",
+      "link": "https://www.euronews.com/2026/10/22/teslas-profit-drops-as-it-explores-a-possible-merger-with-musks-other-public-company-space?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 05:53:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-22T08:13:09.729828+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Elon Musk Says He'd Be 'Stunned' If Any Robot Rivals Optimus At Launch: Gene Munster Calls It A Tesla 'Call Option' With 'Massive Value'",
+      "link": "https://finance.yahoo.com/technology/ai/articles/elon-musk-says-hed-stunned-052803880.html?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 05:28:03 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-22T08:13:09.729908+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Elon Musk’s endorsement of SpaceX-Tesla merger sparks insider concerns- Reuters",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-endorsement-spacex-tesla-052216458.html?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 05:22:16 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-22T08:13:09.729965+00:00"
+    },
+    {
+      "ticker": "NFLX",
+      "title": "Netflix Stock Is on Track for Its Worst Year Since 2022. Is It Finally a Buy?",
+      "link": "https://www.fool.com/investing/2026/10/22/netflix-stock-is-on-track-for-its-worst-year-since-2022-is-it-finally-a-buy/?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 07:58:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-22T08:13:10.316012+00:00"
+    },
+    {
+      "ticker": "SMCI",
+      "title": "Why Supermicro Stock Is Up 9.5% And What's Next",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-supermicro-stock-9-5-071456113.html?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 07:14:56 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-22T08:13:10.814977+00:00"
     }
   ]
 }
