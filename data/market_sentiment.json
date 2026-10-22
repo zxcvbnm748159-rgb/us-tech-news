@@ -1,14 +1,14 @@
 {
   "date": "2026-10-22",
-  "score": 74,
+  "score": 69,
   "label": "Bullish",
   "counts": {
-    "positive": 56,
-    "negative": 20,
-    "neutral": 66
+    "positive": 68,
+    "negative": 31,
+    "neutral": 90
   },
-  "total": 142,
-  "updated_at": "2026-10-22T15:25:43.078857+00:00",
+  "total": 189,
+  "updated_at": "2026-10-22T19:00:50.540170+00:00",
   "articles": [
     {
       "link": "https://finance.yahoo.com/markets/stocks/articles/microsoft-msft-stock-may-22-042528043.html?.tsrc=rss",
@@ -577,6 +577,194 @@
     {
       "link": "https://www.kiplinger.com/investing/why-avoiding-capital-gains-can-sometimes-cost-you-more?.tsrc=rss",
       "sentiment": "negative"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/22/2-no-brainer-high-yield-energy-stocks-to-buy-right/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/22/what-does-an-ai-agent-need-a-cpu-for-why-nvidia-wa/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-launched-openshell-secure-181033178.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/22/why-carpenter-technology-stock-crashed-after-earnings/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/22/why-isnt-ibms-stock-bouncing-back-after-strong-earnings-results/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/article/investors-are-punishing-big-techs-biggest-spenders-meta-is-the-latest-casualty-174236447.html?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/10/22/meta-vs-apple-divergent-edge-ai-inference-strategies-and-spending/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/apple-aapl-stock-could-25-161415880.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/iphone-duo-preorder-surge-prompts-150043307.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.thestreet.com/personalities/how-much-msft-stock-does-microsoft-ceo-satya-nadella-actually-own?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.thestreet.com/crypto/markets/microsoft-google-parent-and-mcdonalds-protest-new-trading-plan-?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/waymo-google-microsoft-alums-raise-160000050.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/10/22/microsoft-stock-could-be-closer-to-its-next-big-breakout-than-investors-think/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/c3b6ab41-5e55-3fb0-9139-d427005fd0e6/meta%2C-ai-stocks-tumble-as-ai.html?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/10/22/ibm-is-americas-worst-big-tech-company-5/?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/10/22/does-spacexs-8-billion-spectrum-deal-mean-verizons-q3-earnings-dont-really-matter/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/economy/policy/articles/teamsters-rally-delivery-protection-act-182400090.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/10/22/famous-billionaire-calls-ai-a-bubble-but-that-is-not-what-his-money-says/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/ken-griffin-says-almost-certainly-150007415.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/article/meta-has-big-plans-for-its-muse-ai-agent-184026021.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://stocktwits.com/news-articles/markets/equity/meta-stock-set-to-record-worst-day-in-nearly-three-months-as-investors-fret-over-negative-cash-flows-amid-raised-capex-floor/cZxw1bMRBDi?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/10/22/ge-vernova-slumps-11-as-metas-spending-outlook-stokes-ai-financing-worries-vertiv-holdings-drops-7-eaton-slides-6/?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.ibtimes.com/metas-board-convinced-zuckerberg-stay-california-despite-its-wealth-tax-heres-what-he-was-3808884?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/video/could-a-tesla-spacex-merger-really-be-the-next-big-move-for-elon-musk-170542856.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://decrypt.co/381624/teslas-profit-drops-musk-robots-driverless-cabs?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://stocktwits.com/news-articles/markets/equity/spacex-tesla-merger-buzz-musk-public-endorsement-could-complicate-deal-talks/cZxwiYoRBD9?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.investopedia.com/market-update-musk-teases-new-sizzle-for-teslas-optimus-robots-tsla-spcx-12188240?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/10/22/stock-market-midday-oct-22-tech-weakness-drags-nasdaq-lower-as-ai-spending-concerns-mount/?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/22/where-will-amd-be-in-2028/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/10/22/chip-stocks-fall-as-supply-warning-deepens-ai-selloff-marvell-and-amd-sink-8-intel-drops-7/?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/10/22/prediction-broadcom-stock-could-crush-the-sp-500-through-2030/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.marketbeat.com/instant-alerts/transcript-what-blackstone-bx-said-on-its-q3-earnings-call-2026-10-22/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.tikr.com/blog/could-oracle-actually-achieve-120-upside-or-is-cantor-fitzgerald-totally-wrong?ref=yahoofinance&.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/netflix-nflx-stock-stays-cheap-181642238.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.thestreet.com/investing/netflix-content-shakeup-wall-street-patience?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://stocktwits.com/news-articles/markets/equity/netflix-s-higher-spending-fails-to-lift-engagement-says-wolfe-in-downgrade-but-argus-still-sees-46-upside-potential/cZxwiBzRBDB?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/10/22/this-congressman-cant-stop-buying-the-dip-on-netflix-even-as-it-hit-52-week-low/?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/video/could-intel-be-the-next-trillion-dollar-company-172549462.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/22/all-eyes-will-be-on-palantir-on-nov-2-heres-what-i/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-technologies-holders-got-161512504.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.tikr.com/blog/palantir-just-gained-7-in-a-month-take-profits-or-buy-more?ref=yahoofinance&.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/article/big-companies-are-rethinking-out-of-control-ai-spending--and-turning-to-cheaper-models-162837207.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ibm-ibm-stock-trades-down-162153835.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.trefis.com/articles/619976/why-did-ibm-stock-beat-gartner-over-five-years/2026-10-22?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/adobe-adbe-gains-ai-momentum-151217277.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/22/taiwan-semiconductor-and-asml-are-incredible-but-1/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/10/22/taiwan-semiconductor-wants-in-on-spacexs-terafab-but-only-if-it-runs-the-fab/?.tsrc=rss",
+      "sentiment": "positive"
     }
   ]
 }
