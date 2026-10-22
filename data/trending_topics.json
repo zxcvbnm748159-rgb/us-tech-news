@@ -1,7 +1,7 @@
 {
-  "date": "2026-10-21",
+  "date": "2026-10-22",
   "window_days": 7,
-  "source_count": 945,
+  "source_count": 960,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 160,
+      "count": 162,
       "kind": "ticker"
     },
     {
@@ -21,7 +21,7 @@
         "revenue guidance",
         "profit forecast"
       ],
-      "count": 132,
+      "count": 135,
       "kind": "topic"
     },
     {
@@ -39,7 +39,7 @@
       "search_terms": [
         "META"
       ],
-      "count": 77,
+      "count": 82,
       "kind": "ticker"
     },
     {
@@ -48,7 +48,7 @@
       "search_terms": [
         "TSLA"
       ],
-      "count": 71,
+      "count": 75,
       "kind": "ticker"
     },
     {
@@ -57,7 +57,7 @@
       "search_terms": [
         "NFLX"
       ],
-      "count": 60,
+      "count": 61,
       "kind": "ticker"
     },
     {
@@ -84,7 +84,7 @@
       "search_terms": [
         "MSFT"
       ],
-      "count": 55,
+      "count": 56,
       "kind": "ticker"
     },
     {
@@ -102,7 +102,7 @@
       "search_terms": [
         "AMD"
       ],
-      "count": 36,
+      "count": 37,
       "kind": "ticker"
     },
     {
@@ -115,7 +115,7 @@
       "kind": "ticker"
     }
   ],
-  "updated_at": "2026-10-22T02:53:34.341818+00:00",
+  "updated_at": "2026-10-22T05:20:56.846777+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -2172,19 +2172,6 @@
       "fetched_at": "2026-10-18T17:27:23.795116+00:00"
     },
     {
-      "ticker": "ADBE",
-      "title": "How Investors Are Reacting To NVIDIA (NVDA) AI Partnership Wave",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/investors-reacting-nvidia-nvda-ai-021743091.html?.tsrc=rss",
-      "published": "Fri, 16 Oct 2026 02:17:43 +0000",
-      "summary_th": "",
-      "category": "General",
-      "ai_analysis": "",
-      "impact_level": "low",
-      "impact_direction": "neutral",
-      "sentiment": "neutral",
-      "fetched_at": "2026-10-18T17:27:24.498116+00:00"
-    },
-    {
       "ticker": "TSM",
       "title": "Better AI Chip Stock: Taiwan Semiconductor vs. Micron",
       "link": "https://www.fool.com/investing/2026/10/18/better-ai-chip-stock-taiwan-semiconductor-vs-micro/?.tsrc=rss",
@@ -2248,19 +2235,6 @@
       "impact_direction": "neutral",
       "sentiment": "neutral",
       "fetched_at": "2026-10-18T17:43:46.599228+00:00"
-    },
-    {
-      "ticker": "QCOM",
-      "title": "Qualcomm (QCOM) Unveils First AI Native Wi Fi 8 Gateway For Home Broadband",
-      "link": "https://finance.yahoo.com/technology/ai/articles/qualcomm-qcom-unveils-first-ai-202313896.html?.tsrc=rss",
-      "published": "Thu, 15 Oct 2026 20:23:13 +0000",
-      "summary_th": "",
-      "category": "General",
-      "ai_analysis": "",
-      "impact_level": "low",
-      "impact_direction": "neutral",
-      "sentiment": "neutral",
-      "fetched_at": "2026-10-18T17:43:47.793320+00:00"
     },
     {
       "ticker": "NVDA",
@@ -12401,6 +12375,227 @@
       "impact_direction": "neutral",
       "sentiment": "neutral",
       "fetched_at": "2026-10-22T02:53:34.024484+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "DayOne Supports NVIDIA DSX POD Reference Design, Advancing Standardized Infrastructure for AI",
+      "link": "https://finance.yahoo.com/technology/ai/articles/dayone-supports-nvidia-dsx-pod-034500348.html?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 03:45:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-22T05:20:53.702496+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Missed NVIDIA's Rally? Here Is What Holders Saw",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/missed-nvidias-rally-holders-saw-031413419.html?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 03:14:13 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-22T05:20:53.702549+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Microsoft (MSFT) Stock May Be 22% Undervalued After Maia 300 Unveiling",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/microsoft-msft-stock-may-22-042528043.html?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 04:25:28 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-22T05:20:54.013851+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "Meta Found a Way to Raise Money Without Handing Out More Votes",
+      "link": "https://beincrypto.com/meta-non-voting-class-c-shares/?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 04:40:48 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-22T05:20:54.557413+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "Asia stocks slide as AI jitters hit Korean chipmakers",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/asia-stocks-slide-ai-jitters-042543916.html?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 04:25:43 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-22T05:20:54.557451+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "Meta Delivers Another Blowout Earnings Report. Here's What Investors Need To Know",
+      "link": "https://www.fool.com/investing/2026/10/21/meta-delivers-another-blowout-earnings-report-here-s-what-investors-need-to-know/?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 04:05:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-22T05:20:54.557479+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "Barclays' Singh on Asian Equity Markets",
+      "link": "https://finance.yahoo.com/video/barclays-singh-asian-equity-markets-034742547.html?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 03:47:42 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-22T05:20:54.557501+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "Meta Platforms (META) Hit With $25 Billion New Mexico Privacy Verdict",
+      "link": "https://finance.yahoo.com/technology/articles/meta-platforms-meta-hit-25-031250104.html?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 03:12:50 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-22T05:20:54.557565+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Tesla Asian supplier shares fall after mixed Q3 earnings, cautious outlook",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-asian-supplier-shares-fall-040733543.html?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 04:07:33 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-22T05:20:54.697484+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Tesla Doesn’t Sell a Single Bitcoin in Q3 as Crypto Stash Jumps 42% to $962 Million",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/tesla-doesn-t-sell-single-040438821.html?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 04:04:38 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-22T05:20:54.697538+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Why Tesla Stock Is Putting AI Infrastructure Leaders On More Watchlists",
+      "link": "https://finance.yahoo.com/technology/ai/articles/why-tesla-stock-putting-ai-031724263.html?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 03:17:24 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-22T05:20:54.697563+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "How Are Dow, S&P 500, Nasdaq Futures Trading After META, TSLA Earnings?",
+      "link": "https://stocktwits.com/news-articles/markets/equity/how-are-dow-s-and-p-500-nasdaq-futures-trading-after-meta-tsla-earnings/cZxvH4HRBwI?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 03:11:10 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-22T05:20:54.697590+00:00"
+    },
+    {
+      "ticker": "AMD",
+      "title": "Our Pick Of The Best AI Stocks In October 2026",
+      "link": "https://finance.yahoo.com/technology/ai/articles/pick-best-ai-stocks-october-031730690.html?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 03:17:30 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-22T05:20:54.880710+00:00"
+    },
+    {
+      "ticker": "AVGO",
+      "title": "Broadcom (AVGO) Debuts Arcot Scam Defense For Real Time Payment Fraud Detection",
+      "link": "https://finance.yahoo.com/technology/ai/articles/broadcom-avgo-debuts-arcot-scam-031451230.html?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 03:14:51 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-22T05:20:55.040027+00:00"
+    },
+    {
+      "ticker": "NFLX",
+      "title": "Why Did NFLX, CMG, AVEX Stocks Crash To 52-Week Lows Today?",
+      "link": "https://stocktwits.com/news-articles/markets/equity/why-did-nflx-cmg-avex-stocks-crash-to-52-week-lows-today/cZxvDBvRBw9?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 04:29:53 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-22T05:20:55.540134+00:00"
+    },
+    {
+      "ticker": "QCOM",
+      "title": "Qualcomm (QCOM) Stock Stays Near Fair Value On Tokenized Trading Objections",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-qcom-stock-stays-near-032039918.html?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 03:20:39 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-22T05:20:55.933149+00:00"
+    },
+    {
+      "ticker": "IBM",
+      "title": "IBM Stock Heads For Best Week Since June: CEO Says ‘Q2 Softness Was Timing Rather Than Demand’ After Q3 Beat, Sees Infrastructure Momentum",
+      "link": "https://stocktwits.com/news-articles/markets/equity/ibm-stock-heads-for-best-week-since-june-ceo-q2-softness-timing-q3-beat-infrastructure-momentum/cZxvHfTRBwe?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 03:16:19 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-22T05:20:56.506544+00:00"
     }
   ]
 }
