@@ -1,7 +1,7 @@
 {
   "date": "2026-10-21",
   "window_days": 7,
-  "source_count": 925,
+  "source_count": 945,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 157,
+      "count": 160,
       "kind": "ticker"
     },
     {
@@ -21,7 +21,7 @@
         "revenue guidance",
         "profit forecast"
       ],
-      "count": 128,
+      "count": 132,
       "kind": "topic"
     },
     {
@@ -30,7 +30,7 @@
       "search_terms": [
         "GOOGL"
       ],
-      "count": 95,
+      "count": 99,
       "kind": "ticker"
     },
     {
@@ -39,7 +39,7 @@
       "search_terms": [
         "META"
       ],
-      "count": 73,
+      "count": 77,
       "kind": "ticker"
     },
     {
@@ -48,7 +48,7 @@
       "search_terms": [
         "TSLA"
       ],
-      "count": 70,
+      "count": 71,
       "kind": "ticker"
     },
     {
@@ -57,7 +57,7 @@
       "search_terms": [
         "NFLX"
       ],
-      "count": 59,
+      "count": 60,
       "kind": "ticker"
     },
     {
@@ -75,7 +75,7 @@
       "search_terms": [
         "AMZN"
       ],
-      "count": 56,
+      "count": 57,
       "kind": "ticker"
     },
     {
@@ -93,7 +93,16 @@
       "search_terms": [
         "ORCL"
       ],
-      "count": 37,
+      "count": 38,
+      "kind": "ticker"
+    },
+    {
+      "label": "AMD",
+      "query": "AMD",
+      "search_terms": [
+        "AMD"
+      ],
+      "count": 36,
       "kind": "ticker"
     },
     {
@@ -104,18 +113,9 @@
       ],
       "count": 36,
       "kind": "ticker"
-    },
-    {
-      "label": "AMD",
-      "query": "AMD",
-      "search_terms": [
-        "AMD"
-      ],
-      "count": 35,
-      "kind": "ticker"
     }
   ],
-  "updated_at": "2026-10-22T00:40:14.303864+00:00",
+  "updated_at": "2026-10-22T02:53:34.341818+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -12141,6 +12141,266 @@
       "impact_direction": "neutral",
       "sentiment": "neutral",
       "fetched_at": "2026-10-22T00:40:13.875505+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Forget the Anthropic IPO. Here Are 6 Stocks Worth Watching.",
+      "link": "https://www.fool.com/investing/2026/10/21/forget-the-anthropic-ipo-here-are-6-stocks-worth-w/?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 02:41:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-22T02:53:31.806417+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "TIER IV and Technical University of Munich Bring NVIDIA Hyperion to Level 4 Autonomous Driving in Germany",
+      "link": "https://finance.yahoo.com/technology/ai/articles/tier-iv-technical-university-munich-023200077.html?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 02:32:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-22T02:53:31.806487+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "2 Insurance Stocks to Buy That Keep About 16 Cents of Every Premium Dollar as Underwriting Profit",
+      "link": "https://www.fool.com/investing/2026/10/21/2-insurance-stocks-to-buy-that-keep-about-16-cents/?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 02:35:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-22T02:53:31.806563+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Was There Any Sign Snap Stock Would Run?",
+      "link": "https://www.trefis.com/articles/619667/was-there-any-sign-snap-stock-would-run/2026-10-21?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 02:22:56 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-22T02:53:32.256656+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "What Would It Take For Rumble Stock To Reach Its High Again?",
+      "link": "https://www.trefis.com/articles/619708/what-would-it-take-for-rumble-stock-to-reach-its-high-again/2026-10-21?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 01:35:14 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-22T02:53:32.256735+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Alphabet (GOOGL) Stock Looks Below Fair Value After AI Spending Plans",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/alphabet-googl-stock-looks-below-011622856.html?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 01:16:22 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-22T02:53:32.256810+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "How Did Strategy Stock Leave Its Industry Behind?",
+      "link": "https://www.trefis.com/articles/619699/how-did-strategy-stock-leave-its-industry-behind/2026-10-21?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 00:59:45 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-22T02:53:32.256863+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Amazon vs. Target: Where Should Long-Term Investors Put Their Money?",
+      "link": "https://www.fool.com/coverage/better-buy/2026/10/21/amazon-vs-target-where-should-long-term-investors-put-their-money/?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 02:20:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-22T02:53:32.395867+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "Asian stocks back in retreat as tech mood sours again",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-back-retreat-tech-024129180.html?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 02:41:29 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-22T02:53:32.532015+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "Meta: 3 Key Takeaways for Long-Term Investors",
+      "link": "https://www.fool.com/earnings/takeaways/2026/10/21/meta-3-key-takeaways-for-long-term-investors/?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 02:21:49 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-22T02:53:32.532059+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "U.S. stock futures fall as investors weigh Tesla, Meta earnings",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/u-stock-futures-fall-investors-014050459.html?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 01:40:50 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-22T02:53:32.532093+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "Meta’s Muse Hits Over 10M Users Since Launch: Zuckerberg Says Company Gearing Up To Serve 1B People",
+      "link": "https://stocktwits.com/news-articles/markets/equity/meta-s-muse-hits-over-10-m-users-since-launch-zuckerberg-says-company-gearing-up-to-serve-1-b-people/cZxvrfNRBw2?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 01:24:33 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-22T02:53:32.532141+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "TSLA, SPCX Slip Overnight: Musk Reportedly Pushes Merger Before Trump’s Exit — ARK Sees Tesla Holders ‘5x Better Off’ By 2036",
+      "link": "https://stocktwits.com/news-articles/markets/equity/tsla-spcx-musk-merger-before-trump-exit-ark-tesla-holders-5x-better-off-2036/cZxvrHoRBwd?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 01:44:22 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-22T02:53:32.653282+00:00"
+    },
+    {
+      "ticker": "AMD",
+      "title": "Advanced Micro Devices (AMD) Lands New AI Infrastructure Builds In Europe And India",
+      "link": "https://finance.yahoo.com/technology/ai/articles/advanced-micro-devices-amd-lands-012253417.html?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 01:22:53 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-22T02:53:32.774095+00:00"
+    },
+    {
+      "ticker": "ORCL",
+      "title": "Oracle, Bloom in focus after Trump’s data center power push",
+      "link": "https://www.thestreet.com/technology/oracle-bloom-trump-data-center-power-push?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 01:17:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-22T02:53:33.074772+00:00"
+    },
+    {
+      "ticker": "NFLX",
+      "title": "Netflix (NFLX) Stock Price Falls As Q3 Earnings Stir Valuation Doubts",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/netflix-nflx-stock-price-falls-021632719.html?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 02:16:32 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-22T02:53:33.350427+00:00"
+    },
+    {
+      "ticker": "INTC",
+      "title": "What Does Intel (INTC) Joining The Terafab AI Chip Project Mean?",
+      "link": "https://finance.yahoo.com/technology/ai/articles/does-intel-intc-joining-terafab-012248605.html?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 01:22:48 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-22T02:53:33.486446+00:00"
+    },
+    {
+      "ticker": "IBM",
+      "title": "IBM: 3 Key Takeaways for Long-Term Investors",
+      "link": "https://www.fool.com/earnings/takeaways/2026/10/21/ibm-3-key-takeaways-for-long-term-investors/?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 01:58:39 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-22T02:53:34.024410+00:00"
+    },
+    {
+      "ticker": "IBM",
+      "title": "IBM (IBM) Q3 2026 Earnings Call Transcript",
+      "link": "https://www.fool.com/earnings/call-transcripts/2026/10/21/ibm-ibm-q3-2026-earnings-call-transcript/?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 01:14:08 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-22T02:53:34.024449+00:00"
+    },
+    {
+      "ticker": "IBM",
+      "title": "What International Business Machines (IBM) Said on Its Q3 Earnings Call",
+      "link": "https://www.marketbeat.com/instant-alerts/transcript-what-international-business-machines-ibm-said-on-its-q3-earnings-call-2026-10-21/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 01:02:59 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-22T02:53:34.024484+00:00"
     }
   ]
 }
