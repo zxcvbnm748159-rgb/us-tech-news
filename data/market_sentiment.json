@@ -1,14 +1,14 @@
 {
   "date": "2026-10-21",
-  "score": 77,
+  "score": 76,
   "label": "Bullish",
   "counts": {
-    "positive": 100,
-    "negative": 30,
-    "neutral": 111
+    "positive": 103,
+    "negative": 32,
+    "neutral": 117
   },
-  "total": 241,
-  "updated_at": "2026-10-21T23:52:16.975735+00:00",
+  "total": 252,
+  "updated_at": "2026-10-22T00:40:14.288380+00:00",
   "articles": [
     {
       "link": "https://finance.yahoo.com/technology/ai/articles/f5-telenor-partner-build-ai-040000756.html?.tsrc=rss",
@@ -972,6 +972,50 @@
     },
     {
       "link": "https://finance.yahoo.com/markets/stocks/articles/ibm-ibm-surpasses-q3-earnings-205005914.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/21/act-now-to-lower-your-taxes-for-2026/?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/q3-earnings-season-ramps-outlook-224600579.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/21/cathie-wood-trimmed-alphabets-stake-even-as-google/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/meta-platforms-meta-reports-q3-233002684.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/articles/tesla-says-start-selling-cybercabs-001754003.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.marketbeat.com/instant-alerts/transcript-what-tesla-tsla-said-on-its-q3-earnings-call-2026-10-21/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://stocktwits.com/news-articles/markets/equity/tsla-stock-reverses-after-hours-gains-as-tesla-cuts-full-year-capex-guidance-to-20-b-musk-tempers-optimus-timeline/cZxMSJuRBwc?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/macom-semtech-formfactor-penguin-solutions-235839743.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/western-digital-nova-amtech-monolithic-235039681.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-markets-end-higher-201252120.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ibm-ibm-q3-earnings-taking-233003557.html?.tsrc=rss",
       "sentiment": "neutral"
     }
   ]

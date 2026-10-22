@@ -1,7 +1,7 @@
 {
   "date": "2026-10-21",
   "window_days": 7,
-  "source_count": 914,
+  "source_count": 925,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 156,
+      "count": 157,
       "kind": "ticker"
     },
     {
@@ -21,7 +21,7 @@
         "revenue guidance",
         "profit forecast"
       ],
-      "count": 123,
+      "count": 128,
       "kind": "topic"
     },
     {
@@ -30,7 +30,7 @@
       "search_terms": [
         "GOOGL"
       ],
-      "count": 93,
+      "count": 95,
       "kind": "ticker"
     },
     {
@@ -39,7 +39,7 @@
       "search_terms": [
         "META"
       ],
-      "count": 72,
+      "count": 73,
       "kind": "ticker"
     },
     {
@@ -48,7 +48,7 @@
       "search_terms": [
         "TSLA"
       ],
-      "count": 67,
+      "count": 70,
       "kind": "ticker"
     },
     {
@@ -111,11 +111,11 @@
       "search_terms": [
         "AMD"
       ],
-      "count": 33,
+      "count": 35,
       "kind": "ticker"
     }
   ],
-  "updated_at": "2026-10-21T23:52:17.004454+00:00",
+  "updated_at": "2026-10-22T00:40:14.303864+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -11998,6 +11998,149 @@
       "impact_direction": "neutral",
       "sentiment": "neutral",
       "fetched_at": "2026-10-21T23:52:16.660895+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Act Now to Lower Your Taxes for 2026",
+      "link": "https://www.fool.com/investing/2026/10/21/act-now-to-lower-your-taxes-for-2026/?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 00:23:48 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-22T00:40:11.073396+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Q3 Earnings Season Ramps Up, Outlook for Q4 and Full-Year 2027 Improve",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/q3-earnings-season-ramps-outlook-224600579.html?.tsrc=rss",
+      "published": "Wed, 21 Oct 2026 22:46:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-22T00:40:11.660052+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Cathie Wood Trimmed Ark's Alphabet Stake Even as Google Search Revenue Grew, While Ark Piled Into Rocket Lab Even After Its Neutron Launch Delay. Is Ark Betting Against the Wrong AI Winner?",
+      "link": "https://www.fool.com/investing/2026/10/21/cathie-wood-trimmed-alphabets-stake-even-as-google/?.tsrc=rss",
+      "published": "Wed, 21 Oct 2026 23:50:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-22T00:40:11.660157+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "Meta Platforms (META) Reports Q3 Earnings: What Key Metrics Have to Say",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/meta-platforms-meta-reports-q3-233002684.html?.tsrc=rss",
+      "published": "Wed, 21 Oct 2026 23:30:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-22T00:40:12.011320+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Tesla says it will start selling Cybercabs by end of year",
+      "link": "https://finance.yahoo.com/technology/articles/tesla-says-start-selling-cybercabs-001754003.html?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 00:17:54 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-22T00:40:12.179988+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "What Tesla (TSLA) Said on Its Q3 Earnings Call",
+      "link": "https://www.marketbeat.com/instant-alerts/transcript-what-tesla-tsla-said-on-its-q3-earnings-call-2026-10-21/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 00:04:13 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-22T00:40:12.180021+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "TSLA Stock Reverses After-Hours Gains As Tesla Cuts Full-Year Capex Guidance To $20B, Musk Tempers Optimus Timeline",
+      "link": "https://stocktwits.com/news-articles/markets/equity/tsla-stock-reverses-after-hours-gains-as-tesla-cuts-full-year-capex-guidance-to-20-b-musk-tempers-optimus-timeline/cZxMSJuRBwc?.tsrc=rss",
+      "published": "Wed, 21 Oct 2026 23:56:49 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-22T00:40:12.180107+00:00"
+    },
+    {
+      "ticker": "AMD",
+      "title": "MACOM, Semtech, FormFactor, Penguin Solutions, and Seagate stocks trade up, what you need to know",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/macom-semtech-formfactor-penguin-solutions-235839743.html?.tsrc=rss",
+      "published": "Wed, 21 Oct 2026 23:58:39 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-22T00:40:12.348661+00:00"
+    },
+    {
+      "ticker": "AMD",
+      "title": "Western Digital, Nova, Amtech, Monolithic Power Systems, and Texas Instruments shares skyrocket, what you need to know",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/western-digital-nova-amtech-monolithic-235039681.html?.tsrc=rss",
+      "published": "Wed, 21 Oct 2026 23:50:39 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-22T00:40:12.348714+00:00"
+    },
+    {
+      "ticker": "SMCI",
+      "title": "US Equity Markets End Higher Amid Rally Led by SpaceX, Super Micro Following Better-Than-Expected Quarterly Results",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-markets-end-higher-201252120.html?.tsrc=rss",
+      "published": "Wed, 21 Oct 2026 20:12:52 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-22T00:40:13.682867+00:00"
+    },
+    {
+      "ticker": "IBM",
+      "title": "IBM (IBM) Q3 Earnings: Taking a Look at Key Metrics Versus Estimates",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ibm-ibm-q3-earnings-taking-233003557.html?.tsrc=rss",
+      "published": "Wed, 21 Oct 2026 23:30:03 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-22T00:40:13.875505+00:00"
     }
   ]
 }
