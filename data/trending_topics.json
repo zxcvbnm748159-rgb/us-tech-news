@@ -1,7 +1,7 @@
 {
-  "date": "2026-10-22",
+  "date": "2026-10-23",
   "window_days": 7,
-  "source_count": 1206,
+  "source_count": 1188,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 198,
+      "count": 199,
       "kind": "ticker"
     },
     {
@@ -21,7 +21,7 @@
         "revenue guidance",
         "profit forecast"
       ],
-      "count": 160,
+      "count": 157,
       "kind": "topic"
     },
     {
@@ -39,7 +39,7 @@
       "search_terms": [
         "META"
       ],
-      "count": 112,
+      "count": 113,
       "kind": "ticker"
     },
     {
@@ -48,7 +48,7 @@
       "search_terms": [
         "TSLA"
       ],
-      "count": 104,
+      "count": 101,
       "kind": "ticker"
     },
     {
@@ -57,7 +57,7 @@
       "search_terms": [
         "AMZN"
       ],
-      "count": 77,
+      "count": 79,
       "kind": "ticker"
     },
     {
@@ -66,7 +66,7 @@
       "search_terms": [
         "AAPL"
       ],
-      "count": 74,
+      "count": 73,
       "kind": "ticker"
     },
     {
@@ -75,7 +75,7 @@
       "search_terms": [
         "NFLX"
       ],
-      "count": 74,
+      "count": 73,
       "kind": "ticker"
     },
     {
@@ -88,15 +88,6 @@
       "kind": "ticker"
     },
     {
-      "label": "IBM",
-      "query": "IBM",
-      "search_terms": [
-        "IBM"
-      ],
-      "count": 46,
-      "kind": "ticker"
-    },
-    {
       "label": "ORCL",
       "query": "ORCL",
       "search_terms": [
@@ -106,173 +97,26 @@
       "kind": "ticker"
     },
     {
+      "label": "IBM",
+      "query": "IBM",
+      "search_terms": [
+        "IBM"
+      ],
+      "count": 44,
+      "kind": "ticker"
+    },
+    {
       "label": "AMD",
       "query": "AMD",
       "search_terms": [
         "AMD"
       ],
-      "count": 43,
+      "count": 42,
       "kind": "ticker"
     }
   ],
-  "updated_at": "2026-10-23T02:56:42.095379+00:00",
+  "updated_at": "2026-10-23T05:37:41.638273+00:00",
   "articles": [
-    {
-      "ticker": "NVDA",
-      "title": "CoreWeave's not-so-secret weapons: Price hikes and an Nvidia trump card",
-      "link": "https://pitchbook.com/news/articles/coreweaves-not-so-secret-weapons-price-hikes-and-an-nvidia-trump-card?.tsrc=rss",
-      "published": "Fri, 16 Oct 2026 23:30:00 +0000",
-      "summary_th": "",
-      "category": "General",
-      "ai_analysis": "",
-      "impact_level": "low",
-      "impact_direction": "neutral",
-      "sentiment": "negative",
-      "fetched_at": "2026-10-17T02:29:01.128284+00:00"
-    },
-    {
-      "ticker": "NVDA",
-      "title": "Prediction: Alphabet Will Be a Larger Company Than Apple by the End of 2027",
-      "link": "https://www.fool.com/investing/2026/10/16/prediction-alphabet-will-be-a-larger-company-than/?.tsrc=rss",
-      "published": "Fri, 16 Oct 2026 23:29:00 +0000",
-      "summary_th": "",
-      "category": "General",
-      "ai_analysis": "",
-      "impact_level": "low",
-      "impact_direction": "neutral",
-      "sentiment": "neutral",
-      "fetched_at": "2026-10-17T02:29:01.128367+00:00"
-    },
-    {
-      "ticker": "AAPL",
-      "title": "Will Starlink Mobile matter for Apple?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/starlink-mobile-matter-apple-010939746.html?.tsrc=rss",
-      "published": "Sat, 17 Oct 2026 01:09:39 +0000",
-      "summary_th": "",
-      "category": "General",
-      "ai_analysis": "",
-      "impact_level": "low",
-      "impact_direction": "neutral",
-      "sentiment": "neutral",
-      "fetched_at": "2026-10-17T02:29:01.484240+00:00"
-    },
-    {
-      "ticker": "AAPL",
-      "title": "What Apple Holders Bought Into",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/apple-holders-bought-001436767.html?.tsrc=rss",
-      "published": "Sat, 17 Oct 2026 00:14:36 +0000",
-      "summary_th": "",
-      "category": "General",
-      "ai_analysis": "",
-      "impact_level": "low",
-      "impact_direction": "neutral",
-      "sentiment": "neutral",
-      "fetched_at": "2026-10-17T02:29:01.484297+00:00"
-    },
-    {
-      "ticker": "META",
-      "title": "$13k MRR founder reveals why Meta crushes TikTok for app marketing...",
-      "link": "https://starterstory.videonest.co/videos/2318438/13k-mrr-founder-reveals-why-meta-crushes-tiktok-fo-FFRSTYN4x1?.tsrc=rss",
-      "published": "Sat, 17 Oct 2026 01:31:51 +0000",
-      "summary_th": "",
-      "category": "General",
-      "ai_analysis": "",
-      "impact_level": "low",
-      "impact_direction": "neutral",
-      "sentiment": "negative",
-      "fetched_at": "2026-10-17T02:29:03.193280+00:00"
-    },
-    {
-      "ticker": "TSLA",
-      "title": "Tesla’s Flying Roadster Has Wall Street Talking About SpaceX, Not Cars",
-      "link": "https://www.fool.com/investing/2026/10/16/teslas-flying-roadster-has-wall-street-talking-about-spacex-not-cars/?.tsrc=rss",
-      "published": "Sat, 17 Oct 2026 01:25:01 +0000",
-      "summary_th": "",
-      "category": "General",
-      "ai_analysis": "",
-      "impact_level": "low",
-      "impact_direction": "neutral",
-      "sentiment": "neutral",
-      "fetched_at": "2026-10-17T02:29:03.442537+00:00"
-    },
-    {
-      "ticker": "TSLA",
-      "title": "Battery X Metals Highlights Participation at X Takeover 2026, an Electric Vehicle and Emerging Technology Event Held at Tesla's Gigafactory Texas, Providing Exposure to Industry Perspectives and Technology Developments",
-      "link": "https://finance.yahoo.com/technology/articles/battery-x-metals-highlights-participation-012000266.html?.tsrc=rss",
-      "published": "Sat, 17 Oct 2026 01:20:00 +0000",
-      "summary_th": "",
-      "category": "General",
-      "ai_analysis": "",
-      "impact_level": "low",
-      "impact_direction": "neutral",
-      "sentiment": "neutral",
-      "fetched_at": "2026-10-17T02:29:03.442686+00:00"
-    },
-    {
-      "ticker": "TSLA",
-      "title": "Stocktwits Zero To Sixty — Tesla’s Roadster Flies With SpaceX Thrusters, Rivian Opens Cars To AI Agents, And Lucid Eyes France",
-      "link": "https://stocktwits.com/news-articles/markets/equity/stocktwits-zero-to-sixty-tesla-s-roadster-flies-with-space-x-thrusters-rivian-opens-cars-to-ai-agents-and-lucid-eyes-france/cZxjA7KRBt5?.tsrc=rss",
-      "published": "Sat, 17 Oct 2026 00:33:21 +0000",
-      "summary_th": "",
-      "category": "General",
-      "ai_analysis": "",
-      "impact_level": "low",
-      "impact_direction": "neutral",
-      "sentiment": "neutral",
-      "fetched_at": "2026-10-17T02:29:03.442775+00:00"
-    },
-    {
-      "ticker": "TSLA",
-      "title": "Tesla Has Built a Flying Car. It Will Blow Your Mind.",
-      "link": "https://finance.yahoo.com/m/33917906-5253-3056-8faf-6a7077a9d6dc/tesla-has-built-a-flying-car..html?.tsrc=rss",
-      "published": "Fri, 16 Oct 2026 23:12:00 +0000",
-      "summary_th": "",
-      "category": "General",
-      "ai_analysis": "",
-      "impact_level": "low",
-      "impact_direction": "neutral",
-      "sentiment": "neutral",
-      "fetched_at": "2026-10-17T02:29:03.442826+00:00"
-    },
-    {
-      "ticker": "AMD",
-      "title": "How much AMD stock does CEO Lisa Su actually own?",
-      "link": "https://www.thestreet.com/personalities/how-much-amd-stock-does-ceo-lisa-su-own?.tsrc=rss",
-      "published": "Fri, 16 Oct 2026 23:12:49 +0000",
-      "summary_th": "",
-      "category": "General",
-      "ai_analysis": "",
-      "impact_level": "low",
-      "impact_direction": "neutral",
-      "sentiment": "neutral",
-      "fetched_at": "2026-10-17T02:29:03.733018+00:00"
-    },
-    {
-      "ticker": "SMCI",
-      "title": "Was The Run In Super Micro Stock Hiding In Plain Sight?",
-      "link": "https://www.trefis.com/articles/618988/was-the-run-in-super-micro-stock-hiding-in-plain-sight/2026-10-16?.tsrc=rss",
-      "published": "Sat, 17 Oct 2026 01:20:39 +0000",
-      "summary_th": "",
-      "category": "General",
-      "ai_analysis": "",
-      "impact_level": "low",
-      "impact_direction": "neutral",
-      "sentiment": "positive",
-      "fetched_at": "2026-10-17T02:29:05.803874+00:00"
-    },
-    {
-      "ticker": "TSM",
-      "title": "Taiwan Semiconductor Posts Record Q3 Results: Time to Buy the Dip?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-posts-record-q3-223600229.html?.tsrc=rss",
-      "published": "Fri, 16 Oct 2026 22:36:00 +0000",
-      "summary_th": "",
-      "category": "General",
-      "ai_analysis": "",
-      "impact_level": "low",
-      "impact_direction": "neutral",
-      "sentiment": "neutral",
-      "fetched_at": "2026-10-17T02:29:06.582907+00:00"
-    },
     {
       "ticker": "NVDA",
       "title": "Missed Out On Micron and Sandisk? Make Sure You Don't Miss Out On This Memory Stock.",
@@ -285,32 +129,6 @@
       "impact_direction": "neutral",
       "sentiment": "neutral",
       "fetched_at": "2026-10-17T07:18:41.356928+00:00"
-    },
-    {
-      "ticker": "NVDA",
-      "title": "TSMC Says AI Chip Demand Is Still Far Above What It Can Supply. That's Why I'd Buy Nvidia Stock.",
-      "link": "https://www.fool.com/investing/2026/10/16/tsmc-says-ai-chip-demand-is-still-far-above-what-it-can-supply-that-s-why-i-d-buy-nvidia-stock/?.tsrc=rss",
-      "published": "Sat, 17 Oct 2026 03:17:01 +0000",
-      "summary_th": "",
-      "category": "General",
-      "ai_analysis": "",
-      "impact_level": "low",
-      "impact_direction": "neutral",
-      "sentiment": "neutral",
-      "fetched_at": "2026-10-17T07:18:41.357025+00:00"
-    },
-    {
-      "ticker": "NVDA",
-      "title": "Elon Musk’s Roadster, Nvidia’s Space AI Push, Nadella’s Security Warning: Mag 7 Voices This Week",
-      "link": "https://stocktwits.com/news-articles/markets/equity/elon-musk-roadster-nvidia-space-ai-push-nadella-security-warning-mag-7-ceos-this-week/cZxjushRBtE?.tsrc=rss",
-      "published": "Sat, 17 Oct 2026 02:46:45 +0000",
-      "summary_th": "",
-      "category": "General",
-      "ai_analysis": "",
-      "impact_level": "low",
-      "impact_direction": "neutral",
-      "sentiment": "neutral",
-      "fetched_at": "2026-10-17T07:18:41.357129+00:00"
     },
     {
       "ticker": "NVDA",
@@ -339,32 +157,6 @@
       "fetched_at": "2026-10-17T07:18:41.838150+00:00"
     },
     {
-      "ticker": "GOOGL",
-      "title": "Why You Should Think About Palantir Differently Now",
-      "link": "https://www.trefis.com/articles/618984/why-you-should-think-about-palantir-differently-now/2026-10-16?.tsrc=rss",
-      "published": "Sat, 17 Oct 2026 02:50:36 +0000",
-      "summary_th": "",
-      "category": "General",
-      "ai_analysis": "",
-      "impact_level": "low",
-      "impact_direction": "neutral",
-      "sentiment": "neutral",
-      "fetched_at": "2026-10-17T07:18:41.838198+00:00"
-    },
-    {
-      "ticker": "GOOGL",
-      "title": "Can Trade Desk Stock Bounce Off Its Old Support Again?",
-      "link": "https://www.trefis.com/articles/618992/can-trade-desk-stock-bounce-off-its-old-support-again/2026-10-16?.tsrc=rss",
-      "published": "Sat, 17 Oct 2026 02:19:48 +0000",
-      "summary_th": "",
-      "category": "General",
-      "ai_analysis": "",
-      "impact_level": "low",
-      "impact_direction": "neutral",
-      "sentiment": "positive",
-      "fetched_at": "2026-10-17T07:18:41.838255+00:00"
-    },
-    {
       "ticker": "AMZN",
       "title": "Could Shopify Stock Repeat Amazon's Run Since 2007?",
       "link": "https://www.fool.com/investing/2026/10/17/could-shopify-stock-repeat-amazon-s-run-since-2007/?.tsrc=rss",
@@ -376,32 +168,6 @@
       "impact_direction": "neutral",
       "sentiment": "neutral",
       "fetched_at": "2026-10-17T07:18:42.014893+00:00"
-    },
-    {
-      "ticker": "NFLX",
-      "title": "Ahead of Netflix Earnings, Here's What Barchart Data Says Comes Next for NFLX Stock",
-      "link": "https://www.barchart.com/story/news/8100683/ahead-of-netflix-earnings-here-s-what-barchart-data-says-comes-next-for-nflx-stock?.tsrc=rss",
-      "published": "Fri, 16 Oct 2026 14:58:31 +0000",
-      "summary_th": "",
-      "category": "General",
-      "ai_analysis": "",
-      "impact_level": "low",
-      "impact_direction": "neutral",
-      "sentiment": "neutral",
-      "fetched_at": "2026-10-17T07:18:43.083705+00:00"
-    },
-    {
-      "ticker": "QCOM",
-      "title": "Should You Buy Qualcomm Stock For Its Cash?",
-      "link": "https://www.trefis.com/articles/618987/should-you-buy-qualcomm-stock-for-its-cash/2026-10-16?.tsrc=rss",
-      "published": "Sat, 17 Oct 2026 03:03:01 +0000",
-      "summary_th": "",
-      "category": "General",
-      "ai_analysis": "",
-      "impact_level": "low",
-      "impact_direction": "neutral",
-      "sentiment": "neutral",
-      "fetched_at": "2026-10-17T07:18:43.463484+00:00"
     },
     {
       "ticker": "TSM",
@@ -935,19 +701,6 @@
       "impact_direction": "neutral",
       "sentiment": "positive",
       "fetched_at": "2026-10-17T17:23:17.568410+00:00"
-    },
-    {
-      "ticker": "PLTR",
-      "title": "Palantir's Potential Next Catalyst After Retail Profit-Taking",
-      "link": "https://www.marketbeat.com/articles/palantirs-potential-next-catalyst-after-retail-profit-taking/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
-      "published": "Fri, 16 Oct 2026 14:50:00 +0000",
-      "summary_th": "",
-      "category": "General",
-      "ai_analysis": "",
-      "impact_level": "low",
-      "impact_direction": "neutral",
-      "sentiment": "neutral",
-      "fetched_at": "2026-10-17T17:23:18.396272+00:00"
     },
     {
       "ticker": "IBM",
@@ -1847,19 +1600,6 @@
       "fetched_at": "2026-10-18T12:55:44.037305+00:00"
     },
     {
-      "ticker": "QCOM",
-      "title": "How an OpenAI model caught a spy inside its HQ",
-      "link": "https://finance.yahoo.com/video/openai-model-caught-spy-inside-110000144.html?.tsrc=rss",
-      "published": "Fri, 16 Oct 2026 11:00:00 +0000",
-      "summary_th": "",
-      "category": "General",
-      "ai_analysis": "",
-      "impact_level": "low",
-      "impact_direction": "neutral",
-      "sentiment": "neutral",
-      "fetched_at": "2026-10-18T12:55:44.335416+00:00"
-    },
-    {
       "ticker": "NVDA",
       "title": "Own VGT? Here's How Much of It Is Really Nvidia, Apple, Microsoft, and Broadcom.",
       "link": "https://www.fool.com/investing/2026/10/18/own-vgt-heres-how-much-of-it-is-really-nvidia-appl/?.tsrc=rss",
@@ -2651,45 +2391,6 @@
       "impact_direction": "neutral",
       "sentiment": "neutral",
       "fetched_at": "2026-10-19T02:49:27.055422+00:00"
-    },
-    {
-      "ticker": "SMCI",
-      "title": "CFOs On the Move: Week ending Oct. 16",
-      "link": "https://www.cfo.com/news/cfos-on-the-move-oct-16-Mark-Long-Super-Micro-Jeff-Schrader-Sierra-Space-Joseph-Sesin-Denver-Broncos/833181/?.tsrc=rss",
-      "published": "Fri, 16 Oct 2026 13:39:23 +0000",
-      "summary_th": "",
-      "category": "General",
-      "ai_analysis": "",
-      "impact_level": "low",
-      "impact_direction": "neutral",
-      "sentiment": "neutral",
-      "fetched_at": "2026-10-19T02:49:28.796106+00:00"
-    },
-    {
-      "ticker": "IBM",
-      "title": "Can Healthy Increase in Software Revenues Benefit IBM's Q3 Earnings?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/healthy-increase-software-revenues-benefit-125900890.html?.tsrc=rss",
-      "published": "Fri, 16 Oct 2026 12:59:00 +0000",
-      "summary_th": "",
-      "category": "General",
-      "ai_analysis": "",
-      "impact_level": "low",
-      "impact_direction": "neutral",
-      "sentiment": "positive",
-      "fetched_at": "2026-10-19T02:49:28.955289+00:00"
-    },
-    {
-      "ticker": "IBM",
-      "title": "Stay Ahead of the Game With IBM (IBM) Q3 Earnings: Wall Street's Insights on Key Metrics",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/stay-ahead-game-ibm-ibm-121526755.html?.tsrc=rss",
-      "published": "Fri, 16 Oct 2026 12:15:26 +0000",
-      "summary_th": "",
-      "category": "General",
-      "ai_analysis": "",
-      "impact_level": "low",
-      "impact_direction": "neutral",
-      "sentiment": "neutral",
-      "fetched_at": "2026-10-19T02:49:28.955342+00:00"
     },
     {
       "ticker": "TSM",
@@ -3888,32 +3589,6 @@
       "fetched_at": "2026-10-19T16:06:30.269565+00:00"
     },
     {
-      "ticker": "CRM",
-      "title": "Salesforce (CRM) Suffers a Larger Drop Than the General Market: Key Insights",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/salesforce-crm-suffers-larger-drop-204506562.html?.tsrc=rss",
-      "published": "Fri, 16 Oct 2026 20:45:06 +0000",
-      "summary_th": "",
-      "category": "General",
-      "ai_analysis": "",
-      "impact_level": "low",
-      "impact_direction": "neutral",
-      "sentiment": "negative",
-      "fetched_at": "2026-10-19T16:06:31.376636+00:00"
-    },
-    {
-      "ticker": "CRM",
-      "title": "Salesforce Stock Is Up About 30% Since July 31. Here’s Where It Could Go by 2031",
-      "link": "https://www.tikr.com/blog/salesforce-stock-is-up-about-30-since-july-31-heres-where-it-could-go-by-2031?ref=yahoofinance&.tsrc=rss",
-      "published": "Fri, 16 Oct 2026 20:09:45 +0000",
-      "summary_th": "",
-      "category": "General",
-      "ai_analysis": "",
-      "impact_level": "low",
-      "impact_direction": "neutral",
-      "sentiment": "neutral",
-      "fetched_at": "2026-10-19T16:06:31.376681+00:00"
-    },
-    {
       "ticker": "NFLX",
       "title": "Netflix Is In A ‘Show-Me’ Period Ahead Of Earnings, Seaport Says Amid Price Target Cut",
       "link": "https://stocktwits.com/news-articles/markets/equity/netflix-is-in-a-show-me-period-ahead-of-earnings-seaport-says-amid-price-target-cut/cZx8sIIRBMH?.tsrc=rss",
@@ -3927,19 +3602,6 @@
       "fetched_at": "2026-10-19T16:06:31.562519+00:00"
     },
     {
-      "ticker": "QCOM",
-      "title": "Arm and AMD Fall 5% as Qualcomm Verdict Adds to Chip Selloff; Taiwan Semiconductor Slips",
-      "link": "https://247wallst.com/investing/2026/10/16/arm-and-amd-fall-5-as-qualcomm-verdict-adds-to-chip-selloff-taiwan-semiconductor-slips/?.tsrc=rss",
-      "published": "Fri, 16 Oct 2026 18:10:37 +0000",
-      "summary_th": "",
-      "category": "General",
-      "ai_analysis": "",
-      "impact_level": "low",
-      "impact_direction": "neutral",
-      "sentiment": "neutral",
-      "fetched_at": "2026-10-19T16:06:31.967933+00:00"
-    },
-    {
       "ticker": "PLTR",
       "title": "Palantir Is Expanding Beyond Government Contracts. Here’s Why Investors Should Care",
       "link": "https://247wallst.com/investing/2026/10/19/palantir-is-expanding-beyond-government-contracts-heres-why-investors-should-care/?.tsrc=rss",
@@ -3951,71 +3613,6 @@
       "impact_direction": "neutral",
       "sentiment": "positive",
       "fetched_at": "2026-10-19T16:06:32.206754+00:00"
-    },
-    {
-      "ticker": "SMCI",
-      "title": "Super Micro Named a New CFO After Burning Nearly $7 Billion in Free Cash Flow. Here’s Where the Stock Could Go by 2031",
-      "link": "https://www.tikr.com/blog/super-micro-named-a-new-cfo-after-burning-nearly-7-billion-in-free-cash-flow-heres-where-the-stock-could-go-by-2031?ref=yahoofinance&.tsrc=rss",
-      "published": "Fri, 16 Oct 2026 19:48:42 +0000",
-      "summary_th": "",
-      "category": "General",
-      "ai_analysis": "",
-      "impact_level": "low",
-      "impact_direction": "neutral",
-      "sentiment": "positive",
-      "fetched_at": "2026-10-19T16:06:32.381137+00:00"
-    },
-    {
-      "ticker": "SMCI",
-      "title": "Hewlett Packard Enterprise Falls 5% as AI Financing Worries Extend Hardware Selloff; Super Micro Sinks 7%, Dell Drops 3%",
-      "link": "https://247wallst.com/investing/2026/10/16/hewlett-packard-enterprise-falls-5-as-ai-financing-worries-extend-hardware-selloff-super-micro-sinks-7-dell-drops-3/?.tsrc=rss",
-      "published": "Fri, 16 Oct 2026 15:42:22 +0000",
-      "summary_th": "",
-      "category": "General",
-      "ai_analysis": "",
-      "impact_level": "low",
-      "impact_direction": "neutral",
-      "sentiment": "positive",
-      "fetched_at": "2026-10-19T16:06:32.381211+00:00"
-    },
-    {
-      "ticker": "ADBE",
-      "title": "Adobe Systems (ADBE) Registers a Bigger Fall Than the Market: Important Facts to Note",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/adobe-systems-adbe-registers-bigger-204505874.html?.tsrc=rss",
-      "published": "Fri, 16 Oct 2026 20:45:05 +0000",
-      "summary_th": "",
-      "category": "General",
-      "ai_analysis": "",
-      "impact_level": "low",
-      "impact_direction": "neutral",
-      "sentiment": "positive",
-      "fetched_at": "2026-10-19T16:06:32.734111+00:00"
-    },
-    {
-      "ticker": "ADBE",
-      "title": "CORRECTING and REPLACING Adobe: U.S. Holiday Shopping Season to Hit Record $275.1 Billion Online, Rising 6.7% YoY",
-      "link": "https://finance.yahoo.com/media-advertising/articles/adobe-u-holiday-shopping-season-120000427.html?.tsrc=rss",
-      "published": "Fri, 16 Oct 2026 16:56:00 +0000",
-      "summary_th": "",
-      "category": "General",
-      "ai_analysis": "",
-      "impact_level": "low",
-      "impact_direction": "neutral",
-      "sentiment": "positive",
-      "fetched_at": "2026-10-19T16:06:32.734169+00:00"
-    },
-    {
-      "ticker": "ADBE",
-      "title": "Is Adobe A Better Way Than Salesforce To Own AI Software Growth?",
-      "link": "https://www.trefis.com/articles/618989/is-adobe-a-better-way-than-salesforce-to-own-ai-software-growth/2026-10-16?.tsrc=rss",
-      "published": "Fri, 16 Oct 2026 16:02:09 +0000",
-      "summary_th": "",
-      "category": "General",
-      "ai_analysis": "",
-      "impact_level": "low",
-      "impact_direction": "neutral",
-      "sentiment": "positive",
-      "fetched_at": "2026-10-19T16:06:32.734212+00:00"
     },
     {
       "ticker": "TSM",
@@ -15794,6 +15391,175 @@
       "impact_direction": "neutral",
       "sentiment": "positive",
       "fetched_at": "2026-10-23T02:56:41.939795+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Not IonQ. Not D-Wave. This Quantum Stock Could Be 2027's Surprise Winner.",
+      "link": "https://www.fool.com/investing/2026/10/23/not-ionq-not-d-wave-this-quantum-stock-could-be-20/?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 05:20:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-23T05:37:37.757651+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Our Pick Of The Best AI Growth Stocks In October 2026",
+      "link": "https://finance.yahoo.com/technology/ai/articles/pick-best-ai-growth-stocks-051422083.html?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 05:14:22 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-23T05:37:37.757717+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Pony.ai partners with inDrive, Nvidia to launch robotaxis in Kazakhstan",
+      "link": "https://finance.yahoo.com/technology/ai/articles/pony-ai-partners-indrive-nvidia-050536766.html?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 05:05:36 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-23T05:37:37.757742+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "S&P 500 best performers: Zero mag 7 stocks past 13 weeks",
+      "link": "https://www.thestreet.com/investing/sp-500-best-performers-zero-mag-7-stocks-past-13-weeks?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 04:03:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-23T05:37:37.757770+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "3 AI Stocks Under 27x P E",
+      "link": "https://finance.yahoo.com/technology/ai/articles/3-ai-stocks-under-27x-031747981.html?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 03:17:47 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-23T05:37:37.757786+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Why Did AAPL, KO, KDP Stocks Hit 52-Week Highs Today?",
+      "link": "https://stocktwits.com/news-articles/markets/equity/why-did-aapl-ko-kdp-stocks-hit-52-week-highs-today/cZxyRFLRBDA?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 03:23:22 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-23T05:37:37.962142+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "What Marvell Technology Holders Bought Into Before A 170% Run",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/marvell-technology-holders-bought-170-051214720.html?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 05:12:14 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-23T05:37:38.465292+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Google’s AI chip could become a $75 billion business",
+      "link": "https://www.thestreet.com/investing/google-ai-chip-could-become-75-billion-business?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 03:07:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-23T05:37:38.465328+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Amazon caught hackers probing a PHP flaw 4 days before the fix",
+      "link": "https://www.thestreet.com/technology/amazon-caught-hackers-probing-php-vulnerabilities?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 03:17:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-23T05:37:38.668846+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Citadel's Ken Griffin Says AI is in a Bubble Right Now. Billionaire Data Center Backer Jon Gray of Blackstone Disagrees.",
+      "link": "https://www.barchart.com/story/news/8339927/citadel-s-ken-griffin-says-ai-is-in-a-bubble-right-now-billionaire-data-center-backer-jon-gray-of-blackstone-disagrees?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 21:14:21 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-23T05:37:38.668918+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "Meta found a new way to pay for its AI boom",
+      "link": "https://www.thestreet.com/technology/meta-found-a-new-way-to-pay-for-its-ai-boom?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 03:32:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-23T05:37:38.873056+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "Asian stocks head into weekend on a low as tech extends losses",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-head-weekend-low-024730943.html?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 02:47:30 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-23T05:37:38.873123+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "I've Covered Tesla for Over a Decade. Here's Whether It's a Stock to Buy More Than 21% Below Its Record.",
+      "link": "https://www.fool.com/investing/2026/10/22/i-ve-covered-tesla-for-over-a-decade-here-s-whether-it-s-a-stock-to-buy-more-than-21-below-its-record/?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 03:34:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-23T05:37:39.080681+00:00"
     }
   ]
 }
