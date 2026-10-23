@@ -1,7 +1,7 @@
 {
   "date": "2026-10-23",
   "window_days": 7,
-  "source_count": 1224,
+  "source_count": 1265,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 206,
+      "count": 211,
       "kind": "ticker"
     },
     {
@@ -21,7 +21,7 @@
         "revenue guidance",
         "profit forecast"
       ],
-      "count": 157,
+      "count": 159,
       "kind": "topic"
     },
     {
@@ -30,7 +30,7 @@
       "search_terms": [
         "GOOGL"
       ],
-      "count": 123,
+      "count": 127,
       "kind": "ticker"
     },
     {
@@ -39,7 +39,7 @@
       "search_terms": [
         "META"
       ],
-      "count": 120,
+      "count": 123,
       "kind": "ticker"
     },
     {
@@ -48,7 +48,7 @@
       "search_terms": [
         "TSLA"
       ],
-      "count": 107,
+      "count": 111,
       "kind": "ticker"
     },
     {
@@ -57,16 +57,7 @@
       "search_terms": [
         "AMZN"
       ],
-      "count": 80,
-      "kind": "ticker"
-    },
-    {
-      "label": "NFLX",
-      "query": "NFLX",
-      "search_terms": [
-        "NFLX"
-      ],
-      "count": 74,
+      "count": 83,
       "kind": "ticker"
     },
     {
@@ -75,7 +66,16 @@
       "search_terms": [
         "AAPL"
       ],
-      "count": 73,
+      "count": 78,
+      "kind": "ticker"
+    },
+    {
+      "label": "NFLX",
+      "query": "NFLX",
+      "search_terms": [
+        "NFLX"
+      ],
+      "count": 75,
       "kind": "ticker"
     },
     {
@@ -84,7 +84,7 @@
       "search_terms": [
         "MSFT"
       ],
-      "count": 69,
+      "count": 74,
       "kind": "ticker"
     },
     {
@@ -93,7 +93,7 @@
       "search_terms": [
         "ORCL"
       ],
-      "count": 47,
+      "count": 49,
       "kind": "ticker"
     },
     {
@@ -102,7 +102,7 @@
       "search_terms": [
         "IBM"
       ],
-      "count": 45,
+      "count": 46,
       "kind": "ticker"
     },
     {
@@ -111,11 +111,11 @@
       "search_terms": [
         "AMD"
       ],
-      "count": 42,
+      "count": 43,
       "kind": "ticker"
     }
   ],
-  "updated_at": "2026-10-23T10:30:28.197092+00:00",
+  "updated_at": "2026-10-23T14:00:15.565406+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -16028,6 +16028,539 @@
       "impact_direction": "neutral",
       "sentiment": "neutral",
       "fetched_at": "2026-10-23T10:30:27.427956+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Newegg Now Offers NVIDIA RTX Spark Laptops in the U.S. and Canada",
+      "link": "https://finance.yahoo.com/technology/ai/articles/newegg-now-offers-nvidia-rtx-130000989.html?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 13:00:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-23T14:00:12.721410+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "inDrive and Pony.ai Announce Collaboration to Explore Autonomous Mobility in Kazakhstan Built on NVIDIA Hyperion",
+      "link": "https://finance.yahoo.com/technology/ai/articles/indrive-pony-ai-announce-collaboration-130000659.html?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 13:00:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-23T14:00:12.721473+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Brokers Suggest Investing in Nvidia (NVDA): Read This Before Placing a Bet",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/brokers-suggest-investing-nvidia-nvda-123003095.html?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 12:30:03 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-23T14:00:12.721516+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "NVDA vs. LRCX: Which AI Semiconductor Stock Is the Better Buy?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nvda-vs-lrcx-ai-semiconductor-122600094.html?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 12:26:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-23T14:00:12.721577+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "5 Things to Know Before the Stock Market Opens on Friday",
+      "link": "https://www.investopedia.com/5-things-to-know-before-the-stock-market-opens-on-friday-october-23-2026-12188503?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 12:20:49 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-23T14:00:12.721610+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Apple releases $2,000 iPhone Duo – but customers struggle to actually buy one",
+      "link": "https://www.independent.co.uk/tech/apple-iphone-duo-buy-stock-b3072230.html?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 13:08:23 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-23T14:00:12.852568+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Apple Is Just $42 Billion Away From Passing Nvidia as the World’s Most Valuable Company",
+      "link": "https://247wallst.com/investing/2026/10/23/apple-is-just-42-billion-away-from-passing-nvidia-as-the-worlds-most-valuable-company/?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 11:30:52 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-23T14:00:12.852661+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "3 Investment Grade Bond Ideas Riding Big Tech AI Capex Plans",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-investment-grade-bond-ideas-111614808.html?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 11:16:14 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-23T14:00:12.852700+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Want Rising Income in Retirement? Invest in These 4 Dividend Growers Whose Free Cash Flow Covers Every Payout",
+      "link": "https://247wallst.com/investing/2026/10/23/want-rising-income-in-retirement-invest-in-these-4-dividend-growers-whose-free-cash-flow-covers-every-payout/?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 12:51:26 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-23T14:00:12.852776+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "MP vs. LYSDY: Which Rare Earth Stock Has an Edge Right Now?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/mp-vs-lysdy-rare-earth-123900916.html?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 12:39:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-23T14:00:12.852810+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Seeking Clues to Microsoft (MSFT) Q1 Earnings? A Peek Into Wall Street Projections for Key Metrics",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/seeking-clues-microsoft-msft-q1-121507389.html?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 12:15:07 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-23T14:00:12.972955+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Microsoft Has a $1 Trillion Opportunity Hiding in Plain Sight",
+      "link": "https://247wallst.com/investing/2026/10/23/microsoft-has-a-1-trillion-opportunity-hiding-in-plain-sight/?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 11:15:52 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-23T14:00:12.973067+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Alphabet Solves the AI Infrastructure Bottlenecks Competitors Can’t Buy with Debt",
+      "link": "https://247wallst.com/investing/2026/10/23/alphabet-solves-the-ai-infrastructure-bottlenecks-competitors-cant-buy-with-debt/?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 12:45:55 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-23T14:00:12.973136+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Prediction: Oracle Could Become a Much Bigger AI Winner Than Investors Expect",
+      "link": "https://247wallst.com/investing/2026/10/23/prediction-oracle-could-become-a-much-bigger-ai-winner-than-investors-expect/?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 12:45:45 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-23T14:00:12.973195+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Salesforce Is Betting Big on AI. The Payoff Could Be Bigger Than Investors Expect",
+      "link": "https://247wallst.com/investing/2026/10/23/salesforce-is-betting-big-on-ai-the-payoff-could-be-bigger-than-investors-expect/?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 12:00:27 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-23T14:00:12.973229+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Alphabet (GOOGL) Cloud Outage And Share Token Fight Put Regulation In Focus",
+      "link": "https://finance.yahoo.com/technology/articles/alphabet-googl-cloud-outage-share-131307505.html?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 13:13:07 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-23T14:00:13.112266+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Meta’s capital-raising plans expose a major weakness in the AI boom",
+      "link": "https://finance.yahoo.com/technology/ai/articles/meta-capital-raising-plans-expose-125445877.html?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 12:54:45 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-23T14:00:13.112357+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Same Playbook, Different Silicon: Broadcom Holds the Throne, Marvell Plays the AMD Challenger.",
+      "link": "https://247wallst.com/investing/2026/10/23/same-playbook-different-silicon-broadcom-holds-the-throne-marvell-plays-the-amd-challenger/?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 12:45:58 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-23T14:00:13.112431+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Arm’s Ready-Made Blueprints: The Blueprint Attack on Marvell’s Challenger Crown",
+      "link": "https://247wallst.com/investing/2026/10/23/arms-ready-made-blueprints-the-blueprint-attack-on-marvells-challenger-crown/?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 12:45:57 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-23T14:00:13.112499+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Should You Buy Amazon Stock Before Oct. 29?",
+      "link": "https://www.fool.com/investing/2026/10/23/should-you-buy-amazon-stock-before-oct-29/?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 11:22:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-23T14:00:13.251811+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "If a Stock Market Crash Is on the Way, Warren Buffett Says This Is the Best Thing Investors Can Do for Their Portfolio",
+      "link": "https://www.fool.com/investing/2026/10/23/if-a-stock-market-crash-is-on-the-way-warren-buffe/?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 10:50:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-23T14:00:13.251925+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Two Critical Nvidia Stock Flaws and Other Reasons to Sell, Says Analyst",
+      "link": "https://finance.yahoo.com/m/9cdb41d6-a291-37eb-bff7-347d06660a9d/two-critical-nvidia-stock.html?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 12:16:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-23T14:00:13.251991+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "BofA names Meta a top AI idea, raises price target on stronger ad growth",
+      "link": "https://finance.yahoo.com/technology/ai/articles/bofa-names-meta-top-ai-132953017.html?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 13:29:53 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-23T14:00:13.381407+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "Meta (META) Stock Seems Fully Valued Despite Its 127% Three Year Run",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/meta-meta-stock-seems-fully-131319119.html?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 13:13:19 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-23T14:00:13.381486+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "Stocks Down Pre-Bell Amid Tech Selloff",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-down-pre-bell-amid-121035032.html?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 12:10:35 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-23T14:00:13.381515+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "How Accounting Helped Tesla Beat Gross Profit Numbers",
+      "link": "https://finance.yahoo.com/m/635adce4-9dd6-3805-a9dc-c9bd568d30e6/how-accounting-helped-tesla.html?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 12:52:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-23T14:00:13.515883+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Tesla And 2 Other Top Founder Led Stocks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-2-other-top-founder-120935582.html?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 12:09:35 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-23T14:00:13.515949+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Energea Expands U.S. Portfolio with $20 Million Commitment for Tesla Superchargers",
+      "link": "https://finance.yahoo.com/energy/articles/energea-expands-u-portfolio-20-120000608.html?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 12:00:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-23T14:00:13.516039+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Tesla Gives Up On Cybertruck In Australia. Company Says It Will Refund All Deposits It Has Collected Since 2019 For The Troubled Truck",
+      "link": "https://247wallst.com/investing/2026/10/23/tesla-gives-up-on-cybertruck-in-australia-company-says-it-will-refund-all-deposits-it-has-collected-since-2019-for-the-troubled-truck/?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 11:40:46 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-23T14:00:13.516115+00:00"
+    },
+    {
+      "ticker": "AMD",
+      "title": "AMD Has a High Floor, High Volatility Trajectory Through the End of 2026",
+      "link": "https://247wallst.com/investing/2026/10/23/amd-has-a-high-floor-high-volatility-trajectory-through-the-end-of-2026/?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 11:15:31 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-23T14:00:13.652735+00:00"
+    },
+    {
+      "ticker": "ORCL",
+      "title": "Oracle Announces $1 Billion Investment to Accelerate Partner Growth and AI-Driven Modernization for Customers",
+      "link": "https://finance.yahoo.com/technology/ai/articles/oracle-announces-1-billion-investment-120100226.html?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 12:01:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-23T14:00:14.015082+00:00"
+    },
+    {
+      "ticker": "ORCL",
+      "title": "Oracle Expands Marketplace to Unlock New Partner Growth Opportunities",
+      "link": "https://finance.yahoo.com/technology/articles/oracle-expands-marketplace-unlock-partner-120000237.html?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 12:00:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-23T14:00:14.015166+00:00"
+    },
+    {
+      "ticker": "CRM",
+      "title": "Salesforce vs. Snowflake: Which Technology Stock Is a Better Buy in 2026?",
+      "link": "https://www.fool.com/coverage/better-buy/2026/10/23/salesforce-vs-snowflake-which-technology-stock-is-a-better-buy-in-2026/?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 13:46:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-23T14:00:14.149193+00:00"
+    },
+    {
+      "ticker": "NFLX",
+      "title": "Netflix (NFLX) Stock Fair Value Falls After Cautious Q3 Analyst Revisions",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/netflix-nflx-stock-fair-value-111549076.html?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 11:15:49 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-23T14:00:14.280113+00:00"
+    },
+    {
+      "ticker": "INTC",
+      "title": "The Foundry Disconnect: Intel Nails the Transistor, But TSMC Holds the Keys to Yield and Scale.",
+      "link": "https://247wallst.com/investing/2026/10/23/the-foundry-disconnect-intel-nails-the-transistor-but-tsmc-holds-the-keys-to-yield-and-scale/?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 11:15:58 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-23T14:00:14.588897+00:00"
+    },
+    {
+      "ticker": "INTC",
+      "title": "MARKETS LIVE: US stock futures fall as Nasdaq 100 slides amid AI concerns",
+      "link": "https://www.proactiveinvestors.com/companies/news/1100595/markets-live-wall-street-slides-as-ai-jitters-and-oil-surge-weigh-on-markets-while-ftse-250-recovers-1100595.html?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 05:56:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-23T14:00:14.588946+00:00"
+    },
+    {
+      "ticker": "QCOM",
+      "title": "AI agents are inside U.S. bank accounts. But nobody knows how.",
+      "link": "https://finance.yahoo.com/video/ai-agents-inside-u-bank-110000675.html?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 11:00:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-23T14:00:14.738260+00:00"
+    },
+    {
+      "ticker": "PLTR",
+      "title": "Palantir Stock Price Prediction: Is $212 in Reach by Year-End?",
+      "link": "https://247wallst.com/investing/2026/10/23/palantir-stock-price-prediction-is-212-in-reach-by-year-end/?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 13:25:46 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-23T14:00:14.892957+00:00"
+    },
+    {
+      "ticker": "IBM",
+      "title": "IBM (IBM) Stock Shrugs Off Q3 Earnings As Margins Quietly Improve",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ibm-ibm-stock-shrugs-off-101926006.html?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 10:19:26 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-23T14:00:15.215586+00:00"
+    },
+    {
+      "ticker": "ADBE",
+      "title": "Adobe vs. CrowdStrike: Which Technology Stock Is a Better Buy in 2026?",
+      "link": "https://www.fool.com/coverage/better-buy/2026/10/23/adobe-vs-crowdstrike-which-technology-stock-is-a-better-buy-in-2026/?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 13:09:56 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-23T14:00:15.381268+00:00"
+    },
+    {
+      "ticker": "TSM",
+      "title": "This Company Behind the World’s AI Chips Could Be a Huge Winner",
+      "link": "https://247wallst.com/investing/2026/10/23/this-company-behind-the-worlds-ai-chips-could-be-a-huge-winner/?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 13:30:26 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-23T14:00:15.526671+00:00"
     }
   ]
 }
