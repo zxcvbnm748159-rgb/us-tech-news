@@ -1,14 +1,14 @@
 {
   "date": "2026-10-22",
-  "score": 69,
+  "score": 70,
   "label": "Bullish",
   "counts": {
-    "positive": 86,
-    "negative": 38,
-    "neutral": 114
+    "positive": 92,
+    "negative": 40,
+    "neutral": 120
   },
-  "total": 238,
-  "updated_at": "2026-10-23T00:56:11.092237+00:00",
+  "total": 252,
+  "updated_at": "2026-10-23T02:56:42.057034+00:00",
   "articles": [
     {
       "link": "https://finance.yahoo.com/markets/stocks/articles/microsoft-msft-stock-may-22-042528043.html?.tsrc=rss",
@@ -960,6 +960,62 @@
     },
     {
       "link": "https://247wallst.com/investing/etf/2026/10/22/super-micro-has-lost-60-86-since-it-was-tapped-for-the-sp-500-index-funds-like-voo-had-to-buy-it-anyway/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/22/cathie-wood-just-bought-netflix-stock-should-you-follow-her/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-ai-security-tie-zscaler-021948295.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://stocktwits.com/news-articles/markets/equity/soxx-soxl-smh-plunge-as-chip-stocks-sell-off-amid-supply-chain-concerns/cZxUCbMRBDF?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-undervalued-stocks-least-33-011311785.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.thestreet.com/retail/mkbhd-drops-a-blunt-verdict-on-apples-1999-iphone-duo?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.thestreet.com/employment/volkswagen-workers-may-get-microsoft-ai-copilot-instead-of-a-raise?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.retail-insight-network.com/news/tax-loophole-fears-cloud-uk-marketplace-vat-reform/?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.socialmediatoday.com/news/meta-says-shopping-is-muses-primary-use-case/833808/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://beincrypto.com/tesla-spacex-merger-hurdles-steve-westly/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.thestreet.com/investing/stocks/elon-musk-spacex-tesla-merger-stock-investors?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/broadcom-avgo-stock-could-bargain-011039774.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://247wallst.com/personal-finance/social-security/2026/10/22/netflix-viewing-time-drops-26-a-bored-retiree-trades-the-couch-for-a-40000-job-that-could-boost-his-social-security/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/international-business-machines-ibm-just-021540420.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/coverage/better-buy/2026/10/22/adobe-vs-arista-networks-which-tech-stock-is-a-better-buy-in-2026/?.tsrc=rss",
       "sentiment": "positive"
     }
   ]

@@ -1,7 +1,7 @@
 {
   "date": "2026-10-22",
   "window_days": 7,
-  "source_count": 1192,
+  "source_count": 1206,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 194,
+      "count": 198,
       "kind": "ticker"
     },
     {
@@ -39,7 +39,7 @@
       "search_terms": [
         "META"
       ],
-      "count": 111,
+      "count": 112,
       "kind": "ticker"
     },
     {
@@ -48,7 +48,7 @@
       "search_terms": [
         "TSLA"
       ],
-      "count": 102,
+      "count": 104,
       "kind": "ticker"
     },
     {
@@ -57,7 +57,7 @@
       "search_terms": [
         "AMZN"
       ],
-      "count": 76,
+      "count": 77,
       "kind": "ticker"
     },
     {
@@ -66,7 +66,7 @@
       "search_terms": [
         "AAPL"
       ],
-      "count": 73,
+      "count": 74,
       "kind": "ticker"
     },
     {
@@ -75,7 +75,7 @@
       "search_terms": [
         "NFLX"
       ],
-      "count": 73,
+      "count": 74,
       "kind": "ticker"
     },
     {
@@ -84,7 +84,16 @@
       "search_terms": [
         "MSFT"
       ],
-      "count": 67,
+      "count": 68,
+      "kind": "ticker"
+    },
+    {
+      "label": "IBM",
+      "query": "IBM",
+      "search_terms": [
+        "IBM"
+      ],
+      "count": 46,
       "kind": "ticker"
     },
     {
@@ -97,15 +106,6 @@
       "kind": "ticker"
     },
     {
-      "label": "IBM",
-      "query": "IBM",
-      "search_terms": [
-        "IBM"
-      ],
-      "count": 45,
-      "kind": "ticker"
-    },
-    {
       "label": "AMD",
       "query": "AMD",
       "search_terms": [
@@ -115,7 +115,7 @@
       "kind": "ticker"
     }
   ],
-  "updated_at": "2026-10-23T00:56:11.128627+00:00",
+  "updated_at": "2026-10-23T02:56:42.095379+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -15612,6 +15612,188 @@
       "impact_direction": "neutral",
       "sentiment": "positive",
       "fetched_at": "2026-10-23T00:56:10.586045+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Cathie Wood Just Bought Netflix Stock. Should You Follow Her?",
+      "link": "https://www.fool.com/investing/2026/10/22/cathie-wood-just-bought-netflix-stock-should-you-follow-her/?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 02:20:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-23T02:56:39.563668+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "How Nvidia AI Security Tie Up At Zscaler (ZS) Has Changed Its Investment Story",
+      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-ai-security-tie-zscaler-021948295.html?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 02:19:48 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-23T02:56:39.563771+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "SOXX, SOXL, SMH Plunge As Chip Stocks Sell Off Amid Supply Chain Concerns",
+      "link": "https://stocktwits.com/news-articles/markets/equity/soxx-soxl-smh-plunge-as-chip-stocks-sell-off-amid-supply-chain-concerns/cZxUCbMRBDF?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 01:45:52 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-23T02:56:39.563828+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "3 Undervalued Stocks With At Least 33% Fair Value Upside",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-undervalued-stocks-least-33-011311785.html?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 01:13:11 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-23T02:56:39.563899+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "MKBHD drops a blunt verdict on Apple’s $1,999 iPhone Duo",
+      "link": "https://www.thestreet.com/retail/mkbhd-drops-a-blunt-verdict-on-apples-1999-iphone-duo?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 02:03:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-23T02:56:39.726417+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Volkswagen workers may get Microsoft AI instead of a raise",
+      "link": "https://www.thestreet.com/employment/volkswagen-workers-may-get-microsoft-ai-copilot-instead-of-a-raise?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 02:33:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-23T02:56:39.866320+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Tax loophole fears cloud UK marketplace VAT reform",
+      "link": "https://www.retail-insight-network.com/news/tax-loophole-fears-cloud-uk-marketplace-vat-reform/?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 02:36:52 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-23T02:56:40.154030+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "Meta says shopping is Muse’s primary use case",
+      "link": "https://www.socialmediatoday.com/news/meta-says-shopping-is-muses-primary-use-case/833808/?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 22:36:18 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-23T02:56:40.295123+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "3 Hurdles Could Complicate a Tesla and SpaceX Merger, Says Ex-Tesla Director",
+      "link": "https://beincrypto.com/tesla-spacex-merger-hurdles-steve-westly/?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 01:05:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-23T02:56:40.443504+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Elon Musk sends a strong memo to SpaceX and Tesla stock investors",
+      "link": "https://www.thestreet.com/investing/stocks/elon-musk-spacex-tesla-merger-stock-investors?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 01:03:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-23T02:56:40.443585+00:00"
+    },
+    {
+      "ticker": "AVGO",
+      "title": "Broadcom (AVGO) Stock Could Be A Bargain Following Its 5.7x Run",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/broadcom-avgo-stock-could-bargain-011039774.html?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 01:10:39 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-23T02:56:40.784206+00:00"
+    },
+    {
+      "ticker": "NFLX",
+      "title": "Netflix Viewing Time Drops an Estimated 26%. A Bored Retiree Trades the Couch for a $40,000 Job That Could Boost His Social Security",
+      "link": "https://247wallst.com/personal-finance/social-security/2026/10/22/netflix-viewing-time-drops-26-a-bored-retiree-trades-the-couch-for-a-40000-job-that-could-boost-his-social-security/?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 01:00:30 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-23T02:56:41.172101+00:00"
+    },
+    {
+      "ticker": "IBM",
+      "title": "International Business Machines (IBM) Just Gave Investors Something To Think About",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/international-business-machines-ibm-just-021540420.html?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 02:15:40 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-23T02:56:41.819037+00:00"
+    },
+    {
+      "ticker": "ADBE",
+      "title": "Adobe vs. Arista Networks: Which Tech Stock Is a Better Buy in 2026?",
+      "link": "https://www.fool.com/coverage/better-buy/2026/10/22/adobe-vs-arista-networks-which-tech-stock-is-a-better-buy-in-2026/?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 01:59:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-23T02:56:41.939795+00:00"
     }
   ]
 }
