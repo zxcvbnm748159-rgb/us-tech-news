@@ -1,14 +1,14 @@
 {
   "date": "2026-10-23",
-  "score": 100,
+  "score": 80,
   "label": "Bullish",
   "counts": {
-    "positive": 3,
-    "negative": 0,
-    "neutral": 2
+    "positive": 8,
+    "negative": 2,
+    "neutral": 8
   },
-  "total": 5,
-  "updated_at": "2026-10-23T05:37:41.616292+00:00",
+  "total": 18,
+  "updated_at": "2026-10-23T08:15:26.415018+00:00",
   "articles": [
     {
       "link": "https://www.fool.com/investing/2026/10/23/not-ionq-not-d-wave-this-quantum-stock-could-be-20/?.tsrc=rss",
@@ -28,6 +28,58 @@
     },
     {
       "link": "https://finance.yahoo.com/markets/stocks/articles/marvell-technology-holders-bought-170-051214720.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.verdict.co.uk/nvidia-minerva-aiops-platform/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/23/if-the-ai-bubble-bursts-these-stocks-will-be-winners/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/7d95d07d-caf7-3ffa-be0a-5b9fb22391ec/meta%E2%80%99s-muse-is-a-huge-hit..html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://stocktwits.com/news-articles/markets/equity/stocktwits-ai-roundup-meta-s-capex-lam-s-supply-warning-hit-tech-stocks-as-netflix-disappoints/cZxy3D9RBD6?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/23/meta-is-doing-something-it-s-never-done-before-here-s-what-it-means-for-investors/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-062000268.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/meta-meta-stock-price-sinks-060904785.html?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/23/teslas-automotive-revenue-fell-3-and-energy-genera/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.tikr.com/blog/tesla-fell-3-as-musk-trims-capex-delays-optimus-ramp-for-the-biggest-product-on-earth?ref=yahoofinance&.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://stocktwits.com/news-articles/markets/equity/tsla-analyst-physical-tech-berkshire-bear-court-ruling-q3-beat/cZxyEIYRBxG?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-061300741.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/23/ibm-s-software-growth-sped-up-and-its-stock-barely-moved-i-d-start-buying/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://stocktwits.com/news-articles/markets/equity/michael-burry-bumps-up-substack-subscription-price-4-busted-bear-market-havens/cZxyIwoRBxR?.tsrc=rss",
       "sentiment": "neutral"
     }
   ]

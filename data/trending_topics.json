@@ -1,7 +1,7 @@
 {
   "date": "2026-10-23",
   "window_days": 7,
-  "source_count": 1188,
+  "source_count": 1202,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 199,
+      "count": 201,
       "kind": "ticker"
     },
     {
@@ -30,7 +30,7 @@
       "search_terms": [
         "GOOGL"
       ],
-      "count": 117,
+      "count": 119,
       "kind": "ticker"
     },
     {
@@ -39,7 +39,7 @@
       "search_terms": [
         "META"
       ],
-      "count": 113,
+      "count": 116,
       "kind": "ticker"
     },
     {
@@ -48,7 +48,7 @@
       "search_terms": [
         "TSLA"
       ],
-      "count": 101,
+      "count": 105,
       "kind": "ticker"
     },
     {
@@ -102,7 +102,7 @@
       "search_terms": [
         "IBM"
       ],
-      "count": 44,
+      "count": 45,
       "kind": "ticker"
     },
     {
@@ -115,7 +115,7 @@
       "kind": "ticker"
     }
   ],
-  "updated_at": "2026-10-23T05:37:41.638273+00:00",
+  "updated_at": "2026-10-23T08:15:26.452063+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -15560,6 +15560,188 @@
       "impact_direction": "neutral",
       "sentiment": "neutral",
       "fetched_at": "2026-10-23T05:37:39.080681+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Nvidia launches Minerva AIOps platform for AI factory observability",
+      "link": "https://www.verdict.co.uk/nvidia-minerva-aiops-platform/?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 07:17:51 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-23T08:15:23.870040+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "If the AI Bubble Bursts, These Stocks Will Be Winners",
+      "link": "https://www.fool.com/investing/2026/10/23/if-the-ai-bubble-bursts-these-stocks-will-be-winners/?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 05:50:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-23T08:15:23.870128+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Meta’s Muse Is a Huge Hit. Its Success Could Hammer the Stock Market.",
+      "link": "https://finance.yahoo.com/m/7d95d07d-caf7-3ffa-be0a-5b9fb22391ec/meta%E2%80%99s-muse-is-a-huge-hit..html?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 07:00:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-23T08:15:24.305673+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Stocktwits AI Roundup: Meta’s Capex, Lam’s Supply Warning Hit Tech Stocks As Netflix Disappoints",
+      "link": "https://stocktwits.com/news-articles/markets/equity/stocktwits-ai-roundup-meta-s-capex-lam-s-supply-warning-hit-tech-stocks-as-netflix-disappoints/cZxy3D9RBD6?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 06:01:51 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-23T08:15:24.305779+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "Meta Is Doing Something It’s Never Done Before. Here’s What It Means for Investors.",
+      "link": "https://www.fool.com/investing/2026/10/23/meta-is-doing-something-it-s-never-done-before-here-s-what-it-means-for-investors/?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 08:10:01 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-23T08:15:24.574418+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "Zacks Investment Ideas feature highlights: Meta Platforms and Pepsi",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-062000268.html?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 06:20:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-23T08:15:24.574466+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "Meta (META) Stock Price Sinks As Q3 Results Expose AI Cash Strain",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/meta-meta-stock-price-sinks-060904785.html?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 06:09:04 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-23T08:15:24.574547+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Tesla's Automotive Revenue Fell 3%, and Energy Generation and Storage Tumbled 16%. Should Investors Still View Tesla as a Car Company?",
+      "link": "https://www.fool.com/investing/2026/10/23/teslas-automotive-revenue-fell-3-and-energy-genera/?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 07:05:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-23T08:15:24.712249+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Tesla Fell 3% as Musk Trims Capex, Delays Optimus Ramp for “The Biggest Product on Earth”",
+      "link": "https://www.tikr.com/blog/tesla-fell-3-as-musk-trims-capex-delays-optimus-ramp-for-the-biggest-product-on-earth?ref=yahoofinance&.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 06:42:29 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-23T08:15:24.712306+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "TSLA Eyes Best Week In 2 Months — Analyst Sees Physical Tech’s ‘Berkshire,’ But Bear Credits Court Ruling For Q3 Beat",
+      "link": "https://stocktwits.com/news-articles/markets/equity/tsla-analyst-physical-tech-berkshire-bear-court-ruling-q3-beat/cZxyEIYRBxG?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 06:13:55 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-23T08:15:24.712416+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Zacks Investment Ideas feature highlights: Tesla and SpaceX",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-061300741.html?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 06:13:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-23T08:15:24.712447+00:00"
+    },
+    {
+      "ticker": "AVGO",
+      "title": "Broadcom Stock Fell 4% as Chip Stocks Slid Days After a 10-Year VMware Deal. Here’s What Wall Street’s Targets Say",
+      "link": "https://www.tikr.com/blog/broadcom-stock-fell-4-as-chip-stocks-slid-days-after-a-10-year-vmware-deal-heres-what-wall-streets-targets-say?ref=yahoofinance&.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 01:29:37 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-23T08:15:25.027073+00:00"
+    },
+    {
+      "ticker": "IBM",
+      "title": "IBM's Software Growth Sped Up and Its Stock Barely Moved. I'd Start Buying.",
+      "link": "https://www.fool.com/investing/2026/10/23/ibm-s-software-growth-sped-up-and-its-stock-barely-moved-i-d-start-buying/?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 08:01:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-23T08:15:26.125993+00:00"
+    },
+    {
+      "ticker": "ADBE",
+      "title": "'Big Short' Investor Michael Burry Bumps Up Substack Subscription Price, Flags 4 'Busted' Bear-Market Havens",
+      "link": "https://stocktwits.com/news-articles/markets/equity/michael-burry-bumps-up-substack-subscription-price-4-busted-bear-market-havens/cZxyIwoRBxR?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 07:16:46 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-23T08:15:26.273675+00:00"
     }
   ]
 }
