@@ -1,7 +1,7 @@
 {
   "date": "2026-10-23",
   "window_days": 7,
-  "source_count": 1202,
+  "source_count": 1224,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 201,
+      "count": 206,
       "kind": "ticker"
     },
     {
@@ -30,7 +30,7 @@
       "search_terms": [
         "GOOGL"
       ],
-      "count": 119,
+      "count": 123,
       "kind": "ticker"
     },
     {
@@ -39,7 +39,7 @@
       "search_terms": [
         "META"
       ],
-      "count": 116,
+      "count": 120,
       "kind": "ticker"
     },
     {
@@ -48,7 +48,7 @@
       "search_terms": [
         "TSLA"
       ],
-      "count": 105,
+      "count": 107,
       "kind": "ticker"
     },
     {
@@ -57,7 +57,16 @@
       "search_terms": [
         "AMZN"
       ],
-      "count": 79,
+      "count": 80,
+      "kind": "ticker"
+    },
+    {
+      "label": "NFLX",
+      "query": "NFLX",
+      "search_terms": [
+        "NFLX"
+      ],
+      "count": 74,
       "kind": "ticker"
     },
     {
@@ -70,21 +79,12 @@
       "kind": "ticker"
     },
     {
-      "label": "NFLX",
-      "query": "NFLX",
-      "search_terms": [
-        "NFLX"
-      ],
-      "count": 73,
-      "kind": "ticker"
-    },
-    {
       "label": "MSFT",
       "query": "MSFT",
       "search_terms": [
         "MSFT"
       ],
-      "count": 68,
+      "count": 69,
       "kind": "ticker"
     },
     {
@@ -93,7 +93,7 @@
       "search_terms": [
         "ORCL"
       ],
-      "count": 46,
+      "count": 47,
       "kind": "ticker"
     },
     {
@@ -115,7 +115,7 @@
       "kind": "ticker"
     }
   ],
-  "updated_at": "2026-10-23T08:15:26.452063+00:00",
+  "updated_at": "2026-10-23T10:30:28.197092+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -15742,6 +15742,292 @@
       "impact_direction": "neutral",
       "sentiment": "neutral",
       "fetched_at": "2026-10-23T08:15:26.273675+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "The Hardware Ceiling: ByteDance, Alibaba, and Tencent Bet $35B on the RTX PRO 5500",
+      "link": "https://finance.yahoo.com/technology/ai/articles/hardware-ceiling-bytedance-alibaba-tencent-101548641.html?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 10:15:48 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-23T10:30:25.587726+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Nasdaq, Dow, S&P 500 Futures Drop Premarket: NVDA, AMD, META, CRWV, MRNA, WDC, BE In Focus",
+      "link": "https://stocktwits.com/news-articles/markets/equity/nasdaq-dow-s-and-p-500-futures-drop-premarket-nvda-amd-meta-crwv-mrna-wdc-be-in-focus/cZxyfNARBxI?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 10:13:48 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-23T10:30:25.587837+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "This All-Star Stock Just Plunged. It Could Be a Massive Buying Opportunity",
+      "link": "https://www.fool.com/investing/2026/10/23/this-all-star-stock-just-plunged-it-could-be-a-mas/?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 10:10:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-23T10:30:25.587904+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Better Dividend Stock to Buy and Hold: Pfizer or Bristol Myers Squibb?",
+      "link": "https://www.fool.com/investing/2026/10/23/better-dividend-stockto-buy-and-hold-pfizer-or-bri/?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 10:03:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-23T10:30:25.587940+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Is 2027 the Turnaround Year for These 4 EV and Air Taxi Stocks?",
+      "link": "https://www.fool.com/investing/2026/10/23/2027-turnaround-year-for-ev-air-taxi-stocks/?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 09:50:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-23T10:30:25.587977+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Could You Have Seen The Run In Microsoft Stock Coming?",
+      "link": "https://www.trefis.com/articles/620174/could-you-have-seen-the-run-in-microsoft-stock-coming/2026-10-23?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 09:01:53 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-23T10:30:25.833217+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "AI stock bears probably just missed this point on Tesla in their run for the exits",
+      "link": "https://finance.yahoo.com/technology/ai/article/ai-stock-bears-probably-just-missed-this-point-on-tesla-in-their-run-for-the-exits-095101368.html?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 09:51:01 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-23T10:30:25.991896+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Warren Buffett's Successor, Greg Abel, Has 32% of Berkshire Hathaway's $364 Billion Portfolio Invested in 3 Unstoppable AI Stocks",
+      "link": "https://www.fool.com/investing/2026/10/23/warren-buffett-successor-greg-abel-32-berkshire-hathaway-364-billion-portfolio-invested-3-unstoppable-ai-stocks/?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 09:26:01 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-23T10:30:25.992001+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Why Is Rigetti Computing Stock Falling?",
+      "link": "https://www.trefis.com/articles/620153/why-is-rigetti-computing-stock-falling/2026-10-23?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 09:02:05 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-23T10:30:25.992049+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "What Could Go Wrong With Amazon Stock?",
+      "link": "https://www.trefis.com/articles/620101/what-could-go-wrong-with-amazon-stock/2026-10-23?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 08:00:48 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-23T10:30:25.992138+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "The Zacks Analyst Blog Highlights Amazon.com, GE Aerospace and TotalEnergies",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-amazon-071400279.html?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 07:14:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-23T10:30:26.137355+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "Big Tech's capex spending looks different this year as Meta and Tesla save for later",
+      "link": "https://finance.yahoo.com/technology/article/big-techs-capex-spending-looks-different-this-year-as-meta-and-tesla-save-for-later-100000383.html?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 10:00:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-23T10:30:26.286815+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "SpaceX may not follow Meta's bold plan to raise money for AI",
+      "link": "https://finance.yahoo.com/technology/ai/article/spacex-may-not-follow-metas-bold-plan-to-raise-money-for-ai-094224783.html?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 09:42:24 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-23T10:30:26.286886+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "Dow Jones Futures Fall After Moderna Crashes, Meta Fuels AI Meltdown. Warren Buffett Market Is Thriving.",
+      "link": "https://finance.yahoo.com/m/47e878bb-824d-3243-a8e9-b86b1c3f85d3/dow-jones-futures-fall-after.html?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 10:19:54 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-23T10:30:26.286930+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "Hiltzik: A judge just gave us 25 billion reasons why Meta's privacy promises about its Muse AI bot shouldn't be trusted",
+      "link": "https://finance.yahoo.com/technology/ai/articles/hiltzik-judge-just-gave-us-100000987.html?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 10:00:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-23T10:30:26.287023+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "How Elon Musk went from Tesla CEO to the 'most powerful civilian, non-governmental actor in history'",
+      "link": "https://finance.yahoo.com/technology/article/how-elon-musk-went-from-tesla-ceo-to-the-most-powerful-civilian-non-governmental-actor-in-history-100000227.html?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 10:00:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-23T10:30:26.413722+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Stocktwits Wall Street Wrap: Analysts Turn Bullish On SpaceX, Tesla, But Netflix And Chipotle Face Fresh Downgrades Amid Growth Concerns",
+      "link": "https://stocktwits.com/news-articles/markets/equity/stocktwits-wall-street-wrap-analysts-turn-bullish-on-space-x-tesla-but-netflix-and-chipotle-face-fresh-downgrades-amid-growth-concerns/cZxyaiCRBx4?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 09:30:54 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-23T10:30:26.413836+00:00"
+    },
+    {
+      "ticker": "ORCL",
+      "title": "If I Could Only Buy 1 AI Stock in November After This Sell-Off, It Would Be This One.",
+      "link": "https://www.fool.com/investing/2026/10/23/if-only-buy-ai-stock-in-november-sell-off-alab/?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 08:50:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-23T10:30:26.888583+00:00"
+    },
+    {
+      "ticker": "CRM",
+      "title": "Can Salesforce Stock Hit $350?",
+      "link": "https://www.trefis.com/articles/620163/can-salesforce-stock-hit-350/2026-10-23?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 09:01:56 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-23T10:30:27.014013+00:00"
+    },
+    {
+      "ticker": "NFLX",
+      "title": "Can Netflix Stock Fall 50%?",
+      "link": "https://www.trefis.com/articles/620103/can-netflix-stock-fall-50/2026-10-23?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 08:02:41 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-23T10:30:27.158823+00:00"
+    },
+    {
+      "ticker": "INTC",
+      "title": "Prediction: Intel Stock Will Take Off After Oct. 29",
+      "link": "https://www.fool.com/investing/2026/10/23/prediction-intel-stock-will-take-off-after-oct-29/?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 10:20:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-23T10:30:27.297937+00:00"
+    },
+    {
+      "ticker": "QCOM",
+      "title": "What Would It Take For Qualcomm Stock To Move Higher?",
+      "link": "https://www.trefis.com/articles/620154/what-would-it-take-for-qualcomm-stock-to-move-higher/2026-10-23?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 09:02:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-23T10:30:27.427956+00:00"
     }
   ]
 }
