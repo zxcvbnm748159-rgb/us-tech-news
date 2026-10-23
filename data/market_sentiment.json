@@ -1,14 +1,14 @@
 {
   "date": "2026-10-23",
-  "score": 71,
+  "score": 70,
   "label": "Bullish",
   "counts": {
-    "positive": 69,
-    "negative": 28,
-    "neutral": 87
+    "positive": 71,
+    "negative": 30,
+    "neutral": 90
   },
-  "total": 184,
-  "updated_at": "2026-10-23T22:27:14.838890+00:00",
+  "total": 191,
+  "updated_at": "2026-10-23T23:42:49.634042+00:00",
   "articles": [
     {
       "link": "https://www.fool.com/investing/2026/10/23/not-ionq-not-d-wave-this-quantum-stock-could-be-20/?.tsrc=rss",
@@ -745,6 +745,34 @@
     {
       "link": "https://finance.yahoo.com/markets/stocks/articles/adobe-systems-adbe-dips-more-204501496.html?.tsrc=rss",
       "sentiment": "neutral"
+    },
+    {
+      "link": "https://pitchbook.com/news/articles/neoclouds-secure-record-funds-as-nvidias-huang-says-more-investment-required?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-dow-drop-as-elevated-oil-prices-stoke-inflation-fears-ahead-of-fed-meeting-next-week-aapl-axp-cart-uber-in-focus/cZxyHWvRBU4?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/eric-schmidt-rejects-ai-bubble-220014912.html?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/ai-fiber-demand-change-corning-201535671.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/meta-just-burned-cash-first-213007396.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-defense-stocks-investors-may-231049052.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/supermicro-smci-stock-looks-cheap-231328621.html?.tsrc=rss",
+      "sentiment": "positive"
     }
   ]
 }

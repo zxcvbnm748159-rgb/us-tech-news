@@ -1,7 +1,7 @@
 {
   "date": "2026-10-23",
   "window_days": 7,
-  "source_count": 1368,
+  "source_count": 1375,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 228,
+      "count": 229,
       "kind": "ticker"
     },
     {
@@ -30,7 +30,7 @@
       "search_terms": [
         "GOOGL"
       ],
-      "count": 136,
+      "count": 137,
       "kind": "ticker"
     },
     {
@@ -39,7 +39,7 @@
       "search_terms": [
         "META"
       ],
-      "count": 133,
+      "count": 134,
       "kind": "ticker"
     },
     {
@@ -48,7 +48,7 @@
       "search_terms": [
         "TSLA"
       ],
-      "count": 121,
+      "count": 122,
       "kind": "ticker"
     },
     {
@@ -57,7 +57,7 @@
       "search_terms": [
         "AMZN"
       ],
-      "count": 89,
+      "count": 90,
       "kind": "ticker"
     },
     {
@@ -66,7 +66,7 @@
       "search_terms": [
         "AAPL"
       ],
-      "count": 84,
+      "count": 85,
       "kind": "ticker"
     },
     {
@@ -115,7 +115,7 @@
       "kind": "ticker"
     }
   ],
-  "updated_at": "2026-10-23T22:27:14.875888+00:00",
+  "updated_at": "2026-10-23T23:42:49.665155+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -17900,6 +17900,97 @@
       "impact_direction": "neutral",
       "sentiment": "neutral",
       "fetched_at": "2026-10-23T22:27:14.647278+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Neoclouds secure record funds as Nvidia’s Huang says more investment required",
+      "link": "https://pitchbook.com/news/articles/neoclouds-secure-record-funds-as-nvidias-huang-says-more-investment-required?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 22:18:21 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-23T23:42:47.131695+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "S&P 500, Dow Drop As Elevated Oil Prices Stoke Inflation Fears Ahead Of Fed Meeting Next Week — AAPL, AXP, CART, UBER In Focus",
+      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-dow-drop-as-elevated-oil-prices-stoke-inflation-fears-ahead-of-fed-meeting-next-week-aapl-axp-cart-uber-in-focus/cZxyHWvRBU4?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 22:35:57 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-23T23:42:47.260876+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Eric Schmidt Rejects AI Bubble Fears, Says Anthropic Is Growing Twice as Fast as Google Did",
+      "link": "https://finance.yahoo.com/technology/ai/articles/eric-schmidt-rejects-ai-bubble-220014912.html?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 22:00:14 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-23T23:42:47.536542+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Will AI Fiber Demand Change Corning (GLW) Narrative",
+      "link": "https://finance.yahoo.com/technology/ai/articles/ai-fiber-demand-change-corning-201535671.html?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 20:15:35 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-23T23:42:47.662789+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "Meta Just Burned Cash for the First Time Since Its IPO Year: Wall Street Raised Its Targets Anyway",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/meta-just-burned-cash-first-213007396.html?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 21:30:07 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-23T23:42:47.826304+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "3 Defense Stocks Investors May Prefer Over Musk Linked Aerospace Bets",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-defense-stocks-investors-may-231049052.html?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 23:10:49 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-23T23:42:47.952761+00:00"
+    },
+    {
+      "ticker": "SMCI",
+      "title": "Supermicro (SMCI) Stock Looks Cheap Even With Fresh Caution",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/supermicro-smci-stock-looks-cheap-231328621.html?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 23:13:28 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-23T23:42:49.243705+00:00"
     }
   ]
 }
