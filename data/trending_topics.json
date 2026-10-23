@@ -1,7 +1,7 @@
 {
   "date": "2026-10-23",
   "window_days": 7,
-  "source_count": 1335,
+  "source_count": 1340,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 221,
+      "count": 223,
       "kind": "ticker"
     },
     {
@@ -21,7 +21,7 @@
         "revenue guidance",
         "profit forecast"
       ],
-      "count": 168,
+      "count": 169,
       "kind": "topic"
     },
     {
@@ -57,7 +57,16 @@
       "search_terms": [
         "AMZN"
       ],
-      "count": 88,
+      "count": 89,
+      "kind": "ticker"
+    },
+    {
+      "label": "MSFT",
+      "query": "MSFT",
+      "search_terms": [
+        "MSFT"
+      ],
+      "count": 82,
       "kind": "ticker"
     },
     {
@@ -70,21 +79,12 @@
       "kind": "ticker"
     },
     {
-      "label": "MSFT",
-      "query": "MSFT",
-      "search_terms": [
-        "MSFT"
-      ],
-      "count": 81,
-      "kind": "ticker"
-    },
-    {
       "label": "NFLX",
       "query": "NFLX",
       "search_terms": [
         "NFLX"
       ],
-      "count": 79,
+      "count": 80,
       "kind": "ticker"
     },
     {
@@ -115,7 +115,7 @@
       "kind": "ticker"
     }
   ],
-  "updated_at": "2026-10-23T18:50:18.783433+00:00",
+  "updated_at": "2026-10-23T19:25:58.999252+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -17471,6 +17471,71 @@
       "impact_direction": "neutral",
       "sentiment": "neutral",
       "fetched_at": "2026-10-23T18:50:18.751694+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Prediction: Here's What a $5,000 Investment in Rivian Will Be Worth in 5 Years",
+      "link": "https://www.fool.com/investing/2026/10/23/prediction-heres-what-a-5000-investment-in-rivian/?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 18:50:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-23T19:25:56.408130+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Procter & Gamble Has Raised Its Dividend for 70 Straight Years. Here's Why That Matters in a Sell-Off",
+      "link": "https://www.fool.com/investing/2026/10/23/pg-has-raised-its-dividend-for-70-years/?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 18:30:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-23T19:25:56.408249+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Microsoft Poised for Largely In-Line Quarterly Earnings Amid Azure Strength, BofA Says",
+      "link": "https://finance.yahoo.com/technology/articles/microsoft-poised-largely-line-quarterly-184500345.html?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 18:45:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-23T19:25:56.684403+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Amazon Survived a 50% Crash. Here’s What a $1,000 Investment Became",
+      "link": "https://247wallst.com/investing/2026/10/23/amazon-survived-a-50-crash-heres-what-a-1000-investment-became/?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 18:45:04 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-23T19:25:56.948012+00:00"
+    },
+    {
+      "ticker": "NFLX",
+      "title": "Netflix Is Now Down 29% This Year: Is NFLX Stock Hopeless or Ready for a Rebound?",
+      "link": "https://247wallst.com/investing/2026/10/23/netflix-is-now-down-29-this-year-is-nflx-stock-hopeless-or-ready-for-a-rebound/?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 18:43:52 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-23T19:25:57.950133+00:00"
     }
   ]
 }

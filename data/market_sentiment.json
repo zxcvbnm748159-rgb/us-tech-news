@@ -1,14 +1,14 @@
 {
   "date": "2026-10-23",
-  "score": 74,
+  "score": 75,
   "label": "Bullish",
   "counts": {
-    "positive": 62,
+    "positive": 66,
     "negative": 22,
-    "neutral": 67
+    "neutral": 68
   },
-  "total": 151,
-  "updated_at": "2026-10-23T18:50:18.752217+00:00",
+  "total": 156,
+  "updated_at": "2026-10-23T19:25:58.942734+00:00",
   "articles": [
     {
       "link": "https://www.fool.com/investing/2026/10/23/not-ionq-not-d-wave-this-quantum-stock-could-be-20/?.tsrc=rss",
@@ -612,6 +612,26 @@
     },
     {
       "link": "https://www.fool.com/investing/2026/10/23/taiwan-semiconductor-posted-record-profit-and-the/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/23/prediction-heres-what-a-5000-investment-in-rivian/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/23/pg-has-raised-its-dividend-for-70-years/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/articles/microsoft-poised-largely-line-quarterly-184500345.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/10/23/amazon-survived-a-50-crash-heres-what-a-1000-investment-became/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/10/23/netflix-is-now-down-29-this-year-is-nflx-stock-hopeless-or-ready-for-a-rebound/?.tsrc=rss",
       "sentiment": "neutral"
     }
   ]
