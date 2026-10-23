@@ -1,14 +1,14 @@
 {
   "date": "2026-10-23",
-  "score": 74,
+  "score": 72,
   "label": "Bullish",
   "counts": {
-    "positive": 31,
-    "negative": 11,
-    "neutral": 39
+    "positive": 42,
+    "negative": 16,
+    "neutral": 50
   },
-  "total": 81,
-  "updated_at": "2026-10-23T14:00:15.527212+00:00",
+  "total": 108,
+  "updated_at": "2026-10-23T15:27:23.375653+00:00",
   "articles": [
     {
       "link": "https://www.fool.com/investing/2026/10/23/not-ionq-not-d-wave-this-quantum-stock-could-be-20/?.tsrc=rss",
@@ -332,6 +332,114 @@
     },
     {
       "link": "https://247wallst.com/investing/2026/10/23/this-company-behind-the-worlds-ai-chips-could-be-a-huge-winner/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/article/apple-is-taking-wall-streets-top-spot-back-from-nvidia--for-the-fifth-time-142810503.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/video/how-apple-dethroned-nvidia-to-become-worlds-most-valuable-company-150819601.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/video/the-case-for-why-load-bearing-ai-companies-should-not-be-bailed-out-143229389.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/video/ed-zitron-jensen-huang-creating-artificial-demand-is-morally-reprehensible-143004633.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/23/not-intel-not-coreweave-this-underappreciated-nvid/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/video/apple-is-catching-up-to-nvidias-market-cap-and-investors-are-waiting-on-anthropics-ipo-140154994.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/video/apple-duo-goes-on-sale-in-store-as-iphone-18-demand-disappoints-140147846.html?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/video/spacex-is-raising-debt-for-ai-and-apples-new-iphone-duo-has-been-released-135840381.html?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/e8a0b30e-6f53-3a89-a891-1356e134add8/hyperscalers-microsoft%2C.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/microsoft-azure-growth-copilot-monetization-144513530.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/7d7be293-c68f-3ffe-b0aa-d519db696a51/microsoft-earnings-report-to.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.thestreet.com/investing/microsoft-maia-chip-ai-inference-not-replacing-nvidia?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/23/facing-investing-fears/?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/video/why-openai-could-be-in-trouble-if-anthropics-ipo-doesnt-go-well-151151294.html?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/10/23/prediction-this-chip-stock-could-be-a-sleeper-ai-winner/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/polen-focus-growth-strategy-boosts-150713962.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.benzinga.com/markets/prediction-markets/26/10/62562607/ai-data-center-boom-paul-kedrosky?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/f96806d8-9583-3620-89cf-a7ccb8de8237/moderna%2C-meta%2C-spacex%2C-bloom.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/video/could-elon-musk-merge-tesla-and-spacex-143503174.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/10/23/tesla-europe-sales-surge/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/energy/articles/global-large-capacity-batteries-market-142800503.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/635adce4-9dd6-3805-a9dc-c9bd568d30e6/tesla%E2%80%99s-mysterious-margin.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/23/amd-or-broadcom-if-i-could-only-own-1-ai-chip-stoc/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/10/23/amd-stock-price-prediction-one-growth-opportunity-could-push-shares-much-higher/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://stocktwits.com/news-articles/markets/equity/dan-ives-calls-ai-sell-off-saas-apocalypse-2-0-oracle-in-toughest-spot/cZxyK1wRBxF?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/scg-appoints-netsuite-ai-pioneer-140000623.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/netflix-stock-hold-margin-gains-130000447.html?.tsrc=rss",
       "sentiment": "positive"
     }
   ]
