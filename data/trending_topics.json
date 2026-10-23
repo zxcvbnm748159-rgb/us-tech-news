@@ -1,7 +1,7 @@
 {
   "date": "2026-10-22",
   "window_days": 7,
-  "source_count": 1188,
+  "source_count": 1192,
   "topics": [
     {
       "label": "NVDA",
@@ -39,7 +39,7 @@
       "search_terms": [
         "META"
       ],
-      "count": 110,
+      "count": 111,
       "kind": "ticker"
     },
     {
@@ -48,7 +48,7 @@
       "search_terms": [
         "TSLA"
       ],
-      "count": 101,
+      "count": 102,
       "kind": "ticker"
     },
     {
@@ -115,7 +115,7 @@
       "kind": "ticker"
     }
   ],
-  "updated_at": "2026-10-22T23:49:16.404779+00:00",
+  "updated_at": "2026-10-23T00:56:11.128627+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -15560,6 +15560,58 @@
       "impact_direction": "neutral",
       "sentiment": "positive",
       "fetched_at": "2026-10-22T23:49:14.064679+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "Mark Zuckerberg’s creative plan to pay California’s proposed billionaire tax without losing control of Meta",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/mark-zuckerberg-creative-plan-pay-235041754.html?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 23:50:41 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-23T00:56:08.922890+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Tesla Ramping Megapack Production ‘As Much As Possible’ After 2027 Capacity Nearly Sold Out Amid Data Center Demand",
+      "link": "https://stocktwits.com/news-articles/markets/equity/tesla-ramping-megapack-production-as-much-as-possible-after-2027-capacity-nearly-sold-out-amid-data-center-demand/cZxUx9eRBDZ?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 00:01:31 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-23T00:56:09.343607+00:00"
+    },
+    {
+      "ticker": "CRM",
+      "title": "A $5.66 Billion Reason to Buy Salesforce Stock Now",
+      "link": "https://www.barchart.com/story/news/8329452/a-5-66-billion-reason-to-buy-salesforce-stock-now?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 17:09:17 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-23T00:56:09.893034+00:00"
+    },
+    {
+      "ticker": "SMCI",
+      "title": "Super Micro Has Lost 60.86% Since It Was Tapped for the S&P 500. Index Funds Like VOO Had to Buy It Anyway",
+      "link": "https://247wallst.com/investing/etf/2026/10/22/super-micro-has-lost-60-86-since-it-was-tapped-for-the-sp-500-index-funds-like-voo-had-to-buy-it-anyway/?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 00:03:19 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-23T00:56:10.586045+00:00"
     }
   ]
 }

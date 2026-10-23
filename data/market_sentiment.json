@@ -3,12 +3,12 @@
   "score": 69,
   "label": "Bullish",
   "counts": {
-    "positive": 84,
+    "positive": 86,
     "negative": 38,
-    "neutral": 112
+    "neutral": 114
   },
-  "total": 234,
-  "updated_at": "2026-10-22T23:49:16.368558+00:00",
+  "total": 238,
+  "updated_at": "2026-10-23T00:56:11.092237+00:00",
   "articles": [
     {
       "link": "https://finance.yahoo.com/markets/stocks/articles/microsoft-msft-stock-may-22-042528043.html?.tsrc=rss",
@@ -944,6 +944,22 @@
     },
     {
       "link": "https://finance.yahoo.com/m/228e17ee-90e4-382d-ac0e-aa9c4255c0aa/a-spacex-tesla-merger-feels.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/mark-zuckerberg-creative-plan-pay-235041754.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://stocktwits.com/news-articles/markets/equity/tesla-ramping-megapack-production-as-much-as-possible-after-2027-capacity-nearly-sold-out-amid-data-center-demand/cZxUx9eRBDZ?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.barchart.com/story/news/8329452/a-5-66-billion-reason-to-buy-salesforce-stock-now?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://247wallst.com/investing/etf/2026/10/22/super-micro-has-lost-60-86-since-it-was-tapped-for-the-sp-500-index-funds-like-voo-had-to-buy-it-anyway/?.tsrc=rss",
       "sentiment": "positive"
     }
   ]
