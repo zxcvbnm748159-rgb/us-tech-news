@@ -1,6 +1,58 @@
 [
   {
     "ticker": "NVDA",
+    "title": "Elon Musk Eyes SpaceX-Tesla Merger, Huang Pitches ‘Financeable’ Chips, Zuckerberg Wants More Compute: Mag 7 Voices This Week",
+    "link": "https://stocktwits.com/news-articles/markets/equity/elon-musk-jensen-huang-mark-zuckerberg-agree-ai-faces-bottlenecks-but-differ-on-why/cZUGPmZRBUB?.tsrc=rss",
+    "published": "Sat, 24 Oct 2026 00:07:10 +0000",
+    "summary_th": "",
+    "category": "General",
+    "ai_analysis": "",
+    "impact_level": "low",
+    "impact_direction": "neutral",
+    "sentiment": "neutral",
+    "fetched_at": "2026-10-24T00:54:39.983013+00:00"
+  },
+  {
+    "ticker": "AAPL",
+    "title": "Apple Stock Hits Record High On iPhone Duo Launch",
+    "link": "https://finance.yahoo.com/m/95c2a3e8-9bef-31b5-aba5-dcbd20d0d990/apple-stock-hits-record-high.html?.tsrc=rss",
+    "published": "Fri, 23 Oct 2026 20:05:46 +0000",
+    "summary_th": "",
+    "category": "General",
+    "ai_analysis": "",
+    "impact_level": "low",
+    "impact_direction": "neutral",
+    "sentiment": "neutral",
+    "fetched_at": "2026-10-24T00:54:40.105632+00:00"
+  },
+  {
+    "ticker": "MSFT",
+    "title": "Amazon Stock And Other Mega Cap Tech Names For The AI Infrastructure Reset",
+    "link": "https://finance.yahoo.com/technology/ai/articles/amazon-stock-other-mega-cap-001944653.html?.tsrc=rss",
+    "published": "Sat, 24 Oct 2026 00:19:44 +0000",
+    "summary_th": "",
+    "category": "General",
+    "ai_analysis": "",
+    "impact_level": "low",
+    "impact_direction": "neutral",
+    "sentiment": "neutral",
+    "fetched_at": "2026-10-24T00:54:40.255376+00:00"
+  },
+  {
+    "ticker": "QCOM",
+    "title": "Qualcomm May Be Preparing Another Round of Job Cuts Next Month. Here’s What to Know.",
+    "link": "https://www.barchart.com/story/news/8376504/qualcomm-may-be-preparing-another-round-of-job-cuts-next-month-heres-what-to-know?.tsrc=rss",
+    "published": "Fri, 23 Oct 2026 17:32:25 +0000",
+    "summary_th": "",
+    "category": "General",
+    "ai_analysis": "",
+    "impact_level": "low",
+    "impact_direction": "neutral",
+    "sentiment": "negative",
+    "fetched_at": "2026-10-24T00:54:41.778598+00:00"
+  },
+  {
+    "ticker": "NVDA",
     "title": "Neoclouds secure record funds as Nvidia’s Huang says more investment required",
     "link": "https://pitchbook.com/news/articles/neoclouds-secure-record-funds-as-nvidias-huang-says-more-investment-required?.tsrc=rss",
     "published": "Fri, 23 Oct 2026 22:18:21 +0000",
@@ -3846,57 +3898,5 @@
     "impact_direction": "neutral",
     "sentiment": "neutral",
     "fetched_at": "2026-10-22T19:00:48.410306+00:00"
-  },
-  {
-    "ticker": "TSLA",
-    "title": "Tesla's Profit Drops 43% as Musk Starts Building Robots and Plans to Sell Driverless Cabs",
-    "link": "https://decrypt.co/381624/teslas-profit-drops-musk-robots-driverless-cabs?.tsrc=rss",
-    "published": "Thu, 22 Oct 2026 18:06:02 +0000",
-    "summary_th": "",
-    "category": "General",
-    "ai_analysis": "",
-    "impact_level": "low",
-    "impact_direction": "neutral",
-    "sentiment": "positive",
-    "fetched_at": "2026-10-22T19:00:48.410355+00:00"
-  },
-  {
-    "ticker": "TSLA",
-    "title": "CLSA Says SpaceX Merger Buzz Overshadows Tesla’s Concerns, But Musk’s Public Endorsement Could Reportedly Complicate Deal Talks",
-    "link": "https://stocktwits.com/news-articles/markets/equity/spacex-tesla-merger-buzz-musk-public-endorsement-could-complicate-deal-talks/cZxwiYoRBD9?.tsrc=rss",
-    "published": "Thu, 22 Oct 2026 17:53:12 +0000",
-    "summary_th": "",
-    "category": "General",
-    "ai_analysis": "",
-    "impact_level": "low",
-    "impact_direction": "neutral",
-    "sentiment": "positive",
-    "fetched_at": "2026-10-22T19:00:48.410415+00:00"
-  },
-  {
-    "ticker": "TSLA",
-    "title": "Elon Musk Hints at Exciting New Capabilities for Tesla’s Optimus Robots",
-    "link": "https://www.investopedia.com/market-update-musk-teases-new-sizzle-for-teslas-optimus-robots-tsla-spcx-12188240?.tsrc=rss",
-    "published": "Thu, 22 Oct 2026 16:56:55 +0000",
-    "summary_th": "",
-    "category": "General",
-    "ai_analysis": "",
-    "impact_level": "low",
-    "impact_direction": "neutral",
-    "sentiment": "positive",
-    "fetched_at": "2026-10-22T19:00:48.410449+00:00"
-  },
-  {
-    "ticker": "TSLA",
-    "title": "Stock Market Midday, Oct. 22: Tech Weakness Drags Nasdaq Lower as AI Spending Concerns Mount",
-    "link": "https://www.fool.com/coverage/stock-market-today/2026/10/22/stock-market-midday-oct-22-tech-weakness-drags-nasdaq-lower-as-ai-spending-concerns-mount/?.tsrc=rss",
-    "published": "Thu, 22 Oct 2026 16:47:14 +0000",
-    "summary_th": "",
-    "category": "General",
-    "ai_analysis": "",
-    "impact_level": "low",
-    "impact_direction": "neutral",
-    "sentiment": "negative",
-    "fetched_at": "2026-10-22T19:00:48.410499+00:00"
   }
 ]

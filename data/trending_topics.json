@@ -1,7 +1,7 @@
 {
   "date": "2026-10-23",
   "window_days": 7,
-  "source_count": 1375,
+  "source_count": 1379,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 229,
+      "count": 230,
       "kind": "ticker"
     },
     {
@@ -66,7 +66,7 @@
       "search_terms": [
         "AAPL"
       ],
-      "count": 85,
+      "count": 86,
       "kind": "ticker"
     },
     {
@@ -75,7 +75,7 @@
       "search_terms": [
         "MSFT"
       ],
-      "count": 84,
+      "count": 85,
       "kind": "ticker"
     },
     {
@@ -115,7 +115,7 @@
       "kind": "ticker"
     }
   ],
-  "updated_at": "2026-10-23T23:42:49.665155+00:00",
+  "updated_at": "2026-10-24T00:54:42.527998+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -17991,6 +17991,58 @@
       "impact_direction": "neutral",
       "sentiment": "positive",
       "fetched_at": "2026-10-23T23:42:49.243705+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Elon Musk Eyes SpaceX-Tesla Merger, Huang Pitches ‘Financeable’ Chips, Zuckerberg Wants More Compute: Mag 7 Voices This Week",
+      "link": "https://stocktwits.com/news-articles/markets/equity/elon-musk-jensen-huang-mark-zuckerberg-agree-ai-faces-bottlenecks-but-differ-on-why/cZUGPmZRBUB?.tsrc=rss",
+      "published": "Sat, 24 Oct 2026 00:07:10 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-24T00:54:39.983013+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Apple Stock Hits Record High On iPhone Duo Launch",
+      "link": "https://finance.yahoo.com/m/95c2a3e8-9bef-31b5-aba5-dcbd20d0d990/apple-stock-hits-record-high.html?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 20:05:46 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-24T00:54:40.105632+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Amazon Stock And Other Mega Cap Tech Names For The AI Infrastructure Reset",
+      "link": "https://finance.yahoo.com/technology/ai/articles/amazon-stock-other-mega-cap-001944653.html?.tsrc=rss",
+      "published": "Sat, 24 Oct 2026 00:19:44 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-24T00:54:40.255376+00:00"
+    },
+    {
+      "ticker": "QCOM",
+      "title": "Qualcomm May Be Preparing Another Round of Job Cuts Next Month. Here’s What to Know.",
+      "link": "https://www.barchart.com/story/news/8376504/qualcomm-may-be-preparing-another-round-of-job-cuts-next-month-heres-what-to-know?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 17:32:25 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-24T00:54:41.778598+00:00"
     }
   ]
 }

@@ -4,11 +4,11 @@
   "label": "Bullish",
   "counts": {
     "positive": 71,
-    "negative": 30,
-    "neutral": 90
+    "negative": 31,
+    "neutral": 93
   },
-  "total": 191,
-  "updated_at": "2026-10-23T23:42:49.634042+00:00",
+  "total": 195,
+  "updated_at": "2026-10-24T00:54:42.487535+00:00",
   "articles": [
     {
       "link": "https://www.fool.com/investing/2026/10/23/not-ionq-not-d-wave-this-quantum-stock-could-be-20/?.tsrc=rss",
@@ -773,6 +773,22 @@
     {
       "link": "https://finance.yahoo.com/markets/stocks/articles/supermicro-smci-stock-looks-cheap-231328621.html?.tsrc=rss",
       "sentiment": "positive"
+    },
+    {
+      "link": "https://stocktwits.com/news-articles/markets/equity/elon-musk-jensen-huang-mark-zuckerberg-agree-ai-faces-bottlenecks-but-differ-on-why/cZUGPmZRBUB?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/95c2a3e8-9bef-31b5-aba5-dcbd20d0d990/apple-stock-hits-record-high.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/amazon-stock-other-mega-cap-001944653.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.barchart.com/story/news/8376504/qualcomm-may-be-preparing-another-round-of-job-cuts-next-month-heres-what-to-know?.tsrc=rss",
+      "sentiment": "negative"
     }
   ]
 }
