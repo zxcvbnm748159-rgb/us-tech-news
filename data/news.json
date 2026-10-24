@@ -1,6 +1,58 @@
 [
   {
     "ticker": "NVDA",
+    "title": "TSMC or Nvidia: If I Could Only Own 1 for the Next 5 Years, It Would Be This 1.",
+    "link": "https://www.fool.com/investing/2026/10/24/tsmc-or-nvidia-if-i-could-only-own-1-for-the-next/?.tsrc=rss",
+    "published": "Sat, 24 Oct 2026 04:20:00 +0000",
+    "summary_th": "",
+    "category": "General",
+    "ai_analysis": "",
+    "impact_level": "low",
+    "impact_direction": "neutral",
+    "sentiment": "neutral",
+    "fetched_at": "2026-10-24T05:12:40.783302+00:00"
+  },
+  {
+    "ticker": "NVDA",
+    "title": "Anthropic's Revenue Surged to $16.3 Billion in the First Half of 2026, Up From $1.1 Billion a Year Ago",
+    "link": "https://www.fool.com/investing/2026/10/24/anthropics-revenue-surged-to-163-billion-in-the-fi/?.tsrc=rss",
+    "published": "Sat, 24 Oct 2026 04:25:00 +0000",
+    "summary_th": "",
+    "category": "General",
+    "ai_analysis": "",
+    "impact_level": "low",
+    "impact_direction": "neutral",
+    "sentiment": "neutral",
+    "fetched_at": "2026-10-24T05:12:40.783385+00:00"
+  },
+  {
+    "ticker": "GOOGL",
+    "title": "Wells Fargo, Arm and Intuit Reject Tokenized Shares on OKX-ICE",
+    "link": "https://www.cryptoprowl.com/releases/wells-fargo-arm-and-intuit-reject-tokenized-shares-on-okx-ice-7440?.tsrc=rss",
+    "published": "Sat, 24 Oct 2026 03:59:00 +0000",
+    "summary_th": "",
+    "category": "General",
+    "ai_analysis": "",
+    "impact_level": "low",
+    "impact_direction": "neutral",
+    "sentiment": "neutral",
+    "fetched_at": "2026-10-24T05:12:41.171039+00:00"
+  },
+  {
+    "ticker": "AVGO",
+    "title": "Broadcom stock gets massive $600 call even as AI fears grow",
+    "link": "https://www.thestreet.com/investing/broadcom-stock-avgo-600-price-target?.tsrc=rss",
+    "published": "Sat, 24 Oct 2026 03:33:00 +0000",
+    "summary_th": "",
+    "category": "General",
+    "ai_analysis": "",
+    "impact_level": "low",
+    "impact_direction": "neutral",
+    "sentiment": "negative",
+    "fetched_at": "2026-10-24T05:12:41.823834+00:00"
+  },
+  {
+    "ticker": "NVDA",
     "title": "Jim Cramer's 5% to 8% rule puts Nvidia stock in focus",
     "link": "https://www.thestreet.com/investing/stocks/jim-cramer-nvidia-5-to-8-percent-pullback-rule?.tsrc=rss",
     "published": "Sat, 24 Oct 2026 01:37:00 +0000",
@@ -3846,57 +3898,5 @@
     "impact_direction": "neutral",
     "sentiment": "neutral",
     "fetched_at": "2026-10-22T19:00:47.663639+00:00"
-  },
-  {
-    "ticker": "MSFT",
-    "title": "Microsoft, Google parent and McDonald’s protest new trading plan",
-    "link": "https://www.thestreet.com/crypto/markets/microsoft-google-parent-and-mcdonalds-protest-new-trading-plan-?.tsrc=rss",
-    "published": "Thu, 22 Oct 2026 17:00:00 +0000",
-    "summary_th": "",
-    "category": "General",
-    "ai_analysis": "",
-    "impact_level": "low",
-    "impact_direction": "neutral",
-    "sentiment": "negative",
-    "fetched_at": "2026-10-22T19:00:47.663707+00:00"
-  },
-  {
-    "ticker": "MSFT",
-    "title": "Waymo, Google and Microsoft Alums Raise $30M to Build the Data Layer for Physical AI",
-    "link": "https://finance.yahoo.com/technology/ai/articles/waymo-google-microsoft-alums-raise-160000050.html?.tsrc=rss",
-    "published": "Thu, 22 Oct 2026 16:00:00 +0000",
-    "summary_th": "",
-    "category": "General",
-    "ai_analysis": "",
-    "impact_level": "low",
-    "impact_direction": "neutral",
-    "sentiment": "neutral",
-    "fetched_at": "2026-10-22T19:00:47.663749+00:00"
-  },
-  {
-    "ticker": "MSFT",
-    "title": "Microsoft Stock Could Be Closer to Its Next Big Breakout Than Investors Think",
-    "link": "https://247wallst.com/investing/2026/10/22/microsoft-stock-could-be-closer-to-its-next-big-breakout-than-investors-think/?.tsrc=rss",
-    "published": "Thu, 22 Oct 2026 15:30:56 +0000",
-    "summary_th": "",
-    "category": "General",
-    "ai_analysis": "",
-    "impact_level": "low",
-    "impact_direction": "neutral",
-    "sentiment": "neutral",
-    "fetched_at": "2026-10-22T19:00:47.663770+00:00"
-  },
-  {
-    "ticker": "GOOGL",
-    "title": "Meta, AI Stocks Tumble As AI Spending Fears Reignite",
-    "link": "https://finance.yahoo.com/m/c3b6ab41-5e55-3fb0-9139-d427005fd0e6/meta%2C-ai-stocks-tumble-as-ai.html?.tsrc=rss",
-    "published": "Thu, 22 Oct 2026 18:29:20 +0000",
-    "summary_th": "",
-    "category": "General",
-    "ai_analysis": "",
-    "impact_level": "low",
-    "impact_direction": "neutral",
-    "sentiment": "negative",
-    "fetched_at": "2026-10-22T19:00:47.862343+00:00"
   }
 ]
