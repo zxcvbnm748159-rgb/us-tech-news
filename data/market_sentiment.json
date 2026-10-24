@@ -1,14 +1,14 @@
 {
   "date": "2026-10-24",
-  "score": 61,
-  "label": "Bullish",
+  "score": 58,
+  "label": "Mixed",
   "counts": {
-    "positive": 11,
-    "negative": 7,
-    "neutral": 16
+    "positive": 18,
+    "negative": 13,
+    "neutral": 24
   },
-  "total": 34,
-  "updated_at": "2026-10-24T13:34:51.551104+00:00",
+  "total": 55,
+  "updated_at": "2026-10-24T16:56:58.982914+00:00",
   "articles": [
     {
       "link": "https://www.fool.com/investing/2026/10/24/tsmc-or-nvidia-if-i-could-only-own-1-for-the-next/?.tsrc=rss",
@@ -144,6 +144,90 @@
     },
     {
       "link": "https://247wallst.com/investing/2026/10/24/amazon-just-walked-away-from-a-427-million-data-center-plan-after-neighbors-fought-back/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/24/can-amazon-take-market-share-from-nvidia-in-the-ai/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/24/vug-vgt-clear-long-term-winner/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/24/puzzle-pieces-for-stock-market-crash-taking-shape-4-historically-flawless-indicators-sound-alarm/?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/24/could-redwire-be-the-next-rocket-lab/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/24/mplx-stock-pays-a-hefty-74-dividend-yield-heres-ho/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://investorshub.advfn.com/market-news/article/38470/is-demand-for-apples-iphone-18-pro-weakening-jefferies-reports-shorter-delivery-times-and-order-cuts?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.thestreet.com/investing/apple-home-collection-homeview-smart-home?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.tikr.com/blog/chamath-0-70-75-of-every-dollar-of-ai-spend-is-vc-money-the-real-winners-are-already-publicly-traded?ref=yahoofinance&.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/10/24/microsofts-50-billion-gamble-can-microsofts-azure-growth-justify-its-exploding-ai-budget/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/10/24/the-500-billion-question-can-google-clouds-massive-ai-backlog-outrun-its-mind-boggling-capex-boom-on-oct-28/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/10/24/two-thirds-of-sp-500-stocks-rose-on-thursday-but-the-index-still-fell-exposing-the-risk-hiding-in-your-portfolio/?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/10/24/amazons-aws-has-already-sold-a-good-chunk-of-2028-capacity/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.tikr.com/blog/some-of-amazons-new-ai-servers-are-reportedly-waiting-on-power-heres-what-october-29-has-to-prove?ref=yahoofinance&.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.thestreet.com/investing/stocks/bank-of-america-revamps-meta-stock-price-target-once-again?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.tikr.com/blog/vistra-stock-fell-nearly-10-in-a-day-after-metas-earnings-heres-why-its-forecast-already-discounts-the-data-center-hype?ref=yahoofinance&.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/media-advertising/articles/meta-unseats-musk-tech-villain-133000217.html?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/24/meet-wall-street-s-newest-major-stock-split-it-has-soared-1-730-since-its-2012-ipo-and-there-is-plenty-of-upside-left/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.tikr.com/blog/musk-calls-teslas-merger-vote-quite-a-high-hurdle-jpmorgans-premium-math-puts-the-stock-near-500?ref=yahoofinance&.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.tikr.com/blog/we-already-know-tesla-is-failing-one-key-metric-before-it-reports-earnings?ref=yahoofinance&.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/economy/policy/articles/rick-lazio-ve-lost-auto-111500374.html?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/investors-overlooked-intels-127-run-141028501.html?.tsrc=rss",
       "sentiment": "neutral"
     }
   ]

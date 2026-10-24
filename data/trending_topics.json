@@ -1,7 +1,7 @@
 {
   "date": "2026-10-24",
   "window_days": 7,
-  "source_count": 1339,
+  "source_count": 1360,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 211,
+      "count": 216,
       "kind": "ticker"
     },
     {
@@ -21,7 +21,7 @@
         "revenue guidance",
         "profit forecast"
       ],
-      "count": 171,
+      "count": 173,
       "kind": "topic"
     },
     {
@@ -30,7 +30,7 @@
       "search_terms": [
         "GOOGL"
       ],
-      "count": 137,
+      "count": 139,
       "kind": "ticker"
     },
     {
@@ -39,7 +39,7 @@
       "search_terms": [
         "META"
       ],
-      "count": 130,
+      "count": 134,
       "kind": "ticker"
     },
     {
@@ -48,7 +48,7 @@
       "search_terms": [
         "TSLA"
       ],
-      "count": 126,
+      "count": 129,
       "kind": "ticker"
     },
     {
@@ -57,7 +57,7 @@
       "search_terms": [
         "AMZN"
       ],
-      "count": 86,
+      "count": 88,
       "kind": "ticker"
     },
     {
@@ -66,7 +66,7 @@
       "search_terms": [
         "MSFT"
       ],
-      "count": 86,
+      "count": 88,
       "kind": "ticker"
     },
     {
@@ -75,7 +75,7 @@
       "search_terms": [
         "AAPL"
       ],
-      "count": 81,
+      "count": 83,
       "kind": "ticker"
     },
     {
@@ -115,7 +115,7 @@
       "kind": "ticker"
     }
   ],
-  "updated_at": "2026-10-24T13:34:51.571954+00:00",
+  "updated_at": "2026-10-24T16:56:59.006821+00:00",
   "articles": [
     {
       "ticker": "AMD",
@@ -17523,6 +17523,279 @@
       "impact_direction": "neutral",
       "sentiment": "neutral",
       "fetched_at": "2026-10-24T13:34:48.650648+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Can Amazon Take Market Share From Nvidia in the AI Chip Race?",
+      "link": "https://www.fool.com/investing/2026/10/24/can-amazon-take-market-share-from-nvidia-in-the-ai/?.tsrc=rss",
+      "published": "Sat, 24 Oct 2026 15:35:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-24T16:56:55.840485+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Vanguard Morningstar Growth ETF vs. Vanguard Information Technology ETF: Here's Which One I Believe Is the Clear Long-Term Winner.",
+      "link": "https://www.fool.com/investing/2026/10/24/vug-vgt-clear-long-term-winner/?.tsrc=rss",
+      "published": "Sat, 24 Oct 2026 14:31:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-24T16:56:55.840577+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "The Puzzle Pieces for a Stock Market Crash Are Taking Shape, With 4 Historically Flawless Indicators Now Sounding the Alarm",
+      "link": "https://www.fool.com/investing/2026/10/24/puzzle-pieces-for-stock-market-crash-taking-shape-4-historically-flawless-indicators-sound-alarm/?.tsrc=rss",
+      "published": "Sat, 24 Oct 2026 13:26:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-24T16:56:55.840651+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Could Redwire Be the Next Rocket Lab?",
+      "link": "https://www.fool.com/investing/2026/10/24/could-redwire-be-the-next-rocket-lab/?.tsrc=rss",
+      "published": "Sat, 24 Oct 2026 16:03:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-24T16:56:55.840668+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "MPLX Stock Pays a Hefty 7.4% Dividend Yield. Here's How Much $10,000 Generates in Passive Income Each Year.",
+      "link": "https://www.fool.com/investing/2026/10/24/mplx-stock-pays-a-hefty-74-dividend-yield-heres-ho/?.tsrc=rss",
+      "published": "Sat, 24 Oct 2026 15:54:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-24T16:56:55.840708+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Is Demand for Apple’s iPhone 18 Pro Weakening? Jefferies Reports Shorter Delivery Times and Order Cuts",
+      "link": "https://investorshub.advfn.com/market-news/article/38470/is-demand-for-apples-iphone-18-pro-weakening-jefferies-reports-shorter-delivery-times-and-order-cuts?.tsrc=rss",
+      "published": "Sat, 24 Oct 2026 14:51:41 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-24T16:56:56.007693+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Apple just made a surprising move into your home",
+      "link": "https://www.thestreet.com/investing/apple-home-collection-homeview-smart-home?.tsrc=rss",
+      "published": "Sat, 24 Oct 2026 14:07:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-24T16:56:56.007742+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Chamath: “$0.70-75 of Every Dollar” of AI Spend Is VC Money. The Real Winners Are Already Publicly Traded",
+      "link": "https://www.tikr.com/blog/chamath-0-70-75-of-every-dollar-of-ai-spend-is-vc-money-the-real-winners-are-already-publicly-traded?ref=yahoofinance&.tsrc=rss",
+      "published": "Sat, 24 Oct 2026 16:18:16 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-24T16:56:56.196361+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Microsoft’s $50 Billion Gamble: Can Microsoft’s Azure Growth Justify Its Exploding AI Budget?",
+      "link": "https://247wallst.com/investing/2026/10/24/microsofts-50-billion-gamble-can-microsofts-azure-growth-justify-its-exploding-ai-budget/?.tsrc=rss",
+      "published": "Sat, 24 Oct 2026 15:44:52 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-24T16:56:56.196412+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "The $500 Billion Question: Can Google Cloud’s Massive AI Backlog Outrun Its Mind-Boggling CapEx Boom on Oct. 28?",
+      "link": "https://247wallst.com/investing/2026/10/24/the-500-billion-question-can-google-clouds-massive-ai-backlog-outrun-its-mind-boggling-capex-boom-on-oct-28/?.tsrc=rss",
+      "published": "Sat, 24 Oct 2026 15:39:39 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-24T16:56:56.378893+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Two-Thirds of S&P 500 Stocks Rose on Thursday, but the Index Still Fell — Exposing the Risk Hiding in Your Portfolio",
+      "link": "https://247wallst.com/investing/2026/10/24/two-thirds-of-sp-500-stocks-rose-on-thursday-but-the-index-still-fell-exposing-the-risk-hiding-in-your-portfolio/?.tsrc=rss",
+      "published": "Sat, 24 Oct 2026 15:20:07 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-24T16:56:56.378988+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Amazon’s AWS Has Already Sold “a Good Chunk” of 2028 Capacity",
+      "link": "https://247wallst.com/investing/2026/10/24/amazons-aws-has-already-sold-a-good-chunk-of-2028-capacity/?.tsrc=rss",
+      "published": "Sat, 24 Oct 2026 16:15:50 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-24T16:56:56.553310+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Some of Amazon’s New AI Servers Are Reportedly Waiting on Power. Here’s What October 29 Has to Prove",
+      "link": "https://www.tikr.com/blog/some-of-amazons-new-ai-servers-are-reportedly-waiting-on-power-heres-what-october-29-has-to-prove?ref=yahoofinance&.tsrc=rss",
+      "published": "Sat, 24 Oct 2026 15:12:17 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-24T16:56:56.553370+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "Bank of America revamps Meta stock price target once again",
+      "link": "https://www.thestreet.com/investing/stocks/bank-of-america-revamps-meta-stock-price-target-once-again?.tsrc=rss",
+      "published": "Sat, 24 Oct 2026 15:07:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-24T16:56:56.747220+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "Vistra Stock Fell Nearly 10% in a Day After Meta’s Earnings. Here’s Why Its Forecast Already Discounts the Data Center Hype",
+      "link": "https://www.tikr.com/blog/vistra-stock-fell-nearly-10-in-a-day-after-metas-earnings-heres-why-its-forecast-already-discounts-the-data-center-hype?ref=yahoofinance&.tsrc=rss",
+      "published": "Sat, 24 Oct 2026 14:55:36 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-24T16:56:56.747273+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "Meta Unseats Musk as Tech Villain for Lula in Brazil’s Election",
+      "link": "https://finance.yahoo.com/media-advertising/articles/meta-unseats-musk-tech-villain-133000217.html?.tsrc=rss",
+      "published": "Sat, 24 Oct 2026 13:30:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-24T16:56:56.747321+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "Meet Wall Street's Newest Major Stock Split: It Has Soared 1,730% Since Its 2012 IPO, and There Is Plenty of Upside Left",
+      "link": "https://www.fool.com/investing/2026/10/24/meet-wall-street-s-newest-major-stock-split-it-has-soared-1-730-since-its-2012-ipo-and-there-is-plenty-of-upside-left/?.tsrc=rss",
+      "published": "Sat, 24 Oct 2026 16:20:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-24T16:56:56.747359+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Musk Calls Tesla’s Merger Vote “Quite a High Hurdle.” JPMorgan’s Premium Math Puts the Stock Near $500.",
+      "link": "https://www.tikr.com/blog/musk-calls-teslas-merger-vote-quite-a-high-hurdle-jpmorgans-premium-math-puts-the-stock-near-500?ref=yahoofinance&.tsrc=rss",
+      "published": "Sat, 24 Oct 2026 15:33:29 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-24T16:56:56.883658+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "We Already Know Tesla Is Failing One Key Metric Before It Reports Earnings",
+      "link": "https://www.tikr.com/blog/we-already-know-tesla-is-failing-one-key-metric-before-it-reports-earnings?ref=yahoofinance&.tsrc=rss",
+      "published": "Sat, 24 Oct 2026 15:08:16 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-24T16:56:56.883717+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Rick Lazio: We’ve lost an auto race before, China’s EV climb should worry us",
+      "link": "https://finance.yahoo.com/economy/policy/articles/rick-lazio-ve-lost-auto-111500374.html?.tsrc=rss",
+      "published": "Sat, 24 Oct 2026 11:15:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-24T16:56:56.883772+00:00"
+    },
+    {
+      "ticker": "INTC",
+      "title": "What Investors Overlooked Before Intel's 127% Run",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/investors-overlooked-intels-127-run-141028501.html?.tsrc=rss",
+      "published": "Sat, 24 Oct 2026 14:10:28 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-24T16:56:57.878133+00:00"
     }
   ]
 }
