@@ -1,14 +1,14 @@
 {
   "date": "2026-10-23",
-  "score": 70,
+  "score": 69,
   "label": "Bullish",
   "counts": {
-    "positive": 71,
-    "negative": 31,
-    "neutral": 93
+    "positive": 72,
+    "negative": 33,
+    "neutral": 100
   },
-  "total": 195,
-  "updated_at": "2026-10-24T00:54:42.487535+00:00",
+  "total": 205,
+  "updated_at": "2026-10-24T02:53:29.639048+00:00",
   "articles": [
     {
       "link": "https://www.fool.com/investing/2026/10/23/not-ionq-not-d-wave-this-quantum-stock-could-be-20/?.tsrc=rss",
@@ -788,6 +788,46 @@
     },
     {
       "link": "https://www.barchart.com/story/news/8376504/qualcomm-may-be-preparing-another-round-of-job-cuts-next-month-heres-what-to-know?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.thestreet.com/investing/stocks/jim-cramer-nvidia-5-to-8-percent-pullback-rule?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.thestreet.com/investing/how-much-apple-stock-does-former-ceo-tim-cook-own?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/bet-alphabet-holders-made-011025851.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/e0fe5a77-6816-38a8-b2cb-9878c9cd341d/review-%26-preview%3A-the-dow%E2%80%99s.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/tesla-tsla-starts-semi-volume-021147396.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/articles/elon-musk-says-tesla-cars-013014650.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.thestreet.com/automotive/tesla-wants-to-sell-a-car-with-no-steering-wheel-this-year?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://stocktwits.com/news-articles/markets/equity/stocktwits-zero-to-sixty-tesla-and-space-x-form-merger-committees-as-profits-drop-while-rivian-buys-ai-startup-and-gm-ford-advance-ev-plans/cZUG5xVRBU9?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/tesla-just-reversed-2026-capex-003005120.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.thestreet.com/investing/palantir-stock-faces-brutal-test-after-crushing-expectations?.tsrc=rss",
       "sentiment": "negative"
     }
   ]

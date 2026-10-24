@@ -1,7 +1,7 @@
 {
   "date": "2026-10-23",
   "window_days": 7,
-  "source_count": 1379,
+  "source_count": 1389,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 230,
+      "count": 231,
       "kind": "ticker"
     },
     {
@@ -30,7 +30,7 @@
       "search_terms": [
         "GOOGL"
       ],
-      "count": 137,
+      "count": 139,
       "kind": "ticker"
     },
     {
@@ -48,7 +48,7 @@
       "search_terms": [
         "TSLA"
       ],
-      "count": 122,
+      "count": 127,
       "kind": "ticker"
     },
     {
@@ -66,7 +66,7 @@
       "search_terms": [
         "AAPL"
       ],
-      "count": 86,
+      "count": 87,
       "kind": "ticker"
     },
     {
@@ -115,7 +115,7 @@
       "kind": "ticker"
     }
   ],
-  "updated_at": "2026-10-24T00:54:42.527998+00:00",
+  "updated_at": "2026-10-24T02:53:29.682297+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -18043,6 +18043,136 @@
       "impact_direction": "neutral",
       "sentiment": "negative",
       "fetched_at": "2026-10-24T00:54:41.778598+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Jim Cramer's 5% to 8% rule puts Nvidia stock in focus",
+      "link": "https://www.thestreet.com/investing/stocks/jim-cramer-nvidia-5-to-8-percent-pullback-rule?.tsrc=rss",
+      "published": "Sat, 24 Oct 2026 01:37:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-24T02:53:27.011890+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "How much Apple stock does former CEO Tim Cook actually own?",
+      "link": "https://www.thestreet.com/investing/how-much-apple-stock-does-former-ceo-tim-cook-own?.tsrc=rss",
+      "published": "Sat, 24 Oct 2026 01:06:23 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-24T02:53:27.154749+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "The Bet Alphabet Holders Made",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/bet-alphabet-holders-made-011025851.html?.tsrc=rss",
+      "published": "Sat, 24 Oct 2026 01:10:25 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-24T02:53:27.445239+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Review & Preview: The Dow’s Turn",
+      "link": "https://finance.yahoo.com/m/e0fe5a77-6816-38a8-b2cb-9878c9cd341d/review-%26-preview%3A-the-dow%E2%80%99s.html?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 23:55:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-24T02:53:27.445285+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Tesla (TSLA) Starts Semi Volume Output With $2.8 Billion AI Component Bet",
+      "link": "https://finance.yahoo.com/technology/ai/articles/tesla-tsla-starts-semi-volume-021147396.html?.tsrc=rss",
+      "published": "Sat, 24 Oct 2026 02:11:47 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-24T02:53:27.854222+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Elon Musk Says Tesla Cars' Value Lies in FSD Service: 'People Are Buying FSD With a Car Attached, Not the Other Way Around'",
+      "link": "https://finance.yahoo.com/technology/articles/elon-musk-says-tesla-cars-013014650.html?.tsrc=rss",
+      "published": "Sat, 24 Oct 2026 01:30:14 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-24T02:53:27.854364+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Tesla wants to sell a car with no steering wheel this year",
+      "link": "https://www.thestreet.com/automotive/tesla-wants-to-sell-a-car-with-no-steering-wheel-this-year?.tsrc=rss",
+      "published": "Sat, 24 Oct 2026 01:03:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-24T02:53:27.854434+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Stocktwits Zero To Sixty: Tesla And SpaceX Form Merger Committees As Profits Drop, While Rivian Buys AI Startup And GM, Ford Advance EV Plans",
+      "link": "https://stocktwits.com/news-articles/markets/equity/stocktwits-zero-to-sixty-tesla-and-space-x-form-merger-committees-as-profits-drop-while-rivian-buys-ai-startup-and-gm-ford-advance-ev-plans/cZUG5xVRBU9?.tsrc=rss",
+      "published": "Sat, 24 Oct 2026 00:58:58 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-24T02:53:27.854533+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Tesla Just Reversed Its 2026 CapEx Surge — Why Gordon Johnson Asks If It's the 'End of the AI Trade'",
+      "link": "https://finance.yahoo.com/technology/ai/articles/tesla-just-reversed-2026-capex-003005120.html?.tsrc=rss",
+      "published": "Sat, 24 Oct 2026 00:30:05 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-24T02:53:27.854608+00:00"
+    },
+    {
+      "ticker": "PLTR",
+      "title": "Palantir stock faces brutal test after crushing expectations",
+      "link": "https://www.thestreet.com/investing/palantir-stock-faces-brutal-test-after-crushing-expectations?.tsrc=rss",
+      "published": "Sat, 24 Oct 2026 01:47:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-24T02:53:29.059326+00:00"
     }
   ]
 }
