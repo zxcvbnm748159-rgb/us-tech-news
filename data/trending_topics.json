@@ -1,7 +1,7 @@
 {
   "date": "2026-10-24",
   "window_days": 7,
-  "source_count": 1379,
+  "source_count": 1387,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 224,
+      "count": 226,
       "kind": "ticker"
     },
     {
@@ -39,7 +39,7 @@
       "search_terms": [
         "META"
       ],
-      "count": 136,
+      "count": 137,
       "kind": "ticker"
     },
     {
@@ -52,19 +52,19 @@
       "kind": "ticker"
     },
     {
-      "label": "AMZN",
-      "query": "AMZN",
-      "search_terms": [
-        "AMZN"
-      ],
-      "count": 88,
-      "kind": "ticker"
-    },
-    {
       "label": "MSFT",
       "query": "MSFT",
       "search_terms": [
         "MSFT"
+      ],
+      "count": 89,
+      "kind": "ticker"
+    },
+    {
+      "label": "AMZN",
+      "query": "AMZN",
+      "search_terms": [
+        "AMZN"
       ],
       "count": 88,
       "kind": "ticker"
@@ -75,7 +75,7 @@
       "search_terms": [
         "AAPL"
       ],
-      "count": 84,
+      "count": 85,
       "kind": "ticker"
     },
     {
@@ -84,7 +84,7 @@
       "search_terms": [
         "NFLX"
       ],
-      "count": 83,
+      "count": 85,
       "kind": "ticker"
     },
     {
@@ -115,7 +115,7 @@
       "kind": "ticker"
     }
   ],
-  "updated_at": "2026-10-24T20:04:13.226558+00:00",
+  "updated_at": "2026-10-24T21:36:43.284977+00:00",
   "articles": [
     {
       "ticker": "AMD",
@@ -18043,6 +18043,110 @@
       "impact_direction": "neutral",
       "sentiment": "neutral",
       "fetched_at": "2026-10-24T20:04:09.913042+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "3 AI Stocks To Watch In October 2026",
+      "link": "https://finance.yahoo.com/technology/ai/articles/3-ai-stocks-watch-october-210956830.html?.tsrc=rss",
+      "published": "Sat, 24 Oct 2026 21:09:56 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-24T21:36:39.873900+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Elon Musk Just Gave Fantastic News for Nvidia Investors",
+      "link": "https://www.fool.com/investing/2026/10/24/elon-musk-gave-great-news-for-nvidia-investors/?.tsrc=rss",
+      "published": "Sat, 24 Oct 2026 20:37:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-24T21:36:39.873969+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Here's How Many Shares of Apple Stock You'd Need for $100 in Yearly Dividends",
+      "link": "https://www.fool.com/investing/2026/10/24/heres-how-many-shares-of-apple-stock-youd-need-for/?.tsrc=rss",
+      "published": "Sat, 24 Oct 2026 21:09:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-24T21:36:40.061352+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "How much MSFT stock does former CEO Steve Ballmer actually own?",
+      "link": "https://www.thestreet.com/personalities/how-much-msft-stock-does-former-ceo-steve-ballmer-actually-own?.tsrc=rss",
+      "published": "Sat, 24 Oct 2026 20:30:22 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-24T21:36:40.266416+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "Meta Stock Fell 7% in a Day After a Revenue Beat. Time to Sell or Load Up?",
+      "link": "https://www.tikr.com/blog/meta-stock-fell-7-in-a-day-after-a-revenue-beat-time-to-sell-or-load-up?ref=yahoofinance&.tsrc=rss",
+      "published": "Sat, 24 Oct 2026 20:43:41 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-24T21:36:40.811251+00:00"
+    },
+    {
+      "ticker": "AVGO",
+      "title": "Nvidia vs. Broadcom: One Grew AI Revenue 221% Last Quarter. The Other Grew 117%.",
+      "link": "https://www.barchart.com/story/news/8413009/nvidia-vs-broadcom-one-grew-ai-revenue-221-last-quarter-the-other-grew-117?.tsrc=rss",
+      "published": "Sat, 24 Oct 2026 14:30:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-24T21:36:41.371253+00:00"
+    },
+    {
+      "ticker": "NFLX",
+      "title": "What Does Netflix (NFLX) Leadership Shake Up Mean For Its Content Direction?",
+      "link": "https://finance.yahoo.com/media-advertising/articles/does-netflix-nflx-leadership-shake-210907026.html?.tsrc=rss",
+      "published": "Sat, 24 Oct 2026 21:09:07 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-24T21:36:41.938739+00:00"
+    },
+    {
+      "ticker": "NFLX",
+      "title": "Netflix Is Down Nearly 30% in 2026. Time to Sell or Load Up?",
+      "link": "https://www.tikr.com/blog/netflix-is-down-nearly-30-in-2026-time-to-sell-or-load-up?ref=yahoofinance&.tsrc=rss",
+      "published": "Sat, 24 Oct 2026 20:37:48 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-24T21:36:41.938776+00:00"
     }
   ]
 }

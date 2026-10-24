@@ -1,14 +1,14 @@
 {
   "date": "2026-10-24",
-  "score": 59,
-  "label": "Mixed",
+  "score": 60,
+  "label": "Bullish",
   "counts": {
-    "positive": 24,
+    "positive": 26,
     "negative": 17,
-    "neutral": 33
+    "neutral": 39
   },
-  "total": 74,
-  "updated_at": "2026-10-24T20:04:13.198412+00:00",
+  "total": 82,
+  "updated_at": "2026-10-24T21:36:43.260495+00:00",
   "articles": [
     {
       "link": "https://www.fool.com/investing/2026/10/24/tsmc-or-nvidia-if-i-could-only-own-1-for-the-next/?.tsrc=rss",
@@ -304,6 +304,38 @@
     },
     {
       "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-credit-stress-could-lift-190924644.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/3-ai-stocks-watch-october-210956830.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/24/elon-musk-gave-great-news-for-nvidia-investors/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/24/heres-how-many-shares-of-apple-stock-youd-need-for/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.thestreet.com/personalities/how-much-msft-stock-does-former-ceo-steve-ballmer-actually-own?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.tikr.com/blog/meta-stock-fell-7-in-a-day-after-a-revenue-beat-time-to-sell-or-load-up?ref=yahoofinance&.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.barchart.com/story/news/8413009/nvidia-vs-broadcom-one-grew-ai-revenue-221-last-quarter-the-other-grew-117?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/media-advertising/articles/does-netflix-nflx-leadership-shake-210907026.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.tikr.com/blog/netflix-is-down-nearly-30-in-2026-time-to-sell-or-load-up?ref=yahoofinance&.tsrc=rss",
       "sentiment": "neutral"
     }
   ]
