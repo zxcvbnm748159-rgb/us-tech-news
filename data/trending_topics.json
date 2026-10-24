@@ -1,7 +1,7 @@
 {
   "date": "2026-10-24",
   "window_days": 7,
-  "source_count": 1337,
+  "source_count": 1339,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 210,
+      "count": 211,
       "kind": "ticker"
     },
     {
@@ -52,21 +52,21 @@
       "kind": "ticker"
     },
     {
+      "label": "AMZN",
+      "query": "AMZN",
+      "search_terms": [
+        "AMZN"
+      ],
+      "count": 86,
+      "kind": "ticker"
+    },
+    {
       "label": "MSFT",
       "query": "MSFT",
       "search_terms": [
         "MSFT"
       ],
       "count": 86,
-      "kind": "ticker"
-    },
-    {
-      "label": "AMZN",
-      "query": "AMZN",
-      "search_terms": [
-        "AMZN"
-      ],
-      "count": 85,
       "kind": "ticker"
     },
     {
@@ -115,7 +115,7 @@
       "kind": "ticker"
     }
   ],
-  "updated_at": "2026-10-24T13:02:55.979171+00:00",
+  "updated_at": "2026-10-24T13:34:51.571954+00:00",
   "articles": [
     {
       "ticker": "AMD",
@@ -17497,6 +17497,32 @@
       "impact_direction": "neutral",
       "sentiment": "negative",
       "fetched_at": "2026-10-24T13:02:55.092563+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Tesla and Nvidia just found another AI bottleneck",
+      "link": "https://www.thestreet.com/investing/tesla-nvidia-samsung-electro-mechanics-expand-production-ai-chips?.tsrc=rss",
+      "published": "Sat, 24 Oct 2026 13:03:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-24T13:34:47.829981+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Amazon Just Walked Away From a $427 Million Data Center Plan After Neighbors Fought Back",
+      "link": "https://247wallst.com/investing/2026/10/24/amazon-just-walked-away-from-a-427-million-data-center-plan-after-neighbors-fought-back/?.tsrc=rss",
+      "published": "Sat, 24 Oct 2026 13:12:46 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-24T13:34:48.650648+00:00"
     }
   ]
 }

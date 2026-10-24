@@ -1,6 +1,32 @@
 [
   {
     "ticker": "NVDA",
+    "title": "Tesla and Nvidia just found another AI bottleneck",
+    "link": "https://www.thestreet.com/investing/tesla-nvidia-samsung-electro-mechanics-expand-production-ai-chips?.tsrc=rss",
+    "published": "Sat, 24 Oct 2026 13:03:00 +0000",
+    "summary_th": "",
+    "category": "General",
+    "ai_analysis": "",
+    "impact_level": "low",
+    "impact_direction": "neutral",
+    "sentiment": "neutral",
+    "fetched_at": "2026-10-24T13:34:47.829981+00:00"
+  },
+  {
+    "ticker": "AMZN",
+    "title": "Amazon Just Walked Away From a $427 Million Data Center Plan After Neighbors Fought Back",
+    "link": "https://247wallst.com/investing/2026/10/24/amazon-just-walked-away-from-a-427-million-data-center-plan-after-neighbors-fought-back/?.tsrc=rss",
+    "published": "Sat, 24 Oct 2026 13:12:46 +0000",
+    "summary_th": "",
+    "category": "General",
+    "ai_analysis": "",
+    "impact_level": "low",
+    "impact_direction": "neutral",
+    "sentiment": "neutral",
+    "fetched_at": "2026-10-24T13:34:48.650648+00:00"
+  },
+  {
+    "ticker": "NVDA",
     "title": "U.S. Power Demand Is Set to Jump 20% by 2030. Here's What It Means for Energy Stocks.",
     "link": "https://www.fool.com/investing/2026/10/24/us-power-demand-is-set-to-jump-20-by-2030-heres-wh/?.tsrc=rss",
     "published": "Sat, 24 Oct 2026 12:02:00 +0000",
@@ -3872,31 +3898,5 @@
     "impact_direction": "neutral",
     "sentiment": "positive",
     "fetched_at": "2026-10-22T22:32:42.648967+00:00"
-  },
-  {
-    "ticker": "META",
-    "title": "Tesla, SpaceX, Meta, Lockheed Martin, Lam Research, Spotify, and More Stocks That Explain Today’s Market",
-    "link": "https://finance.yahoo.com/m/add35572-856e-31cb-981d-91d3cc20d822/tesla%2C-spacex%2C-meta%2C-lockheed.html?.tsrc=rss",
-    "published": "Thu, 22 Oct 2026 20:53:00 +0000",
-    "summary_th": "",
-    "category": "General",
-    "ai_analysis": "",
-    "impact_level": "low",
-    "impact_direction": "neutral",
-    "sentiment": "neutral",
-    "fetched_at": "2026-10-22T22:32:42.648997+00:00"
-  },
-  {
-    "ticker": "TSLA",
-    "title": "Musk wants to merge SpaceX and Tesla: Here's what to know",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/musks-wants-merge-spacex-tesla-205406983.html?.tsrc=rss",
-    "published": "Thu, 22 Oct 2026 21:10:54 +0000",
-    "summary_th": "",
-    "category": "General",
-    "ai_analysis": "",
-    "impact_level": "low",
-    "impact_direction": "neutral",
-    "sentiment": "neutral",
-    "fetched_at": "2026-10-22T22:32:42.802468+00:00"
   }
 ]

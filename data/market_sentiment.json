@@ -5,10 +5,10 @@
   "counts": {
     "positive": 11,
     "negative": 7,
-    "neutral": 14
+    "neutral": 16
   },
-  "total": 32,
-  "updated_at": "2026-10-24T13:02:55.941876+00:00",
+  "total": 34,
+  "updated_at": "2026-10-24T13:34:51.551104+00:00",
   "articles": [
     {
       "link": "https://www.fool.com/investing/2026/10/24/tsmc-or-nvidia-if-i-could-only-own-1-for-the-next/?.tsrc=rss",
@@ -137,6 +137,14 @@
     {
       "link": "https://finance.yahoo.com/m/dc26ac38-ed34-3745-8eef-12dbcb5d78d0/you-are-inheriting-a.html?.tsrc=rss",
       "sentiment": "negative"
+    },
+    {
+      "link": "https://www.thestreet.com/investing/tesla-nvidia-samsung-electro-mechanics-expand-production-ai-chips?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/10/24/amazon-just-walked-away-from-a-427-million-data-center-plan-after-neighbors-fought-back/?.tsrc=rss",
+      "sentiment": "neutral"
     }
   ]
 }
