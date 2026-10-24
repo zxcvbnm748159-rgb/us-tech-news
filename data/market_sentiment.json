@@ -3,12 +3,12 @@
   "score": 60,
   "label": "Bullish",
   "counts": {
-    "positive": 26,
-    "negative": 17,
-    "neutral": 39
+    "positive": 27,
+    "negative": 18,
+    "neutral": 43
   },
-  "total": 82,
-  "updated_at": "2026-10-24T21:36:43.260495+00:00",
+  "total": 88,
+  "updated_at": "2026-10-24T22:49:12.621368+00:00",
   "articles": [
     {
       "link": "https://www.fool.com/investing/2026/10/24/tsmc-or-nvidia-if-i-could-only-own-1-for-the-next/?.tsrc=rss",
@@ -336,6 +336,30 @@
     },
     {
       "link": "https://www.tikr.com/blog/netflix-is-down-nearly-30-in-2026-time-to-sell-or-load-up?ref=yahoofinance&.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-3-ai-infrastructure-stocks-221122731.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.thestreet.com/investing/jim-cramer-berkshire-hathaway-inheritance?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.barchart.com/story/news/8415488/microsoft-may-be-the-only-hyperscaler-to-stay-cash-flow-positive-what-it-means-for-msft-stock?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/articles/amazon-com-amzn-cancels-427-221154816.html?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/24/netflix-stock-has-always-overcome-the-odds-has-it/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.barchart.com/story/news/8417648/qualcomms-quarterly-earnings-preview-what-you-need-to-know?.tsrc=rss",
       "sentiment": "neutral"
     }
   ]

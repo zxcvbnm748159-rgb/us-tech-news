@@ -1,7 +1,7 @@
 {
   "date": "2026-10-24",
   "window_days": 7,
-  "source_count": 1387,
+  "source_count": 1393,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 226,
+      "count": 228,
       "kind": "ticker"
     },
     {
@@ -21,7 +21,7 @@
         "revenue guidance",
         "profit forecast"
       ],
-      "count": 173,
+      "count": 174,
       "kind": "topic"
     },
     {
@@ -57,7 +57,7 @@
       "search_terms": [
         "MSFT"
       ],
-      "count": 89,
+      "count": 90,
       "kind": "ticker"
     },
     {
@@ -66,16 +66,7 @@
       "search_terms": [
         "AMZN"
       ],
-      "count": 88,
-      "kind": "ticker"
-    },
-    {
-      "label": "AAPL",
-      "query": "AAPL",
-      "search_terms": [
-        "AAPL"
-      ],
-      "count": 85,
+      "count": 89,
       "kind": "ticker"
     },
     {
@@ -83,6 +74,15 @@
       "query": "NFLX",
       "search_terms": [
         "NFLX"
+      ],
+      "count": 86,
+      "kind": "ticker"
+    },
+    {
+      "label": "AAPL",
+      "query": "AAPL",
+      "search_terms": [
+        "AAPL"
       ],
       "count": 85,
       "kind": "ticker"
@@ -115,7 +115,7 @@
       "kind": "ticker"
     }
   ],
-  "updated_at": "2026-10-24T21:36:43.284977+00:00",
+  "updated_at": "2026-10-24T22:49:12.677704+00:00",
   "articles": [
     {
       "ticker": "AMD",
@@ -18147,6 +18147,84 @@
       "impact_direction": "neutral",
       "sentiment": "neutral",
       "fetched_at": "2026-10-24T21:36:41.938776+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Nvidia and 3 AI Infrastructure Stocks Backed by Hyperscaler Data Center Spending",
+      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-3-ai-infrastructure-stocks-221122731.html?.tsrc=rss",
+      "published": "Sat, 24 Oct 2026 22:11:22 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-24T22:49:10.157990+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Jim Cramer warns investors against going all-in on Warren Buffett",
+      "link": "https://www.thestreet.com/investing/jim-cramer-berkshire-hathaway-inheritance?.tsrc=rss",
+      "published": "Sat, 24 Oct 2026 21:47:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-24T22:49:10.158064+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Microsoft May Be the Only Hyperscaler to Stay Cash-Flow Positive. What It Means for MSFT Stock",
+      "link": "https://www.barchart.com/story/news/8415488/microsoft-may-be-the-only-hyperscaler-to-stay-cash-flow-positive-what-it-means-for-msft-stock?.tsrc=rss",
+      "published": "Sat, 24 Oct 2026 15:30:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-24T22:49:10.442633+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Amazon.com (AMZN) Cancels $427 Million Loudoun County Data Center Project",
+      "link": "https://finance.yahoo.com/technology/articles/amazon-com-amzn-cancels-427-221154816.html?.tsrc=rss",
+      "published": "Sat, 24 Oct 2026 22:11:54 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-24T22:49:10.758047+00:00"
+    },
+    {
+      "ticker": "NFLX",
+      "title": "Netflix Stock Has Always Overcome the Odds. Has It Finally Hit a Wall?",
+      "link": "https://www.fool.com/investing/2026/10/24/netflix-stock-has-always-overcome-the-odds-has-it/?.tsrc=rss",
+      "published": "Sat, 24 Oct 2026 21:50:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-24T22:49:11.709670+00:00"
+    },
+    {
+      "ticker": "QCOM",
+      "title": "QUALCOMM’s Quarterly Earnings Preview: What You Need to Know",
+      "link": "https://www.barchart.com/story/news/8417648/qualcomms-quarterly-earnings-preview-what-you-need-to-know?.tsrc=rss",
+      "published": "Sat, 24 Oct 2026 16:21:24 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-24T22:49:11.961837+00:00"
     }
   ]
 }
