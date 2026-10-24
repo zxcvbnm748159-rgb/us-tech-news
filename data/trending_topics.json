@@ -1,7 +1,7 @@
 {
   "date": "2026-10-24",
   "window_days": 7,
-  "source_count": 1360,
+  "source_count": 1367,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 216,
+      "count": 220,
       "kind": "ticker"
     },
     {
@@ -30,7 +30,7 @@
       "search_terms": [
         "GOOGL"
       ],
-      "count": 139,
+      "count": 140,
       "kind": "ticker"
     },
     {
@@ -39,7 +39,7 @@
       "search_terms": [
         "META"
       ],
-      "count": 134,
+      "count": 135,
       "kind": "ticker"
     },
     {
@@ -75,7 +75,7 @@
       "search_terms": [
         "AAPL"
       ],
-      "count": 83,
+      "count": 84,
       "kind": "ticker"
     },
     {
@@ -115,7 +115,7 @@
       "kind": "ticker"
     }
   ],
-  "updated_at": "2026-10-24T16:56:59.006821+00:00",
+  "updated_at": "2026-10-24T17:45:06.531655+00:00",
   "articles": [
     {
       "ticker": "AMD",
@@ -17796,6 +17796,97 @@
       "impact_direction": "neutral",
       "sentiment": "neutral",
       "fetched_at": "2026-10-24T16:56:57.878133+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "AI bear slams Nvidia's GPU pitch: 'There's not scarcity other than that which is created by Jensen Huang'",
+      "link": "https://finance.yahoo.com/technology/article/ai-bear-slams-nvidias-gpu-pitch-theres-not-scarcity-other-than-that-which-is-created-by-jensen-huang-171507476.html?.tsrc=rss",
+      "published": "Sat, 24 Oct 2026 17:15:07 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-24T17:45:04.565904+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Apple Joins Nvidia in the $5 Trillion Club. Here's Which Stock I Think Can Get to $10 Trillion First.",
+      "link": "https://www.fool.com/investing/2026/10/24/apple-nvidia-5-trillion-club-which-stock-10/?.tsrc=rss",
+      "published": "Sat, 24 Oct 2026 17:37:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-24T17:45:04.565980+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Bloom Energy Raised Its 2026 Forecast for the Third Time. Is the Stock a Buy More Than a Third Below Its Record?",
+      "link": "https://www.fool.com/investing/2026/10/24/bloom-energy-raised-its-2026-forecast-for-the-third-time-is-the-stock-a-buy-more-than-a-third-below-its-record/?.tsrc=rss",
+      "published": "Sat, 24 Oct 2026 17:39:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-24T17:45:04.566043+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Inflation Is Running Hotter Than Expected. That Could Be Bullish for Bitcoin.",
+      "link": "https://www.fool.com/investing/2026/10/24/inflation-is-running-hotter-than-expected-that-cou/?.tsrc=rss",
+      "published": "Sat, 24 Oct 2026 17:28:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-24T17:45:04.566077+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Apple's $1,999 iPhone Duo appears to have an app problem",
+      "link": "https://www.thestreet.com/technology/apples-1999-iphone-duo-appears-to-have-an-app-problem?.tsrc=rss",
+      "published": "Sat, 24 Oct 2026 17:17:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-24T17:45:04.680601+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Bro went from a 700-person village in Slovakia to Google then built an app that makes $2k/day",
+      "link": "https://starterstory.videonest.co/videos/2342774/bro-went-from-a-700-person-village-in-slovakia-to-GBHFM1OXyh?.tsrc=rss",
+      "published": "Sat, 24 Oct 2026 17:31:23 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-24T17:45:04.905555+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "What the New Class C Share Structure Actually Means for Meta Platforms Stock Investors",
+      "link": "https://www.barchart.com/story/news/8405153/what-the-new-class-c-share-structure-actually-means-for-meta-platforms-stock-investors?.tsrc=rss",
+      "published": "Sat, 24 Oct 2026 11:16:22 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-24T17:45:05.095018+00:00"
     }
   ]
 }

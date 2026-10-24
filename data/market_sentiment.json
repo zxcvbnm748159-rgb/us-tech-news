@@ -1,14 +1,14 @@
 {
   "date": "2026-10-24",
-  "score": 58,
-  "label": "Mixed",
+  "score": 60,
+  "label": "Bullish",
   "counts": {
-    "positive": 18,
-    "negative": 13,
-    "neutral": 24
+    "positive": 21,
+    "negative": 14,
+    "neutral": 27
   },
-  "total": 55,
-  "updated_at": "2026-10-24T16:56:58.982914+00:00",
+  "total": 62,
+  "updated_at": "2026-10-24T17:45:06.480791+00:00",
   "articles": [
     {
       "link": "https://www.fool.com/investing/2026/10/24/tsmc-or-nvidia-if-i-could-only-own-1-for-the-next/?.tsrc=rss",
@@ -229,6 +229,34 @@
     {
       "link": "https://finance.yahoo.com/markets/stocks/articles/investors-overlooked-intels-127-run-141028501.html?.tsrc=rss",
       "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/article/ai-bear-slams-nvidias-gpu-pitch-theres-not-scarcity-other-than-that-which-is-created-by-jensen-huang-171507476.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/24/apple-nvidia-5-trillion-club-which-stock-10/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/24/bloom-energy-raised-its-2026-forecast-for-the-third-time-is-the-stock-a-buy-more-than-a-third-below-its-record/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/24/inflation-is-running-hotter-than-expected-that-cou/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.thestreet.com/technology/apples-1999-iphone-duo-appears-to-have-an-app-problem?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://starterstory.videonest.co/videos/2342774/bro-went-from-a-700-person-village-in-slovakia-to-GBHFM1OXyh?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.barchart.com/story/news/8405153/what-the-new-class-c-share-structure-actually-means-for-meta-platforms-stock-investors?.tsrc=rss",
+      "sentiment": "positive"
     }
   ]
 }
