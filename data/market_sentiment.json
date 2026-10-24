@@ -1,14 +1,14 @@
 {
   "date": "2026-10-24",
-  "score": 60,
-  "label": "Bullish",
+  "score": 57,
+  "label": "Mixed",
   "counts": {
-    "positive": 21,
-    "negative": 14,
-    "neutral": 27
+    "positive": 23,
+    "negative": 17,
+    "neutral": 32
   },
-  "total": 62,
-  "updated_at": "2026-10-24T17:45:06.480791+00:00",
+  "total": 72,
+  "updated_at": "2026-10-24T19:12:50.212761+00:00",
   "articles": [
     {
       "link": "https://www.fool.com/investing/2026/10/24/tsmc-or-nvidia-if-i-could-only-own-1-for-the-next/?.tsrc=rss",
@@ -257,6 +257,46 @@
     {
       "link": "https://www.barchart.com/story/news/8405153/what-the-new-class-c-share-structure-actually-means-for-meta-platforms-stock-investors?.tsrc=rss",
       "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/24/5-of-the-fastest-growing-stocks-in-the-market/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/24/spacexs-super-intelligence-segment-just-made-the-s/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.tikr.com/blog/broadcom-stock-is-down-7-in-a-year-cheap-for-a-reason-or-too-cheap-to-ignore?ref=yahoofinance&.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/meta-just-unveiled-takeover-weapon-180010042.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/coverage/better-buy/2026/10/24/broadcom-vs-dell-technologies-which-stock-is-ai-powering-to-be-a-better-buy-in-2026/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/salesforce-crm-unveils-hunter-ai-180908008.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.thestreet.com/investing/stocks/nflx-netflix-bill-ackman-calls-the-streaming-stock-a-high-growth-utility-after-400m-loss-in-2022?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/24/down-roughly-50-from-its-highs-is-netflix-stock/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.tikr.com/blog/intel-stock-is-up-121-this-year-heres-the-number-to-watch-on-october-29?ref=yahoofinance&.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.barchart.com/story/news/8406065/ibms-ceo-just-issued-a-warning-message-on-ai-spending-he-ended-up-hurting-his-own-stock?.tsrc=rss",
+      "sentiment": "negative"
     }
   ]
 }
