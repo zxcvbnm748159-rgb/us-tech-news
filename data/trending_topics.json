@@ -1,7 +1,7 @@
 {
   "date": "2026-10-24",
   "window_days": 7,
-  "source_count": 1393,
+  "source_count": 1395,
   "topics": [
     {
       "label": "NVDA",
@@ -30,7 +30,7 @@
       "search_terms": [
         "GOOGL"
       ],
-      "count": 141,
+      "count": 142,
       "kind": "ticker"
     },
     {
@@ -115,7 +115,7 @@
       "kind": "ticker"
     }
   ],
-  "updated_at": "2026-10-24T22:49:12.677704+00:00",
+  "updated_at": "2026-10-24T23:42:13.910130+00:00",
   "articles": [
     {
       "ticker": "AMD",
@@ -18225,6 +18225,32 @@
       "impact_direction": "neutral",
       "sentiment": "neutral",
       "fetched_at": "2026-10-24T22:49:11.961837+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Booking vs. Chewy: Do Pet Treats or Plane Tickets Make for a Better Stock in 2026?",
+      "link": "https://www.fool.com/coverage/better-buy/2026/10/24/booking-vs-chewy-do-pet-treats-or-plane-tickets-make-for-a-better-stock-in-2026/?.tsrc=rss",
+      "published": "Sat, 24 Oct 2026 23:12:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-24T23:42:11.627618+00:00"
+    },
+    {
+      "ticker": "PLTR",
+      "title": "Stock-Split Watch: Is Palantir Next?",
+      "link": "https://www.fool.com/investing/2026/10/24/stock-split-watch-is-palantir-next/?.tsrc=rss",
+      "published": "Sat, 24 Oct 2026 22:50:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-24T23:42:13.272537+00:00"
     }
   ]
 }

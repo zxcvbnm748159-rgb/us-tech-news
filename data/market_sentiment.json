@@ -1,14 +1,14 @@
 {
   "date": "2026-10-24",
-  "score": 60,
+  "score": 61,
   "label": "Bullish",
   "counts": {
-    "positive": 27,
+    "positive": 28,
     "negative": 18,
-    "neutral": 43
+    "neutral": 44
   },
-  "total": 88,
-  "updated_at": "2026-10-24T22:49:12.621368+00:00",
+  "total": 90,
+  "updated_at": "2026-10-24T23:42:13.877226+00:00",
   "articles": [
     {
       "link": "https://www.fool.com/investing/2026/10/24/tsmc-or-nvidia-if-i-could-only-own-1-for-the-next/?.tsrc=rss",
@@ -360,6 +360,14 @@
     },
     {
       "link": "https://www.barchart.com/story/news/8417648/qualcomms-quarterly-earnings-preview-what-you-need-to-know?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/coverage/better-buy/2026/10/24/booking-vs-chewy-do-pet-treats-or-plane-tickets-make-for-a-better-stock-in-2026/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/24/stock-split-watch-is-palantir-next/?.tsrc=rss",
       "sentiment": "neutral"
     }
   ]
