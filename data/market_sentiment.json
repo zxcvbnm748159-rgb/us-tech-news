@@ -1,14 +1,14 @@
 {
   "date": "2026-10-24",
-  "score": 50,
-  "label": "Mixed",
+  "score": 62,
+  "label": "Bullish",
   "counts": {
-    "positive": 1,
-    "negative": 1,
-    "neutral": 5
+    "positive": 5,
+    "negative": 3,
+    "neutral": 6
   },
-  "total": 7,
-  "updated_at": "2026-10-24T07:49:26.203829+00:00",
+  "total": 14,
+  "updated_at": "2026-10-24T09:31:59.791369+00:00",
   "articles": [
     {
       "link": "https://www.fool.com/investing/2026/10/24/tsmc-or-nvidia-if-i-could-only-own-1-for-the-next/?.tsrc=rss",
@@ -37,6 +37,34 @@
     {
       "link": "https://stocktwits.com/news-articles/markets/equity/be-stock-worst-single-day-fall-3-months-lack-of-updates-oracle-project-jupiter/cZUGhLbRBUQ?.tsrc=rss",
       "sentiment": "negative"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/24/the-growth-of-the-tokenized-equities-market-is-off/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/24/stock-market-investors-bad-news-president-trumps-economy-this-next/?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/24/perfect-moment-invest-history-says-cost-you/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://stocktwits.com/news-articles/markets/equity/gene-munster-apple-iphone-duo-2200-add-8-billion-fy-27-revenue/cZUG1LvRBUg?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/24/apple-is-one-of-the-most-profitable-businesses-in/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.telegraph.co.uk/business/2026/10/24/warning-signs-flash-for-ai-boom-as-risky-debt-piles-up/?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/24/what-will-a-10000-investment-in-palantir-be-worth/?.tsrc=rss",
+      "sentiment": "positive"
     }
   ]
 }

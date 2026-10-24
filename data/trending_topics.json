@@ -1,7 +1,7 @@
 {
   "date": "2026-10-24",
   "window_days": 7,
-  "source_count": 1310,
+  "source_count": 1317,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 202,
+      "count": 205,
       "kind": "ticker"
     },
     {
@@ -52,6 +52,15 @@
       "kind": "ticker"
     },
     {
+      "label": "MSFT",
+      "query": "MSFT",
+      "search_terms": [
+        "MSFT"
+      ],
+      "count": 85,
+      "kind": "ticker"
+    },
+    {
       "label": "AMZN",
       "query": "AMZN",
       "search_terms": [
@@ -61,12 +70,12 @@
       "kind": "ticker"
     },
     {
-      "label": "MSFT",
-      "query": "MSFT",
+      "label": "AAPL",
+      "query": "AAPL",
       "search_terms": [
-        "MSFT"
+        "AAPL"
       ],
-      "count": 84,
+      "count": 80,
       "kind": "ticker"
     },
     {
@@ -76,15 +85,6 @@
         "NFLX"
       ],
       "count": 80,
-      "kind": "ticker"
-    },
-    {
-      "label": "AAPL",
-      "query": "AAPL",
-      "search_terms": [
-        "AAPL"
-      ],
-      "count": 78,
       "kind": "ticker"
     },
     {
@@ -115,7 +115,7 @@
       "kind": "ticker"
     }
   ],
-  "updated_at": "2026-10-24T07:49:26.268630+00:00",
+  "updated_at": "2026-10-24T09:31:59.827747+00:00",
   "articles": [
     {
       "ticker": "AMD",
@@ -17146,6 +17146,97 @@
       "impact_direction": "neutral",
       "sentiment": "negative",
       "fetched_at": "2026-10-24T07:49:24.490473+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "The Growth of the Tokenized Equities Market Is Off-the-Charts. Here's What Crypto Investors Need to Know.",
+      "link": "https://www.fool.com/investing/2026/10/24/the-growth-of-the-tokenized-equities-market-is-off/?.tsrc=rss",
+      "published": "Sat, 24 Oct 2026 09:20:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-24T09:31:55.916786+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Stock Market Investors Just Got Bad News About President Trump's Economy. History Says This Could Happen Next.",
+      "link": "https://www.fool.com/investing/2026/10/24/stock-market-investors-bad-news-president-trumps-economy-this-next/?.tsrc=rss",
+      "published": "Sat, 24 Oct 2026 09:08:01 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-24T09:31:55.916885+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Waiting for the Perfect Moment to Invest? History Says That Could Cost You.",
+      "link": "https://www.fool.com/investing/2026/10/24/perfect-moment-invest-history-says-cost-you/?.tsrc=rss",
+      "published": "Sat, 24 Oct 2026 08:50:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-24T09:31:55.916946+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Gene Munster Says Apple’s $2,200 iPhone Duo Could Add $8B To FY27 Revenue, Sees 20M Units In Sales Even As Wall Street Expects Only 12M",
+      "link": "https://stocktwits.com/news-articles/markets/equity/gene-munster-apple-iphone-duo-2200-add-8-billion-fy-27-revenue/cZUG1LvRBUg?.tsrc=rss",
+      "published": "Sat, 24 Oct 2026 09:24:25 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-24T09:31:56.131807+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Apple Is One of the Most Profitable Businesses in the World. Here's Why the Stock Is Worth $295 a Share Right Now.",
+      "link": "https://www.fool.com/investing/2026/10/24/apple-is-one-of-the-most-profitable-businesses-in/?.tsrc=rss",
+      "published": "Sat, 24 Oct 2026 08:05:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-24T09:31:56.131932+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "The tech ‘death spiral’ that could destroy the AI boom",
+      "link": "https://www.telegraph.co.uk/business/2026/10/24/warning-signs-flash-for-ai-boom-as-risky-debt-piles-up/?.tsrc=rss",
+      "published": "Sat, 24 Oct 2026 07:00:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-24T09:31:56.362984+00:00"
+    },
+    {
+      "ticker": "PLTR",
+      "title": "What Will a $10,000 Investment in Palantir Be Worth by 2030?",
+      "link": "https://www.fool.com/investing/2026/10/24/what-will-a-10000-investment-in-palantir-be-worth/?.tsrc=rss",
+      "published": "Sat, 24 Oct 2026 08:20:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-24T09:31:58.895880+00:00"
     }
   ]
 }
