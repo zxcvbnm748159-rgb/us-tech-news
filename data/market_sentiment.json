@@ -1,14 +1,14 @@
 {
   "date": "2026-10-24",
-  "score": null,
-  "label": "No data",
+  "score": 50,
+  "label": "Mixed",
   "counts": {
-    "positive": 0,
-    "negative": 0,
-    "neutral": 2
+    "positive": 1,
+    "negative": 1,
+    "neutral": 5
   },
-  "total": 2,
-  "updated_at": "2026-10-24T05:12:43.198360+00:00",
+  "total": 7,
+  "updated_at": "2026-10-24T07:49:26.203829+00:00",
   "articles": [
     {
       "link": "https://www.fool.com/investing/2026/10/24/tsmc-or-nvidia-if-i-could-only-own-1-for-the-next/?.tsrc=rss",
@@ -17,6 +17,26 @@
     {
       "link": "https://www.fool.com/investing/2026/10/24/anthropics-revenue-surged-to-163-billion-in-the-fi/?.tsrc=rss",
       "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/24/heres-the-ai-chip-stock-that-hedge-funds-are-loadi/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/24/if-i-could-tell-every-investor-1-thing-about-stock/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://uk.finance.yahoo.com/news/uk-alert-over-beijing-backed-053000750.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://stocktwits.com/news-articles/markets/equity/cathie-wood-ark-invest-sells-goog-pltr-crwd-buys-biotech-stocks/cZUGfEJRBUO?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://stocktwits.com/news-articles/markets/equity/be-stock-worst-single-day-fall-3-months-lack-of-updates-oracle-project-jupiter/cZUGhLbRBUQ?.tsrc=rss",
+      "sentiment": "negative"
     }
   ]
 }

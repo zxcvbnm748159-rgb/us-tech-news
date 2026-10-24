@@ -1,7 +1,7 @@
 {
   "date": "2026-10-24",
   "window_days": 7,
-  "source_count": 1305,
+  "source_count": 1310,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 200,
+      "count": 202,
       "kind": "ticker"
     },
     {
@@ -30,7 +30,7 @@
       "search_terms": [
         "GOOGL"
       ],
-      "count": 133,
+      "count": 134,
       "kind": "ticker"
     },
     {
@@ -66,7 +66,7 @@
       "search_terms": [
         "MSFT"
       ],
-      "count": 83,
+      "count": 84,
       "kind": "ticker"
     },
     {
@@ -93,7 +93,7 @@
       "search_terms": [
         "ORCL"
       ],
-      "count": 49,
+      "count": 50,
       "kind": "ticker"
     },
     {
@@ -115,7 +115,7 @@
       "kind": "ticker"
     }
   ],
-  "updated_at": "2026-10-24T05:12:43.238453+00:00",
+  "updated_at": "2026-10-24T07:49:26.268630+00:00",
   "articles": [
     {
       "ticker": "AMD",
@@ -17081,6 +17081,71 @@
       "impact_direction": "neutral",
       "sentiment": "negative",
       "fetched_at": "2026-10-24T05:12:41.823834+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Here's the AI Chip Stock That Hedge Funds Are Loading Up On",
+      "link": "https://www.fool.com/investing/2026/10/24/heres-the-ai-chip-stock-that-hedge-funds-are-loadi/?.tsrc=rss",
+      "published": "Sat, 24 Oct 2026 06:50:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-24T07:49:22.790142+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "If I Could Tell Every Investor 1 Thing About Stock Market Crashes, It Would Be This",
+      "link": "https://www.fool.com/investing/2026/10/24/if-i-could-tell-every-investor-1-thing-about-stock/?.tsrc=rss",
+      "published": "Sat, 24 Oct 2026 06:05:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-24T07:49:22.790205+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "UK on alert over Beijing-backed AI hacking spree",
+      "link": "https://uk.finance.yahoo.com/news/uk-alert-over-beijing-backed-053000750.html?.tsrc=rss",
+      "published": "Sat, 24 Oct 2026 05:30:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-24T07:49:23.222776+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Cathie Wood-Led Ark Invest Sells PLTR, GOOG, SHOP Stocks — But Loads Up On PACB, FRNM And Other Biotech Firms",
+      "link": "https://stocktwits.com/news-articles/markets/equity/cathie-wood-ark-invest-sells-goog-pltr-crwd-buys-biotech-stocks/cZUGfEJRBUO?.tsrc=rss",
+      "published": "Sat, 24 Oct 2026 05:29:55 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-24T07:49:23.410881+00:00"
+    },
+    {
+      "ticker": "ORCL",
+      "title": "BE Stock Sees Worst Single-Day Fall In 3 Months — Jefferies Trims Price Target, Flags Lack Of Updates On Its Largest Opportunity With Oracle",
+      "link": "https://stocktwits.com/news-articles/markets/equity/be-stock-worst-single-day-fall-3-months-lack-of-updates-oracle-project-jupiter/cZUGhLbRBUQ?.tsrc=rss",
+      "published": "Sat, 24 Oct 2026 07:31:53 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-24T07:49:24.490473+00:00"
     }
   ]
 }
