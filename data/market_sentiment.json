@@ -1,14 +1,14 @@
 {
   "date": "2026-10-24",
-  "score": 62,
+  "score": 61,
   "label": "Bullish",
   "counts": {
-    "positive": 5,
-    "negative": 3,
-    "neutral": 6
+    "positive": 11,
+    "negative": 7,
+    "neutral": 14
   },
-  "total": 14,
-  "updated_at": "2026-10-24T09:31:59.791369+00:00",
+  "total": 32,
+  "updated_at": "2026-10-24T13:02:55.941876+00:00",
   "articles": [
     {
       "link": "https://www.fool.com/investing/2026/10/24/tsmc-or-nvidia-if-i-could-only-own-1-for-the-next/?.tsrc=rss",
@@ -65,6 +65,78 @@
     {
       "link": "https://www.fool.com/investing/2026/10/24/what-will-a-10000-investment-in-palantir-be-worth/?.tsrc=rss",
       "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/24/us-power-demand-is-set-to-jump-20-by-2030-heres-wh/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/24/prediction-200-a-month-invested-in-nvidia-will-be/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/jensen-huang-says-nvidia-gpus-113005747.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/24/jensen-huang-says-ai-demand-is-off-the-charts-the-money-to-pay-for-it-isn-t/?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/10/24/apple-just-passed-nvidia-as-the-worlds-most-valuable-company-on-iphone-duo-day/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/article/apples-new-hardware-push-is-meeting-ai-worried-investors-at-the-right-moment-100000062.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/microsoft-stock-2-other-best-120954839.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/24/caterpillar-is-quietly-becoming-an-ai-stock-heres/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/24/3-key-things-to-monitor-when-tech-giants-report-ea/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/24/billionaire-ken-griffin-says-we-may-be-in-a-bubble-here-s-what-history-says-happens-next/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/24/amazon-spent-more-on-data-centers-last-quarter-than-aws-earned-in-revenue-should-investors-worry/?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-got-trump-tariff-refunds-104506257.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/almost-everything-elon-musk-touches-094507471.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/24/heres-why-amd-investors-should-consider-selling-be/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/24/2-unloved-stocks-of-2026-to-consider-buying-now/?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/oracle-orcl-commits-1-billion-101543868.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/24/should-you-buy-netflix-stock-after-its-51-plunge/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/dc26ac38-ed34-3745-8eef-12dbcb5d78d0/you-are-inheriting-a.html?.tsrc=rss",
+      "sentiment": "negative"
     }
   ]
 }
