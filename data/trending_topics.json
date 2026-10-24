@@ -1,7 +1,7 @@
 {
   "date": "2026-10-24",
   "window_days": 7,
-  "source_count": 1377,
+  "source_count": 1379,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 222,
+      "count": 224,
       "kind": "ticker"
     },
     {
@@ -115,7 +115,7 @@
       "kind": "ticker"
     }
   ],
-  "updated_at": "2026-10-24T19:12:50.237530+00:00",
+  "updated_at": "2026-10-24T20:04:13.226558+00:00",
   "articles": [
     {
       "ticker": "AMD",
@@ -18017,6 +18017,32 @@
       "impact_direction": "neutral",
       "sentiment": "negative",
       "fetched_at": "2026-10-24T19:12:49.854055+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Stock Market Sell-Off: History Says This Is the Best Move to Make Right Now",
+      "link": "https://www.fool.com/investing/2026/10/24/stock-market-sell-off-history-says-do-this/?.tsrc=rss",
+      "published": "Sat, 24 Oct 2026 19:41:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-24T20:04:09.912976+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Nvidia Credit Stress Could Lift Hannover Re Stock And Other AI Insurance Names",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-credit-stress-could-lift-190924644.html?.tsrc=rss",
+      "published": "Sat, 24 Oct 2026 19:09:24 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-24T20:04:09.913042+00:00"
     }
   ]
 }

@@ -1,14 +1,14 @@
 {
   "date": "2026-10-24",
-  "score": 57,
+  "score": 59,
   "label": "Mixed",
   "counts": {
-    "positive": 23,
+    "positive": 24,
     "negative": 17,
-    "neutral": 32
+    "neutral": 33
   },
-  "total": 72,
-  "updated_at": "2026-10-24T19:12:50.212761+00:00",
+  "total": 74,
+  "updated_at": "2026-10-24T20:04:13.198412+00:00",
   "articles": [
     {
       "link": "https://www.fool.com/investing/2026/10/24/tsmc-or-nvidia-if-i-could-only-own-1-for-the-next/?.tsrc=rss",
@@ -297,6 +297,14 @@
     {
       "link": "https://www.barchart.com/story/news/8406065/ibms-ceo-just-issued-a-warning-message-on-ai-spending-he-ended-up-hurting-his-own-stock?.tsrc=rss",
       "sentiment": "negative"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/24/stock-market-sell-off-history-says-do-this/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-credit-stress-could-lift-190924644.html?.tsrc=rss",
+      "sentiment": "neutral"
     }
   ]
 }
