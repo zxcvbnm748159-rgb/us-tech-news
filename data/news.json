@@ -1,6 +1,58 @@
 [
   {
     "ticker": "NVDA",
+    "title": "Investors Are Worried About Too Much AI Spending. They're Not Wrong, But It's Paying Off for These 2 Tech Stocks.",
+    "link": "https://www.fool.com/investing/2026/10/25/investors-are-worried-about-too-much-ai-spending/?.tsrc=rss",
+    "published": "Sun, 25 Oct 2026 18:03:00 +0000",
+    "summary_th": "",
+    "category": "General",
+    "ai_analysis": "",
+    "impact_level": "low",
+    "impact_direction": "neutral",
+    "sentiment": "neutral",
+    "fetched_at": "2026-10-25T19:08:53.697272+00:00"
+  },
+  {
+    "ticker": "GOOGL",
+    "title": "Google's next TV gadget may do much more than stream",
+    "link": "https://www.thestreet.com/investing/googles-next-tv-gadget-may-do-much-more-than-stream?.tsrc=rss",
+    "published": "Sun, 25 Oct 2026 18:17:00 +0000",
+    "summary_th": "",
+    "category": "General",
+    "ai_analysis": "",
+    "impact_level": "low",
+    "impact_direction": "neutral",
+    "sentiment": "neutral",
+    "fetched_at": "2026-10-25T19:08:54.148227+00:00"
+  },
+  {
+    "ticker": "TSLA",
+    "title": "Tesla (TSLA) Stock Gets Fair Value Bump As Analysts Split On AI And SpaceX",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-stock-gets-fair-180949186.html?.tsrc=rss",
+    "published": "Sun, 25 Oct 2026 18:09:49 +0000",
+    "summary_th": "",
+    "category": "General",
+    "ai_analysis": "",
+    "impact_level": "low",
+    "impact_direction": "neutral",
+    "sentiment": "positive",
+    "fetched_at": "2026-10-25T19:08:54.604456+00:00"
+  },
+  {
+    "ticker": "IBM",
+    "title": "IBM CEO Says Open AI Models Are 90% as Good as Frontier Models: ‘Why Pay 10x More?’",
+    "link": "https://finance.yahoo.com/technology/ai/articles/ibm-ceo-says-open-ai-180009373.html?.tsrc=rss",
+    "published": "Sun, 25 Oct 2026 18:00:09 +0000",
+    "summary_th": "",
+    "category": "General",
+    "ai_analysis": "",
+    "impact_level": "low",
+    "impact_direction": "neutral",
+    "sentiment": "positive",
+    "fetched_at": "2026-10-25T19:08:56.203073+00:00"
+  },
+  {
+    "ticker": "NVDA",
     "title": "Not Nvidia. Not Microsoft. This \"Magnificent Seven\" Stock Is the Cheapest Right Now.",
     "link": "https://www.fool.com/investing/2026/10/25/not-nvidia-not-microsoft-this-magnificent-seven/?.tsrc=rss",
     "published": "Sun, 25 Oct 2026 17:50:00 +0000",
@@ -3846,57 +3898,5 @@
     "impact_direction": "neutral",
     "sentiment": "positive",
     "fetched_at": "2026-10-23T15:27:21.166541+00:00"
-  },
-  {
-    "ticker": "AMD",
-    "title": "AMD or Broadcom: If I Could Only Own 1 AI Chip Stock Through 2030, Here's My Pick",
-    "link": "https://www.fool.com/investing/2026/10/23/amd-or-broadcom-if-i-could-only-own-1-ai-chip-stoc/?.tsrc=rss",
-    "published": "Fri, 23 Oct 2026 15:20:00 +0000",
-    "summary_th": "",
-    "category": "General",
-    "ai_analysis": "",
-    "impact_level": "low",
-    "impact_direction": "neutral",
-    "sentiment": "neutral",
-    "fetched_at": "2026-10-23T15:27:21.339807+00:00"
-  },
-  {
-    "ticker": "AMD",
-    "title": "AMD Stock Price Prediction: One Growth Opportunity Could Push Shares Much Higher",
-    "link": "https://247wallst.com/investing/2026/10/23/amd-stock-price-prediction-one-growth-opportunity-could-push-shares-much-higher/?.tsrc=rss",
-    "published": "Fri, 23 Oct 2026 15:00:45 +0000",
-    "summary_th": "",
-    "category": "General",
-    "ai_analysis": "",
-    "impact_level": "low",
-    "impact_direction": "neutral",
-    "sentiment": "positive",
-    "fetched_at": "2026-10-23T15:27:21.339883+00:00"
-  },
-  {
-    "ticker": "ORCL",
-    "title": "Dan Ives Calls AI Sell-Off ‘SaaS Apocalypse 2.0,’ Says Oracle Is ‘In The Toughest Spot’",
-    "link": "https://stocktwits.com/news-articles/markets/equity/dan-ives-calls-ai-sell-off-saas-apocalypse-2-0-oracle-in-toughest-spot/cZxyK1wRBxF?.tsrc=rss",
-    "published": "Fri, 23 Oct 2026 13:55:18 +0000",
-    "summary_th": "",
-    "category": "General",
-    "ai_analysis": "",
-    "impact_level": "low",
-    "impact_direction": "neutral",
-    "sentiment": "neutral",
-    "fetched_at": "2026-10-23T15:27:21.693965+00:00"
-  },
-  {
-    "ticker": "CRM",
-    "title": "SCG Appoints NetSuite AI Pioneer Tim Dietrich as First Head of AI",
-    "link": "https://finance.yahoo.com/technology/ai/articles/scg-appoints-netsuite-ai-pioneer-140000623.html?.tsrc=rss",
-    "published": "Fri, 23 Oct 2026 14:00:00 +0000",
-    "summary_th": "",
-    "category": "General",
-    "ai_analysis": "",
-    "impact_level": "low",
-    "impact_direction": "neutral",
-    "sentiment": "neutral",
-    "fetched_at": "2026-10-23T15:27:21.886151+00:00"
   }
 ]
