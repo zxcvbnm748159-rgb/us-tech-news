@@ -1,7 +1,7 @@
 {
   "date": "2026-10-25",
   "window_days": 7,
-  "source_count": 1399,
+  "source_count": 1400,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 235,
+      "count": 236,
       "kind": "ticker"
     },
     {
@@ -115,7 +115,7 @@
       "kind": "ticker"
     }
   ],
-  "updated_at": "2026-10-25T22:58:57.398466+00:00",
+  "updated_at": "2026-10-25T23:33:54.426485+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -18303,6 +18303,19 @@
       "impact_direction": "neutral",
       "sentiment": "neutral",
       "fetched_at": "2026-10-25T22:58:55.323666+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Prediction: 2 Stocks That Will Be Worth More Than AMD 5 Years From Now",
+      "link": "https://www.fool.com/investing/2026/10/25/prediction-2-stocks-that-will-be-worth-more-than-a/?.tsrc=rss",
+      "published": "Sun, 25 Oct 2026 23:20:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-25T23:33:51.656202+00:00"
     }
   ]
 }

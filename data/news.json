@@ -1,6 +1,19 @@
 [
   {
     "ticker": "NVDA",
+    "title": "Prediction: 2 Stocks That Will Be Worth More Than AMD 5 Years From Now",
+    "link": "https://www.fool.com/investing/2026/10/25/prediction-2-stocks-that-will-be-worth-more-than-a/?.tsrc=rss",
+    "published": "Sun, 25 Oct 2026 23:20:00 +0000",
+    "summary_th": "",
+    "category": "General",
+    "ai_analysis": "",
+    "impact_level": "low",
+    "impact_direction": "neutral",
+    "sentiment": "positive",
+    "fetched_at": "2026-10-25T23:33:51.656202+00:00"
+  },
+  {
+    "ticker": "NVDA",
     "title": "Can Bitcoin Double in Value During the Next Crypto Bull Market?",
     "link": "https://www.fool.com/investing/2026/10/25/can-crypto-double-in-value-during-the-next-crypto/?.tsrc=rss",
     "published": "Sun, 25 Oct 2026 22:22:00 +0000",
@@ -3885,18 +3898,5 @@
     "impact_direction": "neutral",
     "sentiment": "positive",
     "fetched_at": "2026-10-23T15:27:20.093790+00:00"
-  },
-  {
-    "ticker": "NVDA",
-    "title": "How Apple dethroned Nvidia to become world's most valuable company",
-    "link": "https://finance.yahoo.com/video/how-apple-dethroned-nvidia-to-become-worlds-most-valuable-company-150819601.html?.tsrc=rss",
-    "published": "Fri, 23 Oct 2026 15:08:19 +0000",
-    "summary_th": "",
-    "category": "General",
-    "ai_analysis": "",
-    "impact_level": "low",
-    "impact_direction": "neutral",
-    "sentiment": "positive",
-    "fetched_at": "2026-10-23T15:27:20.093846+00:00"
   }
 ]
