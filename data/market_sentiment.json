@@ -1,14 +1,14 @@
 {
   "date": "2026-10-25",
-  "score": 80,
+  "score": 75,
   "label": "Bullish",
   "counts": {
-    "positive": 24,
-    "negative": 6,
-    "neutral": 38
+    "positive": 27,
+    "negative": 9,
+    "neutral": 46
   },
-  "total": 68,
-  "updated_at": "2026-10-25T19:08:56.502108+00:00",
+  "total": 82,
+  "updated_at": "2026-10-25T21:43:27.516306+00:00",
   "articles": [
     {
       "link": "https://www.fool.com/investing/2026/10/25/got-1000-this-nuclear-fuel-stock-is-the-pick-and-s/?.tsrc=rss",
@@ -281,6 +281,62 @@
     {
       "link": "https://finance.yahoo.com/technology/ai/articles/ibm-ceo-says-open-ai-180009373.html?.tsrc=rss",
       "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/25/3-genius-quantum-computing-stocks-to-buy-now/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/retirement/social-security/2026/10/25/heres-the-average-social-security-benefit-at-62-vs-70/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.thestreet.com/investing/vanguard-flags-a-hidden-ai-risk-in-your-value-fund?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-lost-china-ai-190626796.html?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/25/apples-market-cap-grew-from-350-billion-to-46-tril/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/cdb9c13b-db57-3551-acd0-7507e9d69b5a/dow-jones-futures-due-with.html?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/6aa0a251-3626-3c5e-9bb0-32356c21ae2b/stock-futures-set-to-trade.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/0d4242d7-b2c9-3bd4-9e03-715369986b85/the-fed%2C-inflation%2C-verizon%2C.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.thestreet.com/technology/amazons-75-ai-wearable-hides-a-bigger-144-a-year-bet?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/economy/policy/articles/meta-strikes-8-deal-keep-203015871.html?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/25/elon-musk-became-the-first-person-ever-confirmed-w/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/3-ai-infrastructure-stocks-riding-190713758.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.barchart.com/story/news/8444185/dell-lenovo-cisco-hpe-supermicro-why-amds-new-ai-blueprint-has-everyone-signing-on?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/articles/meter-arrives-november-salesforce-charge-191227506.html?.tsrc=rss",
+      "sentiment": "neutral"
     }
   ]
 }

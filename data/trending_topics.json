@@ -1,7 +1,7 @@
 {
   "date": "2026-10-25",
   "window_days": 7,
-  "source_count": 1380,
+  "source_count": 1394,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 230,
+      "count": 234,
       "kind": "ticker"
     },
     {
@@ -30,7 +30,7 @@
       "search_terms": [
         "GOOGL"
       ],
-      "count": 136,
+      "count": 138,
       "kind": "ticker"
     },
     {
@@ -39,7 +39,7 @@
       "search_terms": [
         "META"
       ],
-      "count": 132,
+      "count": 133,
       "kind": "ticker"
     },
     {
@@ -48,7 +48,7 @@
       "search_terms": [
         "TSLA"
       ],
-      "count": 127,
+      "count": 129,
       "kind": "ticker"
     },
     {
@@ -57,7 +57,7 @@
       "search_terms": [
         "AMZN"
       ],
-      "count": 93,
+      "count": 94,
       "kind": "ticker"
     },
     {
@@ -66,7 +66,7 @@
       "search_terms": [
         "MSFT"
       ],
-      "count": 90,
+      "count": 91,
       "kind": "ticker"
     },
     {
@@ -84,7 +84,7 @@
       "search_terms": [
         "AAPL"
       ],
-      "count": 82,
+      "count": 83,
       "kind": "ticker"
     },
     {
@@ -111,11 +111,11 @@
       "search_terms": [
         "AMD"
       ],
-      "count": 45,
+      "count": 46,
       "kind": "ticker"
     }
   ],
-  "updated_at": "2026-10-25T19:08:56.544273+00:00",
+  "updated_at": "2026-10-25T21:43:27.559845+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -18056,6 +18056,188 @@
       "impact_direction": "neutral",
       "sentiment": "positive",
       "fetched_at": "2026-10-25T19:08:56.203073+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "3 Genius Quantum Computing Stocks to Buy Now",
+      "link": "https://www.fool.com/investing/2026/10/25/3-genius-quantum-computing-stocks-to-buy-now/?.tsrc=rss",
+      "published": "Sun, 25 Oct 2026 21:05:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-25T21:43:24.769315+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Here's the Average Social Security Benefit at 62 vs. 70",
+      "link": "https://www.fool.com/retirement/social-security/2026/10/25/heres-the-average-social-security-benefit-at-62-vs-70/?.tsrc=rss",
+      "published": "Sun, 25 Oct 2026 19:20:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-25T21:43:24.769430+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Vanguard flags a hidden AI risk in your value fund",
+      "link": "https://www.thestreet.com/investing/vanguard-flags-a-hidden-ai-risk-in-your-value-fund?.tsrc=rss",
+      "published": "Sun, 25 Oct 2026 19:13:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-25T21:43:24.769500+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Nvidia (NVDA) Has Lost Its China AI Accelerator Market",
+      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-lost-china-ai-190626796.html?.tsrc=rss",
+      "published": "Sun, 25 Oct 2026 19:06:26 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-25T21:43:24.769552+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Apple's Market Cap Grew From $350 Billion to $4.6 Trillion During Tim Cook's 15 Years as CEO. Here's What That Growth Curve Means for Apple's Next Chapter Under John Ternus.",
+      "link": "https://www.fool.com/investing/2026/10/25/apples-market-cap-grew-from-350-billion-to-46-tril/?.tsrc=rss",
+      "published": "Sun, 25 Oct 2026 20:05:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-25T21:43:24.920865+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Dow Jones Futures Due With Microsoft, Google, Amazon Ahead; Will Doom Or Bloom Control Market?",
+      "link": "https://finance.yahoo.com/m/cdb9c13b-db57-3551-acd0-7507e9d69b5a/dow-jones-futures-due-with.html?.tsrc=rss",
+      "published": "Sun, 25 Oct 2026 19:33:52 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-25T21:43:25.061138+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Stock Futures Set to Trade Ahead of Fed Decision",
+      "link": "https://finance.yahoo.com/m/6aa0a251-3626-3c5e-9bb0-32356c21ae2b/stock-futures-set-to-trade.html?.tsrc=rss",
+      "published": "Sun, 25 Oct 2026 19:44:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-25T21:43:25.196940+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "The Fed, Inflation, Verizon, Boeing, Alphabet, GE Vernova, Amazon, and Many More Stocks to Watch This Week",
+      "link": "https://finance.yahoo.com/m/0d4242d7-b2c9-3bd4-9e03-715369986b85/the-fed%2C-inflation%2C-verizon%2C.html?.tsrc=rss",
+      "published": "Sun, 25 Oct 2026 19:12:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-25T21:43:25.197031+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Amazon's $75 AI wearable hides a bigger $144-a-year bet",
+      "link": "https://www.thestreet.com/technology/amazons-75-ai-wearable-hides-a-bigger-144-a-year-bet?.tsrc=rss",
+      "published": "Sun, 25 Oct 2026 20:23:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-25T21:43:25.331246+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "Meta Strikes 8-Year Deal to Keep Mark Zuckerberg in California as Billionaire Tax Looms: ‘Critically Important’ for Him to Remain in Leadership",
+      "link": "https://finance.yahoo.com/economy/policy/articles/meta-strikes-8-deal-keep-203015871.html?.tsrc=rss",
+      "published": "Sun, 25 Oct 2026 20:30:15 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-25T21:43:25.542605+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Elon Musk Became the First Person Ever Confirmed With a Net Worth Above $1 Trillion in June 2026. Here's Why That Milestone Still Matters for Tesla and SpaceX Shareholders.",
+      "link": "https://www.fool.com/investing/2026/10/25/elon-musk-became-the-first-person-ever-confirmed-w/?.tsrc=rss",
+      "published": "Sun, 25 Oct 2026 20:20:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-25T21:43:25.689250+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "3 AI Infrastructure Stocks Riding The Tesla And SpaceX Compute Buildout",
+      "link": "https://finance.yahoo.com/technology/ai/articles/3-ai-infrastructure-stocks-riding-190713758.html?.tsrc=rss",
+      "published": "Sun, 25 Oct 2026 19:07:13 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-25T21:43:25.689296+00:00"
+    },
+    {
+      "ticker": "AMD",
+      "title": "Dell, Lenovo, Cisco, HPE, Supermicro: Why AMD’s New AI Blueprint Has Everyone Signing On",
+      "link": "https://www.barchart.com/story/news/8444185/dell-lenovo-cisco-hpe-supermicro-why-amds-new-ai-blueprint-has-everyone-signing-on?.tsrc=rss",
+      "published": "Sun, 25 Oct 2026 14:00:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-25T21:43:25.840179+00:00"
+    },
+    {
+      "ticker": "CRM",
+      "title": "The Meter Arrives in November: Salesforce Will Charge for Every Call Your Agents Make – and the Price Is TBA",
+      "link": "https://finance.yahoo.com/technology/articles/meter-arrives-november-salesforce-charge-191227506.html?.tsrc=rss",
+      "published": "Sun, 25 Oct 2026 19:12:27 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-25T21:43:26.290068+00:00"
     }
   ]
 }
