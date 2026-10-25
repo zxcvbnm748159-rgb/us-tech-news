@@ -1,14 +1,14 @@
 {
   "date": "2026-10-24",
-  "score": 61,
+  "score": 60,
   "label": "Bullish",
   "counts": {
     "positive": 30,
-    "negative": 19,
-    "neutral": 49
+    "negative": 20,
+    "neutral": 50
   },
-  "total": 98,
-  "updated_at": "2026-10-25T01:38:54.265013+00:00",
+  "total": 100,
+  "updated_at": "2026-10-25T02:46:06.924277+00:00",
   "articles": [
     {
       "link": "https://www.fool.com/investing/2026/10/24/tsmc-or-nvidia-if-i-could-only-own-1-for-the-next/?.tsrc=rss",
@@ -401,6 +401,14 @@
     {
       "link": "https://finance.yahoo.com/markets/stocks/articles/investors-may-respond-qualcomm-stock-011117867.html?.tsrc=rss",
       "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-jensen-huang-says-ai-013010925.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/24/constellation-vistra-and-ge-vernova-ranked-from-wo/?.tsrc=rss",
+      "sentiment": "negative"
     }
   ]
 }

@@ -1,6 +1,58 @@
 [
   {
     "ticker": "NVDA",
+    "title": "Nvidia’s Jensen Huang Says AI Agents Have Sent Token, GPU Demand ‘Through the Roof’: Gene Munster Sees 15 Million Bot Users Soaring to Billions",
+    "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-jensen-huang-says-ai-013010925.html?.tsrc=rss",
+    "published": "Sun, 25 Oct 2026 01:30:10 +0000",
+    "summary_th": "",
+    "category": "General",
+    "ai_analysis": "",
+    "impact_level": "low",
+    "impact_direction": "neutral",
+    "sentiment": "neutral",
+    "fetched_at": "2026-10-25T02:46:03.992785+00:00"
+  },
+  {
+    "ticker": "NVDA",
+    "title": "Constellation, Vistra, and GE Vernova Ranked From Worst to First for the AI Power Boom",
+    "link": "https://www.fool.com/investing/2026/10/24/constellation-vistra-and-ge-vernova-ranked-from-wo/?.tsrc=rss",
+    "published": "Sun, 25 Oct 2026 02:35:00 +0000",
+    "summary_th": "",
+    "category": "General",
+    "ai_analysis": "",
+    "impact_level": "low",
+    "impact_direction": "neutral",
+    "sentiment": "negative",
+    "fetched_at": "2026-10-25T02:46:03.992871+00:00"
+  },
+  {
+    "ticker": "IBM",
+    "title": "IBM's Software Growth Sped Up and Its Stock Barely Moved. I'd Start Buying.",
+    "link": "https://www.fool.com/investing/2026/10/23/ibm-s-software-growth-sped-up-and-its-stock-barely-moved-i-d-start-buying/?.tsrc=rss",
+    "published": "Fri, 23 Oct 2026 08:01:02 +0000",
+    "summary_th": "",
+    "category": "General",
+    "ai_analysis": "",
+    "impact_level": "low",
+    "impact_direction": "neutral",
+    "sentiment": "positive",
+    "fetched_at": "2026-10-25T02:46:06.612469+00:00"
+  },
+  {
+    "ticker": "ADBE",
+    "title": "'Big Short' Investor Michael Burry Bumps Up Substack Subscription Price, Flags 4 'Busted' Bear-Market Havens",
+    "link": "https://stocktwits.com/news-articles/markets/equity/michael-burry-bumps-up-substack-subscription-price-4-busted-bear-market-havens/cZxyIwoRBxR?.tsrc=rss",
+    "published": "Fri, 23 Oct 2026 07:16:46 +0000",
+    "summary_th": "",
+    "category": "General",
+    "ai_analysis": "",
+    "impact_level": "low",
+    "impact_direction": "neutral",
+    "sentiment": "neutral",
+    "fetched_at": "2026-10-25T02:46:06.766990+00:00"
+  },
+  {
+    "ticker": "NVDA",
     "title": "Flying Cars, Smart Homes, and Cracks in the AI Boom",
     "link": "https://www.fool.com/investing/2026/10/24/flying-cars-smart-homes-and-cracks-in-the-ai-boom/?.tsrc=rss",
     "published": "Sat, 24 Oct 2026 23:50:02 +0000",
@@ -3846,57 +3898,5 @@
     "impact_direction": "neutral",
     "sentiment": "positive",
     "fetched_at": "2026-10-23T08:15:23.870128+00:00"
-  },
-  {
-    "ticker": "GOOGL",
-    "title": "Meta’s Muse Is a Huge Hit. Its Success Could Hammer the Stock Market.",
-    "link": "https://finance.yahoo.com/m/7d95d07d-caf7-3ffa-be0a-5b9fb22391ec/meta%E2%80%99s-muse-is-a-huge-hit..html?.tsrc=rss",
-    "published": "Fri, 23 Oct 2026 07:00:00 +0000",
-    "summary_th": "",
-    "category": "General",
-    "ai_analysis": "",
-    "impact_level": "low",
-    "impact_direction": "neutral",
-    "sentiment": "positive",
-    "fetched_at": "2026-10-23T08:15:24.305673+00:00"
-  },
-  {
-    "ticker": "GOOGL",
-    "title": "Stocktwits AI Roundup: Meta’s Capex, Lam’s Supply Warning Hit Tech Stocks As Netflix Disappoints",
-    "link": "https://stocktwits.com/news-articles/markets/equity/stocktwits-ai-roundup-meta-s-capex-lam-s-supply-warning-hit-tech-stocks-as-netflix-disappoints/cZxy3D9RBD6?.tsrc=rss",
-    "published": "Fri, 23 Oct 2026 06:01:51 +0000",
-    "summary_th": "",
-    "category": "General",
-    "ai_analysis": "",
-    "impact_level": "low",
-    "impact_direction": "neutral",
-    "sentiment": "negative",
-    "fetched_at": "2026-10-23T08:15:24.305779+00:00"
-  },
-  {
-    "ticker": "META",
-    "title": "Meta Is Doing Something It’s Never Done Before. Here’s What It Means for Investors.",
-    "link": "https://www.fool.com/investing/2026/10/23/meta-is-doing-something-it-s-never-done-before-here-s-what-it-means-for-investors/?.tsrc=rss",
-    "published": "Fri, 23 Oct 2026 08:10:01 +0000",
-    "summary_th": "",
-    "category": "General",
-    "ai_analysis": "",
-    "impact_level": "low",
-    "impact_direction": "neutral",
-    "sentiment": "neutral",
-    "fetched_at": "2026-10-23T08:15:24.574418+00:00"
-  },
-  {
-    "ticker": "META",
-    "title": "Zacks Investment Ideas feature highlights: Meta Platforms and Pepsi",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-062000268.html?.tsrc=rss",
-    "published": "Fri, 23 Oct 2026 06:20:00 +0000",
-    "summary_th": "",
-    "category": "General",
-    "ai_analysis": "",
-    "impact_level": "low",
-    "impact_direction": "neutral",
-    "sentiment": "neutral",
-    "fetched_at": "2026-10-23T08:15:24.574466+00:00"
   }
 ]

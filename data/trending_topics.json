@@ -1,7 +1,7 @@
 {
   "date": "2026-10-24",
   "window_days": 7,
-  "source_count": 1403,
+  "source_count": 1405,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 230,
+      "count": 232,
       "kind": "ticker"
     },
     {
@@ -115,7 +115,7 @@
       "kind": "ticker"
     }
   ],
-  "updated_at": "2026-10-25T01:38:54.298937+00:00",
+  "updated_at": "2026-10-25T02:46:06.964493+00:00",
   "articles": [
     {
       "ticker": "AMD",
@@ -18355,6 +18355,32 @@
       "impact_direction": "neutral",
       "sentiment": "neutral",
       "fetched_at": "2026-10-25T01:38:53.574038+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Nvidia’s Jensen Huang Says AI Agents Have Sent Token, GPU Demand ‘Through the Roof’: Gene Munster Sees 15 Million Bot Users Soaring to Billions",
+      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-jensen-huang-says-ai-013010925.html?.tsrc=rss",
+      "published": "Sun, 25 Oct 2026 01:30:10 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-25T02:46:03.992785+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Constellation, Vistra, and GE Vernova Ranked From Worst to First for the AI Power Boom",
+      "link": "https://www.fool.com/investing/2026/10/24/constellation-vistra-and-ge-vernova-ranked-from-wo/?.tsrc=rss",
+      "published": "Sun, 25 Oct 2026 02:35:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-25T02:46:03.992871+00:00"
     }
   ]
 }
