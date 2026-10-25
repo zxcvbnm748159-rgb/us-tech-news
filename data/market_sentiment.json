@@ -1,14 +1,14 @@
 {
   "date": "2026-10-25",
-  "score": 78,
+  "score": 67,
   "label": "Bullish",
   "counts": {
-    "positive": 7,
-    "negative": 2,
-    "neutral": 16
+    "positive": 8,
+    "negative": 4,
+    "neutral": 19
   },
-  "total": 25,
-  "updated_at": "2026-10-25T12:12:55.166535+00:00",
+  "total": 31,
+  "updated_at": "2026-10-25T13:30:24.811023+00:00",
   "articles": [
     {
       "link": "https://www.fool.com/investing/2026/10/25/got-1000-this-nuclear-fuel-stock-is-the-pick-and-s/?.tsrc=rss",
@@ -109,6 +109,30 @@
     {
       "link": "https://www.tikr.com/blog/palantir-stock-is-up-17-this-year-why-the-return-hides-a-36-drawdown?ref=yahoofinance&.tsrc=rss",
       "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/25/can-ge-vernova-gas-turbines-wind-business/?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/25/stock-split-watch-is-micron-next/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/10/25/in-1985-he-was-forced-out-of-the-company-he-founded-months-later-he-bet-10-million-on-a-graphics-unit-he-bought-from-george-lucas-by-2006-that-bet-was-worth-far-more-than-his-apple-stock/?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/did-first-electrified-off-road-131144440.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.tikr.com/blog/amd-stock-is-up-131-this-year-heres-where-it-stands-after-a-1-trillion-run?ref=yahoofinance&.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/25/heres-what-a-10000-investment-in-palantir-could-be/?.tsrc=rss",
+      "sentiment": "positive"
     }
   ]
 }
