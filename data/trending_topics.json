@@ -1,7 +1,7 @@
 {
   "date": "2026-10-25",
   "window_days": 7,
-  "source_count": 1320,
+  "source_count": 1337,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 212,
+      "count": 217,
       "kind": "ticker"
     },
     {
@@ -21,7 +21,7 @@
         "revenue guidance",
         "profit forecast"
       ],
-      "count": 166,
+      "count": 167,
       "kind": "topic"
     },
     {
@@ -30,7 +30,7 @@
       "search_terms": [
         "META"
       ],
-      "count": 129,
+      "count": 130,
       "kind": "ticker"
     },
     {
@@ -39,7 +39,7 @@
       "search_terms": [
         "GOOGL"
       ],
-      "count": 127,
+      "count": 129,
       "kind": "ticker"
     },
     {
@@ -48,7 +48,7 @@
       "search_terms": [
         "TSLA"
       ],
-      "count": 123,
+      "count": 124,
       "kind": "ticker"
     },
     {
@@ -57,7 +57,7 @@
       "search_terms": [
         "AMZN"
       ],
-      "count": 88,
+      "count": 89,
       "kind": "ticker"
     },
     {
@@ -66,7 +66,7 @@
       "search_terms": [
         "MSFT"
       ],
-      "count": 85,
+      "count": 88,
       "kind": "ticker"
     },
     {
@@ -115,7 +115,7 @@
       "kind": "ticker"
     }
   ],
-  "updated_at": "2026-10-25T08:01:28.073718+00:00",
+  "updated_at": "2026-10-25T12:12:55.202243+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -17276,6 +17276,227 @@
       "impact_direction": "neutral",
       "sentiment": "neutral",
       "fetched_at": "2026-10-25T08:01:25.738903+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Why Are Investors Buying Credit Default Swaps to Hedge AI-Related Debt?",
+      "link": "https://investorshub.advfn.com/market-news/article/38472/why-are-investors-buying-credit-default-swaps-to-hedge-ai-related-debt?.tsrc=rss",
+      "published": "Sun, 25 Oct 2026 11:54:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-25T12:12:52.752191+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "If the Stock Market Crashes, This Is the First ETF I'm Loading Up On",
+      "link": "https://www.fool.com/investing/2026/10/25/if-stock-market-crashes-first-etf-buy-qqq/?.tsrc=rss",
+      "published": "Sun, 25 Oct 2026 11:50:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-25T12:12:52.752245+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "AI Debt Has Exploded 4X To Nearly $500 Billion: What It Means For NVDA, ORCL And CRWV, According To IO Fund",
+      "link": "https://stocktwits.com/news-articles/markets/equity/ai-debt-boom-4x-500-billion-what-means-nvda-orcl-crwv/cZUcrs8RBUZ?.tsrc=rss",
+      "published": "Sun, 25 Oct 2026 11:24:37 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-25T12:12:52.752298+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Elon Musk Just Delivered Spectacular News for SpaceX Stock Investors",
+      "link": "https://www.fool.com/investing/2026/10/25/elon-musk-delivered-spectacular-news-spacex-stock/?.tsrc=rss",
+      "published": "Sun, 25 Oct 2026 11:30:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-25T12:12:52.752326+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Netflix Is Shaking Up Its Content Leadership. Here's What Needs to Happen Next.",
+      "link": "https://www.fool.com/investing/2026/10/25/netflix-shaking-up-content-leaders-what-next/?.tsrc=rss",
+      "published": "Sun, 25 Oct 2026 11:21:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-25T12:12:52.752366+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Dow Jones Futures Loom; Microsoft, Google, Amazon Earnings Due In Doom-And-Bloom Market",
+      "link": "https://finance.yahoo.com/m/cdb9c13b-db57-3551-acd0-7507e9d69b5a/dow-jones-futures-loom%3B.html?.tsrc=rss",
+      "published": "Sun, 25 Oct 2026 11:48:29 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-25T12:12:53.002769+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "The Enterprise Agent Price Nobody Will Show You",
+      "link": "https://finance.yahoo.com/technology/ai/articles/enterprise-agent-price-nobody-show-095924809.html?.tsrc=rss",
+      "published": "Sun, 25 Oct 2026 09:59:24 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-25T12:12:53.002810+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Here's the Price at Which I'd Buy Microsoft Stock",
+      "link": "https://www.fool.com/investing/2026/10/25/here-s-the-price-at-which-i-d-buy-microsoft-stock/?.tsrc=rss",
+      "published": "Sun, 25 Oct 2026 09:47:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-25T12:12:53.002834+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "4 California billionaires saw their wealth soar 322% over the past two years — but paid 0.04% a year in state income tax",
+      "link": "https://finance.yahoo.com/economy/policy/articles/4-california-billionaires-saw-wealth-104500749.html?.tsrc=rss",
+      "published": "Sun, 25 Oct 2026 10:45:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-25T12:12:53.140771+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Alphabet's 2 Classes of Common Stock Trade About 1% Apart. Here's the One I'd Buy.",
+      "link": "https://www.fool.com/investing/2026/10/25/alphabet-s-2-classes-of-common-stock-trade-about-1-apart-here-s-the-one-i-d-buy/?.tsrc=rss",
+      "published": "Sun, 25 Oct 2026 07:54:01 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-25T12:12:53.140816+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Prediction: Amazon Stock Will Skyrocket After Oct. 29 Thanks to AWS Growth",
+      "link": "https://www.fool.com/investing/2026/10/25/prediction-amazon-stock-will-skyrocket-after-oct-2/?.tsrc=rss",
+      "published": "Sun, 25 Oct 2026 08:33:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-25T12:12:53.261178+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "SpaceX, Meta, and other hyperscalers are dropping clues you should not ignore",
+      "link": "https://finance.yahoo.com/markets/article/spacex-meta-and-other-hyperscalers-are-dropping-clues-you-should-not-ignore-100000992.html?.tsrc=rss",
+      "published": "Sun, 25 Oct 2026 10:00:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-25T12:12:53.411551+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Good News for Tesla Investors: 3 Key Benchmarks Elon Musk's Company Delivered On in the Third Quarter",
+      "link": "https://www.fool.com/investing/2026/10/25/good-news-for-tesla-investors-3-key-benchmarks-elo/?.tsrc=rss",
+      "published": "Sun, 25 Oct 2026 11:10:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-25T12:12:53.534083+00:00"
+    },
+    {
+      "ticker": "AVGO",
+      "title": "Where Will Broadcom Stock Be in 5 Years?",
+      "link": "https://www.fool.com/investing/2026/10/25/where-will-broadcom-stock-be-in-5-years/?.tsrc=rss",
+      "published": "Sun, 25 Oct 2026 11:00:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-25T12:12:53.852237+00:00"
+    },
+    {
+      "ticker": "PLTR",
+      "title": "Prediction: This Is Where Palantir Stock Will Trade When Its Revenue Hits $10 Billion",
+      "link": "https://www.fool.com/investing/2026/10/25/prediction-this-is-where-palantir-stock-will-trade-when-its-revenue-hits-usd10-billion/?.tsrc=rss",
+      "published": "Sun, 25 Oct 2026 08:44:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-25T12:12:54.679230+00:00"
+    },
+    {
+      "ticker": "PLTR",
+      "title": "Palantir CEO Alex Karp says neurodivergent workers will thrive in the AI era. An autistic psychologist says he has a point",
+      "link": "https://finance.yahoo.com/technology/ai/articles/palantir-ceo-alex-karp-says-080900524.html?.tsrc=rss",
+      "published": "Sun, 25 Oct 2026 08:09:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-25T12:12:54.679283+00:00"
+    },
+    {
+      "ticker": "PLTR",
+      "title": "Palantir Stock Is Up 17% This Year. Why the Return Hides a 36% Drawdown",
+      "link": "https://www.tikr.com/blog/palantir-stock-is-up-17-this-year-why-the-return-hides-a-36-drawdown?ref=yahoofinance&.tsrc=rss",
+      "published": "Sun, 25 Oct 2026 06:16:14 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-25T12:12:54.679346+00:00"
     }
   ]
 }

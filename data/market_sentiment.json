@@ -1,14 +1,14 @@
 {
   "date": "2026-10-25",
-  "score": 75,
+  "score": 78,
   "label": "Bullish",
   "counts": {
-    "positive": 3,
-    "negative": 1,
-    "neutral": 4
+    "positive": 7,
+    "negative": 2,
+    "neutral": 16
   },
-  "total": 8,
-  "updated_at": "2026-10-25T08:01:28.042333+00:00",
+  "total": 25,
+  "updated_at": "2026-10-25T12:12:55.166535+00:00",
   "articles": [
     {
       "link": "https://www.fool.com/investing/2026/10/25/got-1000-this-nuclear-fuel-stock-is-the-pick-and-s/?.tsrc=rss",
@@ -40,6 +40,74 @@
     },
     {
       "link": "https://finance.yahoo.com/markets/stocks/articles/adobe-stock-looks-different-record-071254332.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://investorshub.advfn.com/market-news/article/38472/why-are-investors-buying-credit-default-swaps-to-hedge-ai-related-debt?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/25/if-stock-market-crashes-first-etf-buy-qqq/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://stocktwits.com/news-articles/markets/equity/ai-debt-boom-4x-500-billion-what-means-nvda-orcl-crwv/cZUcrs8RBUZ?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/25/elon-musk-delivered-spectacular-news-spacex-stock/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/25/netflix-shaking-up-content-leaders-what-next/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/cdb9c13b-db57-3551-acd0-7507e9d69b5a/dow-jones-futures-loom%3B.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/enterprise-agent-price-nobody-show-095924809.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/25/here-s-the-price-at-which-i-d-buy-microsoft-stock/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/economy/policy/articles/4-california-billionaires-saw-wealth-104500749.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/25/alphabet-s-2-classes-of-common-stock-trade-about-1-apart-here-s-the-one-i-d-buy/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/25/prediction-amazon-stock-will-skyrocket-after-oct-2/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/article/spacex-meta-and-other-hyperscalers-are-dropping-clues-you-should-not-ignore-100000992.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/25/good-news-for-tesla-investors-3-key-benchmarks-elo/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/25/where-will-broadcom-stock-be-in-5-years/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/25/prediction-this-is-where-palantir-stock-will-trade-when-its-revenue-hits-usd10-billion/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/palantir-ceo-alex-karp-says-080900524.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.tikr.com/blog/palantir-stock-is-up-17-this-year-why-the-return-hides-a-36-drawdown?ref=yahoofinance&.tsrc=rss",
       "sentiment": "neutral"
     }
   ]
