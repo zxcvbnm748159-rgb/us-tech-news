@@ -1,14 +1,14 @@
 {
   "date": "2026-10-25",
-  "score": 67,
+  "score": 75,
   "label": "Bullish",
   "counts": {
-    "positive": 2,
+    "positive": 3,
     "negative": 1,
-    "neutral": 3
+    "neutral": 4
   },
-  "total": 6,
-  "updated_at": "2026-10-25T06:50:36.960345+00:00",
+  "total": 8,
+  "updated_at": "2026-10-25T08:01:28.042333+00:00",
   "articles": [
     {
       "link": "https://www.fool.com/investing/2026/10/25/got-1000-this-nuclear-fuel-stock-is-the-pick-and-s/?.tsrc=rss",
@@ -33,6 +33,14 @@
     {
       "link": "https://finance.yahoo.com/technology/ai/articles/adobe-adbe-lands-2027-ai-061057286.html?.tsrc=rss",
       "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/25/spacex-just-shared-great-news-for-artificial-intelligence-ai-investors-here-are-2-stocks-that-could-benefit/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/adobe-stock-looks-different-record-071254332.html?.tsrc=rss",
+      "sentiment": "neutral"
     }
   ]
 }
