@@ -1,14 +1,14 @@
 {
   "date": "2026-10-25",
-  "score": 76,
+  "score": 79,
   "label": "Bullish",
   "counts": {
-    "positive": 16,
-    "negative": 5,
-    "neutral": 31
+    "positive": 22,
+    "negative": 6,
+    "neutral": 36
   },
-  "total": 52,
-  "updated_at": "2026-10-25T16:17:02.031376+00:00",
+  "total": 64,
+  "updated_at": "2026-10-25T18:01:56.816260+00:00",
   "articles": [
     {
       "link": "https://www.fool.com/investing/2026/10/25/got-1000-this-nuclear-fuel-stock-is-the-pick-and-s/?.tsrc=rss",
@@ -216,6 +216,54 @@
     },
     {
       "link": "https://www.fool.com/investing/2026/10/25/taiwan-semiconductor-is-set-to-cash-in-on-ai-heres/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/25/not-nvidia-not-microsoft-this-magnificent-seven/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/25/nvidia-ceo-jensen-huang-reaffirms-his-4-trillion-p/?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/25/if-only-own-1-etf-for-20-years-pick-vgt-why/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/25/3-superior-growth-stocks-buy-hold-10-years/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/ai-delivers-zero-financial-payoff-165732723.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/article/the-worlds-super-company-wall-street-weighs-spacex-earnings-companys-likely-tesla-tie-up-173949705.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/25/can-walmarts-new-bundled-subscription-beat-amazon/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.tikr.com/blog/meta-just-dropped-9-in-a-week-is-it-time-to-sell-or-load-up?ref=yahoofinance&.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/meta-platforms-meta-telling-investors-160715261.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.tikr.com/blog/oracle-stock-is-down-55-in-a-year-bargain-or-value-trap?ref=yahoofinance&.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/coverage/charts/2026/10/25/intel-vs-sk-hynix-revenue-trends-to-help-investors-weigh-which-artificial-intelligence-stock-to-buy/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/25/i-said-palantir-stock-would-top-220-this-year-here/?.tsrc=rss",
       "sentiment": "positive"
     }
   ]

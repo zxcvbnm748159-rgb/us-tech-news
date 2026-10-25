@@ -1,7 +1,7 @@
 {
   "date": "2026-10-25",
   "window_days": 7,
-  "source_count": 1364,
+  "source_count": 1376,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 224,
+      "count": 229,
       "kind": "ticker"
     },
     {
@@ -21,7 +21,7 @@
         "revenue guidance",
         "profit forecast"
       ],
-      "count": 169,
+      "count": 170,
       "kind": "topic"
     },
     {
@@ -30,7 +30,7 @@
       "search_terms": [
         "GOOGL"
       ],
-      "count": 134,
+      "count": 135,
       "kind": "ticker"
     },
     {
@@ -39,7 +39,7 @@
       "search_terms": [
         "META"
       ],
-      "count": 130,
+      "count": 132,
       "kind": "ticker"
     },
     {
@@ -57,7 +57,7 @@
       "search_terms": [
         "AMZN"
       ],
-      "count": 92,
+      "count": 93,
       "kind": "ticker"
     },
     {
@@ -93,7 +93,7 @@
       "search_terms": [
         "ORCL"
       ],
-      "count": 51,
+      "count": 52,
       "kind": "ticker"
     },
     {
@@ -115,7 +115,7 @@
       "kind": "ticker"
     }
   ],
-  "updated_at": "2026-10-25T16:17:02.073786+00:00",
+  "updated_at": "2026-10-25T18:01:56.859574+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -17848,6 +17848,162 @@
       "impact_direction": "neutral",
       "sentiment": "positive",
       "fetched_at": "2026-10-25T16:17:02.030931+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Not Nvidia. Not Microsoft. This \"Magnificent Seven\" Stock Is the Cheapest Right Now.",
+      "link": "https://www.fool.com/investing/2026/10/25/not-nvidia-not-microsoft-this-magnificent-seven/?.tsrc=rss",
+      "published": "Sun, 25 Oct 2026 17:50:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-25T18:01:53.921631+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Nvidia CEO Jensen Huang Reaffirms His $4 Trillion Projection for AI Spending. Here's Why That Makes Nvidia a Screaming Buy Now.",
+      "link": "https://www.fool.com/investing/2026/10/25/nvidia-ceo-jensen-huang-reaffirms-his-4-trillion-p/?.tsrc=rss",
+      "published": "Sun, 25 Oct 2026 17:48:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-25T18:01:53.921761+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "If I Could Only Own 1 ETF for the Next 20 Years, Here's Exactly What I'd Pick and Why",
+      "link": "https://www.fool.com/investing/2026/10/25/if-only-own-1-etf-for-20-years-pick-vgt-why/?.tsrc=rss",
+      "published": "Sun, 25 Oct 2026 17:22:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-25T18:01:53.921813+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "3 Superior Growth Stocks to Buy Now and Hold for 10 Years",
+      "link": "https://www.fool.com/investing/2026/10/25/3-superior-growth-stocks-buy-hold-10-years/?.tsrc=rss",
+      "published": "Sun, 25 Oct 2026 17:05:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-25T18:01:53.921863+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+      "link": "https://finance.yahoo.com/technology/ai/articles/ai-delivers-zero-financial-payoff-165732723.html?.tsrc=rss",
+      "published": "Sun, 25 Oct 2026 16:57:32 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-25T18:01:53.921904+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "'The world's super company': Wall Street weighs SpaceX earnings, company's likely Tesla tie-up",
+      "link": "https://finance.yahoo.com/markets/stocks/article/the-worlds-super-company-wall-street-weighs-spacex-earnings-companys-likely-tesla-tie-up-173949705.html?.tsrc=rss",
+      "published": "Sun, 25 Oct 2026 17:39:49 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-25T18:01:54.366867+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Can Walmart's New Bundled Subscription Beat Amazon?",
+      "link": "https://www.fool.com/investing/2026/10/25/can-walmarts-new-bundled-subscription-beat-amazon/?.tsrc=rss",
+      "published": "Sun, 25 Oct 2026 16:47:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-25T18:01:54.545619+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "Meta Just Dropped 9% in a Week. Is It Time to Sell, or Load Up?",
+      "link": "https://www.tikr.com/blog/meta-just-dropped-9-in-a-week-is-it-time-to-sell-or-load-up?ref=yahoofinance&.tsrc=rss",
+      "published": "Sun, 25 Oct 2026 17:05:47 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-25T18:01:54.735058+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "What Is Meta Platforms (META) Telling Investors With Its Sundial Deal And New Stock?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/meta-platforms-meta-telling-investors-160715261.html?.tsrc=rss",
+      "published": "Sun, 25 Oct 2026 16:07:15 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-25T18:01:54.735108+00:00"
+    },
+    {
+      "ticker": "ORCL",
+      "title": "Oracle Stock Is Down 55% in a Year. Bargain or Value Trap?",
+      "link": "https://www.tikr.com/blog/oracle-stock-is-down-55-in-a-year-bargain-or-value-trap?ref=yahoofinance&.tsrc=rss",
+      "published": "Sun, 25 Oct 2026 16:09:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-25T18:01:55.386197+00:00"
+    },
+    {
+      "ticker": "INTC",
+      "title": "Intel vs. SK Hynix: Revenue Trends to Help Investors Weigh Which Artificial Intelligence Stock to Buy",
+      "link": "https://www.fool.com/coverage/charts/2026/10/25/intel-vs-sk-hynix-revenue-trends-to-help-investors-weigh-which-artificial-intelligence-stock-to-buy/?.tsrc=rss",
+      "published": "Sun, 25 Oct 2026 17:25:09 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-25T18:01:55.832312+00:00"
+    },
+    {
+      "ticker": "PLTR",
+      "title": "I Said Palantir Stock Would Top $220 This Year. Here's What It Has to Prove on Nov. 2.",
+      "link": "https://www.fool.com/investing/2026/10/25/i-said-palantir-stock-would-top-220-this-year-here/?.tsrc=rss",
+      "published": "Sun, 25 Oct 2026 17:03:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-25T18:01:56.202597+00:00"
     }
   ]
 }
