@@ -3,12 +3,12 @@
   "score": 61,
   "label": "Bullish",
   "counts": {
-    "positive": 28,
-    "negative": 18,
-    "neutral": 44
+    "positive": 30,
+    "negative": 19,
+    "neutral": 49
   },
-  "total": 90,
-  "updated_at": "2026-10-24T23:42:13.877226+00:00",
+  "total": 98,
+  "updated_at": "2026-10-25T01:38:54.265013+00:00",
   "articles": [
     {
       "link": "https://www.fool.com/investing/2026/10/24/tsmc-or-nvidia-if-i-could-only-own-1-for-the-next/?.tsrc=rss",
@@ -368,6 +368,38 @@
     },
     {
       "link": "https://www.fool.com/investing/2026/10/24/stock-split-watch-is-palantir-next/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/24/flying-cars-smart-homes-and-cracks-in-the-ai-boom/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/24/is-now-a-good-time-to-buy-lockheed-martin/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/24/is-the-ai-bubble-about-to-burst-plus-apple-bets-on-doorbells/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.barchart.com/story/news/8418338/why-you-should-buy-meta-stock-before-it-touches-1-050?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.thestreet.com/automotive/bank-of-america-keeps-buy-tesla-forecast-as-robotaxi-miles-double?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/24/1-red-flag-that-keeps-me-from-buying-amd-stock/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.thestreet.com/investing/stocks/nflx-netflix-losing-ground-to-youtube-nielsen-streaming-share?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/investors-may-respond-qualcomm-stock-011117867.html?.tsrc=rss",
       "sentiment": "neutral"
     }
   ]

@@ -1,7 +1,7 @@
 {
   "date": "2026-10-24",
   "window_days": 7,
-  "source_count": 1395,
+  "source_count": 1403,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 228,
+      "count": 230,
       "kind": "ticker"
     },
     {
@@ -21,7 +21,7 @@
         "revenue guidance",
         "profit forecast"
       ],
-      "count": 174,
+      "count": 175,
       "kind": "topic"
     },
     {
@@ -39,7 +39,7 @@
       "search_terms": [
         "META"
       ],
-      "count": 137,
+      "count": 138,
       "kind": "ticker"
     },
     {
@@ -48,7 +48,7 @@
       "search_terms": [
         "TSLA"
       ],
-      "count": 129,
+      "count": 130,
       "kind": "ticker"
     },
     {
@@ -75,7 +75,7 @@
       "search_terms": [
         "NFLX"
       ],
-      "count": 86,
+      "count": 87,
       "kind": "ticker"
     },
     {
@@ -84,7 +84,7 @@
       "search_terms": [
         "AAPL"
       ],
-      "count": 85,
+      "count": 86,
       "kind": "ticker"
     },
     {
@@ -97,6 +97,15 @@
       "kind": "ticker"
     },
     {
+      "label": "AMD",
+      "query": "AMD",
+      "search_terms": [
+        "AMD"
+      ],
+      "count": 47,
+      "kind": "ticker"
+    },
+    {
       "label": "IBM",
       "query": "IBM",
       "search_terms": [
@@ -104,18 +113,9 @@
       ],
       "count": 47,
       "kind": "ticker"
-    },
-    {
-      "label": "AMD",
-      "query": "AMD",
-      "search_terms": [
-        "AMD"
-      ],
-      "count": 46,
-      "kind": "ticker"
     }
   ],
-  "updated_at": "2026-10-24T23:42:13.910130+00:00",
+  "updated_at": "2026-10-25T01:38:54.298937+00:00",
   "articles": [
     {
       "ticker": "AMD",
@@ -18251,6 +18251,110 @@
       "impact_direction": "neutral",
       "sentiment": "neutral",
       "fetched_at": "2026-10-24T23:42:13.272537+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Flying Cars, Smart Homes, and Cracks in the AI Boom",
+      "link": "https://www.fool.com/investing/2026/10/24/flying-cars-smart-homes-and-cracks-in-the-ai-boom/?.tsrc=rss",
+      "published": "Sat, 24 Oct 2026 23:50:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-25T01:38:51.811934+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Is Now a Good Time to Buy Lockheed Martin?",
+      "link": "https://www.fool.com/investing/2026/10/24/is-now-a-good-time-to-buy-lockheed-martin/?.tsrc=rss",
+      "published": "Sun, 25 Oct 2026 01:20:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-25T01:38:51.812007+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Is the AI Bubble About to Burst? Plus, Apple Bets on Doorbells.",
+      "link": "https://www.fool.com/investing/2026/10/24/is-the-ai-bubble-about-to-burst-plus-apple-bets-on-doorbells/?.tsrc=rss",
+      "published": "Sun, 25 Oct 2026 00:22:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-25T01:38:51.957200+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "Why You Should Buy Meta Stock Before It Touches $1,050",
+      "link": "https://www.barchart.com/story/news/8418338/why-you-should-buy-meta-stock-before-it-touches-1-050?.tsrc=rss",
+      "published": "Sat, 24 Oct 2026 18:30:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-25T01:38:52.511774+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Bank of America resets Tesla forecast as Robotaxi miles double",
+      "link": "https://www.thestreet.com/automotive/bank-of-america-keeps-buy-tesla-forecast-as-robotaxi-miles-double?.tsrc=rss",
+      "published": "Sun, 25 Oct 2026 01:03:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-25T01:38:52.655992+00:00"
+    },
+    {
+      "ticker": "AMD",
+      "title": "1 Red Flag That Keeps Me From Buying AMD Stock",
+      "link": "https://www.fool.com/investing/2026/10/24/1-red-flag-that-keeps-me-from-buying-amd-stock/?.tsrc=rss",
+      "published": "Sun, 25 Oct 2026 00:54:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-25T01:38:52.782916+00:00"
+    },
+    {
+      "ticker": "NFLX",
+      "title": "Netflix is losing ground to YouTube",
+      "link": "https://www.thestreet.com/investing/stocks/nflx-netflix-losing-ground-to-youtube-nielsen-streaming-share?.tsrc=rss",
+      "published": "Sun, 25 Oct 2026 00:03:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-25T01:38:53.306990+00:00"
+    },
+    {
+      "ticker": "QCOM",
+      "title": "How Investors May Respond To Qualcomm Stock Earnings Outlook Concerns",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/investors-may-respond-qualcomm-stock-011117867.html?.tsrc=rss",
+      "published": "Sun, 25 Oct 2026 01:11:17 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-25T01:38:53.574038+00:00"
     }
   ]
 }
