@@ -1,14 +1,14 @@
 {
   "date": "2026-10-26",
-  "score": 33,
-  "label": "Bearish",
+  "score": 73,
+  "label": "Bullish",
   "counts": {
-    "positive": 2,
-    "negative": 4,
-    "neutral": 9
+    "positive": 19,
+    "negative": 7,
+    "neutral": 42
   },
-  "total": 15,
-  "updated_at": "2026-10-26T08:23:08.109990+00:00",
+  "total": 68,
+  "updated_at": "2026-10-26T13:54:56.252200+00:00",
   "articles": [
     {
       "link": "https://www.trefis.com/stock/nvda/articles/620535/is-nvidia-stock-cheaper-now-that-its-multiple-has-fallen/2026-10-25?.tsrc=rss",
@@ -68,6 +68,218 @@
     },
     {
       "link": "https://stocktwits.com/news-articles/markets/equity/stocktwits-m-and-a-watch-crm-brze-tw-leu-stocks-in-focus/cZUdtlTRBye?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/article/the-10-biggest-stocks-are-faltering-and-its-dragging-the-sp-500-down-122521456.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.thestreet.com/investing/bull-case-for-nvidia-as-most-sp-500-stocks-slide?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/26/1-stock-split-stock-buy-nvidia-alphabet-3-trillion/?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.proactiveinvestors.com/companies/news/1100688/ocean-power-technologies-stratum-sign-loi-to-test-renewable-powered-offshore-data-center-1100688.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://247wallst.com/investing/etf/2026/10/26/smhs-price-has-soared-but-its-payout-is-still-below-2022-levels/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/10/26/apples-5-trillion-dilemma-3-reasons-earnings-could-spark-a-breakout-on-nov-2-or-a-meltdown/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/articles/apple-gives-ipad-mini-biggest-130300933.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/apple-inc-aapl-attracting-investor-120002651.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-apple-115500430.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/video/fed-rate-decision-google-microsoft-120000566.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/forget-alphabet-microsoft-amazon-smartest-133558125.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.wallstreethorizon.com/blog/Q3-Peak-Season-Arrives-Strong-Beats-Sky-High-AI-Scrutiny?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/narmi-launches-microsoft-365-copilot-130000636.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/semperis-deepens-microsoft-security-collaboration-130000530.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/article/anthropics-ipo-filing-reveals-430-billion-in-locked-in-ai-computing-chart-of-the-day-134457635.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/articles/t-mobile-shakes-wireless-again-130800131.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://stocktwits.com/news-articles/markets/equity/ubs-sees-40-upside-for-amzn-stock-aws-margins-take-center-stage-ahead-of-earnings/cZU3TYfRByY?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/gear-amazon-amzn-q3-earnings-121504650.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/alphabet-microsoft-amazon-meta-tesla-120600611.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/video/meta-is-raising-even-more-cash-to-fund-the-ai-build-out--as-much-as-95b-130042491.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/26/meta-stock-has-dropped-the-day-after-3-straight-earnings-reports-is-it-a-buy-now/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/e7e77dab-d858-395c-a304-711e8fee9ce3/meta-plans-to-raise-up-to-%2495.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/d7847db0-e9ef-3aa4-a4a6-f002895df0d3/stock-market-today%3A-dow-rises.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-upgraded-applovin-initiated-wall-135331262.html?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/yyforce-applauds-tesla-elon-musk-131500731.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/10/26/one-catalyst-could-completely-change-the-tesla-stock-story/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://stocktwits.com/news-articles/markets/equity/tsla-is-the-worst-performing-mag7-stock-this-year-but-leads-the-pack-in-october/cZU3bcVRByF?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-122100733.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://stocktwits.com/news-articles/markets/equity/meta-launches-35-b-stock-offering-plans-another-60-b-program-in-2027-nvidia-amd-broadcom-eye-up-to-5-b-investment/cZU3GQpRByl?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/articles/pc-parts-uk-launches-specialist-120000671.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-edge-higher-131128802.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/investors-heavily-search-broadcom-inc-120003125.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/10/26/the-ethernet-tollbooth-arista-rides-broadcom-silicon-to-break-nvidias-infiniband-monopoly/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/10/26/oracle-could-have-a-massive-ai-opportunity-heres-where-the-stock-could-go/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/10/26/microsoft-vs-oracle-massive-backlog-fortunes-with-vastly-different-risk-profiles/?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/oracle-introduces-ai-agent-ready-120800919.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/oracle-introduces-claw-powered-fusion-120700287.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/oracle-introduces-claw-powered-fusion-120600383.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/3-ai-stocks-own-october-111225864.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-netflix-nflx-international-revenue-121503441.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/netflix-inc-nflx-attracting-investor-120003656.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/unlocking-q3-potential-intel-intc-121503887.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/intel-intc-unveils-crescent-island-100902177.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://stocktwits.com/news-articles/markets/equity/stocktwits-tech-watch-more-big-earnings-apple-s-touch-screen-mac-book-and-intel-results-in-focus/cZUdHpARByQ?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/video/claude-duet-anthropics-24-7-110000708.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-incorporated-qcom-attracting-investor-120004518.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/brokers-suggest-investing-palantir-technologies-123002071.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.tikr.com/blog/palantir-stock-valuation-pltr-2026?ref=yahoofinance&.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/articles/palantir-fast-selling-170-windbreaker-071019945.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/investors-heavily-search-super-micro-120005799.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/cohesity-data-cloud-becomes-first-130000491.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/international-business-machines-corporation-ibm-120004722.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-tsm-stock-130727826.html?.tsrc=rss",
       "sentiment": "neutral"
     }
   ]
