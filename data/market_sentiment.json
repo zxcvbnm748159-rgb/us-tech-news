@@ -3,12 +3,12 @@
   "score": 73,
   "label": "Bullish",
   "counts": {
-    "positive": 63,
-    "negative": 23,
-    "neutral": 109
+    "positive": 65,
+    "negative": 24,
+    "neutral": 115
   },
-  "total": 195,
-  "updated_at": "2026-10-26T22:11:09.163482+00:00",
+  "total": 204,
+  "updated_at": "2026-10-26T23:20:25.467886+00:00",
   "articles": [
     {
       "link": "https://www.trefis.com/stock/nvda/articles/620535/is-nvidia-stock-cheaper-now-that-its-multiple-has-fallen/2026-10-25?.tsrc=rss",
@@ -789,6 +789,42 @@
     {
       "link": "https://www.fool.com/investing/2026/10/26/ibm-continues-to-plug-along-its-quantum-computing/?.tsrc=rss",
       "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/26/why-range-resources-stock-surged-today/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/coverage/charts/2026/10/26/intel-vs-nvidia-flat-trends-vs-rapid-expansion-in-revenue/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/26/anthropic-just-filed-to-go-public-should-you-buy-the-stock/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/10/26/the-all-in-podcast-flags-red-flags-in-anthropics-ipo-what-everyday-investors-should-know/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/26/will-alphabet-stock-surge-after-oct-28/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/dont-miss-weeks-5-most-214800268.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/1-small-cap-stock-target-205447287.html?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://stocktwits.com/news-articles/markets/equity/broadcom-partners-with-wall-street-bigwigs-to-forge-63-b-deal-to-power-anthropic-s-ai-hardware/cZU3ie1RBzJ?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/arm-holdings-arm-faces-jury-221537202.html?.tsrc=rss",
+      "sentiment": "positive"
     }
   ]
 }

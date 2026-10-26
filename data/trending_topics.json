@@ -1,7 +1,7 @@
 {
   "date": "2026-10-26",
   "window_days": 7,
-  "source_count": 1416,
+  "source_count": 1425,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 242,
+      "count": 245,
       "kind": "ticker"
     },
     {
@@ -21,7 +21,7 @@
         "revenue guidance",
         "profit forecast"
       ],
-      "count": 170,
+      "count": 171,
       "kind": "topic"
     },
     {
@@ -30,7 +30,7 @@
       "search_terms": [
         "GOOGL"
       ],
-      "count": 139,
+      "count": 141,
       "kind": "ticker"
     },
     {
@@ -39,7 +39,7 @@
       "search_terms": [
         "META"
       ],
-      "count": 139,
+      "count": 140,
       "kind": "ticker"
     },
     {
@@ -57,7 +57,7 @@
       "search_terms": [
         "MSFT"
       ],
-      "count": 101,
+      "count": 102,
       "kind": "ticker"
     },
     {
@@ -115,7 +115,7 @@
       "kind": "ticker"
     }
   ],
-  "updated_at": "2026-10-26T22:11:09.208700+00:00",
+  "updated_at": "2026-10-26T23:20:25.505304+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -18524,6 +18524,123 @@
       "impact_direction": "neutral",
       "sentiment": "neutral",
       "fetched_at": "2026-10-26T22:11:08.790266+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Why Range Resources Stock Surged Today",
+      "link": "https://www.fool.com/investing/2026/10/26/why-range-resources-stock-surged-today/?.tsrc=rss",
+      "published": "Mon, 26 Oct 2026 22:47:50 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-26T23:20:22.272117+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Intel vs. Nvidia: Flat Trends vs. Rapid Expansion in Revenue",
+      "link": "https://www.fool.com/coverage/charts/2026/10/26/intel-vs-nvidia-flat-trends-vs-rapid-expansion-in-revenue/?.tsrc=rss",
+      "published": "Mon, 26 Oct 2026 22:20:01 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-26T23:20:22.272169+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Anthropic Just Filed to Go Public. Should You Buy the Stock?",
+      "link": "https://www.fool.com/investing/2026/10/26/anthropic-just-filed-to-go-public-should-you-buy-the-stock/?.tsrc=rss",
+      "published": "Mon, 26 Oct 2026 22:55:01 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-26T23:20:22.272201+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "The All-In Podcast Flags Red Flags in Anthropic’s IPO. What Everyday Investors Should Know",
+      "link": "https://247wallst.com/investing/2026/10/26/the-all-in-podcast-flags-red-flags-in-anthropics-ipo-what-everyday-investors-should-know/?.tsrc=rss",
+      "published": "Mon, 26 Oct 2026 21:00:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-26T23:20:22.604021+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Will Alphabet Stock Surge After Oct. 28?",
+      "link": "https://www.fool.com/investing/2026/10/26/will-alphabet-stock-surge-after-oct-28/?.tsrc=rss",
+      "published": "Mon, 26 Oct 2026 22:25:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-26T23:20:22.799604+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Don't Miss This Week's 5 Most Important Earnings Charts",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/dont-miss-weeks-5-most-214800268.html?.tsrc=rss",
+      "published": "Mon, 26 Oct 2026 21:48:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-26T23:20:22.799707+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "1 small-cap stock to target this week and 2 we find risky",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/1-small-cap-stock-target-205447287.html?.tsrc=rss",
+      "published": "Mon, 26 Oct 2026 20:54:47 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-26T23:20:23.133093+00:00"
+    },
+    {
+      "ticker": "AVGO",
+      "title": "Broadcom Partners With Wall Street Bigwigs To Forge $63B Deal To Power Anthropic’s AI Hardware",
+      "link": "https://stocktwits.com/news-articles/markets/equity/broadcom-partners-with-wall-street-bigwigs-to-forge-63-b-deal-to-power-anthropic-s-ai-hardware/cZU3ie1RBzJ?.tsrc=rss",
+      "published": "Mon, 26 Oct 2026 22:50:16 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-26T23:20:23.725480+00:00"
+    },
+    {
+      "ticker": "QCOM",
+      "title": "Arm Holdings (ARM) Faces Jury Breach Ruling As It Unveils Server Security Tie Up",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/arm-holdings-arm-faces-jury-221537202.html?.tsrc=rss",
+      "published": "Mon, 26 Oct 2026 22:15:37 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-26T23:20:24.554848+00:00"
     }
   ]
 }
