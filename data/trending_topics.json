@@ -1,7 +1,7 @@
 {
   "date": "2026-10-25",
   "window_days": 7,
-  "source_count": 1412,
+  "source_count": 1418,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 239,
+      "count": 241,
       "kind": "ticker"
     },
     {
@@ -21,7 +21,7 @@
         "revenue guidance",
         "profit forecast"
       ],
-      "count": 173,
+      "count": 174,
       "kind": "topic"
     },
     {
@@ -30,7 +30,7 @@
       "search_terms": [
         "GOOGL"
       ],
-      "count": 141,
+      "count": 142,
       "kind": "ticker"
     },
     {
@@ -48,7 +48,7 @@
       "search_terms": [
         "TSLA"
       ],
-      "count": 129,
+      "count": 132,
       "kind": "ticker"
     },
     {
@@ -115,7 +115,7 @@
       "kind": "ticker"
     }
   ],
-  "updated_at": "2026-10-26T01:41:51.844237+00:00",
+  "updated_at": "2026-10-26T02:44:02.164907+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -18472,6 +18472,84 @@
       "impact_direction": "neutral",
       "sentiment": "positive",
       "fetched_at": "2026-10-26T01:41:51.362676+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Netflix Just Posted a Record Margin. So Why Is Wall Street Panicking?",
+      "link": "https://www.fool.com/investing/2026/10/25/netflix-just-posted-a-record-margin-so-why-is-wall/?.tsrc=rss",
+      "published": "Mon, 26 Oct 2026 02:20:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-26T02:43:58.734759+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "3 Undervalued Stocks Trading Up To 46% Below Fair Value",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-undervalued-stocks-trading-46-020906330.html?.tsrc=rss",
+      "published": "Mon, 26 Oct 2026 02:09:06 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-26T02:43:58.734856+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Stocks sink as traders brace for tech earnings, central bank decisions",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-sink-traders-brace-tech-022128987.html?.tsrc=rss",
+      "published": "Mon, 26 Oct 2026 02:21:28 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-26T02:43:59.300512+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "SPCX, SMCI, NOK, TSLA, NFLX: Why Retail Traders Couldn’t Take Their Eyes Off These Stocks Last Week",
+      "link": "https://stocktwits.com/news-articles/markets/equity/spcx-smci-nok-tsla-nflx-why-retail-traders-couldn-t-take-their-eyes-off-these-stocks-last-week/cZUdmy9RBUu?.tsrc=rss",
+      "published": "Mon, 26 Oct 2026 02:02:17 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-26T02:43:59.836720+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Elon Musk Met Xi Jinping and Took Tesla FSD to China — Now His CFO Says Getting the Green Light for Unsupervised Driving Is ‘Hard’",
+      "link": "https://finance.yahoo.com/technology/ai/articles/elon-musk-met-xi-jinping-013004695.html?.tsrc=rss",
+      "published": "Mon, 26 Oct 2026 01:30:04 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-26T02:43:59.836787+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Tesla Is Betting on a Flying Car to Combat Its Stock Slump",
+      "link": "https://www.barchart.com/story/news/8445744/tesla-is-betting-on-a-flying-car-to-combat-its-stock-slump?.tsrc=rss",
+      "published": "Sun, 25 Oct 2026 20:21:14 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-26T02:43:59.836855+00:00"
     }
   ]
 }

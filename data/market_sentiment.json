@@ -1,14 +1,14 @@
 {
   "date": "2026-10-25",
-  "score": 76,
+  "score": 73,
   "label": "Bullish",
   "counts": {
-    "positive": 34,
-    "negative": 11,
-    "neutral": 55
+    "positive": 35,
+    "negative": 13,
+    "neutral": 58
   },
-  "total": 100,
-  "updated_at": "2026-10-26T01:41:51.799754+00:00",
+  "total": 106,
+  "updated_at": "2026-10-26T02:44:02.121132+00:00",
   "articles": [
     {
       "link": "https://www.fool.com/investing/2026/10/25/got-1000-this-nuclear-fuel-stock-is-the-pick-and-s/?.tsrc=rss",
@@ -409,6 +409,30 @@
     {
       "link": "https://www.barchart.com/story/news/8445610/wedbush-gives-a-thumbs-up-to-super-micros-preliminary-q1-results-troubles-for-smci-stock-could-finally-be-in-the-rear-view?.tsrc=rss",
       "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/25/netflix-just-posted-a-record-margin-so-why-is-wall/?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-undervalued-stocks-trading-46-020906330.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-sink-traders-brace-tech-022128987.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://stocktwits.com/news-articles/markets/equity/spcx-smci-nok-tsla-nflx-why-retail-traders-couldn-t-take-their-eyes-off-these-stocks-last-week/cZUdmy9RBUu?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/elon-musk-met-xi-jinping-013004695.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.barchart.com/story/news/8445744/tesla-is-betting-on-a-flying-car-to-combat-its-stock-slump?.tsrc=rss",
+      "sentiment": "negative"
     }
   ]
 }
