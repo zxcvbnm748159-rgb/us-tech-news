@@ -1,7 +1,7 @@
 {
   "date": "2026-10-26",
   "window_days": 7,
-  "source_count": 1223,
+  "source_count": 1236,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 217,
+      "count": 222,
       "kind": "ticker"
     },
     {
@@ -30,16 +30,7 @@
       "search_terms": [
         "GOOGL"
       ],
-      "count": 125,
-      "kind": "ticker"
-    },
-    {
-      "label": "META",
-      "query": "META",
-      "search_terms": [
-        "META"
-      ],
-      "count": 122,
+      "count": 127,
       "kind": "ticker"
     },
     {
@@ -47,6 +38,15 @@
       "query": "TSLA",
       "search_terms": [
         "TSLA"
+      ],
+      "count": 123,
+      "kind": "ticker"
+    },
+    {
+      "label": "META",
+      "query": "META",
+      "search_terms": [
+        "META"
       ],
       "count": 122,
       "kind": "ticker"
@@ -84,7 +84,7 @@
       "search_terms": [
         "AAPL"
       ],
-      "count": 71,
+      "count": 73,
       "kind": "ticker"
     },
     {
@@ -93,7 +93,7 @@
       "search_terms": [
         "ORCL"
       ],
-      "count": 44,
+      "count": 45,
       "kind": "ticker"
     },
     {
@@ -111,11 +111,11 @@
       "search_terms": [
         "CRM"
       ],
-      "count": 37,
+      "count": 38,
       "kind": "ticker"
     }
   ],
-  "updated_at": "2026-10-26T06:58:29.461410+00:00",
+  "updated_at": "2026-10-26T08:23:08.177722+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -16015,6 +16015,175 @@
       "impact_direction": "neutral",
       "sentiment": "neutral",
       "fetched_at": "2026-10-26T06:58:28.676841+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Cameco Stock Is Down 42% From Its Record. Here's How I'd Buy It Around Its Oct. 30 Report.",
+      "link": "https://www.fool.com/investing/2026/10/26/cameco-stock-is-down-42-from-its-record-here-s-how-i-d-buy-it-around-its-oct-30-report/?.tsrc=rss",
+      "published": "Mon, 26 Oct 2026 08:07:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-26T08:23:05.082767+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Honeywell Technologies Launches Forge Plant Cognition with Dangote, Built with NVIDIA AI and Dell Technologies Capabilities",
+      "link": "https://finance.yahoo.com/technology/ai/articles/honeywell-technologies-launches-forge-plant-080000518.html?.tsrc=rss",
+      "published": "Mon, 26 Oct 2026 08:00:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-26T08:23:05.082833+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "SWI Compute Emerges from Stealth to Turn Gigawatts of Power Into NVIDIA AI Factories, Starting in Europe",
+      "link": "https://finance.yahoo.com/technology/ai/articles/swi-compute-emerges-stealth-turn-074500943.html?.tsrc=rss",
+      "published": "Mon, 26 Oct 2026 07:45:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-26T08:23:05.082924+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Elon Musk and SpaceX Just Delivered Incredible News to Nvidia That Could Help the Stock Double in the Next Year",
+      "link": "https://www.fool.com/investing/2026/10/26/elon-musk-and-spacex-just-delivered-incredible-new/?.tsrc=rss",
+      "published": "Mon, 26 Oct 2026 07:35:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-26T08:23:05.082999+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "NVDA Stock Ticks Higher Overnight: a16z Data Shows GPU Rental Prices Rising Sharply, Even For Older Chips",
+      "link": "https://stocktwits.com/news-articles/markets/equity/nvda-stock-ticks-higher-overnight-a16z-data-shows-gpu-rental-prices-rising-sharply-even-for-older-chips/cZUdsyzRBy4?.tsrc=rss",
+      "published": "Mon, 26 Oct 2026 07:02:31 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-26T08:23:05.083043+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Should You Pick Apple Stock Over Its Competitors?",
+      "link": "https://www.trefis.com/stock/aapl/articles/620470/should-you-pick-apple-stock-over-its-competitors/2026-10-26?.tsrc=rss",
+      "published": "Mon, 26 Oct 2026 07:11:52 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-26T08:23:05.267290+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Apple Briefly Topped Nvidia as Nvidia’s Slide Reached 12%. Here’s Where Apple Stock Could Go by 2030",
+      "link": "https://www.tikr.com/blog/apple-briefly-topped-nvidia-as-nvidias-slide-reached-12-heres-where-apple-stock-could-go-by-2030?ref=yahoofinance&.tsrc=rss",
+      "published": "Mon, 26 Oct 2026 01:04:48 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-26T08:23:05.267429+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Are You Overpaying For IBM Stock Versus Its Rivals?",
+      "link": "https://www.trefis.com/stock/ibm/articles/620466/are-you-overpaying-for-ibm-stock-versus-its-rivals/2026-10-26?.tsrc=rss",
+      "published": "Mon, 26 Oct 2026 07:11:49 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-26T08:23:05.644252+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "3 AI Infrastructure Stocks Linked To Data Center Power Demand",
+      "link": "https://finance.yahoo.com/technology/ai/articles/3-ai-infrastructure-stocks-linked-070729460.html?.tsrc=rss",
+      "published": "Mon, 26 Oct 2026 07:07:29 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-26T08:23:05.644330+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "An EV Business Revival and Potential SpaceX Merger: Is Tesla Stock a Buy?",
+      "link": "https://www.fool.com/investing/2026/10/26/an-ev-business-revival-and-potential-spacex-merger/?.tsrc=rss",
+      "published": "Mon, 26 Oct 2026 07:59:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-26T08:23:06.119161+00:00"
+    },
+    {
+      "ticker": "ORCL",
+      "title": "Oracle Heads Into Investor Day as Goldman Cuts Its Target to $206. Here’s Where the Stock Could Go by 2031",
+      "link": "https://www.tikr.com/blog/oracle-heads-into-investor-day-as-goldman-cuts-its-target-to-206-heres-where-the-stock-could-go-by-2031?ref=yahoofinance&.tsrc=rss",
+      "published": "Mon, 26 Oct 2026 01:24:17 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-26T08:23:06.679366+00:00"
+    },
+    {
+      "ticker": "CRM",
+      "title": "Stocktwits M&A Watch: CRM, BRZE, TW, LEU Stocks In Focus",
+      "link": "https://stocktwits.com/news-articles/markets/equity/stocktwits-m-and-a-watch-crm-brze-tw-leu-stocks-in-focus/cZUdtlTRBye?.tsrc=rss",
+      "published": "Mon, 26 Oct 2026 07:25:31 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-26T08:23:06.844391+00:00"
+    },
+    {
+      "ticker": "QCOM",
+      "title": "Qualcomm Is 32% Below Its 52-Week High as It Plans Worldwide Job Cuts. Here’s What Its Rising Costs Need to Show on November 4",
+      "link": "https://www.tikr.com/blog/qualcomm-is-32-below-its-52-week-high-as-it-plans-worldwide-job-cuts-heres-what-its-rising-costs-need-to-show-on-november-4?ref=yahoofinance&.tsrc=rss",
+      "published": "Mon, 26 Oct 2026 01:01:48 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-26T08:23:07.341871+00:00"
     }
   ]
 }

@@ -1,14 +1,14 @@
 {
   "date": "2026-10-26",
-  "score": 20,
+  "score": 33,
   "label": "Bearish",
   "counts": {
-    "positive": 1,
+    "positive": 2,
     "negative": 4,
-    "neutral": 0
+    "neutral": 9
   },
-  "total": 5,
-  "updated_at": "2026-10-26T06:58:29.419254+00:00",
+  "total": 15,
+  "updated_at": "2026-10-26T08:23:08.109990+00:00",
   "articles": [
     {
       "link": "https://www.trefis.com/stock/nvda/articles/620535/is-nvidia-stock-cheaper-now-that-its-multiple-has-fallen/2026-10-25?.tsrc=rss",
@@ -29,6 +29,46 @@
     {
       "link": "https://stocktwits.com/news-articles/markets/equity/tsla-stock-cybercabs-austin-f1-roadster-details-analyst-downside/cZUdAawRBy5?.tsrc=rss",
       "sentiment": "negative"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/26/cameco-stock-is-down-42-from-its-record-here-s-how-i-d-buy-it-around-its-oct-30-report/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/honeywell-technologies-launches-forge-plant-080000518.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/swi-compute-emerges-stealth-turn-074500943.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/26/elon-musk-and-spacex-just-delivered-incredible-new/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://stocktwits.com/news-articles/markets/equity/nvda-stock-ticks-higher-overnight-a16z-data-shows-gpu-rental-prices-rising-sharply-even-for-older-chips/cZUdsyzRBy4?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.trefis.com/stock/aapl/articles/620470/should-you-pick-apple-stock-over-its-competitors/2026-10-26?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.trefis.com/stock/ibm/articles/620466/are-you-overpaying-for-ibm-stock-versus-its-rivals/2026-10-26?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/3-ai-infrastructure-stocks-linked-070729460.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/26/an-ev-business-revival-and-potential-spacex-merger/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://stocktwits.com/news-articles/markets/equity/stocktwits-m-and-a-watch-crm-brze-tw-leu-stocks-in-focus/cZUdtlTRBye?.tsrc=rss",
+      "sentiment": "neutral"
     }
   ]
 }
