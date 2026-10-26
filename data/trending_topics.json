@@ -1,7 +1,7 @@
 {
   "date": "2026-10-25",
   "window_days": 7,
-  "source_count": 1400,
+  "source_count": 1412,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 236,
+      "count": 239,
       "kind": "ticker"
     },
     {
@@ -21,7 +21,7 @@
         "revenue guidance",
         "profit forecast"
       ],
-      "count": 170,
+      "count": 173,
       "kind": "topic"
     },
     {
@@ -30,7 +30,7 @@
       "search_terms": [
         "GOOGL"
       ],
-      "count": 139,
+      "count": 141,
       "kind": "ticker"
     },
     {
@@ -39,7 +39,7 @@
       "search_terms": [
         "META"
       ],
-      "count": 134,
+      "count": 136,
       "kind": "ticker"
     },
     {
@@ -52,6 +52,15 @@
       "kind": "ticker"
     },
     {
+      "label": "MSFT",
+      "query": "MSFT",
+      "search_terms": [
+        "MSFT"
+      ],
+      "count": 96,
+      "kind": "ticker"
+    },
+    {
       "label": "AMZN",
       "query": "AMZN",
       "search_terms": [
@@ -61,12 +70,12 @@
       "kind": "ticker"
     },
     {
-      "label": "MSFT",
-      "query": "MSFT",
+      "label": "AAPL",
+      "query": "AAPL",
       "search_terms": [
-        "MSFT"
+        "AAPL"
       ],
-      "count": 93,
+      "count": 84,
       "kind": "ticker"
     },
     {
@@ -76,15 +85,6 @@
         "NFLX"
       ],
       "count": 84,
-      "kind": "ticker"
-    },
-    {
-      "label": "AAPL",
-      "query": "AAPL",
-      "search_terms": [
-        "AAPL"
-      ],
-      "count": 83,
       "kind": "ticker"
     },
     {
@@ -115,7 +115,7 @@
       "kind": "ticker"
     }
   ],
-  "updated_at": "2026-10-25T23:33:54.426485+00:00",
+  "updated_at": "2026-10-26T01:41:51.844237+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -18316,6 +18316,162 @@
       "impact_direction": "neutral",
       "sentiment": "positive",
       "fetched_at": "2026-10-25T23:33:51.656202+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Nvidia (NVDA) Stock Still Looks Reasonable Following Its 7x Five Year Run",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-stock-still-looks-010644376.html?.tsrc=rss",
+      "published": "Mon, 26 Oct 2026 01:06:44 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-26T01:41:49.143829+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "AI Stocks Surge, Then Plunge: Which of 4 Sectors Is Worth Buying?",
+      "link": "https://247wallst.com/investing/2026/10/25/ai-stocks-surge-then-plunge-which-of-4-sectors-is-worth-buying/?.tsrc=rss",
+      "published": "Mon, 26 Oct 2026 00:42:45 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-26T01:41:49.143929+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Wall Street Thinks Archer Aviation Is a Buy. Here's Why I Don't.",
+      "link": "https://www.fool.com/investing/2026/10/25/wall-street-thinks-archer-aviation-is-a-buy-heres/?.tsrc=rss",
+      "published": "Mon, 26 Oct 2026 00:50:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-26T01:41:49.143969+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Apple seeks more iPhone Duo supplies amid strong demand for debut foldable- report",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/apple-seeks-more-iphone-duo-001005225.html?.tsrc=rss",
+      "published": "Mon, 26 Oct 2026 00:10:05 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-26T01:41:49.317943+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "3 Big Tech Earnings Reports to Watch as AI Bills Keep Growing",
+      "link": "https://beincrypto.com/top-3-big-tech-earnings-reports-october-final-week/?.tsrc=rss",
+      "published": "Mon, 26 Oct 2026 01:09:54 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-26T01:41:49.458955+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Microsoft, Alphabet, and Amazon Make Up About 15% of the S&P 500. All 3 Report Earnings Within 2 Days.",
+      "link": "https://www.fool.com/investing/2026/10/25/microsoft-alphabet-and-amazon-make-up-about-15-of-the-s-and-p-500-all-3-report-earnings-within-2-days/?.tsrc=rss",
+      "published": "Mon, 26 Oct 2026 00:27:01 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-26T01:41:49.459065+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Satya Nadella Says Microsoft Is Rebuilding Around AI Agents as Trump Pushes ‘Super Intelligence’ — From 11,000 Models to Agents That Work on Your Behalf",
+      "link": "https://finance.yahoo.com/technology/ai/articles/satya-nadella-says-microsoft-rebuilding-233005385.html?.tsrc=rss",
+      "published": "Sun, 25 Oct 2026 23:30:05 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-26T01:41:49.459134+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "U.S. stock futures edge higher after bruising tech losses; Fed, earnings on tap",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/u-stock-futures-edge-higher-011151135.html?.tsrc=rss",
+      "published": "Mon, 26 Oct 2026 01:11:51 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-26T01:41:49.611935+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Samsung’s Galaxy Fit 4 could undercut Fitbit by $120",
+      "link": "https://www.thestreet.com/investing/samsungs-next-fitbit-rival-could-have-a-120-advantage?.tsrc=rss",
+      "published": "Mon, 26 Oct 2026 01:03:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-26T01:41:49.612025+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "Meta wants users to pay $249 to put AI on their face",
+      "link": "https://www.thestreet.com/investing/meta-wants-users-to-pay-249-to-put-ai-on-their-face?.tsrc=rss",
+      "published": "Mon, 26 Oct 2026 01:37:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-26T01:41:49.905603+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "Meta Has a New ‘North Star’ — Mark Zuckerberg Explains Why He’s Betting Big on Personal Superintelligence, AI Models and Smart Glasses",
+      "link": "https://finance.yahoo.com/technology/ai/articles/meta-north-star-mark-zuckerberg-003009701.html?.tsrc=rss",
+      "published": "Mon, 26 Oct 2026 00:30:09 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-26T01:41:49.905709+00:00"
+    },
+    {
+      "ticker": "SMCI",
+      "title": "Wedbush Gives a Thumbs Up to Super Micro’s Preliminary Q1 Results. Troubles for SMCI Stock Could Finally Be in the Rear-View.",
+      "link": "https://www.barchart.com/story/news/8445610/wedbush-gives-a-thumbs-up-to-super-micros-preliminary-q1-results-troubles-for-smci-stock-could-finally-be-in-the-rear-view?.tsrc=rss",
+      "published": "Sun, 25 Oct 2026 19:30:03 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-26T01:41:51.362676+00:00"
     }
   ]
 }

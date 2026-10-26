@@ -1,14 +1,14 @@
 {
   "date": "2026-10-25",
-  "score": 74,
+  "score": 76,
   "label": "Bullish",
   "counts": {
-    "positive": 29,
-    "negative": 10,
-    "neutral": 49
+    "positive": 34,
+    "negative": 11,
+    "neutral": 55
   },
-  "total": 88,
-  "updated_at": "2026-10-25T23:33:54.382574+00:00",
+  "total": 100,
+  "updated_at": "2026-10-26T01:41:51.799754+00:00",
   "articles": [
     {
       "link": "https://www.fool.com/investing/2026/10/25/got-1000-this-nuclear-fuel-stock-is-the-pick-and-s/?.tsrc=rss",
@@ -360,6 +360,54 @@
     },
     {
       "link": "https://www.fool.com/investing/2026/10/25/prediction-2-stocks-that-will-be-worth-more-than-a/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-stock-still-looks-010644376.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/10/25/ai-stocks-surge-then-plunge-which-of-4-sectors-is-worth-buying/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/25/wall-street-thinks-archer-aviation-is-a-buy-heres/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/apple-seeks-more-iphone-duo-001005225.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://beincrypto.com/top-3-big-tech-earnings-reports-october-final-week/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/25/microsoft-alphabet-and-amazon-make-up-about-15-of-the-s-and-p-500-all-3-report-earnings-within-2-days/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/satya-nadella-says-microsoft-rebuilding-233005385.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/u-stock-futures-edge-higher-011151135.html?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.thestreet.com/investing/samsungs-next-fitbit-rival-could-have-a-120-advantage?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.thestreet.com/investing/meta-wants-users-to-pay-249-to-put-ai-on-their-face?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/meta-north-star-mark-zuckerberg-003009701.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.barchart.com/story/news/8445610/wedbush-gives-a-thumbs-up-to-super-micros-preliminary-q1-results-troubles-for-smci-stock-could-finally-be-in-the-rear-view?.tsrc=rss",
       "sentiment": "positive"
     }
   ]
