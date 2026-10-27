@@ -1,7 +1,7 @@
 {
   "date": "2026-10-27",
   "window_days": 7,
-  "source_count": 1364,
+  "source_count": 1395,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 238,
+      "count": 243,
       "kind": "ticker"
     },
     {
@@ -21,17 +21,8 @@
         "revenue guidance",
         "profit forecast"
       ],
-      "count": 155,
+      "count": 161,
       "kind": "topic"
-    },
-    {
-      "label": "TSLA",
-      "query": "TSLA",
-      "search_terms": [
-        "TSLA"
-      ],
-      "count": 141,
-      "kind": "ticker"
     },
     {
       "label": "GOOGL",
@@ -39,7 +30,16 @@
       "search_terms": [
         "GOOGL"
       ],
-      "count": 137,
+      "count": 142,
+      "kind": "ticker"
+    },
+    {
+      "label": "TSLA",
+      "query": "TSLA",
+      "search_terms": [
+        "TSLA"
+      ],
+      "count": 142,
       "kind": "ticker"
     },
     {
@@ -48,7 +48,7 @@
       "search_terms": [
         "META"
       ],
-      "count": 131,
+      "count": 134,
       "kind": "ticker"
     },
     {
@@ -57,7 +57,7 @@
       "search_terms": [
         "MSFT"
       ],
-      "count": 102,
+      "count": 105,
       "kind": "ticker"
     },
     {
@@ -66,7 +66,7 @@
       "search_terms": [
         "AMZN"
       ],
-      "count": 79,
+      "count": 80,
       "kind": "ticker"
     },
     {
@@ -75,7 +75,7 @@
       "search_terms": [
         "AAPL"
       ],
-      "count": 77,
+      "count": 79,
       "kind": "ticker"
     },
     {
@@ -93,7 +93,7 @@
       "search_terms": [
         "ORCL"
       ],
-      "count": 50,
+      "count": 52,
       "kind": "ticker"
     },
     {
@@ -102,7 +102,7 @@
       "search_terms": [
         "INTC"
       ],
-      "count": 46,
+      "count": 47,
       "kind": "ticker"
     },
     {
@@ -111,11 +111,11 @@
       "search_terms": [
         "AVGO"
       ],
-      "count": 43,
+      "count": 46,
       "kind": "ticker"
     }
   ],
-  "updated_at": "2026-10-27T17:14:13.213501+00:00",
+  "updated_at": "2026-10-27T19:04:58.751506+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -17848,6 +17848,409 @@
       "impact_direction": "neutral",
       "sentiment": "positive",
       "fetched_at": "2026-10-27T17:14:13.170229+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "3 Magnificent Stocks Trading Near Their 52-Week Lows",
+      "link": "https://www.fool.com/investing/2026/10/27/3-magnificent-stocks-trading-near-their-52-week-lows/?.tsrc=rss",
+      "published": "Tue, 27 Oct 2026 18:25:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-27T19:04:55.451961+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Nvidia Just Announced Plans to Pour Billions Into Meta's Muse",
+      "link": "https://www.fool.com/investing/2026/10/27/nvidia-just-announced-plans-to-pour-billions-into-metas-muse/?.tsrc=rss",
+      "published": "Tue, 27 Oct 2026 18:08:10 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-27T19:04:55.452003+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "NTT DATA Expands AI Factory Footprint Globally to Help Clients Scale AI from Pilots to Production",
+      "link": "https://finance.yahoo.com/technology/ai/articles/ntt-data-expands-ai-factory-130000875.html?.tsrc=rss",
+      "published": "Tue, 27 Oct 2026 18:04:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-27T19:04:55.452067+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Norwood Financial Corp. Q3 2026 Earnings Call Summary",
+      "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-norwood-financial-corp-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+      "published": "Tue, 27 Oct 2026 18:01:17 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-27T19:04:55.452088+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "United Parcel Service, Inc. Q3 2026 Earnings Call Summary",
+      "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-united-parcel-service-inc-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+      "published": "Tue, 27 Oct 2026 17:58:40 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-27T19:04:55.452111+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Why GM is still an automaker despite its move to the Nasdaq",
+      "link": "https://finance.yahoo.com/video/why-gm-is-still-an-automaker-despite-its-move-to-the-nasdaq-175411900.html?.tsrc=rss",
+      "published": "Tue, 27 Oct 2026 17:54:11 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-27T19:04:55.663900+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Can Apple charge $38.99 for new Siri AI?",
+      "link": "https://finance.yahoo.com/video/can-apple-charge-3899-for-new-siri-ai-173242587.html?.tsrc=rss",
+      "published": "Tue, 27 Oct 2026 17:32:42 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-27T19:04:55.663932+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Microsoft Has Offered Buyouts to Tens of Thousands. An Expert Says the Company Is Falling Behind in the AI Race.",
+      "link": "https://www.ibtimes.com/microsoft-has-offered-buyouts-tens-thousands-expert-says-company-falling-behind-ai-race-3809040?.tsrc=rss",
+      "published": "Tue, 27 Oct 2026 18:11:19 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-27T19:04:55.883823+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "AI Presentation Maker With Native PPTX Export: Presentations.AI Generates Editable PowerPoint Decks From PDFs, Word Documents, Spreadsheets and Website URLs, With Brand Sync, a Flat-Rate Team Plan and a Beta API for Developers and AI Agents",
+      "link": "https://finance.yahoo.com/technology/ai/articles/ai-presentation-maker-native-pptx-181000376.html?.tsrc=rss",
+      "published": "Tue, 27 Oct 2026 18:10:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-27T19:04:55.883884+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Microsoft’s Dividend Yield Looks Small. The Check It Writes Every Year Doesn’t.",
+      "link": "https://247wallst.com/investing/2026/10/27/microsofts-dividend-yield-looks-small-the-check-it-writes-every-year-doesnt/?.tsrc=rss",
+      "published": "Tue, 27 Oct 2026 17:17:50 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-27T19:04:55.883913+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Should You Buy, Sell, or Hold Reddit Stock Before Q3 Earnings Release?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/buy-sell-hold-reddit-stock-172000555.html?.tsrc=rss",
+      "published": "Tue, 27 Oct 2026 17:20:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-27T19:04:56.076533+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Oracle Expands Cloud Infrastructure Arsenal With Google, OpenAI, And Cerebras Partnerships",
+      "link": "https://stocktwits.com/news-articles/markets/equity/oracle-expands-cloud-infrastructure-arsenal-with-google-open-ai-and-cerebras-partnerships/cZUe19jRBCw?.tsrc=rss",
+      "published": "Tue, 27 Oct 2026 19:01:10 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-27T19:04:56.076578+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Crusoe CEO defends CoreWeave amid selloff",
+      "link": "https://finance.yahoo.com/technology/ai/articles/crusoe-ceo-defends-coreweave-amid-185254030.html?.tsrc=rss",
+      "published": "Tue, 27 Oct 2026 18:52:54 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-27T19:04:56.076597+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Intel, Oracle, IBM Join Objections to OKX-ICE Tokenized Stock Venue, Bringing Total to 26",
+      "link": "https://decrypt.co/381998/intel-oracle-ibm-join-objections-okx-ice-tokenized-stock-total-26?.tsrc=rss",
+      "published": "Tue, 27 Oct 2026 18:46:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-27T19:04:56.076647+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Stock Market Today: Dow Steady While These Oil Plays Dive; Broadcom Pops After Anthropic Report (Live Coverage)",
+      "link": "https://finance.yahoo.com/m/6294d29d-51d6-3bfe-87d4-877203694b78/stock-market-today%3A-dow.html?.tsrc=rss",
+      "published": "Tue, 27 Oct 2026 18:35:18 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-27T19:04:56.076695+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Is Amazon.com (AMZN) Undervalued As Investors Eye Q3 2026 Earnings?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/amazon-com-amzn-undervalued-investors-180936160.html?.tsrc=rss",
+      "published": "Tue, 27 Oct 2026 18:09:36 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-27T19:04:56.231013+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "Amid the Anthropic IPO excitement, don't forget about earnings season",
+      "link": "https://finance.yahoo.com/markets/article/amid-the-anthropic-ipo-excitement-dont-forget-about-earnings-season-181333611.html?.tsrc=rss",
+      "published": "Tue, 27 Oct 2026 18:13:33 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-27T19:04:56.393045+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "Instagram quietly makes major change for Apple TV users",
+      "link": "https://www.thestreet.com/entertainment/instagram-quietly-makes-major-change-for-apple-tv-users?.tsrc=rss",
+      "published": "Tue, 27 Oct 2026 18:47:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-27T19:04:56.393075+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "Meta equity raise signals continued support for AI spending: analysts",
+      "link": "https://www.proactiveinvestors.com/companies/news/1100790/meta-equity-raise-signals-continued-support-for-ai-spending-analysts-1100790.html?.tsrc=rss",
+      "published": "Tue, 27 Oct 2026 18:32:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-27T19:04:56.393116+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "3 Types of Investors Who Should Avoid SpaceX and Tesla Stocks as the Companies Explore a Potential Merger",
+      "link": "https://www.fool.com/investing/2026/10/27/3-types-of-investors-who-should-avoid-spacex-and-t/?.tsrc=rss",
+      "published": "Tue, 27 Oct 2026 18:50:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-27T19:04:56.554160+00:00"
+    },
+    {
+      "ticker": "AMD",
+      "title": "Rosenblatt names top semiconductor picks amid data-center strength",
+      "link": "https://finance.yahoo.com/technology/articles/rosenblatt-names-top-semiconductor-picks-184254049.html?.tsrc=rss",
+      "published": "Tue, 27 Oct 2026 18:42:54 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-27T19:04:56.741316+00:00"
+    },
+    {
+      "ticker": "AVGO",
+      "title": "Two Chip Stocks Upgraded To Buy On AI Data-Center Business",
+      "link": "https://finance.yahoo.com/m/604efab0-c8da-3ca6-b8db-331d920d4083/two-chip-stocks-upgraded-to.html?.tsrc=rss",
+      "published": "Tue, 27 Oct 2026 17:57:26 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-27T19:04:56.910450+00:00"
+    },
+    {
+      "ticker": "AVGO",
+      "title": "Sector Update: Tech Stocks Gain Tuesday Afternoon",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-gain-tuesday-175540101.html?.tsrc=rss",
+      "published": "Tue, 27 Oct 2026 17:55:40 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-27T19:04:56.910502+00:00"
+    },
+    {
+      "ticker": "AVGO",
+      "title": "Why Broadcom Is the Big Anthropic IPO Winner. The Stock Jumps on Buy Upgrade.",
+      "link": "https://finance.yahoo.com/m/f25dc6b2-15d6-3900-9bc6-2c0552c97b56/why-broadcom-is-the-big.html?.tsrc=rss",
+      "published": "Tue, 27 Oct 2026 17:50:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-27T19:04:56.910556+00:00"
+    },
+    {
+      "ticker": "ORCL",
+      "title": "Oracle Stock Climbs On OpenAI, Google Partnership Expansions. Here's The Next Test.",
+      "link": "https://finance.yahoo.com/m/50c0990f-b090-34b4-9ad7-c05902c7977f/oracle-stock-climbs-on.html?.tsrc=rss",
+      "published": "Tue, 27 Oct 2026 18:01:42 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-27T19:04:57.171035+00:00"
+    },
+    {
+      "ticker": "ORCL",
+      "title": "SNOW Rides on Strong Enterprise AI Push: Can It Outpace AVGO and ORCL?",
+      "link": "https://finance.yahoo.com/technology/ai/articles/snow-rides-strong-enterprise-ai-172500509.html?.tsrc=rss",
+      "published": "Tue, 27 Oct 2026 17:25:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-27T19:04:57.171096+00:00"
+    },
+    {
+      "ticker": "INTC",
+      "title": "Intel faces test of recovery as Wedbush looks beyond Q3 results",
+      "link": "https://www.proactiveinvestors.com/companies/news/1100784/intel-faces-test-of-recovery-as-wedbush-looks-beyond-q3-results-1100784.html?.tsrc=rss",
+      "published": "Tue, 27 Oct 2026 17:34:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-27T19:04:57.663517+00:00"
+    },
+    {
+      "ticker": "QCOM",
+      "title": "Qualcomm’s Layoff Notices Start in November. A 2026 Bonus Paid in January Shouldn’t Count Against His $25,560 Social Security Earnings Limit",
+      "link": "https://247wallst.com/personal-finance/social-security/2026/10/27/qualcomms-layoff-notices-start-in-november-a-2026-bonus-paid-in-january-shouldnt-count-against-his-25560-social-security-earnings-limit/?.tsrc=rss",
+      "published": "Tue, 27 Oct 2026 18:00:43 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-27T19:04:57.811711+00:00"
+    },
+    {
+      "ticker": "SMCI",
+      "title": "Vertiv Expands AI Data Center Footprint: Can It Beat APH and SMCI?",
+      "link": "https://finance.yahoo.com/technology/ai/articles/vertiv-expands-ai-data-center-172300791.html?.tsrc=rss",
+      "published": "Tue, 27 Oct 2026 17:23:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-27T19:04:58.211860+00:00"
+    },
+    {
+      "ticker": "SMCI",
+      "title": "SMCI-Backed Argentum AI In Talks To Secure $5B To Finance Chip Buying: Report",
+      "link": "https://stocktwits.com/news-articles/markets/equity/smci-backed-argentum-ai-in-talks-to-secure-5-b-to-finance-chip-buying-report/cZUehBNRBCF?.tsrc=rss",
+      "published": "Tue, 27 Oct 2026 17:08:33 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-27T19:04:58.211922+00:00"
+    },
+    {
+      "ticker": "IBM",
+      "title": "Cisco Is Up 47%, IBM Is Down 13%. Which Dividend Stock Is Better for Retirement?",
+      "link": "https://247wallst.com/investing/2026/10/27/cisco-is-up-47-ibm-is-down-13-which-dividend-stock-is-better-for-retirement/?.tsrc=rss",
+      "published": "Tue, 27 Oct 2026 18:47:57 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-27T19:04:58.359750+00:00"
     }
   ]
 }
