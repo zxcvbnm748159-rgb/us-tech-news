@@ -1,14 +1,14 @@
 {
   "date": "2026-10-26",
-  "score": 73,
+  "score": 74,
   "label": "Bullish",
   "counts": {
-    "positive": 76,
+    "positive": 81,
     "negative": 28,
-    "neutral": 125
+    "neutral": 129
   },
-  "total": 229,
-  "updated_at": "2026-10-27T02:13:28.107532+00:00",
+  "total": 238,
+  "updated_at": "2026-10-27T03:18:38.647202+00:00",
   "articles": [
     {
       "link": "https://www.trefis.com/stock/nvda/articles/620535/is-nvidia-stock-cheaper-now-that-its-multiple-has-fallen/2026-10-25?.tsrc=rss",
@@ -925,6 +925,42 @@
     {
       "link": "https://finance.yahoo.com/technology/ai/articles/cohesity-data-cloud-becomes-first-010000237.html?.tsrc=rss",
       "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/26/this-ai-software-stock-could-be-next-multibagger/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/26/do-bitcoin-etf-flows-really-predict-future-bitcoin/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/26/should-you-buy-markel-stock-mkl-on-the-dip/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nebius-group-bulls-got-011019536.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://stocktwits.com/news-articles/markets/equity/dow-s-and-p-500-nasdaq-futures-climb-as-tech-stocks-get-a-boost-from-anthropic-ipo-sofi-bb-pypl-cls-in-focus/cZUIteBRBzL?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/vse-corporation-viavi-solutions-moog-023847073.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.thestreet.com/investing/stocks/morgan-stanley-just-made-a-bold-call-on-amazon-stock?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/26/elon-musk-says-merging-spacex-and-tesla-would-be-a/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://stocktwits.com/news-articles/markets/equity/elon-musk-ally-jason-calacanis-tesla-rally-1m-uber-bet-aims-higher/cZUIsMORBzh?.tsrc=rss",
+      "sentiment": "neutral"
     }
   ]
 }
