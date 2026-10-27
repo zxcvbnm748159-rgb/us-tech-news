@@ -1,14 +1,14 @@
 {
   "date": "2026-10-27",
-  "score": 89,
+  "score": 75,
   "label": "Bullish",
   "counts": {
-    "positive": 8,
-    "negative": 1,
-    "neutral": 8
+    "positive": 21,
+    "negative": 7,
+    "neutral": 19
   },
-  "total": 17,
-  "updated_at": "2026-10-27T07:51:43.246557+00:00",
+  "total": 47,
+  "updated_at": "2026-10-27T11:25:10.220004+00:00",
   "articles": [
     {
       "link": "https://www.fool.com/investing/2026/10/27/brazil-stocks-plunged-should-you-buy-the-dip-in-mercadolibre/?.tsrc=rss",
@@ -77,6 +77,126 @@
     {
       "link": "https://stocktwits.com/news-articles/markets/equity/nvidia-chipmakers-face-higher-costs-tsmc-reportedly-plans-up-to-20-price-hike-for-advanced-chip-packaging/cZUIDHERBzm?.tsrc=rss",
       "sentiment": "positive"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/10/27/coreweave-vs-nvidia-demand-for-silicon-is-not-the-same-thing-as-solvent-credit-backed-demand-for-physical-infrastructure/?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/blockmate-enters-ai-neocloud-market-111100704.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-backs-indian-startup-helping-110000836.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/27/2-monthly-dividend-stocks-to-buy-that-havent-cut-t/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/27/wall-street-has-a-new-blockbuster-stock-split-comi/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/10/27/microsoft-is-paying-workers-to-leave-so-it-can-pay-for-ai/?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/articles/global-financial-news-mt-newswires-110000118.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/7c169617-0718-32e1-85b8-4f2af9477aba/why-market-caution-could.html?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.verdict.co.uk/microsoft-voluntary-buyouts-60000-employees/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/microsoft-corp-msft-ai-strategy-105819898.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/10/27/prediction-broadcom-stock-could-be-worth-twice-as-much-by-2030/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/entergy-etr-stock-appears-rich-111154138.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/video/anthropics-1-actually-making-money-110000352.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/tandems-launches-hamilton-assistant-built-103000838.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/10/27/several-important-factors-protect-amazons-margins-and-secure-its-ai-moat/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/27/amazon-is-underperforming-the-sp-500-and-nasdaq-10/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/meta-platforms-meta-ai-agent-105412607.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/71de653c-a814-355e-86c8-cae6b5722c11/nvidia-is-taking-a-%243-billion.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://stocktwits.com/news-articles/markets/equity/nvidia-picks-up-3-b-stock-in-meta-s-equity-offering-will-help-improve-muse-ai-platform/cZUeGE3RBzH?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/27/in-a-spacex-tesla-merger-tsla-shareholders-might/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.trefis.com/stock/tsla/articles/620840/why-did-tesla-stock-jump/2026-10-27?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/hiltzik-gain-merger-musks-spacex-100000315.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-2-other-top-founder-090834814.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/broadcom-could-generate-30-billion-110822892.html?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.fool.com/coverage/charts/2026/10/27/broadcom-vs-taiwan-semiconductor-two-ai-powerhouses-one-surprising-revenue-trend/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://247wallst.com/personal-finance/2026/10/27/oracle-bonds-are-sliding-as-ai-debt-worries-grow-at-62-she-discovers-the-safe-side-of-her-401k-can-lose-money-too/?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://unchainedcrypto.com/oracle-ibm-and-intel-have-opted-out-of-okx-ice-stock-tokens-venues-own-notice-shows/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/27/oracle-stock-has-lost-60-since-its-last-investor-day-is-it-a-buy-before-wednesday/?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/articles/top-japanese-chip-stocks-watch-080039434.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/articles/bull-day-taiwan-semiconductor-manufacturing-070000451.html?.tsrc=rss",
+      "sentiment": "neutral"
     }
   ]
 }
