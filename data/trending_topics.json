@@ -1,7 +1,7 @@
 {
   "date": "2026-10-27",
   "window_days": 7,
-  "source_count": 1427,
+  "source_count": 1443,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 247,
+      "count": 251,
       "kind": "ticker"
     },
     {
@@ -21,17 +21,8 @@
         "revenue guidance",
         "profit forecast"
       ],
-      "count": 166,
+      "count": 167,
       "kind": "topic"
-    },
-    {
-      "label": "GOOGL",
-      "query": "GOOGL",
-      "search_terms": [
-        "GOOGL"
-      ],
-      "count": 145,
-      "kind": "ticker"
     },
     {
       "label": "TSLA",
@@ -39,7 +30,16 @@
       "search_terms": [
         "TSLA"
       ],
-      "count": 145,
+      "count": 148,
+      "kind": "ticker"
+    },
+    {
+      "label": "GOOGL",
+      "query": "GOOGL",
+      "search_terms": [
+        "GOOGL"
+      ],
+      "count": 146,
       "kind": "ticker"
     },
     {
@@ -48,7 +48,7 @@
       "search_terms": [
         "META"
       ],
-      "count": 136,
+      "count": 138,
       "kind": "ticker"
     },
     {
@@ -66,7 +66,7 @@
       "search_terms": [
         "AMZN"
       ],
-      "count": 82,
+      "count": 83,
       "kind": "ticker"
     },
     {
@@ -84,7 +84,7 @@
       "search_terms": [
         "NFLX"
       ],
-      "count": 69,
+      "count": 70,
       "kind": "ticker"
     },
     {
@@ -93,7 +93,7 @@
       "search_terms": [
         "ORCL"
       ],
-      "count": 53,
+      "count": 54,
       "kind": "ticker"
     },
     {
@@ -102,7 +102,7 @@
       "search_terms": [
         "AVGO"
       ],
-      "count": 49,
+      "count": 51,
       "kind": "ticker"
     },
     {
@@ -115,7 +115,7 @@
       "kind": "ticker"
     }
   ],
-  "updated_at": "2026-10-27T21:41:50.694562+00:00",
+  "updated_at": "2026-10-27T22:56:24.211790+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -18667,6 +18667,214 @@
       "impact_direction": "neutral",
       "sentiment": "positive",
       "fetched_at": "2026-10-27T21:41:50.648055+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "History Says the Stock Market's Best 6 Months Start Nov. 1. Here's How Often They've Paid Off Since 1950.",
+      "link": "https://www.fool.com/investing/2026/10/27/history-says-the-stock-market-s-best-6-months-start-nov-1-here-s-how-often-they-ve-paid-off-since-1950/?.tsrc=rss",
+      "published": "Tue, 27 Oct 2026 22:39:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-27T22:56:21.708132+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Investing $1,000 in Each of These 3 Stocks 20 Years Ago Would Have Created a Portfolio Worth $674,000 Today",
+      "link": "https://www.fool.com/investing/2026/10/27/investing-1-000-in-each-of-these-3-stocks-20-years-ago-would-have-created-a-portfolio-worth-usd674-000-today/?.tsrc=rss",
+      "published": "Tue, 27 Oct 2026 22:21:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-27T22:56:21.708238+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Nvidia’s New $3 Billion AI Bet Is on One of Its Own Customers",
+      "link": "https://www.fool.com/investing/2026/10/27/nvidias-new-3-billion-ai-bet-is-on-one-of-its-own-customers/?.tsrc=rss",
+      "published": "Tue, 27 Oct 2026 21:40:01 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-27T22:56:21.708281+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Jensen Huang's Late-Night Calls With President Trump Come as Nvidia's China AI Chip Shipments Fall 44% in the First Half of 2026. Here's Why His Access Matters.",
+      "link": "https://www.fool.com/investing/2026/10/27/jensen-huangs-late-night-calls-with-trump/?.tsrc=rss",
+      "published": "Tue, 27 Oct 2026 21:39:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-27T22:56:21.708360+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Stock Market Today, Oct. 27: Meta Raises Largest-Ever Equity Offering to Nearly $98 Billion to Fund AI Infrastructure Bet",
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/10/27/stock-market-today-oct-27-meta-raises-largest-ever-equity-offering-to-nearly-usd98-billion-to-fund-ai-infrastructure-bet/?.tsrc=rss",
+      "published": "Tue, 27 Oct 2026 21:36:42 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-27T22:56:22.121695+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Amazon (AMZN) Q3 Earnings Preview: AWS Growth Takes Center Stage",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/amazon-amzn-q3-earnings-preview-211300540.html?.tsrc=rss",
+      "published": "Tue, 27 Oct 2026 21:13:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-27T22:56:22.281775+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "Penguin Solutions, Broadcom, FormFactor, Lattice Semiconductor, and AMD stocks trade up, what you need to know",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/penguin-solutions-broadcom-formfactor-lattice-222247675.html?.tsrc=rss",
+      "published": "Tue, 27 Oct 2026 22:22:47 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-27T22:56:22.401642+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "News of the day: Canadian dollar, Bell sells wireless tower stake, investors ignoring risks, federal budget winners and losers, Meta's new terms and more",
+      "link": "https://financialpost.com/uncategorized/news-of-the-day-canadian-dollar-bell-sells-wireless-tower-stake-investors-ignoring-risks-federal-budget-winners-and-losers-metas-new-terms-and-more?.tsrc=rss",
+      "published": "Tue, 27 Oct 2026 21:28:40 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-27T22:56:22.401788+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "TSLA Stock Rises As Cybercabs Overtake Model Ys In Authorized Texas Robotaxi Fleet",
+      "link": "https://stocktwits.com/news-articles/markets/equity/tsla-stock-rises-as-cybercabs-overtake-model-ys-in-authorized-texas-robotaxi-fleet/cZUen2iRBCz?.tsrc=rss",
+      "published": "Tue, 27 Oct 2026 22:39:57 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-27T22:56:22.553679+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Scott Galloway Warns Tesla Is the ‘Patient’ and SpaceX Its ‘Organ Donor’ in Elon Musk’s $3.5 Trillion Merger Plan: 'Real Merger With a Fake Premise'",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/scott-galloway-warns-tesla-patient-213018121.html?.tsrc=rss",
+      "published": "Tue, 27 Oct 2026 21:30:18 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-27T22:56:22.553803+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Want to Test Tesla’s Full Self-Driving? Rent It on Turo.",
+      "link": "https://finance.yahoo.com/m/090e3be6-8740-3fee-8c26-265560ecca31/want-to-test-tesla%E2%80%99s-full.html?.tsrc=rss",
+      "published": "Tue, 27 Oct 2026 20:21:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-27T22:56:22.553841+00:00"
+    },
+    {
+      "ticker": "AVGO",
+      "title": "Western Digital, Allegro MicroSystems, Amtech, and Teradyne shares skyrocket, what you need to know",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/western-digital-allegro-microsystems-amtech-221447082.html?.tsrc=rss",
+      "published": "Tue, 27 Oct 2026 22:14:47 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-27T22:56:22.838491+00:00"
+    },
+    {
+      "ticker": "AVGO",
+      "title": "Broadcom, Nvidia, Boeing, GM, UPS, JetBlue, and More Stocks That Explain Today’s Market",
+      "link": "https://finance.yahoo.com/m/2bc48bab-2466-3630-9e5a-76a454b21a8d/broadcom%2C-nvidia%2C-boeing%2C-gm%2C.html?.tsrc=rss",
+      "published": "Tue, 27 Oct 2026 20:38:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-27T22:56:22.838544+00:00"
+    },
+    {
+      "ticker": "ORCL",
+      "title": "Did Oracle's 53% Drop Catch You Out? What Bears Saw",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/did-oracles-53-drop-catch-221206130.html?.tsrc=rss",
+      "published": "Tue, 27 Oct 2026 22:12:06 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-27T22:56:22.955645+00:00"
+    },
+    {
+      "ticker": "CRM",
+      "title": "Salesforce (CRM) Stock Drops Despite Market Gains: Important Facts to Note",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/salesforce-crm-stock-drops-despite-204502214.html?.tsrc=rss",
+      "published": "Tue, 27 Oct 2026 20:45:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-27T22:56:23.088153+00:00"
+    },
+    {
+      "ticker": "NFLX",
+      "title": "What Does Netflix (NFLX) Leadership Shakeup Mean For Its Streaming Future?",
+      "link": "https://finance.yahoo.com/media-advertising/articles/does-netflix-nflx-leadership-shakeup-221532681.html?.tsrc=rss",
+      "published": "Tue, 27 Oct 2026 22:15:32 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-27T22:56:23.223901+00:00"
     }
   ]
 }

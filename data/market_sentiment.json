@@ -1,14 +1,14 @@
 {
   "date": "2026-10-27",
-  "score": 84,
+  "score": 82,
   "label": "Bullish",
   "counts": {
-    "positive": 80,
-    "negative": 15,
-    "neutral": 124
+    "positive": 84,
+    "negative": 19,
+    "neutral": 132
   },
-  "total": 219,
-  "updated_at": "2026-10-27T21:41:50.648718+00:00",
+  "total": 235,
+  "updated_at": "2026-10-27T22:56:24.165371+00:00",
   "articles": [
     {
       "link": "https://www.fool.com/investing/2026/10/27/brazil-stocks-plunged-should-you-buy-the-dip-in-mercadolibre/?.tsrc=rss",
@@ -885,6 +885,70 @@
     {
       "link": "https://finance.yahoo.com/markets/stocks/articles/tsm-vs-mu-semiconductor-stock-180000593.html?.tsrc=rss",
       "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/27/history-says-the-stock-market-s-best-6-months-start-nov-1-here-s-how-often-they-ve-paid-off-since-1950/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/27/investing-1-000-in-each-of-these-3-stocks-20-years-ago-would-have-created-a-portfolio-worth-usd674-000-today/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/27/nvidias-new-3-billion-ai-bet-is-on-one-of-its-own-customers/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/27/jensen-huangs-late-night-calls-with-trump/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/10/27/stock-market-today-oct-27-meta-raises-largest-ever-equity-offering-to-nearly-usd98-billion-to-fund-ai-infrastructure-bet/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/amazon-amzn-q3-earnings-preview-211300540.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/penguin-solutions-broadcom-formfactor-lattice-222247675.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://financialpost.com/uncategorized/news-of-the-day-canadian-dollar-bell-sells-wireless-tower-stake-investors-ignoring-risks-federal-budget-winners-and-losers-metas-new-terms-and-more?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://stocktwits.com/news-articles/markets/equity/tsla-stock-rises-as-cybercabs-overtake-model-ys-in-authorized-texas-robotaxi-fleet/cZUen2iRBCz?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/scott-galloway-warns-tesla-patient-213018121.html?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/090e3be6-8740-3fee-8c26-265560ecca31/want-to-test-tesla%E2%80%99s-full.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/western-digital-allegro-microsystems-amtech-221447082.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/2bc48bab-2466-3630-9e5a-76a454b21a8d/broadcom%2C-nvidia%2C-boeing%2C-gm%2C.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/did-oracles-53-drop-catch-221206130.html?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/salesforce-crm-stock-drops-despite-204502214.html?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/media-advertising/articles/does-netflix-nflx-leadership-shakeup-221532681.html?.tsrc=rss",
+      "sentiment": "neutral"
     }
   ]
 }
