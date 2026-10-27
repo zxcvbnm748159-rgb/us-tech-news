@@ -3,12 +3,12 @@
   "score": 73,
   "label": "Bullish",
   "counts": {
-    "positive": 65,
-    "negative": 24,
-    "neutral": 115
+    "positive": 76,
+    "negative": 28,
+    "neutral": 125
   },
-  "total": 204,
-  "updated_at": "2026-10-26T23:20:25.467886+00:00",
+  "total": 229,
+  "updated_at": "2026-10-27T02:13:28.107532+00:00",
   "articles": [
     {
       "link": "https://www.trefis.com/stock/nvda/articles/620535/is-nvidia-stock-cheaper-now-that-its-multiple-has-fallen/2026-10-25?.tsrc=rss",
@@ -824,6 +824,106 @@
     },
     {
       "link": "https://finance.yahoo.com/markets/stocks/articles/arm-holdings-arm-faces-jury-221537202.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/26/prediction-3-stocks-that-will-be-worth-more-than-a/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://stocktwits.com/news-articles/markets/equity/bb-stock-rises-overnight-black-berry-ceo-says-qnx-alloy-kore-expanding-market-the-products-we-sell-are-pervasive-around-you/cZUIAMdRBzX?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/26/jpmorgan-predicts-bitcoin-will-outpace-stocks-bond/?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/articles/strong-cloud-stocks-zacks-tool-233000430.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/waymo-google-microsoft-alums-raise-160000050.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/microsoft-offers-buyouts-nearly-30-212229529.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/dxp-graham-corporation-msc-industrial-020647802.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-ati-shares-soaring-015847628.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://beincrypto.com/cramer-buy-goldman-sachs-anthropic-ipo/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/26/alphabet-must-show-this-on-oct-28-or-the-stock-cou/?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.thestreet.com/retail/target-has-a-problem-that-sends-shoppers-to-amazon?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/video/support-zuckerbergs-vision-cassidy-205316701.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://stocktwits.com/news-articles/markets/equity/cathie-wood-tesla-spacex-gdp-growth-ark-merger-win-both-shareholders/cZUIApgRBzQ?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-tesla-tsla-stock-trading-013447799.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://stocktwits.com/news-articles/markets/equity/tsla-analyst-ratings-hit-highest-since-2023-ark-reiterates-4-400-tesla-2031-target-and-80-robotaxi-thesis/cZU3KLWRBzB?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/kevin-o-leary-says-tesla-233006194.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.barchart.com/story/news/8460028/wedbush-sees-server-cpu-demand-as-key-earnings-growth-driver-what-that-means-for-amd-stock-ahead-of-november-3?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.barchart.com/story/news/8458630/huge-unusual-call-option-activity-in-broadcom-shows-investors-bullish-on-avgo-stock?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.thestreet.com/investing/oracle-ai-agents-faster-rollouts-revenue-payoff?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/congressman-could-down-2-65x-003008880.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/2dcbe310-7d7f-374d-924f-893b285b81d9/netflix-stock-falls-on-report.html?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/26/why-intel-stock-popped-today/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://stocktwits.com/news-articles/markets/equity/intel-deepens-quantum-ambitions-with-acquisition-of-software-startup-classiq/cZU3KoxRBz9?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/q2-earnings-recap-intel-nasdaq-233447148.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/cohesity-data-cloud-becomes-first-010000237.html?.tsrc=rss",
       "sentiment": "positive"
     }
   ]
