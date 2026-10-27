@@ -1,14 +1,14 @@
 {
   "date": "2026-10-27",
-  "score": 75,
+  "score": 80,
   "label": "Bullish",
   "counts": {
-    "positive": 21,
-    "negative": 7,
-    "neutral": 19
+    "positive": 37,
+    "negative": 9,
+    "neutral": 58
   },
-  "total": 47,
-  "updated_at": "2026-10-27T11:25:10.220004+00:00",
+  "total": 104,
+  "updated_at": "2026-10-27T13:45:37.443759+00:00",
   "articles": [
     {
       "link": "https://www.fool.com/investing/2026/10/27/brazil-stocks-plunged-should-you-buy-the-dip-in-mercadolibre/?.tsrc=rss",
@@ -197,6 +197,234 @@
     {
       "link": "https://finance.yahoo.com/technology/articles/bull-day-taiwan-semiconductor-manufacturing-070000451.html?.tsrc=rss",
       "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/video/nvidia-and-meta-expand-their-ai-partnership-what-to-know-131449218.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/article/nvidia-to-invest-3-billion-in-meta-expand-partnership-on-muse-125249944.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/10/27/broadcom-rises-3-on-da-davidson-upgrade-and-400-target-tied-to-anthropic-ipo-nvidia-and-amd-edge-higher/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.proactiveinvestors.com/companies/news/1100757/blockmate-ventures-to-buy-first-nvidia-b200-ai-compute-node-entering-neocloud-market-1100757.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/cloudera-launches-cloudera-blueprints-bringing-130000759.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/video/apples-2000-foldable-iphone-duo-faces-a-durability-test-133614827.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://247wallst.com/investing/etf/2026/10/27/vig-is-built-for-dividend-growth-but-its-payout-barely-grew/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/articles/apple-introduces-14-inch-macbook-130400967.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/10/27/apples-next-growth-engine-could-change-the-stocks-trajectory/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://247wallst.com/investing/etf/2026/10/27/what-few-investors-realize-about-qqqs-dividend/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.tikr.com/blog/microsoft-reports-october-28-with-hyperscalers-down-a-quarter-since-may-cash-flow-is-the-test?ref=yahoofinance&.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/strider-names-vassili-patrikis-chief-130500278.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/azure-copilot-reacceleration-reinforce-microsoft-121852027.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/r-potential-appoints-paul-maher-124100332.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/dfin-announces-venue-mcp-connector-130500668.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/broadcom-upgraded-ultragenyx-downgraded-wall-133157671.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/10/27/prediction-alphabet-could-be-sitting-on-more-upside-than-investors-realize/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/articles/caricom-technology-company-google-partner-131500160.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.cryptoprowl.com/releases/primexbt-adds-seven-tokenized-stock-crypto-futures-including-tesla-spacex-and-nvidia-7479?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.tikr.com/blog/pinterest-bets-on-an-amazon-ads-veteran-after-a-2-billion-buyback-exceptional-finance-leader?ref=yahoofinance&.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/27/amazon-s-safe-retail-business-earns-less-than-aws-does-is-the-stock-still-a-good-buy-for-cautious-investors/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/27/prediction-the-stock-market-could-crash-in-2027-an/?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/34e5b915-c012-37c2-a7af-f5946519d487/ups-earnings-deliver-good.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/10/27/meta-is-selling-up-to-95-billion-of-stock-its-chip-suppliers-want-in/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/amd-meta-advance-strategic-partnership-132000413.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-stock-leads-search-ai-131514243.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.trefis.com/stock/tsla/articles/620791/is-tesla-stock-safer-or-riskier-than-a-year-ago/2026-10-27?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/small-business/articles/gro-advisory-founder-dahlia-abadir-123700248.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/10/27/only-5-of-60-analysts-still-say-sell-tesla-the-fewest-in-11-years/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/10/27/humanoid-robots-could-need-20-times-more-memory-chips-by-2030/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-intel-120100099.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/f8b522d9-6997-32f6-ad32-2f16f7a640f8/cathie-wood-cashes-out-ai.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/articles/fluidcloud-launches-vhop-vmware-exit-130000109.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/broadcom-enhancements-truesource-spring-enterprise-130000782.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/articles/seagates-hamr-smr-breakthrough-azure-115600318.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/10/27/ai-cloud-stocks-rise-as-coreweave-adds-denmark-capacity-coreweave-and-nebius-climb-4-oracle-ticks-up/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/know-beyond-why-oracle-corporation-120005345.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/articles/alliance-announces-official-oracle-netsuite-120000389.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/oracle-orcl-unveils-deep-trust-110849857.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/salesforce-inc-crm-trending-stock-120003922.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/article/why-netflix-stock-just-cant-catch-a-break-after-earnings-121109057.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.trefis.com/stock/nflx/articles/620760/what-should-netflix-stock-investors-be-watching-now/2026-10-27?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/symbolic-mind-collaborates-intel-bring-124200878.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-intel-114600694.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.trefis.com/stock/intc/articles/620755/did-the-market-read-intel-right/2026-10-27?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.tikr.com/blog/qualcomm-pledges-global-layoffs-as-handset-revenue-falls-20-stronger-performance-culture?ref=yahoofinance&.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/articles/anduril-qualcomm-launch-bluechip-kind-130000302.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.tikr.com/blog/qualcomm-just-dropped-13-in-a-month-is-it-time-to-sell-or-load-up?ref=yahoofinance&.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/27/better-defense-stock-to-own-through-2030-palantir/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-technologies-inc-pltr-attracting-120002420.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/27/2-standout-ai-stocks-can-plunge-up-to-93-according-to-wall-street-analysts/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/articles/futureman-digital-named-statamics-first-130000533.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.trefis.com/stock/ibm/articles/620769/what-mattered-most-in-ibms-latest-quarter/2026-10-27?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.trefis.com/stock/adbe/articles/620782/can-adobe-stock-jump-50/2026-10-27?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/10/27/the-last-month-exposed-the-risk-narrative-between-nvidia-vs-taiwan-semiconductor/?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-sonoco-highlighted-121300506.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://investorshub.advfn.com/market-news/article/38630/tsmc-reportedly-plans-up-to-20-increase-in-advanced-chip-packaging-prices-amid-ai-demand?.tsrc=rss",
+      "sentiment": "positive"
     }
   ]
 }
