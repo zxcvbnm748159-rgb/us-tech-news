@@ -1,7 +1,7 @@
 {
   "date": "2026-10-27",
   "window_days": 7,
-  "source_count": 1443,
+  "source_count": 1459,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 251,
+      "count": 254,
       "kind": "ticker"
     },
     {
@@ -21,8 +21,17 @@
         "revenue guidance",
         "profit forecast"
       ],
-      "count": 167,
+      "count": 168,
       "kind": "topic"
+    },
+    {
+      "label": "GOOGL",
+      "query": "GOOGL",
+      "search_terms": [
+        "GOOGL"
+      ],
+      "count": 148,
+      "kind": "ticker"
     },
     {
       "label": "TSLA",
@@ -31,15 +40,6 @@
         "TSLA"
       ],
       "count": 148,
-      "kind": "ticker"
-    },
-    {
-      "label": "GOOGL",
-      "query": "GOOGL",
-      "search_terms": [
-        "GOOGL"
-      ],
-      "count": 146,
       "kind": "ticker"
     },
     {
@@ -57,7 +57,7 @@
       "search_terms": [
         "MSFT"
       ],
-      "count": 109,
+      "count": 111,
       "kind": "ticker"
     },
     {
@@ -66,7 +66,7 @@
       "search_terms": [
         "AMZN"
       ],
-      "count": 83,
+      "count": 86,
       "kind": "ticker"
     },
     {
@@ -75,7 +75,7 @@
       "search_terms": [
         "AAPL"
       ],
-      "count": 81,
+      "count": 82,
       "kind": "ticker"
     },
     {
@@ -93,7 +93,7 @@
       "search_terms": [
         "ORCL"
       ],
-      "count": 54,
+      "count": 55,
       "kind": "ticker"
     },
     {
@@ -102,7 +102,7 @@
       "search_terms": [
         "AVGO"
       ],
-      "count": 51,
+      "count": 52,
       "kind": "ticker"
     },
     {
@@ -115,7 +115,7 @@
       "kind": "ticker"
     }
   ],
-  "updated_at": "2026-10-27T22:56:24.211790+00:00",
+  "updated_at": "2026-10-28T01:57:57.882585+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -18875,6 +18875,214 @@
       "impact_direction": "neutral",
       "sentiment": "neutral",
       "fetched_at": "2026-10-27T22:56:23.223901+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Anthropic Held More Cash Than Nvidia and Apple Combined Ahead of IPO",
+      "link": "https://beincrypto.com/anthropic-cash-nvidia-apple-combined-ipo/?.tsrc=rss",
+      "published": "Wed, 28 Oct 2026 00:39:58 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-28T01:57:55.381123+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "British Growth Stocks To Watch In October 2026",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/british-growth-stocks-watch-october-001757969.html?.tsrc=rss",
+      "published": "Wed, 28 Oct 2026 00:17:57 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-28T01:57:55.381201+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Nvidia Stock Is 10% Below Its Record. Does Anthropic's IPO Filing Make It a Buy?",
+      "link": "https://www.fool.com/investing/2026/10/27/nvidia-stock-is-10-below-its-record-does-anthropic-s-ipo-filing-make-it-a-buy/?.tsrc=rss",
+      "published": "Tue, 27 Oct 2026 23:46:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-28T01:57:55.381247+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "'We're Trading Them Like Baseball Cards': Mark Cuban Warns ‘Everything’s a Meme Stock’ as AAPL, GOOGL and MU Fuel Market Bubble Fears",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/were-trading-them-baseball-cards-220034335.html?.tsrc=rss",
+      "published": "Tue, 27 Oct 2026 22:00:34 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-28T01:57:55.501142+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Earnings from Google and Microsoft and a Fed rate decision: What to Watch",
+      "link": "https://finance.yahoo.com/video/earnings-google-microsoft-fed-rate-000000143.html?.tsrc=rss",
+      "published": "Wed, 28 Oct 2026 00:00:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-28T01:57:55.652385+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Ascendion Expands AI Advisory Community with Four Global Business and Technology Leaders",
+      "link": "https://finance.yahoo.com/technology/ai/articles/ascendion-expands-ai-advisory-community-231000918.html?.tsrc=rss",
+      "published": "Tue, 27 Oct 2026 23:10:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-28T01:57:55.652447+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Anthropic's record IPO faces some big questions",
+      "link": "https://finance.yahoo.com/technology/ai/articles/anthropics-record-ipo-faces-big-013838800.html?.tsrc=rss",
+      "published": "Wed, 28 Oct 2026 01:38:38 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-28T01:57:55.798015+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Review & Preview: The AI Rollercoaster",
+      "link": "https://finance.yahoo.com/m/cee70c38-e5d4-3fcb-8eaa-3809ec791d41/review-%26-preview%3A-the-ai.html?.tsrc=rss",
+      "published": "Wed, 28 Oct 2026 00:08:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-28T01:57:55.798053+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "ASTS Stock Slips Overnight As FCC Clears Amazon’s $11.5B Globalstar Deal — Touts ‘Even More Competition’",
+      "link": "https://stocktwits.com/news-articles/markets/equity/asts-stock-fcc-clears-amazon-globalstar-deal-even-more-competition/cZUByYZRB6P?.tsrc=rss",
+      "published": "Wed, 28 Oct 2026 01:43:42 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-28T01:57:55.937354+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Best Buy makes customers a price promise Target dropped",
+      "link": "https://www.thestreet.com/retail/best-buy-keeps-price-matching-customer-perk-target-dropped?.tsrc=rss",
+      "published": "Tue, 27 Oct 2026 23:17:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-28T01:57:55.937422+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Amazon Backup Power Deal Could Be A Turning Point For Generac Stock",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/amazon-backup-power-deal-could-230921348.html?.tsrc=rss",
+      "published": "Tue, 27 Oct 2026 23:09:21 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-28T01:57:55.937462+00:00"
+    },
+    {
+      "ticker": "AVGO",
+      "title": "Intel, Microchip Technology, Marvell Technology, onsemi, and Seagate stocks trade up, what you need to know",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/intel-microchip-technology-marvell-technology-231047842.html?.tsrc=rss",
+      "published": "Tue, 27 Oct 2026 23:10:47 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-28T01:57:56.504362+00:00"
+    },
+    {
+      "ticker": "ORCL",
+      "title": "Oracle and OpenAI Skipped the Financing Question Investors Keep Asking",
+      "link": "https://beincrypto.com/oracle-openai-keynote-skips-financing-questions/?.tsrc=rss",
+      "published": "Wed, 28 Oct 2026 01:43:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-28T01:57:56.648285+00:00"
+    },
+    {
+      "ticker": "SMCI",
+      "title": "Does Super Micro Computer (SMCI) Have A Bigger AI Infrastructure Story Now?",
+      "link": "https://finance.yahoo.com/technology/ai/articles/does-super-micro-computer-smci-011331935.html?.tsrc=rss",
+      "published": "Wed, 28 Oct 2026 01:13:31 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-28T01:57:57.431132+00:00"
+    },
+    {
+      "ticker": "SMCI",
+      "title": "Why is Super Micro (SMCI) stock soaring today",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-super-micro-smci-stock-231847847.html?.tsrc=rss",
+      "published": "Tue, 27 Oct 2026 23:18:47 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-28T01:57:57.431184+00:00"
+    },
+    {
+      "ticker": "IBM",
+      "title": "A $1 Billion Reason to Consider Buying the IBM Stock Dip",
+      "link": "https://www.barchart.com/story/news/8483724/a-1-billion-reason-to-consider-buying-the-ibm-stock-dip?.tsrc=rss",
+      "published": "Tue, 27 Oct 2026 18:57:11 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-28T01:57:57.573997+00:00"
     }
   ]
 }
