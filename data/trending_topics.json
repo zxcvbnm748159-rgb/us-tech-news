@@ -1,7 +1,7 @@
 {
   "date": "2026-10-28",
   "window_days": 7,
-  "source_count": 1394,
+  "source_count": 1406,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 244,
+      "count": 245,
       "kind": "ticker"
     },
     {
@@ -21,8 +21,17 @@
         "revenue guidance",
         "profit forecast"
       ],
-      "count": 155,
+      "count": 157,
       "kind": "topic"
+    },
+    {
+      "label": "GOOGL",
+      "query": "GOOGL",
+      "search_terms": [
+        "GOOGL"
+      ],
+      "count": 142,
+      "kind": "ticker"
     },
     {
       "label": "TSLA",
@@ -34,21 +43,12 @@
       "kind": "ticker"
     },
     {
-      "label": "GOOGL",
-      "query": "GOOGL",
-      "search_terms": [
-        "GOOGL"
-      ],
-      "count": 138,
-      "kind": "ticker"
-    },
-    {
       "label": "META",
       "query": "META",
       "search_terms": [
         "META"
       ],
-      "count": 127,
+      "count": 128,
       "kind": "ticker"
     },
     {
@@ -57,7 +57,7 @@
       "search_terms": [
         "MSFT"
       ],
-      "count": 118,
+      "count": 121,
       "kind": "ticker"
     },
     {
@@ -66,7 +66,7 @@
       "search_terms": [
         "AAPL"
       ],
-      "count": 90,
+      "count": 91,
       "kind": "ticker"
     },
     {
@@ -75,7 +75,7 @@
       "search_terms": [
         "AMZN"
       ],
-      "count": 87,
+      "count": 88,
       "kind": "ticker"
     },
     {
@@ -93,7 +93,7 @@
       "search_terms": [
         "AVGO"
       ],
-      "count": 52,
+      "count": 53,
       "kind": "ticker"
     },
     {
@@ -115,7 +115,7 @@
       "kind": "ticker"
     }
   ],
-  "updated_at": "2026-10-28T22:20:45.401320+00:00",
+  "updated_at": "2026-10-28T23:43:31.592090+00:00",
   "articles": [
     {
       "ticker": "MSFT",
@@ -18238,6 +18238,162 @@
       "impact_direction": "neutral",
       "sentiment": "neutral",
       "fetched_at": "2026-10-28T22:20:44.932783+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "NVDA Stock Edges Down On DOJ Interest In $12.9 Billion Hugging Face Acquisition",
+      "link": "https://stocktwits.com/news-articles/markets/equity/nvda-stock-edges-down-on-doj-interest-in-12-9-billion-hugging-face-acquisition/cZU9MDeR9Go?.tsrc=rss",
+      "published": "Wed, 28 Oct 2026 22:26:39 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-28T23:43:28.964796+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Apple Stock And Other Quality Growth Names For Higher Rates",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/apple-stock-other-quality-growth-220952696.html?.tsrc=rss",
+      "published": "Wed, 28 Oct 2026 22:09:52 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-28T23:43:29.107952+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "MSFT Stock Gains 3% After-Hours As AI Demand Powers Q1 Cloud Revenue, Q2 Guidance Beat With Positive Cash Flows",
+      "link": "https://stocktwits.com/news-articles/markets/equity/msft-ai-demand-powers-q1-cloud-revenue-q2-guidance-beat-with-positive-cash-flows/cZU9v3mR9GY?.tsrc=rss",
+      "published": "Wed, 28 Oct 2026 23:13:41 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-28T23:43:29.248182+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "How Microsoft, Coca-Cola And Amazon Are Adapting Their Offices For AI Age",
+      "link": "https://www.bisnow.com/news/national/office/how-microsoft-citadel-amazon-adapting-offices-ai-age?.tsrc=rss",
+      "published": "Wed, 28 Oct 2026 22:58:16 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-28T23:43:29.248249+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Microsoft beats expectations fueled by Azure cloud business",
+      "link": "https://finance.yahoo.com/technology/articles/microsoft-beats-expectations-fueled-azure-224832868.html?.tsrc=rss",
+      "published": "Wed, 28 Oct 2026 22:48:32 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-28T23:43:29.248305+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Google shares slump amid fears of AI overspending",
+      "link": "https://uk.finance.yahoo.com/news/google-slumps-amid-fears-ai-222458519.html?.tsrc=rss",
+      "published": "Wed, 28 Oct 2026 22:24:58 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-28T23:43:29.389848+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Rising Estimates and Broad Growth Underpin Strong Earnings Outlook",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/rising-estimates-broad-growth-underpin-215400083.html?.tsrc=rss",
+      "published": "Wed, 28 Oct 2026 21:54:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-28T23:43:29.389943+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Google Cloud Revenue Just Grew 103%, so Why Is the Stock Falling?",
+      "link": "https://www.fool.com/investing/2026/10/28/google-cloud-revenue-just-grew-103-so-why-is-the-stock-falling/?.tsrc=rss",
+      "published": "Wed, 28 Oct 2026 23:23:06 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-28T23:43:29.390004+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "3 Founder Led Stocks With At Least 22% Earnings Growth",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-founder-led-stocks-least-231401348.html?.tsrc=rss",
+      "published": "Wed, 28 Oct 2026 23:14:01 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-28T23:43:29.390057+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Generac reports record sales of $1.29 billion, driven by data centers",
+      "link": "https://www.jsonline.com/story/money/business/2026/10/28/generac-reports-record-sales-driven-by-booming-data-center-demand/92481298007/?.tsrc=rss",
+      "published": "Wed, 28 Oct 2026 19:59:25 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-28T23:43:29.533798+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "Bessent Says AI Financing Stress Not \"Problematic,\" Neoclouds a Small Component",
+      "link": "https://finance.yahoo.com/technology/ai/articles/bessent-says-ai-financing-stress-230959162.html?.tsrc=rss",
+      "published": "Wed, 28 Oct 2026 23:09:59 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-28T23:43:29.668995+00:00"
+    },
+    {
+      "ticker": "AVGO",
+      "title": "2 Millionaire-Maker Custom Silicon Stocks Powering the AI Infrastructure Supercycle",
+      "link": "https://www.fool.com/investing/2026/10/28/2-millionaire-maker-custom-silicon-stocks-powering/?.tsrc=rss",
+      "published": "Wed, 28 Oct 2026 23:20:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-28T23:43:30.100873+00:00"
     }
   ]
 }
