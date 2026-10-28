@@ -1,7 +1,7 @@
 {
   "date": "2026-10-27",
   "window_days": 7,
-  "source_count": 1459,
+  "source_count": 1466,
   "topics": [
     {
       "label": "NVDA",
@@ -30,7 +30,7 @@
       "search_terms": [
         "GOOGL"
       ],
-      "count": 148,
+      "count": 151,
       "kind": "ticker"
     },
     {
@@ -39,7 +39,7 @@
       "search_terms": [
         "TSLA"
       ],
-      "count": 148,
+      "count": 149,
       "kind": "ticker"
     },
     {
@@ -57,7 +57,7 @@
       "search_terms": [
         "MSFT"
       ],
-      "count": 111,
+      "count": 112,
       "kind": "ticker"
     },
     {
@@ -84,7 +84,7 @@
       "search_terms": [
         "NFLX"
       ],
-      "count": 70,
+      "count": 71,
       "kind": "ticker"
     },
     {
@@ -102,7 +102,7 @@
       "search_terms": [
         "AVGO"
       ],
-      "count": 52,
+      "count": 53,
       "kind": "ticker"
     },
     {
@@ -115,7 +115,7 @@
       "kind": "ticker"
     }
   ],
-  "updated_at": "2026-10-28T01:57:57.882585+00:00",
+  "updated_at": "2026-10-28T03:33:56.269877+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -19083,6 +19083,97 @@
       "impact_direction": "neutral",
       "sentiment": "neutral",
       "fetched_at": "2026-10-28T01:57:57.573997+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Dow Jones Futures Fall, Techs Rise As SK Hynix Crushes Views; Fed, Microsoft, Google On Deck",
+      "link": "https://finance.yahoo.com/m/7066a700-b33b-3fa1-858d-f75f49b920da/dow-jones-futures-fall%2C-techs.html?.tsrc=rss",
+      "published": "Wed, 28 Oct 2026 03:09:28 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-28T03:33:53.733004+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "OpenAI plans to buy Google AI chips to expand computing capacity - The Information",
+      "link": "https://finance.yahoo.com/technology/ai/articles/openai-plans-buy-google-ai-025209648.html?.tsrc=rss",
+      "published": "Wed, 28 Oct 2026 02:52:09 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-28T03:33:53.902548+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Samsung's AI boom comes with a $100 billion warning",
+      "link": "https://www.thestreet.com/investing/samsungs-ai-boom-comes-with-a-100-billion-warning?.tsrc=rss",
+      "published": "Wed, 28 Oct 2026 02:47:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-28T03:33:53.902622+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Tech stocks soar as SK hynix adds to rising AI confidence",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tech-stocks-soar-sk-hynix-024123086.html?.tsrc=rss",
+      "published": "Wed, 28 Oct 2026 02:41:23 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-28T03:33:53.902684+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "TSLA Stock Is October’s Mag 7 King — But 2 Motorcycle Stocks Race Past Tesla Even As Chinese EV Stocks See Red",
+      "link": "https://stocktwits.com/news-articles/markets/equity/tsla-stock-october-mag-7-king-2-motorcycle-stocks-race-past-tesla-chinese-ev-stocks-red/cZU9G6nRB6e?.tsrc=rss",
+      "published": "Wed, 28 Oct 2026 03:08:37 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-28T03:33:54.378403+00:00"
+    },
+    {
+      "ticker": "AVGO",
+      "title": "Broadcom CEO says capital is ‘available’ after banks wavered",
+      "link": "https://www.thestreet.com/latest-news/broadcom-avgo-anthropic-63-billion-chip-deal-banks?.tsrc=rss",
+      "published": "Wed, 28 Oct 2026 02:03:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-28T03:33:54.692602+00:00"
+    },
+    {
+      "ticker": "NFLX",
+      "title": "Why Did NFLX, OPEN, WHR Stocks Tumble To 52-Week Lows Today?",
+      "link": "https://stocktwits.com/news-articles/markets/equity/why-did-nflx-open-whr-stocks-tumble-to-52-week-lows-today/cZUB6jzRB64?.tsrc=rss",
+      "published": "Wed, 28 Oct 2026 02:52:15 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-28T03:33:55.170463+00:00"
     }
   ]
 }

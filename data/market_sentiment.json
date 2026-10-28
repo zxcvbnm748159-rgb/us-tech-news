@@ -1,14 +1,14 @@
 {
   "date": "2026-10-27",
-  "score": 82,
+  "score": 80,
   "label": "Bullish",
   "counts": {
-    "positive": 88,
-    "negative": 19,
-    "neutral": 144
+    "positive": 90,
+    "negative": 22,
+    "neutral": 146
   },
-  "total": 251,
-  "updated_at": "2026-10-28T01:57:57.835759+00:00",
+  "total": 258,
+  "updated_at": "2026-10-28T03:33:56.220361+00:00",
   "articles": [
     {
       "link": "https://www.fool.com/investing/2026/10/27/brazil-stocks-plunged-should-you-buy-the-dip-in-mercadolibre/?.tsrc=rss",
@@ -1013,6 +1013,34 @@
     {
       "link": "https://www.barchart.com/story/news/8483724/a-1-billion-reason-to-consider-buying-the-ibm-stock-dip?.tsrc=rss",
       "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/7066a700-b33b-3fa1-858d-f75f49b920da/dow-jones-futures-fall%2C-techs.html?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/openai-plans-buy-google-ai-025209648.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.thestreet.com/investing/samsungs-ai-boom-comes-with-a-100-billion-warning?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tech-stocks-soar-sk-hynix-024123086.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://stocktwits.com/news-articles/markets/equity/tsla-stock-october-mag-7-king-2-motorcycle-stocks-race-past-tesla-chinese-ev-stocks-red/cZU9G6nRB6e?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.thestreet.com/latest-news/broadcom-avgo-anthropic-63-billion-chip-deal-banks?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://stocktwits.com/news-articles/markets/equity/why-did-nflx-open-whr-stocks-tumble-to-52-week-lows-today/cZUB6jzRB64?.tsrc=rss",
+      "sentiment": "negative"
     }
   ]
 }
