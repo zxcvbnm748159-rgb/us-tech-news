@@ -1,7 +1,7 @@
 {
   "date": "2026-10-28",
   "window_days": 7,
-  "source_count": 1406,
+  "source_count": 1426,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 245,
+      "count": 250,
       "kind": "ticker"
     },
     {
@@ -21,7 +21,7 @@
         "revenue guidance",
         "profit forecast"
       ],
-      "count": 157,
+      "count": 162,
       "kind": "topic"
     },
     {
@@ -30,7 +30,7 @@
       "search_terms": [
         "GOOGL"
       ],
-      "count": 142,
+      "count": 144,
       "kind": "ticker"
     },
     {
@@ -39,7 +39,7 @@
       "search_terms": [
         "TSLA"
       ],
-      "count": 140,
+      "count": 142,
       "kind": "ticker"
     },
     {
@@ -48,7 +48,7 @@
       "search_terms": [
         "META"
       ],
-      "count": 128,
+      "count": 129,
       "kind": "ticker"
     },
     {
@@ -57,7 +57,7 @@
       "search_terms": [
         "MSFT"
       ],
-      "count": 121,
+      "count": 125,
       "kind": "ticker"
     },
     {
@@ -66,7 +66,7 @@
       "search_terms": [
         "AAPL"
       ],
-      "count": 91,
+      "count": 93,
       "kind": "ticker"
     },
     {
@@ -84,7 +84,7 @@
       "search_terms": [
         "ORCL"
       ],
-      "count": 57,
+      "count": 59,
       "kind": "ticker"
     },
     {
@@ -97,6 +97,15 @@
       "kind": "ticker"
     },
     {
+      "label": "PLTR",
+      "query": "PLTR",
+      "search_terms": [
+        "PLTR"
+      ],
+      "count": 51,
+      "kind": "ticker"
+    },
+    {
       "label": "INTC",
       "query": "INTC",
       "search_terms": [
@@ -104,18 +113,9 @@
       ],
       "count": 50,
       "kind": "ticker"
-    },
-    {
-      "label": "PLTR",
-      "query": "PLTR",
-      "search_terms": [
-        "PLTR"
-      ],
-      "count": 50,
-      "kind": "ticker"
     }
   ],
-  "updated_at": "2026-10-28T23:43:31.592090+00:00",
+  "updated_at": "2026-10-29T02:54:10.230142+00:00",
   "articles": [
     {
       "ticker": "MSFT",
@@ -18394,6 +18394,266 @@
       "impact_direction": "neutral",
       "sentiment": "neutral",
       "fetched_at": "2026-10-28T23:43:30.100873+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Nvidia's $3 billion Meta bet reveals a 30-fold shift",
+      "link": "https://www.thestreet.com/investing/nvidia-3-billion-meta-investment-ai-strategy?.tsrc=rss",
+      "published": "Thu, 29 Oct 2026 02:03:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-29T02:54:07.523237+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "OpenAI Reportedly Plans to Buy Google's AI Chips. Should You Sell Nvidia Stock?",
+      "link": "https://www.fool.com/investing/2026/10/28/openai-reportedly-plans-to-buy-google-s-ai-chips-should-you-sell-nvidia-stock/?.tsrc=rss",
+      "published": "Thu, 29 Oct 2026 00:57:01 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-29T02:54:07.523338+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "A Simple Rule for the Semiconductor ETF: Buy After a 15% Drop. Here's How It Has Done Since 2012.",
+      "link": "https://www.fool.com/investing/2026/10/28/a-simple-rule-for-the-semiconductor-etf-buy-after-a-15-drop-here-s-how-it-has-done-since-2012/?.tsrc=rss",
+      "published": "Thu, 29 Oct 2026 02:43:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-29T02:54:07.523439+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Why Vertiv Stock Soared Today",
+      "link": "https://www.fool.com/investing/2026/10/28/why-vertiv-stock-soared-today/?.tsrc=rss",
+      "published": "Thu, 29 Oct 2026 02:27:51 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-29T02:54:07.523464+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "The Fed Holds Interest Rates in a 10–2 Vote. Here's What This Means for Artificial Intelligence (AI) Stocks.",
+      "link": "https://www.fool.com/investing/2026/10/28/the-fed-holds-interest-rates-in-a-102-vote-heres-what-this-means-for-artificial-intelligence-ai-stocks/?.tsrc=rss",
+      "published": "Thu, 29 Oct 2026 01:36:42 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-29T02:54:07.523586+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "November Is Already Dated: HomeView Ships Nov 13, Wells Fargo’s Agent Contract Goes Live Nov 24, Black Friday Is Nov 27",
+      "link": "https://finance.yahoo.com/technology/ai/articles/november-already-dated-homeview-ships-001307571.html?.tsrc=rss",
+      "published": "Thu, 29 Oct 2026 00:13:07 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-29T02:54:07.668733+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "33 Wall Street Giants Block Tokenized Stocks, But Apple and Tesla Stay Silent",
+      "link": "https://beincrypto.com/wall-street-giants-block-tokenized-stock/?.tsrc=rss",
+      "published": "Thu, 29 Oct 2026 00:08:14 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-29T02:54:07.668832+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "U.S. stock futures drop as Alphabet slides on soft earnings, Microsoft firms",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/u-stock-futures-drop-alphabet-010136494.html?.tsrc=rss",
+      "published": "Thu, 29 Oct 2026 01:01:36 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-29T02:54:07.822916+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Why Is Microsoft (MSFT) Offering Buyouts To 60,000 Employees?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-microsoft-msft-offering-buyouts-001913452.html?.tsrc=rss",
+      "published": "Thu, 29 Oct 2026 00:19:13 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-29T02:54:07.822960+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Microsoft and Alphabet Just Reported Earnings, Putting the AI Boom to the Test",
+      "link": "https://www.fool.com/investing/2026/10/28/microsoft-and-alphabet-just-reported-earnings-putting-the-ai-boom-to-the-test/?.tsrc=rss",
+      "published": "Thu, 29 Oct 2026 00:19:01 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-29T02:54:07.822996+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "S&P 500, Nasdaq Futures Dip As Weaker-Than-Expected Alphabet Earnings Reignite AI Spending Worries —  GOOGL, MSFT, ORCL, NVDA, MRVL In Focus",
+      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-futures-dip-as-weaker-than-expected-alphabet-earnings-reignite-ai-spending-worries-googl-msft-orcl-nvda-mrvl-in-focus/cZUQ2gwR9Gq?.tsrc=rss",
+      "published": "Thu, 29 Oct 2026 00:10:28 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-29T02:54:07.823074+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "ServiceNow, Fortinet Results Dent SaaS Sentiment: CRM, PANW, INTU, ADBE Slide In Sympathy",
+      "link": "https://stocktwits.com/news-articles/markets/equity/service-now-fortinet-results-dent-saa-s-sentiment-crm-panw-intu-adbe-slide-in-sympathy/cZUQ3BVR9Gw?.tsrc=rss",
+      "published": "Thu, 29 Oct 2026 01:59:54 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-29T02:54:07.939598+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Oracle vs. Palo Alto Networks: Which Tech Stock Is the Better Buy in 2026?",
+      "link": "https://www.fool.com/coverage/better-buy/2026/10/28/oracle-vs-palo-alto-networks-which-tech-stock-is-the-better-buy-in-2026/?.tsrc=rss",
+      "published": "Thu, 29 Oct 2026 01:27:01 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-29T02:54:07.939672+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "Meta says its expanded processing capacity is driving ad results",
+      "link": "https://www.socialmediatoday.com/news/meta-says-its-expanded-processing-capacity-is-driving-ad-results/873133/?.tsrc=rss",
+      "published": "Wed, 28 Oct 2026 22:44:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-29T02:54:08.233270+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Elon Musk vs. Tesla? His Midterm Money Could Work Against His Own Cars",
+      "link": "https://finance.yahoo.com/economy/policy/articles/elon-musk-vs-tesla-midterm-010409773.html?.tsrc=rss",
+      "published": "Thu, 29 Oct 2026 01:04:09 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-29T02:54:08.366075+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "History Shows That Buying the Dip Can Yield Huge Profits. Consider Snapping Up These 3 $100+ Stocks Here.",
+      "link": "https://www.barchart.com/story/news/8508656/history-shows-that-buying-the-dip-can-yield-huge-profits-consider-snapping-up-these-3-100-stocks-here?.tsrc=rss",
+      "published": "Wed, 28 Oct 2026 18:32:44 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-29T02:54:08.366186+00:00"
+    },
+    {
+      "ticker": "ORCL",
+      "title": "Oracle Targets $225B Revenue by 2030 as AI Cloud Build-Out Accelerates",
+      "link": "https://www.marketbeat.com/instant-alerts/event-oracle-targets-225b-revenue-by-2030-as-ai-cloud-build-out-accelerates-2026-10-28/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+      "published": "Thu, 29 Oct 2026 01:04:08 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-29T02:54:08.910598+00:00"
+    },
+    {
+      "ticker": "ORCL",
+      "title": "Review & Preview: Earnings Divergence",
+      "link": "https://finance.yahoo.com/m/217fd825-fe07-33fa-9446-41cabdec72c2/review-%26-preview%3A-earnings.html?.tsrc=rss",
+      "published": "Wed, 28 Oct 2026 23:55:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-29T02:54:08.910636+00:00"
+    },
+    {
+      "ticker": "NFLX",
+      "title": "Why Netflix reportedly walked away from Xbox licensing deal",
+      "link": "https://www.thestreet.com/investing/stocks/why-netflix-reportedly-walked-away-from-xbox-licensing-deal?.tsrc=rss",
+      "published": "Thu, 29 Oct 2026 01:37:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-29T02:54:09.220130+00:00"
+    },
+    {
+      "ticker": "PLTR",
+      "title": "Palantir Could Crush Q3 Earnings, But 1 Risk Could Spoil the Rally",
+      "link": "https://www.barchart.com/story/news/8507734/palantir-could-crush-q3-earnings-but-1-risk-could-spoil-the-rally?.tsrc=rss",
+      "published": "Wed, 28 Oct 2026 17:52:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-29T02:54:09.627775+00:00"
     }
   ]
 }
