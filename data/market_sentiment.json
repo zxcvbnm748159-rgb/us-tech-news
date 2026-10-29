@@ -1,14 +1,14 @@
 {
   "date": "2026-10-29",
-  "score": 64,
-  "label": "Bullish",
+  "score": 59,
+  "label": "Mixed",
   "counts": {
-    "positive": 7,
-    "negative": 4,
-    "neutral": 11
+    "positive": 16,
+    "negative": 11,
+    "neutral": 29
   },
-  "total": 22,
-  "updated_at": "2026-10-29T09:06:23.833217+00:00",
+  "total": 56,
+  "updated_at": "2026-10-29T12:07:15.876641+00:00",
   "articles": [
     {
       "link": "https://247wallst.com/investing/2026/10/29/mark-cuban-warns-hyperscaler-borrowing-could-create-a-debt-bubble-in-the-united-states-of-america/?.tsrc=rss",
@@ -96,6 +96,142 @@
     },
     {
       "link": "https://finance.yahoo.com/m/ec43d90a-a22a-3227-8cfa-a34d4c621d05/intel-stock-enters-earnings.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.trefis.com/stock/nvda/articles/621299/can-nvidia-stock-jump-50/2026-10-29?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/4364a01c-d452-3ae6-8e18-06c61a12054d/living-on-the-edge-with.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/29/if-there-was-ever-a-reason-to-avoid-the-anthropic-ipo-this-is-it/?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/29/3-unstoppable-sp-500-stocks-to-buy-before-october/?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.trefis.com/stock/mu/articles/621290/is-micron-stock-riskier-than-it-looks/2026-10-29?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/29/warren-buffetts-huge-winner-streak-far-from-over/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/articles/omdia-global-smartphone-shipments-fell-105600542.html?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/1cbdc2dc-9ae2-3c30-90f9-33ba148b5388/how-garmin-ceo-cliff-pemble.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/6c0b166b-19af-3d40-b6ff-7c6d65d3c4da/dow-jones-futures-fall%3B.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/10/29/alphabet-vs-microsoft-why-free-cash-flow-just-became-the-only-ai-scorecard-that-matters/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/10/29/openai-now-makes-up-11-of-microsofts-revenue/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/telesign-partners-microsoft-become-key-113500449.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://investorshub.advfn.com/market-news/article/38853/us-stock-futures-mixed-as-alphabet-falls-microsoft-gains-and-fed-comments-draw-attention-to-ai-spending?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/754eba0d-044d-37fc-95cd-3c27d83187ba/caterpillar-revenue-miss%2C.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/bond-yields-crude-prices-lift-115015743.html?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/10/29/caterpillar-beat-earnings-and-still-dropped-9-the-ai-power-trade-just-hit-the-same-wall-as-software/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-down-pre-bell-ahead-114743483.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/29/under-radar-utility-massive-deal-black-hills/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/10/29/the-cloud-titans-microsofts-copilot-backlog-challenges-amazons-data-center-re-acceleration/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.thestreet.com/retail/albertsons-advantage-over-kroger-walmart-amazon-grocery-shoppers?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/10/29/alphabet-failed-wall-streets-new-ai-test-amazon-takes-it-tonight/?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/video/oracle-injects-optimism-ai-trade-094540388.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/muse-goes-regional-singapore-becomes-093004803.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/aehr-test-systems-appoints-former-113000581.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.trefis.com/stock/tsla/articles/621244/why-should-tesla-stock-holders-watch-this-one-number/2026-10-29?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/29/teslas-free-cash-flow-beat-good-news-bad-news-and/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/10/29/amd-regaining-its-1-trillion-valuation-faces-the-ultimate-test-on-nov-3/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.tikr.com/blog/alphabet-sinks-10-on-9-billion-cash-burn-and-significant-miss-in-search?ref=yahoofinance&.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/10/29/oracle-just-did-what-alphabet-couldnt-convince-wall-street-that-ai-spending-pays-off/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/earnings-beat-could-reset-case-101222771.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.investopedia.com/here-is-how-much-intel-stock-is-expected-to-move-after-earnings-intc-q3-fy2026-12198697?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/video/anthropic-got-hacked-again-time-110000540.html?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.trefis.com/stock/pltr/articles/621237/why-is-everybody-paying-a-premium-for-palantir-stock/2026-10-29?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/surf-air-mobility-provides-surfos-103000525.html?.tsrc=rss",
       "sentiment": "positive"
     }
   ]
