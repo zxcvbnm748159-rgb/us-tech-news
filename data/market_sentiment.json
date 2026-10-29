@@ -1,14 +1,14 @@
 {
   "date": "2026-10-29",
-  "score": 68,
+  "score": 66,
   "label": "Bullish",
   "counts": {
-    "positive": 60,
-    "negative": 28,
-    "neutral": 87
+    "positive": 63,
+    "negative": 33,
+    "neutral": 99
   },
-  "total": 175,
-  "updated_at": "2026-10-29T20:01:25.612265+00:00",
+  "total": 195,
+  "updated_at": "2026-10-29T21:05:08.592862+00:00",
   "articles": [
     {
       "link": "https://247wallst.com/investing/2026/10/29/mark-cuban-warns-hyperscaler-borrowing-could-create-a-debt-bubble-in-the-united-states-of-america/?.tsrc=rss",
@@ -709,6 +709,86 @@
     {
       "link": "https://finance.yahoo.com/markets/stocks/articles/why-bell-global-equities-fund-163432457.html?.tsrc=rss",
       "sentiment": "positive"
+    },
+    {
+      "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-gatx-corporation-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-builders-firstsource-inc-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-agco-corporation-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-acadian-asset-management-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-api-group-corporation-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/ebb60b70-4292-33f6-9001-6afe3488adf5/microsoft%2C-ibd-stock-of-the.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/b19c6e1a-ed1d-3f04-8a85-fb91af9a3ec9/microsoft-issues-%2425-billion.html?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.cfodive.com/news/microsoft-expands-copilot-reach-in-finance-workflows/873239/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/792cbf7a-885c-3a76-8cf5-7e84ab8048cf/big-tech-earnings-couldn%E2%80%99t.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/0a5ce393-a6df-312b-af64-1893a264d0df/dow-jones-futures%3A-amazon%2C.html?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/video/amazons-mixed-q3-earnings-raises-some-questions-205515747.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.axios.com/2026/10/29/amazon-stock-earnings-ai#utm_source=yahoo_finance&utm_medium=partner&utm_campaign=subs-partner-yahoo-finance-media?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-stock-markets-fluctuate-mixed-024440853.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/video/amazons-q3-report-shows-it-misses-on-both-sales-and-earnings-202013292.html?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/video/breaking-down-amazons-third-quarter-204356585.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/video/intel-pc-demand-will-eventually-return-after-outlasting-memory-prices-204459908.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/video/intel-stock-plunges-after-posting-disappointing-q4-outlook-200731652.html?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://stocktwits.com/news-articles/markets/equity/intc-stock-tumbles-after-hours-after-q3-pc-slump-and-supply-bottlenecks-cloud-fourth-quarter-guidance/cZUQyleR9Rf?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/intel-plunges-20-weak-q4-204356045.html?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/29/could-1000-invested-in-palantir-turn-into-100000/?.tsrc=rss",
+      "sentiment": "neutral"
     }
   ]
 }

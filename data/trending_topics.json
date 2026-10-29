@@ -1,7 +1,7 @@
 {
   "date": "2026-10-29",
   "window_days": 7,
-  "source_count": 1349,
+  "source_count": 1369,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 235,
+      "count": 240,
       "kind": "ticker"
     },
     {
@@ -21,7 +21,7 @@
         "revenue guidance",
         "profit forecast"
       ],
-      "count": 160,
+      "count": 171,
       "kind": "topic"
     },
     {
@@ -30,7 +30,7 @@
       "search_terms": [
         "GOOGL"
       ],
-      "count": 146,
+      "count": 150,
       "kind": "ticker"
     },
     {
@@ -39,7 +39,7 @@
       "search_terms": [
         "MSFT"
       ],
-      "count": 134,
+      "count": 138,
       "kind": "ticker"
     },
     {
@@ -75,7 +75,7 @@
       "search_terms": [
         "AMZN"
       ],
-      "count": 81,
+      "count": 83,
       "kind": "ticker"
     },
     {
@@ -102,7 +102,7 @@
       "search_terms": [
         "INTC"
       ],
-      "count": 51,
+      "count": 55,
       "kind": "ticker"
     },
     {
@@ -111,11 +111,11 @@
       "search_terms": [
         "PLTR"
       ],
-      "count": 49,
+      "count": 50,
       "kind": "ticker"
     }
   ],
-  "updated_at": "2026-10-29T20:01:25.654273+00:00",
+  "updated_at": "2026-10-29T21:05:08.635900+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -17653,6 +17653,266 @@
       "impact_direction": "neutral",
       "sentiment": "positive",
       "fetched_at": "2026-10-29T20:01:25.611509+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "GATX Corporation Q3 2026 Earnings Call Summary",
+      "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-gatx-corporation-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+      "published": "Thu, 29 Oct 2026 21:00:16 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-29T21:05:06.057236+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Builders FirstSource, Inc. Q3 2026 Earnings Call Summary",
+      "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-builders-firstsource-inc-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+      "published": "Thu, 29 Oct 2026 20:53:46 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-29T21:05:06.057285+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "AGCO Corporation Q3 2026 Earnings Call Summary",
+      "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-agco-corporation-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+      "published": "Thu, 29 Oct 2026 20:52:15 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-29T21:05:06.057312+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Acadian Asset Management Q3 2026 Earnings Call Summary",
+      "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-acadian-asset-management-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+      "published": "Thu, 29 Oct 2026 20:50:26 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-29T21:05:06.057357+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "APi Group Corporation Q3 2026 Earnings Call Summary",
+      "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-api-group-corporation-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+      "published": "Thu, 29 Oct 2026 20:50:24 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-29T21:05:06.057383+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Microsoft, IBD Stock Of The Day, Showing Quickening Cloud Growth",
+      "link": "https://finance.yahoo.com/m/ebb60b70-4292-33f6-9001-6afe3488adf5/microsoft%2C-ibd-stock-of-the.html?.tsrc=rss",
+      "published": "Thu, 29 Oct 2026 20:56:44 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-29T21:05:06.331391+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Microsoft Issues $25 Billion in New Bonds, Adding to AI Debt Spree",
+      "link": "https://finance.yahoo.com/m/b19c6e1a-ed1d-3f04-8a85-fb91af9a3ec9/microsoft-issues-%2425-billion.html?.tsrc=rss",
+      "published": "Thu, 29 Oct 2026 20:07:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-29T21:05:06.331470+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Microsoft expands Copilot’s reach in finance workflows",
+      "link": "https://www.cfodive.com/news/microsoft-expands-copilot-reach-in-finance-workflows/873239/?.tsrc=rss",
+      "published": "Thu, 29 Oct 2026 19:35:18 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-29T21:05:06.331528+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Big Tech Earnings Couldn’t Ignite Chip Stocks. What The Semis Need Now.",
+      "link": "https://finance.yahoo.com/m/792cbf7a-885c-3a76-8cf5-7e84ab8048cf/big-tech-earnings-couldn%E2%80%99t.html?.tsrc=rss",
+      "published": "Thu, 29 Oct 2026 19:14:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-29T21:05:06.331564+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Dow Jones Futures: Amazon, Intel Lead Earnings Losers After Google, ServiceNow, Fortinet Hit Nasdaq",
+      "link": "https://finance.yahoo.com/m/0a5ce393-a6df-312b-af64-1893a264d0df/dow-jones-futures%3A-amazon%2C.html?.tsrc=rss",
+      "published": "Thu, 29 Oct 2026 20:58:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-29T21:05:06.474180+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Amazon's mixed Q3 earnings raises some questions",
+      "link": "https://finance.yahoo.com/video/amazons-mixed-q3-earnings-raises-some-questions-205515747.html?.tsrc=rss",
+      "published": "Thu, 29 Oct 2026 20:55:15 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-29T21:05:06.474217+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Amazon shares sink as it spends heavily on AI",
+      "link": "https://www.axios.com/2026/10/29/amazon-stock-earnings-ai#utm_source=yahoo_finance&utm_medium=partner&utm_campaign=subs-partner-yahoo-finance-media?.tsrc=rss",
+      "published": "Thu, 29 Oct 2026 20:43:29 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-29T21:05:06.474251+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Google drags down US stocks as Lagarde signals early ECB exit",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-stock-markets-fluctuate-mixed-024440853.html?.tsrc=rss",
+      "published": "Thu, 29 Oct 2026 20:38:52 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-29T21:05:06.474289+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Amazon's Q3 report shows it misses on both sales and earnings",
+      "link": "https://finance.yahoo.com/video/amazons-q3-report-shows-it-misses-on-both-sales-and-earnings-202013292.html?.tsrc=rss",
+      "published": "Thu, 29 Oct 2026 20:15:29 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-29T21:05:06.641938+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Breaking Down Amazon's Third-Quarter Earnings",
+      "link": "https://finance.yahoo.com/video/breaking-down-amazons-third-quarter-204356585.html?.tsrc=rss",
+      "published": "Thu, 29 Oct 2026 20:43:56 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-29T21:05:06.641973+00:00"
+    },
+    {
+      "ticker": "INTC",
+      "title": "Intel: PC demand will 'eventually' return after outlasting memory prices",
+      "link": "https://finance.yahoo.com/video/intel-pc-demand-will-eventually-return-after-outlasting-memory-prices-204459908.html?.tsrc=rss",
+      "published": "Thu, 29 Oct 2026 20:44:59 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-29T21:05:07.710340+00:00"
+    },
+    {
+      "ticker": "INTC",
+      "title": "Intel stock plunges after posting disappointing Q4 outlook",
+      "link": "https://finance.yahoo.com/video/intel-stock-plunges-after-posting-disappointing-q4-outlook-200731652.html?.tsrc=rss",
+      "published": "Thu, 29 Oct 2026 20:07:31 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-29T21:05:07.710406+00:00"
+    },
+    {
+      "ticker": "INTC",
+      "title": "INTC Stock Tumbles After-Hours After Q3 PC Slump And Supply Bottlenecks Cloud Fourth-Quarter Guidance",
+      "link": "https://stocktwits.com/news-articles/markets/equity/intc-stock-tumbles-after-hours-after-q3-pc-slump-and-supply-bottlenecks-cloud-fourth-quarter-guidance/cZUQyleR9Rf?.tsrc=rss",
+      "published": "Thu, 29 Oct 2026 20:54:01 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-29T21:05:07.710447+00:00"
+    },
+    {
+      "ticker": "INTC",
+      "title": "Intel plunges 20% as weak Q4 forecast overshadows earnings beat",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/intel-plunges-20-weak-q4-204356045.html?.tsrc=rss",
+      "published": "Thu, 29 Oct 2026 20:43:56 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-29T21:05:07.710496+00:00"
+    },
+    {
+      "ticker": "PLTR",
+      "title": "Could $1,000 Invested in Palantir Turn Into $100,000?",
+      "link": "https://www.fool.com/investing/2026/10/29/could-1000-invested-in-palantir-turn-into-100000/?.tsrc=rss",
+      "published": "Thu, 29 Oct 2026 20:50:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-29T21:05:07.990057+00:00"
     }
   ]
 }
