@@ -1,14 +1,14 @@
 {
   "date": "2026-10-28",
-  "score": 77,
+  "score": 76,
   "label": "Bullish",
   "counts": {
     "positive": 75,
-    "negative": 22,
-    "neutral": 143
+    "negative": 24,
+    "neutral": 148
   },
-  "total": 240,
-  "updated_at": "2026-10-29T02:54:10.184805+00:00",
+  "total": 247,
+  "updated_at": "2026-10-29T03:54:54.596452+00:00",
   "articles": [
     {
       "link": "https://finance.yahoo.com/technology/ai/articles/otto-group-sereact-bring-nvidia-070000277.html?.tsrc=rss",
@@ -969,6 +969,34 @@
     {
       "link": "https://www.barchart.com/story/news/8507734/palantir-could-crush-q3-earnings-but-1-risk-could-spoil-the-rally?.tsrc=rss",
       "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-dropped-nearly-6-020035809.html?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/28/broadcom-stock-is-29-below-its-record-after-its-new-anthropic-deal-i-d-consider-buying-it-a-little-at-a-time/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://stocktwits.com/news-articles/markets/equity/crwv-nbis-iren-apld-stocks-drop-after-microsoft-capex-falls-short-on-delayed-third-party-capacity/cZUQeHWR9bT?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.foxbusiness.com/technology/alphabet-microsoft-earnings-reveal-surging-ai-demand-spending-soars?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/energy/articles/mitti-labs-salesforce-partner-scale-033000347.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://stocktwits.com/news-articles/markets/equity/dow-s-and-p-500-nasdaq-futures-mixed-after-fed-holds-rates-steady-goog-googl-iova-msft-now-in-focus/cZUQ4vlR9Gz?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://beincrypto.com/stealth-bear-market-crypto-stocks-coinbase/?.tsrc=rss",
+      "sentiment": "neutral"
     }
   ]
 }

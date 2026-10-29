@@ -1,7 +1,7 @@
 {
   "date": "2026-10-28",
   "window_days": 7,
-  "source_count": 1426,
+  "source_count": 1433,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 250,
+      "count": 252,
       "kind": "ticker"
     },
     {
@@ -21,7 +21,7 @@
         "revenue guidance",
         "profit forecast"
       ],
-      "count": 162,
+      "count": 163,
       "kind": "topic"
     },
     {
@@ -30,7 +30,7 @@
       "search_terms": [
         "GOOGL"
       ],
-      "count": 144,
+      "count": 147,
       "kind": "ticker"
     },
     {
@@ -57,7 +57,7 @@
       "search_terms": [
         "MSFT"
       ],
-      "count": 125,
+      "count": 127,
       "kind": "ticker"
     },
     {
@@ -115,7 +115,7 @@
       "kind": "ticker"
     }
   ],
-  "updated_at": "2026-10-29T02:54:10.230142+00:00",
+  "updated_at": "2026-10-29T03:54:54.630030+00:00",
   "articles": [
     {
       "ticker": "MSFT",
@@ -18654,6 +18654,97 @@
       "impact_direction": "neutral",
       "sentiment": "negative",
       "fetched_at": "2026-10-29T02:54:09.627775+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Nvidia Stock Has Dropped Nearly 6% in a Month; Now Jim Cramer Is Asking Why ‘Anything Negative in Tech’ Immediately Crushes NVDA",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-dropped-nearly-6-020035809.html?.tsrc=rss",
+      "published": "Thu, 29 Oct 2026 02:00:35 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-29T03:54:51.319697+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Broadcom Stock Is 29% Below Its Record. After Its New Anthropic Deal, I'd Consider Buying It a Little at a Time.",
+      "link": "https://www.fool.com/investing/2026/10/28/broadcom-stock-is-29-below-its-record-after-its-new-anthropic-deal-i-d-consider-buying-it-a-little-at-a-time/?.tsrc=rss",
+      "published": "Thu, 29 Oct 2026 03:12:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-29T03:54:51.319755+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "CRWV, NBIS, IREN, APLD Stocks Drop After Microsoft Capex Falls Short On Delayed Third-Party Capacity",
+      "link": "https://stocktwits.com/news-articles/markets/equity/crwv-nbis-iren-apld-stocks-drop-after-microsoft-capex-falls-short-on-delayed-third-party-capacity/cZUQeHWR9bT?.tsrc=rss",
+      "published": "Thu, 29 Oct 2026 03:35:48 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-29T03:54:51.658555+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Alphabet, Microsoft earnings reveal surging AI demand as spending soars",
+      "link": "https://www.foxbusiness.com/technology/alphabet-microsoft-earnings-reveal-surging-ai-demand-spending-soars?.tsrc=rss",
+      "published": "Thu, 29 Oct 2026 00:45:28 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-29T03:54:51.658612+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "MITTI LABS & SALESFORCE PARTNER TO SCALE WATER-SAVING RICE FARMING PRACTICES THAT REDUCE METHANE EMISSIONS",
+      "link": "https://finance.yahoo.com/energy/articles/mitti-labs-salesforce-partner-scale-033000347.html?.tsrc=rss",
+      "published": "Thu, 29 Oct 2026 03:30:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-29T03:54:51.830218+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Dow, S&P 500, Nasdaq Futures Mixed After Fed Holds Rates Steady: GOOG, GOOGL, IOVA, MSFT, NOW In Focus",
+      "link": "https://stocktwits.com/news-articles/markets/equity/dow-s-and-p-500-nasdaq-futures-mixed-after-fed-holds-rates-steady-goog-googl-iova-msft-now-in-focus/cZUQ4vlR9Gz?.tsrc=rss",
+      "published": "Thu, 29 Oct 2026 02:59:32 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-29T03:54:51.830265+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Stealth Bear Market Hits Crypto Stocks as Coinbase, Circle, Robinhood Fall 40-56%",
+      "link": "https://beincrypto.com/stealth-bear-market-crypto-stocks-coinbase/?.tsrc=rss",
+      "published": "Thu, 29 Oct 2026 02:54:21 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-29T03:54:51.830302+00:00"
     }
   ]
 }
