@@ -1,14 +1,14 @@
 {
   "date": "2026-10-29",
-  "score": 65,
+  "score": 64,
   "label": "Bullish",
   "counts": {
     "positive": 69,
-    "negative": 37,
-    "neutral": 111
+    "negative": 38,
+    "neutral": 113
   },
-  "total": 217,
-  "updated_at": "2026-10-30T00:32:50.872066+00:00",
+  "total": 220,
+  "updated_at": "2026-10-30T00:56:03.739005+00:00",
   "articles": [
     {
       "link": "https://247wallst.com/investing/2026/10/29/mark-cuban-warns-hyperscaler-borrowing-could-create-a-debt-bubble-in-the-united-states-of-america/?.tsrc=rss",
@@ -876,6 +876,18 @@
     },
     {
       "link": "https://www.fool.com/investing/2026/10/29/history-says-adobe-stock-comes-back-from-deep-drops-it-s-now-64-below-its-2021-record/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/healthcare/articles/steve-jobs-son-says-glp-233005833.html?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/29/amazon-just-burned-usd42-billion-in-cash-chasing-ai-growth-is-wall-street-ignoring-the-risk/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.thestreet.com/investing/stocks/meta-100-billion-stock-sale-shrinks-investor-shares?.tsrc=rss",
       "sentiment": "neutral"
     }
   ]

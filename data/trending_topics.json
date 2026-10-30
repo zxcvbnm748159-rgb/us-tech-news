@@ -1,7 +1,7 @@
 {
   "date": "2026-10-29",
   "window_days": 7,
-  "source_count": 1391,
+  "source_count": 1394,
   "topics": [
     {
       "label": "NVDA",
@@ -57,7 +57,7 @@
       "search_terms": [
         "META"
       ],
-      "count": 108,
+      "count": 109,
       "kind": "ticker"
     },
     {
@@ -66,7 +66,7 @@
       "search_terms": [
         "AAPL"
       ],
-      "count": 87,
+      "count": 88,
       "kind": "ticker"
     },
     {
@@ -75,7 +75,7 @@
       "search_terms": [
         "AMZN"
       ],
-      "count": 87,
+      "count": 88,
       "kind": "ticker"
     },
     {
@@ -115,7 +115,7 @@
       "kind": "ticker"
     }
   ],
-  "updated_at": "2026-10-30T00:32:50.897782+00:00",
+  "updated_at": "2026-10-30T00:56:03.764278+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -18199,6 +18199,45 @@
       "impact_direction": "neutral",
       "sentiment": "neutral",
       "fetched_at": "2026-10-30T00:32:50.692586+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Steve Jobs' Son Says GLP-1 Weight Loss Drugs Could Be Among Most Important Medicines Ever, With Potential Impact on Cancer",
+      "link": "https://finance.yahoo.com/healthcare/articles/steve-jobs-son-says-glp-233005833.html?.tsrc=rss",
+      "published": "Thu, 29 Oct 2026 23:30:05 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-30T00:56:00.049462+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Amazon Just Burned $42 Billion in Cash Chasing AI Growth. Is Wall Street Ignoring the Risk?",
+      "link": "https://www.fool.com/investing/2026/10/29/amazon-just-burned-usd42-billion-in-cash-chasing-ai-growth-is-wall-street-ignoring-the-risk/?.tsrc=rss",
+      "published": "Fri, 30 Oct 2026 00:40:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-30T00:56:00.712188+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "Meta's $100 billion stock sale shrinks your slice of the company",
+      "link": "https://www.thestreet.com/investing/stocks/meta-100-billion-stock-sale-shrinks-investor-shares?.tsrc=rss",
+      "published": "Fri, 30 Oct 2026 00:37:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-30T00:56:00.934077+00:00"
     }
   ]
 }
