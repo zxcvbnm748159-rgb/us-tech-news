@@ -1,14 +1,14 @@
 {
   "date": "2026-10-30",
-  "score": 57,
-  "label": "Mixed",
+  "score": 71,
+  "label": "Bullish",
   "counts": {
-    "positive": 4,
-    "negative": 3,
-    "neutral": 4
+    "positive": 10,
+    "negative": 4,
+    "neutral": 16
   },
-  "total": 11,
-  "updated_at": "2026-10-30T06:40:37.864353+00:00",
+  "total": 30,
+  "updated_at": "2026-10-30T09:26:44.344861+00:00",
   "articles": [
     {
       "link": "https://www.fool.com/investing/2026/10/30/nov-2-could-be-a-big-day-for-apple-stock/?.tsrc=rss",
@@ -53,6 +53,82 @@
     {
       "link": "https://stocktwits.com/news-articles/markets/equity/dow-s-and-p-500-nasdaq-futures-fall-as-weak-tech-earnings-trigger-selloff-intc-iova-sls-amzn-stocks-in-focus/cZUhiAhR9RF?.tsrc=rss",
       "sentiment": "negative"
+    },
+    {
+      "link": "https://uk.finance.yahoo.com/news/intel-shares-plunge-22pc-pc-085518192.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/30/could-apples-first-touchscreen-macbook-pro-first-f/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://stocktwits.com/news-articles/markets/equity/nvda-stock-drops-nvidia-may-back-data-center-loan-its-own-customer-analyst-sees-little-impact-from-intel-s-weak-report/cZUhZT0R9RC?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/30/anthropic-just-committed-up-to-567-billion-to-comp/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/30/lockheed-martins-backlog-is-soaring-time-to-buy-th/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/energy/articles/energy-rally-lifts-ftse-100-090347154.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/article/amazon-alphabet-spacex-and-meta-are-all-to-blame-for-the-new-tech-stock-rout-090324190.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-083236552.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://stocktwits.com/news-articles/markets/equity/stocktwits-wall-street-wrap-tesla-broadcom-mercado-libre-get-bullish-calls-as-alphabet-enphase-face-downgrades/cZUhFooR9T5?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/european-shares-dip-amazon-intel-084629630.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/tech-firms-fresh-hit-earnings-024928854.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://stocktwits.com/news-articles/markets/equity/stocktwits-ai-roundup-intel-amazon-alphabet-results-trigger-meltdown-as-big-tech-s-record-spending-returns-to-focus/cZUhVBWR9T2?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-tesla-tsla-reworking-cybertruck-090955904.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/30/the-case-against-a-spacex-and-tesla-merger/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/30/oracle-just-capped-how-much-new-money-it-will-raise-i-d-consider-buying-a-small-stake-in-the-stock/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/articles/alphabet-tumbles-12-capex-why-070723105.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://stocktwits.com/news-articles/markets/equity/intc-stock-craters-premarket-after-q3-report-analyst-says-pc-market-softness-will-stunt-growth-slashes-price-target/cZUhFHbR9T3?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/coverage/charts/2026/10/30/palantir-technologies-vs-figma-comparing-revenue-growth-trends/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/coverage/charts/2026/10/30/applied-materials-vs-taiwan-semiconductor-manufacturing-comparing-revenue-growth-trends-between-these-artificial-intelligence-companies/?.tsrc=rss",
+      "sentiment": "positive"
     }
   ]
 }

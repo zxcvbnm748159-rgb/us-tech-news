@@ -1,7 +1,7 @@
 {
   "date": "2026-10-30",
   "window_days": 7,
-  "source_count": 1211,
+  "source_count": 1230,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 214,
+      "count": 219,
       "kind": "ticker"
     },
     {
@@ -21,7 +21,7 @@
         "revenue guidance",
         "profit forecast"
       ],
-      "count": 162,
+      "count": 164,
       "kind": "topic"
     },
     {
@@ -30,7 +30,7 @@
       "search_terms": [
         "GOOGL"
       ],
-      "count": 134,
+      "count": 139,
       "kind": "ticker"
     },
     {
@@ -48,7 +48,7 @@
       "search_terms": [
         "TSLA"
       ],
-      "count": 95,
+      "count": 97,
       "kind": "ticker"
     },
     {
@@ -66,7 +66,7 @@
       "search_terms": [
         "AMZN"
       ],
-      "count": 79,
+      "count": 81,
       "kind": "ticker"
     },
     {
@@ -84,7 +84,16 @@
       "search_terms": [
         "ORCL"
       ],
-      "count": 58,
+      "count": 60,
+      "kind": "ticker"
+    },
+    {
+      "label": "INTC",
+      "query": "INTC",
+      "search_terms": [
+        "INTC"
+      ],
+      "count": 56,
       "kind": "ticker"
     },
     {
@@ -97,25 +106,16 @@
       "kind": "ticker"
     },
     {
-      "label": "INTC",
-      "query": "INTC",
-      "search_terms": [
-        "INTC"
-      ],
-      "count": 55,
-      "kind": "ticker"
-    },
-    {
       "label": "PLTR",
       "query": "PLTR",
       "search_terms": [
         "PLTR"
       ],
-      "count": 46,
+      "count": 47,
       "kind": "ticker"
     }
   ],
-  "updated_at": "2026-10-30T06:40:37.895966+00:00",
+  "updated_at": "2026-10-30T09:26:44.373106+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -15859,6 +15859,253 @@
       "impact_direction": "neutral",
       "sentiment": "positive",
       "fetched_at": "2026-10-30T06:40:37.863809+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Intel shares plunge 22pc after PC slowdown",
+      "link": "https://uk.finance.yahoo.com/news/intel-shares-plunge-22pc-pc-085518192.html?.tsrc=rss",
+      "published": "Fri, 30 Oct 2026 08:55:18 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-30T09:26:41.388640+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Could Apple's First Touchscreen MacBook Pro, First Foldable iPhone Duo Phone, and HomeView Pole Vault Apple Beyond Nvidia to Become the First Company in the $10 Trillion Club?",
+      "link": "https://www.fool.com/investing/2026/10/30/could-apples-first-touchscreen-macbook-pro-first-f/?.tsrc=rss",
+      "published": "Fri, 30 Oct 2026 08:10:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-30T09:26:41.388695+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "NVDA Stock Drops: Nvidia May Back Data Center Loan For Its Own Customer, Analyst Sees Little Impact From Intel’s Weak Report",
+      "link": "https://stocktwits.com/news-articles/markets/equity/nvda-stock-drops-nvidia-may-back-data-center-loan-its-own-customer-analyst-sees-little-impact-from-intel-s-weak-report/cZUhZT0R9RC?.tsrc=rss",
+      "published": "Fri, 30 Oct 2026 07:22:38 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-30T09:26:41.388757+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Anthropic Just Committed Up to $567 Billion to Compute and Infrastructure. These 3 Industrial Stocks Build What That Money Buys.",
+      "link": "https://www.fool.com/investing/2026/10/30/anthropic-just-committed-up-to-567-billion-to-comp/?.tsrc=rss",
+      "published": "Fri, 30 Oct 2026 09:10:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-30T09:26:41.388818+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Lockheed Martin's Backlog Is Soaring: Time to Buy the Stock",
+      "link": "https://www.fool.com/investing/2026/10/30/lockheed-martins-backlog-is-soaring-time-to-buy-th/?.tsrc=rss",
+      "published": "Fri, 30 Oct 2026 09:05:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-30T09:26:41.388838+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Energy rally lifts FTSE 100 to lone gain in Europe as oil approaches 6-month high",
+      "link": "https://finance.yahoo.com/energy/articles/energy-rally-lifts-ftse-100-090347154.html?.tsrc=rss",
+      "published": "Fri, 30 Oct 2026 09:03:47 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-30T09:26:41.903040+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Amazon, Alphabet, SpaceX and Meta are all to blame for the new tech stock rout",
+      "link": "https://finance.yahoo.com/markets/stocks/article/amazon-alphabet-spacex-and-meta-are-all-to-blame-for-the-new-tech-stock-rout-090324190.html?.tsrc=rss",
+      "published": "Fri, 30 Oct 2026 09:03:24 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-30T09:26:41.903098+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Stock market today: Dow, S&P 500, Nasdaq futures fall as Amazon, Intel earnings rattle investors",
+      "link": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-083236552.html?.tsrc=rss",
+      "published": "Fri, 30 Oct 2026 08:32:36 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-30T09:26:41.903143+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Stocktwits Wall Street Wrap — Tesla, Broadcom, MercadoLibre Get Bullish Calls As Alphabet, Enphase Face Downgrades",
+      "link": "https://stocktwits.com/news-articles/markets/equity/stocktwits-wall-street-wrap-tesla-broadcom-mercado-libre-get-bullish-calls-as-alphabet-enphase-face-downgrades/cZUhFooR9T5?.tsrc=rss",
+      "published": "Fri, 30 Oct 2026 09:00:46 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-30T09:26:41.903175+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "European shares dip as Amazon, Intel stoke AI cash-burn fears",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/european-shares-dip-amazon-intel-084629630.html?.tsrc=rss",
+      "published": "Fri, 30 Oct 2026 08:46:29 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-30T09:26:41.903215+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Tech firms take fresh hit as earnings misses fan AI fears",
+      "link": "https://finance.yahoo.com/technology/ai/articles/tech-firms-fresh-hit-earnings-024928854.html?.tsrc=rss",
+      "published": "Fri, 30 Oct 2026 08:24:25 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-30T09:26:42.046585+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Stocktwits AI Roundup: Intel, Amazon, Alphabet Results Trigger Meltdown As Big Tech’s Record Spending Returns To Focus",
+      "link": "https://stocktwits.com/news-articles/markets/equity/stocktwits-ai-roundup-intel-amazon-alphabet-results-trigger-meltdown-as-big-tech-s-record-spending-returns-to-focus/cZUhVBWR9T2?.tsrc=rss",
+      "published": "Fri, 30 Oct 2026 08:07:28 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-30T09:26:42.046643+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Why Is Tesla (TSLA) Reworking Cybertruck Plans And Battery Rules Now?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-tesla-tsla-reworking-cybertruck-090955904.html?.tsrc=rss",
+      "published": "Fri, 30 Oct 2026 09:09:55 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-30T09:26:42.329226+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "The Case Against a SpaceX and Tesla Merger",
+      "link": "https://www.fool.com/investing/2026/10/30/the-case-against-a-spacex-and-tesla-merger/?.tsrc=rss",
+      "published": "Fri, 30 Oct 2026 06:50:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-30T09:26:42.329254+00:00"
+    },
+    {
+      "ticker": "ORCL",
+      "title": "Oracle Just Capped How Much New Money It Will Raise. I'd Consider Buying a Small Stake in the Stock.",
+      "link": "https://www.fool.com/investing/2026/10/30/oracle-just-capped-how-much-new-money-it-will-raise-i-d-consider-buying-a-small-stake-in-the-stock/?.tsrc=rss",
+      "published": "Fri, 30 Oct 2026 08:01:01 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-30T09:26:42.806294+00:00"
+    },
+    {
+      "ticker": "ORCL",
+      "title": "Alphabet tumbles 12% on capex: Why Oracle is bucking the tech sell-off",
+      "link": "https://finance.yahoo.com/technology/articles/alphabet-tumbles-12-capex-why-070723105.html?.tsrc=rss",
+      "published": "Fri, 30 Oct 2026 07:07:23 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-30T09:26:42.806327+00:00"
+    },
+    {
+      "ticker": "INTC",
+      "title": "INTC Stock Craters Premarket After Q3 Report: Analyst Says PC Market Softness Will Stunt Growth, Slashes Price Target",
+      "link": "https://stocktwits.com/news-articles/markets/equity/intc-stock-craters-premarket-after-q3-report-analyst-says-pc-market-softness-will-stunt-growth-slashes-price-target/cZUhFHbR9T3?.tsrc=rss",
+      "published": "Fri, 30 Oct 2026 09:06:25 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-30T09:26:43.367195+00:00"
+    },
+    {
+      "ticker": "PLTR",
+      "title": "Palantir Technologies vs. Figma: Comparing Revenue Growth Trends",
+      "link": "https://www.fool.com/coverage/charts/2026/10/30/palantir-technologies-vs-figma-comparing-revenue-growth-trends/?.tsrc=rss",
+      "published": "Fri, 30 Oct 2026 06:40:37 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-30T09:26:43.736553+00:00"
+    },
+    {
+      "ticker": "TSM",
+      "title": "Applied Materials vs. Taiwan Semiconductor Manufacturing: Comparing Revenue Growth Trends Between These Artificial Intelligence Companies",
+      "link": "https://www.fool.com/coverage/charts/2026/10/30/applied-materials-vs-taiwan-semiconductor-manufacturing-comparing-revenue-growth-trends-between-these-artificial-intelligence-companies/?.tsrc=rss",
+      "published": "Fri, 30 Oct 2026 07:11:59 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-30T09:26:44.344515+00:00"
     }
   ]
 }
