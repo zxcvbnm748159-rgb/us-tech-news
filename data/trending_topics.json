@@ -1,7 +1,7 @@
 {
   "date": "2026-10-29",
   "window_days": 7,
-  "source_count": 1369,
+  "source_count": 1391,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 240,
+      "count": 245,
       "kind": "ticker"
     },
     {
@@ -21,7 +21,7 @@
         "revenue guidance",
         "profit forecast"
       ],
-      "count": 171,
+      "count": 179,
       "kind": "topic"
     },
     {
@@ -30,7 +30,7 @@
       "search_terms": [
         "GOOGL"
       ],
-      "count": 150,
+      "count": 154,
       "kind": "ticker"
     },
     {
@@ -39,7 +39,7 @@
       "search_terms": [
         "MSFT"
       ],
-      "count": 138,
+      "count": 140,
       "kind": "ticker"
     },
     {
@@ -75,7 +75,7 @@
       "search_terms": [
         "AMZN"
       ],
-      "count": 83,
+      "count": 87,
       "kind": "ticker"
     },
     {
@@ -84,7 +84,7 @@
       "search_terms": [
         "ORCL"
       ],
-      "count": 63,
+      "count": 64,
       "kind": "ticker"
     },
     {
@@ -93,7 +93,7 @@
       "search_terms": [
         "AVGO"
       ],
-      "count": 56,
+      "count": 57,
       "kind": "ticker"
     },
     {
@@ -102,7 +102,7 @@
       "search_terms": [
         "INTC"
       ],
-      "count": 55,
+      "count": 57,
       "kind": "ticker"
     },
     {
@@ -111,11 +111,11 @@
       "search_terms": [
         "PLTR"
       ],
-      "count": 50,
+      "count": 51,
       "kind": "ticker"
     }
   ],
-  "updated_at": "2026-10-29T21:05:08.635900+00:00",
+  "updated_at": "2026-10-30T00:32:50.897782+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -17913,6 +17913,292 @@
       "impact_direction": "neutral",
       "sentiment": "neutral",
       "fetched_at": "2026-10-29T21:05:07.990057+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Nvidia's $12.9 billion deal could shape the AI apps you use",
+      "link": "https://www.thestreet.com/investing/nvidias-12-9-billion-deal-could-shape-the-ai-apps-you-use?.tsrc=rss",
+      "published": "Thu, 29 Oct 2026 23:37:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-30T00:32:47.879357+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Kymera Therapeutics, Inc. Q3 2026 Earnings Call Summary",
+      "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-kymera-therapeutics-inc-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+      "published": "Thu, 29 Oct 2026 22:53:06 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-30T00:32:47.879394+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Kimco Realty Corporation Q3 2026 Earnings Call Summary",
+      "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-kimco-realty-corporation-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+      "published": "Thu, 29 Oct 2026 22:49:05 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-30T00:32:47.879412+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Laureate Education, Inc. Q3 2026 Earnings Call Summary",
+      "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-laureate-education-inc-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+      "published": "Thu, 29 Oct 2026 22:48:23 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-30T00:32:47.879427+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Quanta Services, Inc. Q3 2026 Earnings Call Summary",
+      "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-quanta-services-inc-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+      "published": "Thu, 29 Oct 2026 22:45:12 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-30T00:32:47.879441+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Billionaire Bill Gates Just Issued a Blunt Warning About Artificial Intelligence",
+      "link": "https://www.fool.com/investing/2026/10/29/billionaire-bill-gates-just-issued-a-blunt-warning/?.tsrc=rss",
+      "published": "Thu, 29 Oct 2026 22:20:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-30T00:32:48.199493+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Things to consider if a company that made AI-related job cuts wants to rehire you",
+      "link": "https://www.independent.co.uk/tech/ai-layoffs-rehire-artificial-intelligence-b3076034.html?.tsrc=rss",
+      "published": "Thu, 29 Oct 2026 21:43:37 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-30T00:32:48.199547+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Is Alphabet Stock a Buy After Its Post-Earnings Drop?",
+      "link": "https://www.fool.com/investing/2026/10/29/is-alphabet-stock-a-buy-after-its-post-earnings-drop/?.tsrc=rss",
+      "published": "Fri, 30 Oct 2026 00:07:01 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-30T00:32:48.360729+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Google owner Alphabet reports 25% revenue growth in Q3 2026",
+      "link": "https://www.verdict.co.uk/alphabet-reports-25-revenue-growth-q3-2026/?.tsrc=rss",
+      "published": "Thu, 29 Oct 2026 22:26:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-30T00:32:48.360769+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Amazon cloud business accelerates but shares drop on profit miss",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/amazon-cloud-business-accelerates-shares-222112520.html?.tsrc=rss",
+      "published": "Thu, 29 Oct 2026 22:21:12 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-30T00:32:48.360823+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "IBM (IBM) Debuts AI Agent Security Controls For Hybrid Cloud",
+      "link": "https://finance.yahoo.com/technology/ai/articles/ibm-ibm-debuts-ai-agent-221557150.html?.tsrc=rss",
+      "published": "Thu, 29 Oct 2026 22:15:57 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-30T00:32:48.360854+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "'Workloads are moving': Amazon's Jassy says AWS still growing amid cloud move",
+      "link": "https://finance.yahoo.com/video/workloads-moving-amazons-jassy-says-214000126.html?.tsrc=rss",
+      "published": "Thu, 29 Oct 2026 21:40:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-30T00:32:48.493872+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Amazon.com Q3 Earnings Call Highlights",
+      "link": "https://www.marketbeat.com/instant-alerts/transcript-amazoncom-q3-earnings-call-highlights-2026-10-29/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+      "published": "Fri, 30 Oct 2026 00:14:16 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-30T00:32:48.493894+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Nasdaq 100 Futures Dip On Weak Intel, Amazon Earnings With Bloated Capex Worries Weighing On Sentiment —  AMZN, INTC, SBUX, PLTR, ASTS In Focus",
+      "link": "https://stocktwits.com/news-articles/markets/equity/nasdaq-100-futures-dip-on-weak-intel-amazon-earnings-with-bloated-capex-worries-weighing-on-sentiment-amzn-intc-sbux-pltr-asts-in-focus/cZUXcXOR9Ri?.tsrc=rss",
+      "published": "Thu, 29 Oct 2026 23:54:15 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-30T00:32:48.493968+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Andy Jassy says Prime Video is on track to earn ‘tens of billions of dollars’",
+      "link": "https://finance.yahoo.com/media-advertising/articles/andy-jassy-says-prime-video-234456821.html?.tsrc=rss",
+      "published": "Thu, 29 Oct 2026 23:44:56 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-30T00:32:48.493989+00:00"
+    },
+    {
+      "ticker": "AMD",
+      "title": "AMD Stock Outlook: AMD's Meta Deal Boosts AI Growth Prospects",
+      "link": "https://www.barchart.com/story/news/8533265/amd-stock-outlook-amd-s-meta-deal-boosts-ai-growth-prospects?.tsrc=rss",
+      "published": "Thu, 29 Oct 2026 16:04:12 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-30T00:32:48.991672+00:00"
+    },
+    {
+      "ticker": "AVGO",
+      "title": "Semiconductor Sell-Off: The 1 AI Chip Stock I'd Buy and 1 I'd Avoid",
+      "link": "https://www.fool.com/investing/2026/10/29/semiconductor-sell-off-the-1-ai-chip-stock-id-buy/?.tsrc=rss",
+      "published": "Fri, 30 Oct 2026 00:13:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-30T00:32:49.184369+00:00"
+    },
+    {
+      "ticker": "ORCL",
+      "title": "Oracle (ORCL) Sees a More Significant Dip Than Broader Market: Some Facts to Know",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/oracle-orcl-sees-more-significant-204504213.html?.tsrc=rss",
+      "published": "Thu, 29 Oct 2026 20:45:04 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-30T00:32:49.331528+00:00"
+    },
+    {
+      "ticker": "INTC",
+      "title": "What Intel (INTC) Said on Its Q3 Earnings Call",
+      "link": "https://www.marketbeat.com/instant-alerts/transcript-what-intel-intc-said-on-its-q3-earnings-call-2026-10-29/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+      "published": "Thu, 29 Oct 2026 23:14:34 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-30T00:32:49.855773+00:00"
+    },
+    {
+      "ticker": "INTC",
+      "title": "Intel Stock Plummets. A Supply Setback and PC Weakness Overshadow AI Growth.",
+      "link": "https://finance.yahoo.com/m/ec43d90a-a22a-3227-8cfa-a34d4c621d05/intel-stock-plummets.-a.html?.tsrc=rss",
+      "published": "Thu, 29 Oct 2026 21:43:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-30T00:32:49.855849+00:00"
+    },
+    {
+      "ticker": "PLTR",
+      "title": "JPMorgan Is Bullish on Palantir, Predicts Over 30% Rally on Strong AI Demand",
+      "link": "https://stocktwits.com/news-articles/markets/equity/jp-morgan-is-bullish-on-palantir-predicts-over-30-rally-on-strong-ai-demand/cZUXbW6R9RW?.tsrc=rss",
+      "published": "Thu, 29 Oct 2026 22:40:49 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-30T00:32:50.164314+00:00"
+    },
+    {
+      "ticker": "ADBE",
+      "title": "History Says Adobe Stock Comes Back From Deep Drops. It's Now 64% Below Its 2021 Record.",
+      "link": "https://www.fool.com/investing/2026/10/29/history-says-adobe-stock-comes-back-from-deep-drops-it-s-now-64-below-its-2021-record/?.tsrc=rss",
+      "published": "Thu, 29 Oct 2026 22:01:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-30T00:32:50.692586+00:00"
     }
   ]
 }

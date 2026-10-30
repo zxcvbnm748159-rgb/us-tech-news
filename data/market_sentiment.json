@@ -1,14 +1,14 @@
 {
   "date": "2026-10-29",
-  "score": 66,
+  "score": 65,
   "label": "Bullish",
   "counts": {
-    "positive": 63,
-    "negative": 33,
-    "neutral": 99
+    "positive": 69,
+    "negative": 37,
+    "neutral": 111
   },
-  "total": 195,
-  "updated_at": "2026-10-29T21:05:08.592862+00:00",
+  "total": 217,
+  "updated_at": "2026-10-30T00:32:50.872066+00:00",
   "articles": [
     {
       "link": "https://247wallst.com/investing/2026/10/29/mark-cuban-warns-hyperscaler-borrowing-could-create-a-debt-bubble-in-the-united-states-of-america/?.tsrc=rss",
@@ -788,6 +788,94 @@
     },
     {
       "link": "https://www.fool.com/investing/2026/10/29/could-1000-invested-in-palantir-turn-into-100000/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.thestreet.com/investing/nvidias-12-9-billion-deal-could-shape-the-ai-apps-you-use?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-kymera-therapeutics-inc-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-kimco-realty-corporation-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-laureate-education-inc-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-quanta-services-inc-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/29/billionaire-bill-gates-just-issued-a-blunt-warning/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.independent.co.uk/tech/ai-layoffs-rehire-artificial-intelligence-b3076034.html?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/29/is-alphabet-stock-a-buy-after-its-post-earnings-drop/?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.verdict.co.uk/alphabet-reports-25-revenue-growth-q3-2026/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/amazon-cloud-business-accelerates-shares-222112520.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/ibm-ibm-debuts-ai-agent-221557150.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/video/workloads-moving-amazons-jassy-says-214000126.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.marketbeat.com/instant-alerts/transcript-amazoncom-q3-earnings-call-highlights-2026-10-29/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://stocktwits.com/news-articles/markets/equity/nasdaq-100-futures-dip-on-weak-intel-amazon-earnings-with-bloated-capex-worries-weighing-on-sentiment-amzn-intc-sbux-pltr-asts-in-focus/cZUXcXOR9Ri?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/media-advertising/articles/andy-jassy-says-prime-video-234456821.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.barchart.com/story/news/8533265/amd-stock-outlook-amd-s-meta-deal-boosts-ai-growth-prospects?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/29/semiconductor-sell-off-the-1-ai-chip-stock-id-buy/?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/oracle-orcl-sees-more-significant-204504213.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.marketbeat.com/instant-alerts/transcript-what-intel-intc-said-on-its-q3-earnings-call-2026-10-29/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/ec43d90a-a22a-3227-8cfa-a34d4c621d05/intel-stock-plummets.-a.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://stocktwits.com/news-articles/markets/equity/jp-morgan-is-bullish-on-palantir-predicts-over-30-rally-on-strong-ai-demand/cZUXbW6R9RW?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/29/history-says-adobe-stock-comes-back-from-deep-drops-it-s-now-64-below-its-2021-record/?.tsrc=rss",
       "sentiment": "neutral"
     }
   ]
