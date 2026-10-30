@@ -1,7 +1,7 @@
 {
   "date": "2026-10-30",
   "window_days": 7,
-  "source_count": 1357,
+  "source_count": 1390,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 233,
+      "count": 238,
       "kind": "ticker"
     },
     {
@@ -21,7 +21,7 @@
         "revenue guidance",
         "profit forecast"
       ],
-      "count": 181,
+      "count": 190,
       "kind": "topic"
     },
     {
@@ -30,7 +30,7 @@
       "search_terms": [
         "GOOGL"
       ],
-      "count": 152,
+      "count": 154,
       "kind": "ticker"
     },
     {
@@ -39,7 +39,7 @@
       "search_terms": [
         "MSFT"
       ],
-      "count": 140,
+      "count": 145,
       "kind": "ticker"
     },
     {
@@ -57,7 +57,7 @@
       "search_terms": [
         "META"
       ],
-      "count": 98,
+      "count": 102,
       "kind": "ticker"
     },
     {
@@ -66,7 +66,7 @@
       "search_terms": [
         "AMZN"
       ],
-      "count": 90,
+      "count": 92,
       "kind": "ticker"
     },
     {
@@ -75,7 +75,7 @@
       "search_terms": [
         "AAPL"
       ],
-      "count": 87,
+      "count": 91,
       "kind": "ticker"
     },
     {
@@ -84,7 +84,7 @@
       "search_terms": [
         "INTC"
       ],
-      "count": 67,
+      "count": 71,
       "kind": "ticker"
     },
     {
@@ -93,7 +93,7 @@
       "search_terms": [
         "ORCL"
       ],
-      "count": 63,
+      "count": 64,
       "kind": "ticker"
     },
     {
@@ -102,7 +102,7 @@
       "search_terms": [
         "AVGO"
       ],
-      "count": 62,
+      "count": 63,
       "kind": "ticker"
     },
     {
@@ -111,11 +111,11 @@
       "search_terms": [
         "PLTR"
       ],
-      "count": 51,
+      "count": 52,
       "kind": "ticker"
     }
   ],
-  "updated_at": "2026-10-30T18:51:26.747078+00:00",
+  "updated_at": "2026-10-30T21:52:12.404785+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -17757,6 +17757,435 @@
       "impact_direction": "neutral",
       "sentiment": "neutral",
       "fetched_at": "2026-10-30T18:51:26.519146+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "A $6.4 Billion Hack Just Turned Crypto Upside Down",
+      "link": "https://app.moby.co/home/news/news-64b-binance-heist-biggest-theft-in-history?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+      "published": "Fri, 30 Oct 2026 21:36:15 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-30T21:52:09.819981+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Gates Industrial Corporation plc Q3 2026 Earnings Call Summary",
+      "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-gates-industrial-corporation-plc-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+      "published": "Fri, 30 Oct 2026 21:34:27 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-30T21:52:09.820030+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Imperial Oil Limited Q3 2026 Earnings Call Summary",
+      "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-imperial-oil-limited-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+      "published": "Fri, 30 Oct 2026 21:27:29 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-30T21:52:09.820075+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Exxon Mobil Corporation Q3 2026 Earnings Call Summary",
+      "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-exxon-mobil-corporation-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+      "published": "Fri, 30 Oct 2026 21:26:44 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-30T21:52:09.820095+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "General Dynamics Corporation Q3 2026 Earnings Call Summary",
+      "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-general-dynamics-corporation-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+      "published": "Fri, 30 Oct 2026 21:24:32 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-30T21:52:09.820122+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "What to expect from Apple's Q4 earnings this Monday",
+      "link": "https://finance.yahoo.com/video/what-to-expect-from-apples-q4-earnings-this-monday-202302371.html?.tsrc=rss",
+      "published": "Fri, 30 Oct 2026 20:23:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-30T21:52:09.931667+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Dow Jones Futures: Stock Market Sells Off As Apple, Palantir, Midterm Elections Loom; What To Do",
+      "link": "https://finance.yahoo.com/m/d0bc23d0-115b-314d-8989-07ca797bebfa/dow-jones-futures%3A-stock.html?.tsrc=rss",
+      "published": "Fri, 30 Oct 2026 20:51:56 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-30T21:52:09.931751+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Apple Overtakes Nvidia to Become World’s Most Valuable Company",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/apple-overtakes-nvidia-become-world-202839510.html?.tsrc=rss",
+      "published": "Fri, 30 Oct 2026 20:28:39 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-30T21:52:09.931802+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Apple's $1,999 iPhone Duo is already rewarding buyers who wait",
+      "link": "https://www.thestreet.com/investing/apple-iphone-duo-resale-market-pricing?.tsrc=rss",
+      "published": "Fri, 30 Oct 2026 20:07:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-30T21:52:09.931874+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Axios Live: How employers are rethinking AI's role in entry-level work",
+      "link": "https://www.axios.com/2026/10/30/axios-live-how-employers-are-rethinking-ais-role-in-entry-level-work#utm_source=yahoo_finance&utm_medium=partner&utm_campaign=subs-partner-yahoo-finance-AI?.tsrc=rss",
+      "published": "Fri, 30 Oct 2026 21:10:16 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-30T21:52:10.063076+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Leaders from Wolters Kluwer, Microsoft, Salesforce, and McKinsey challenge accounting firms to make one AI move in the next 90 days",
+      "link": "https://finance.yahoo.com/technology/ai/articles/leaders-wolters-kluwer-microsoft-salesforce-201500186.html?.tsrc=rss",
+      "published": "Fri, 30 Oct 2026 20:15:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-30T21:52:10.063158+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "CME vs. Morningstar: Scale vs. Consistent Trajectories in Revenue",
+      "link": "https://www.fool.com/coverage/charts/2026/10/30/cme-vs-morningstar-scale-vs-consistent-trajectories-in-revenue/?.tsrc=rss",
+      "published": "Fri, 30 Oct 2026 20:43:01 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-30T21:52:10.063183+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "B. Riley’s $64 Target Says IREN’s Selloff Went Too Far",
+      "link": "https://www.tikr.com/blog/b-rileys-64-target-says-irens-selloff-went-too-far?ref=yahoofinance&tlnk=yf-261030-4f8m8346&.tsrc=rss",
+      "published": "Fri, 30 Oct 2026 20:38:26 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-30T21:52:10.063211+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Cracks are emerging in the AI spending boom",
+      "link": "https://finance.yahoo.com/technology/ai/articles/cracks-emerging-ai-spending-boom-211740864.html?.tsrc=rss",
+      "published": "Fri, 30 Oct 2026 21:17:40 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-30T21:52:10.063228+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Anthropic turns profitable but could go back into losses: Seaport analyst",
+      "link": "https://finance.yahoo.com/video/anthropic-turns-profitable-but-could-go-back-into-losses-seaport-analyst-210940618.html?.tsrc=rss",
+      "published": "Fri, 30 Oct 2026 21:09:40 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-30T21:52:10.176663+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Evercose ISI downgrades Reddit, says monetization may not offset traffic weakness",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/evercose-isi-downgrades-reddit-says-205339666.html?.tsrc=rss",
+      "published": "Fri, 30 Oct 2026 20:53:39 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-30T21:52:10.176718+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Stock Market Today, Oct. 30: Amazon Misses Revenue and Earnings Expectations",
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/10/30/stock-market-today-oct-30-amazon-misses-revenue-and-earnings-expectations/?.tsrc=rss",
+      "published": "Fri, 30 Oct 2026 21:35:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-30T21:52:10.315571+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "US Equity Indexes Drop This Week as Disappointing Hyperscaler Results Offset Gains From Anthropic's IPO Boost",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-drop-week-204054955.html?.tsrc=rss",
+      "published": "Fri, 30 Oct 2026 20:40:54 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-30T21:52:10.315678+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "S&P cuts Meta outlook to negative amid capex concerns",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/p-cuts-meta-outlook-negative-213940742.html?.tsrc=rss",
+      "published": "Fri, 30 Oct 2026 21:39:40 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-30T21:52:10.432001+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "Pinterest Sinks 7% on Revenue Miss and Weak Q4 Guide: “We Are Not Happy With That Result”",
+      "link": "https://www.tikr.com/blog/pinterest-sinks-7-on-revenue-miss-and-weak-q4-guide-we-are-not-happy-with-that-result?ref=yahoofinance&tlnk=yf-261030-5v22ph3j&.tsrc=rss",
+      "published": "Fri, 30 Oct 2026 20:20:24 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-30T21:52:10.432101+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "Top 3 Founder Led Stocks With Revenue Growth Over 17% To Watch",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/top-3-founder-led-stocks-190848885.html?.tsrc=rss",
+      "published": "Fri, 30 Oct 2026 19:08:48 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-30T21:52:10.432145+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "Money 20/20 USA: Cresta CEO Ping Wu on when AI agents call your bank",
+      "link": "https://finance.yahoo.com/video/money-20-20-usa-cresta-180403164.html?.tsrc=rss",
+      "published": "Fri, 30 Oct 2026 18:04:03 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-30T21:52:10.432178+00:00"
+    },
+    {
+      "ticker": "AVGO",
+      "title": "Former SEC Chair: Broadcom’s $63 Billion Package Feels Like “That 08 Off-Balance Sheet Craze”",
+      "link": "https://www.tikr.com/blog/former-sec-chair-broadcoms-63-billion-package-feels-like-that-08-off-balance-sheet-craze?ref=yahoofinance&tlnk=yf-261030-qmxqxqv3&.tsrc=rss",
+      "published": "Fri, 30 Oct 2026 20:52:16 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-30T21:52:10.967892+00:00"
+    },
+    {
+      "ticker": "ORCL",
+      "title": "IBM vs. ServiceNow: Which Technology Stock Is a Better Buy in 2026?",
+      "link": "https://www.fool.com/coverage/better-buy/2026/10/30/ibm-vs-servicenow-which-technology-stock-is-a-better-buy-in-2026/?.tsrc=rss",
+      "published": "Fri, 30 Oct 2026 20:35:01 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-30T21:52:11.095602+00:00"
+    },
+    {
+      "ticker": "CRM",
+      "title": "Earnings Beat May Change The Case For Bandwidth Stock",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/earnings-beat-may-change-case-211839902.html?.tsrc=rss",
+      "published": "Fri, 30 Oct 2026 21:18:39 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-30T21:52:11.217475+00:00"
+    },
+    {
+      "ticker": "CRM",
+      "title": "This Computer Software Stock's Accelerating Growth Is Worth Watching",
+      "link": "https://finance.yahoo.com/m/2910448e-3a6d-35ea-9c31-3c9a5c4114df/this-computer-software.html?.tsrc=rss",
+      "published": "Fri, 30 Oct 2026 19:20:31 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-30T21:52:11.217553+00:00"
+    },
+    {
+      "ticker": "CRM",
+      "title": "Earnings Preview: What to Expect From Salesforce's Report",
+      "link": "https://www.barchart.com/story/news/8554887/earnings-preview-what-to-expect-from-salesforce-s-report?.tsrc=rss",
+      "published": "Fri, 30 Oct 2026 14:03:16 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-30T21:52:11.217578+00:00"
+    },
+    {
+      "ticker": "NFLX",
+      "title": "Apple Is Near a Record. Netflix Is Down More Than Half. I'd Buy Only 1 of Them.",
+      "link": "https://www.fool.com/investing/2026/10/30/apple-is-near-a-record-netflix-is-down-more-than-half-i-d-buy-only-1-of-them/?.tsrc=rss",
+      "published": "Fri, 30 Oct 2026 18:52:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-30T21:52:11.333429+00:00"
+    },
+    {
+      "ticker": "INTC",
+      "title": "Jim Cramer is ‘furious’ as Intel crashes nearly 30% — but Uncle Sam is the top shareholder. What it means for taxpayers",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-furious-intel-crashes-212500271.html?.tsrc=rss",
+      "published": "Fri, 30 Oct 2026 21:25:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-30T21:52:11.503599+00:00"
+    },
+    {
+      "ticker": "INTC",
+      "title": "Stock Market Today, Oct. 30: Intel Plunges Nearly 29% as Weak Outlook Rattles Wall Street",
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/10/30/stock-market-today-oct-30-intel-plunges-nearly-29-as-weak-outlook-rattles-wall-street/?.tsrc=rss",
+      "published": "Fri, 30 Oct 2026 21:20:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-30T21:52:11.503662+00:00"
+    },
+    {
+      "ticker": "INTC",
+      "title": "Jim Cramer Admits He Was Wrong About Intel as Stock Plunges 29%",
+      "link": "https://247wallst.com/investing/2026/10/30/jim-cramer-admits-he-was-wrong-about-intel-as-stock-plunges-29/?.tsrc=rss",
+      "published": "Fri, 30 Oct 2026 21:09:58 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-30T21:52:11.503704+00:00"
+    },
+    {
+      "ticker": "INTC",
+      "title": "Intel Stock Suffers Worst Crash in 50 Years as Weak Forecast Overshadows AI Chip Demand",
+      "link": "https://decrypt.co/382287/intel-stock-suffers-worst-crash-in-50-years-as-weak-forecast-overshadows-ai-chip-demand?.tsrc=rss",
+      "published": "Fri, 30 Oct 2026 20:53:23 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-30T21:52:11.503790+00:00"
+    },
+    {
+      "ticker": "PLTR",
+      "title": "Palantir Stock Tests Key Level As Earnings Loom",
+      "link": "https://finance.yahoo.com/m/7ce432a6-f7f1-373d-be60-33e2151bdcd4/palantir-stock-tests-key.html?.tsrc=rss",
+      "published": "Fri, 30 Oct 2026 18:54:16 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-30T21:52:11.798650+00:00"
     }
   ]
 }
