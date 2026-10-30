@@ -1,14 +1,14 @@
 {
   "date": "2026-10-30",
-  "score": 67,
+  "score": 64,
   "label": "Bullish",
   "counts": {
-    "positive": 63,
-    "negative": 31,
-    "neutral": 96
+    "positive": 65,
+    "negative": 37,
+    "neutral": 104
   },
-  "total": 190,
-  "updated_at": "2026-10-30T21:52:12.372516+00:00",
+  "total": 206,
+  "updated_at": "2026-10-30T22:43:19.431225+00:00",
   "articles": [
     {
       "link": "https://www.fool.com/investing/2026/10/30/nov-2-could-be-a-big-day-for-apple-stock/?.tsrc=rss",
@@ -769,6 +769,70 @@
     {
       "link": "https://finance.yahoo.com/m/7ce432a6-f7f1-373d-be60-33e2151bdcd4/palantir-stock-tests-key.html?.tsrc=rss",
       "sentiment": "negative"
+    },
+    {
+      "link": "https://www.thestreet.com/investing/stocks/nvidia-has-a-stake-in-spacex-that-came-from-an-unexpected-place?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/30/why-caredx-stock-soared-today/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/apple-overtakes-nvidia-become-world-214753575.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.thestreet.com/investing/stocks/veteran-fund-manager-revamps-alphabet-stock-price-target-after-brutal-selloff-googl?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/learn-why-bull-case-verizon-221305487.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.trefis.com/stock/app/articles/621520/did-the-market-read-applovin-stock-right/2026-10-30?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/gene-munster-more-concerned-amazon-211012721.html?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/6fa63ea7-4dda-36ab-92fc-9135d98e250e/intel%2C-amazon%2C-nvidia%2C.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/meta-credit-rating-outlook-downgraded-215600853.html?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/video/see-tesla-stocks-performed-week-221519114.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/economy/policy/articles/elon-musk-vs-tesla-midterm-210223226.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/economy/policy/articles/tesla-113-other-companies-paid-183806266.html?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.thestreet.com/investing/stocks/intel-pc-memory-crunch-goldman?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/intel-stock-crashes-knocking-12b-215434820.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.axios.com/2026/10/30/pc-intel-ai-nvidia#utm_source=yahoo_finance&utm_medium=partner&utm_campaign=subs-partner-yahoo-finance-AI?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-pltr-stock-gets-fair-221856049.html?.tsrc=rss",
+      "sentiment": "positive"
     }
   ]
 }

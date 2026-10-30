@@ -1,7 +1,7 @@
 {
   "date": "2026-10-30",
   "window_days": 7,
-  "source_count": 1390,
+  "source_count": 1406,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 238,
+      "count": 241,
       "kind": "ticker"
     },
     {
@@ -30,7 +30,7 @@
       "search_terms": [
         "GOOGL"
       ],
-      "count": 154,
+      "count": 157,
       "kind": "ticker"
     },
     {
@@ -48,7 +48,7 @@
       "search_terms": [
         "TSLA"
       ],
-      "count": 104,
+      "count": 107,
       "kind": "ticker"
     },
     {
@@ -57,7 +57,7 @@
       "search_terms": [
         "META"
       ],
-      "count": 102,
+      "count": 103,
       "kind": "ticker"
     },
     {
@@ -66,7 +66,7 @@
       "search_terms": [
         "AMZN"
       ],
-      "count": 92,
+      "count": 94,
       "kind": "ticker"
     },
     {
@@ -84,7 +84,7 @@
       "search_terms": [
         "INTC"
       ],
-      "count": 71,
+      "count": 74,
       "kind": "ticker"
     },
     {
@@ -111,11 +111,11 @@
       "search_terms": [
         "PLTR"
       ],
-      "count": 52,
+      "count": 53,
       "kind": "ticker"
     }
   ],
-  "updated_at": "2026-10-30T21:52:12.404785+00:00",
+  "updated_at": "2026-10-30T22:43:19.474879+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -18186,6 +18186,214 @@
       "impact_direction": "neutral",
       "sentiment": "negative",
       "fetched_at": "2026-10-30T21:52:11.798650+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Nvidia has a stake in SpaceX that came from an unexpected place",
+      "link": "https://www.thestreet.com/investing/stocks/nvidia-has-a-stake-in-spacex-that-came-from-an-unexpected-place?.tsrc=rss",
+      "published": "Fri, 30 Oct 2026 22:33:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-30T22:43:17.649483+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Why CareDx Stock Soared Today",
+      "link": "https://www.fool.com/investing/2026/10/30/why-caredx-stock-soared-today/?.tsrc=rss",
+      "published": "Fri, 30 Oct 2026 22:24:26 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-30T22:43:17.649536+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Apple overtakes Nvidia to become world’s most valuable company amid tech selloff",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/apple-overtakes-nvidia-become-world-214753575.html?.tsrc=rss",
+      "published": "Fri, 30 Oct 2026 21:47:53 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-30T22:43:17.649631+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Veteran fund manager revamps Alphabet stock price target after brutal sell-off",
+      "link": "https://www.thestreet.com/investing/stocks/veteran-fund-manager-revamps-alphabet-stock-price-target-after-brutal-selloff-googl?.tsrc=rss",
+      "published": "Fri, 30 Oct 2026 22:25:51 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-30T22:43:17.926897+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Learn Why The Bull Case For Verizon Communications (VZ) Could Change Following Raised Outlook",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/learn-why-bull-case-verizon-221305487.html?.tsrc=rss",
+      "published": "Fri, 30 Oct 2026 22:13:05 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-30T22:43:17.926948+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Did The Market Read AppLovin Stock Right?",
+      "link": "https://www.trefis.com/stock/app/articles/621520/did-the-market-read-applovin-stock-right/2026-10-30?.tsrc=rss",
+      "published": "Fri, 30 Oct 2026 21:41:17 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-30T22:43:17.926975+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Gene Munster 'More Concerned' About Amazon and Alphabet — Says AI Bots Mean Shopping Edge 'Will Increasingly Be Under Attack'",
+      "link": "https://finance.yahoo.com/technology/ai/articles/gene-munster-more-concerned-amazon-211012721.html?.tsrc=rss",
+      "published": "Fri, 30 Oct 2026 21:10:12 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-30T22:43:18.016697+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Intel, Amazon, Nvidia, ExxonMobil, Sandisk, FedEx Freight, and More Stocks That Explain Today’s Market",
+      "link": "https://finance.yahoo.com/m/6fa63ea7-4dda-36ab-92fc-9135d98e250e/intel%2C-amazon%2C-nvidia%2C.html?.tsrc=rss",
+      "published": "Fri, 30 Oct 2026 20:37:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-30T22:43:18.016757+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "Meta’s Credit Rating Outlook Downgraded to Negative by S&P",
+      "link": "https://finance.yahoo.com/technology/ai/articles/meta-credit-rating-outlook-downgraded-215600853.html?.tsrc=rss",
+      "published": "Fri, 30 Oct 2026 21:56:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-30T22:43:18.120037+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "See how Tesla stocks performed for week ending Oct. 30",
+      "link": "https://finance.yahoo.com/video/see-tesla-stocks-performed-week-221519114.html?.tsrc=rss",
+      "published": "Fri, 30 Oct 2026 22:15:19 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-30T22:43:18.211984+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Elon Musk vs. Tesla? His Midterm Money Could Work Against His Own Cars",
+      "link": "https://finance.yahoo.com/economy/policy/articles/elon-musk-vs-tesla-midterm-210223226.html?.tsrc=rss",
+      "published": "Fri, 30 Oct 2026 21:02:23 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-30T22:43:18.212027+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Tesla and 113 other companies paid no current federal income tax, but they still aren’t the biggest threats to the federal deficit, think tank warns",
+      "link": "https://finance.yahoo.com/economy/policy/articles/tesla-113-other-companies-paid-183806266.html?.tsrc=rss",
+      "published": "Fri, 30 Oct 2026 18:38:06 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-30T22:43:18.212201+00:00"
+    },
+    {
+      "ticker": "INTC",
+      "title": "Intel CEO reveals a PC problem as Goldman cuts stock target",
+      "link": "https://www.thestreet.com/investing/stocks/intel-pc-memory-crunch-goldman?.tsrc=rss",
+      "published": "Fri, 30 Oct 2026 22:07:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-30T22:43:18.821669+00:00"
+    },
+    {
+      "ticker": "INTC",
+      "title": "Intel’s stock crashes, knocking $12B from government’s stake",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/intel-stock-crashes-knocking-12b-215434820.html?.tsrc=rss",
+      "published": "Fri, 30 Oct 2026 21:54:34 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-30T22:43:18.821715+00:00"
+    },
+    {
+      "ticker": "INTC",
+      "title": "The PC industry's painful path to an AI future",
+      "link": "https://www.axios.com/2026/10/30/pc-intel-ai-nvidia#utm_source=yahoo_finance&utm_medium=partner&utm_campaign=subs-partner-yahoo-finance-AI?.tsrc=rss",
+      "published": "Fri, 30 Oct 2026 21:49:33 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-30T22:43:18.821769+00:00"
+    },
+    {
+      "ticker": "PLTR",
+      "title": "Palantir (PLTR) Stock Gets Fair Value Bump After Analysts Lift AI Driven Targets",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-pltr-stock-gets-fair-221856049.html?.tsrc=rss",
+      "published": "Fri, 30 Oct 2026 22:18:56 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-30T22:43:19.031819+00:00"
     }
   ]
 }
