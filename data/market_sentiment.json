@@ -3,12 +3,12 @@
   "score": 65,
   "label": "Bullish",
   "counts": {
-    "positive": 68,
-    "negative": 37,
-    "neutral": 113
+    "positive": 72,
+    "negative": 38,
+    "neutral": 115
   },
-  "total": 218,
-  "updated_at": "2026-10-31T01:50:18.265613+00:00",
+  "total": 225,
+  "updated_at": "2026-10-31T03:41:08.585184+00:00",
   "articles": [
     {
       "link": "https://www.fool.com/investing/2026/10/30/nov-2-could-be-a-big-day-for-apple-stock/?.tsrc=rss",
@@ -880,6 +880,34 @@
     },
     {
       "link": "https://www.fool.com/investing/2026/10/30/is-intel-stock-a-buy-after-its-post-earnings-plunge/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-weighs-playing-cosigner-nscale-012005707.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://stocktwits.com/news-articles/markets/equity/elon-musk-warns-of-ai-shakeout-while-zuckerberg-pichai-nadella-jassy-discuss-the-costs-mag-7-voices-this-week/cZUKmssR9cO?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.marketbeat.com/instant-alerts/transcript-what-wec-energy-group-wec-said-on-its-q3-earnings-call-2026-10-30/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/broadcom-heads-3-top-undervalued-021202308.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.barchart.com/story/news/8563181/stocks-fall-sharply-on-intel-and-amazon-sell-offs-and-crypto-heist?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/30/intel-drags-down-cpu-rivals-is-it-a-buying-opportunity-for-the-amd-and-arm/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/30/why-intel-stock-crashed-on-friday/?.tsrc=rss",
       "sentiment": "neutral"
     }
   ]

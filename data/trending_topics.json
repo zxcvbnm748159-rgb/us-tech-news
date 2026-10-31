@@ -1,7 +1,7 @@
 {
   "date": "2026-10-30",
   "window_days": 7,
-  "source_count": 1418,
+  "source_count": 1425,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 241,
+      "count": 243,
       "kind": "ticker"
     },
     {
@@ -21,7 +21,7 @@
         "revenue guidance",
         "profit forecast"
       ],
-      "count": 192,
+      "count": 193,
       "kind": "topic"
     },
     {
@@ -30,7 +30,7 @@
       "search_terms": [
         "GOOGL"
       ],
-      "count": 160,
+      "count": 161,
       "kind": "ticker"
     },
     {
@@ -39,7 +39,7 @@
       "search_terms": [
         "MSFT"
       ],
-      "count": 146,
+      "count": 147,
       "kind": "ticker"
     },
     {
@@ -66,7 +66,7 @@
       "search_terms": [
         "AMZN"
       ],
-      "count": 96,
+      "count": 97,
       "kind": "ticker"
     },
     {
@@ -84,7 +84,7 @@
       "search_terms": [
         "INTC"
       ],
-      "count": 76,
+      "count": 77,
       "kind": "ticker"
     },
     {
@@ -115,7 +115,7 @@
       "kind": "ticker"
     }
   ],
-  "updated_at": "2026-10-31T01:50:18.300160+00:00",
+  "updated_at": "2026-10-31T03:41:08.630795+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -18550,6 +18550,97 @@
       "impact_direction": "neutral",
       "sentiment": "neutral",
       "fetched_at": "2026-10-31T01:50:17.447763+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-weighs-playing-cosigner-nscale-012005707.html?.tsrc=rss",
+      "published": "Sat, 31 Oct 2026 01:20:05 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-31T03:41:05.417279+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Elon Musk Warns Of AI Shakeout, While Zuckerberg, Pichai, Nadella, Jassy Discuss The Costs: MAG 7 Voices This Week",
+      "link": "https://stocktwits.com/news-articles/markets/equity/elon-musk-warns-of-ai-shakeout-while-zuckerberg-pichai-nadella-jassy-discuss-the-costs-mag-7-voices-this-week/cZUKmssR9cO?.tsrc=rss",
+      "published": "Sat, 31 Oct 2026 02:45:16 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-31T03:41:05.417389+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "What WEC Energy Group (WEC) Said on Its Q3 Earnings Call",
+      "link": "https://www.marketbeat.com/instant-alerts/transcript-what-wec-energy-group-wec-said-on-its-q3-earnings-call-2026-10-30/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+      "published": "Sat, 31 Oct 2026 03:13:56 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-31T03:41:05.740385+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Broadcom Heads These 3 Top Undervalued Stocks To Watch",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/broadcom-heads-3-top-undervalued-021202308.html?.tsrc=rss",
+      "published": "Sat, 31 Oct 2026 02:12:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-31T03:41:05.899381+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Stocks Fall Sharply on Intel and Amazon Sell-offs and Crypto Heist",
+      "link": "https://www.barchart.com/story/news/8563181/stocks-fall-sharply-on-intel-and-amazon-sell-offs-and-crypto-heist?.tsrc=rss",
+      "published": "Fri, 30 Oct 2026 21:07:09 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-31T03:41:06.077926+00:00"
+    },
+    {
+      "ticker": "AMD",
+      "title": "Intel Drags Down CPU Rivals. Is it a Buying Opportunity for AMD and Arm?",
+      "link": "https://www.fool.com/investing/2026/10/30/intel-drags-down-cpu-rivals-is-it-a-buying-opportunity-for-the-amd-and-arm/?.tsrc=rss",
+      "published": "Sat, 31 Oct 2026 03:20:01 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-31T03:41:06.646896+00:00"
+    },
+    {
+      "ticker": "INTC",
+      "title": "Why Intel Stock Crashed on Friday",
+      "link": "https://www.fool.com/investing/2026/10/30/why-intel-stock-crashed-on-friday/?.tsrc=rss",
+      "published": "Sat, 31 Oct 2026 02:41:46 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-31T03:41:07.509545+00:00"
     }
   ]
 }
