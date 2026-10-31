@@ -1,14 +1,14 @@
 {
   "date": "2026-10-31",
-  "score": 60,
-  "label": "Bullish",
+  "score": 59,
+  "label": "Mixed",
   "counts": {
-    "positive": 34,
-    "negative": 23,
-    "neutral": 37
+    "positive": 35,
+    "negative": 24,
+    "neutral": 38
   },
-  "total": 94,
-  "updated_at": "2026-10-31T20:52:52.694397+00:00",
+  "total": 97,
+  "updated_at": "2026-10-31T21:29:19.998094+00:00",
   "articles": [
     {
       "link": "https://www.tikr.com/blog/amd-stock-fell-11-in-a-day-ahead-of-its-november-3-report-heres-why-intels-78-data-center-jump-matters-more-to-amd-than-its-pc-warning?ref=yahoofinance&tlnk=yf-261031-43g8j33g&.tsrc=rss",
@@ -385,6 +385,18 @@
     {
       "link": "https://www.fool.com/investing/2026/10/31/is-adobe-the-ultimate-buy-on-the-dip-stock/?.tsrc=rss",
       "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-janus-henderson-bullish-meta-212034266.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/31/after-meta-could-these-be-wall-street-s-next-blockbuster-stock-splits/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.barchart.com/story/news/8572976/if-taiwan-semi-raises-prices-it-could-be-bad-news-for-intel-stock-heres-why?.tsrc=rss",
+      "sentiment": "negative"
     }
   ]
 }

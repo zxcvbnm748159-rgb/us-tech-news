@@ -1,5 +1,57 @@
 [
   {
+    "ticker": "META",
+    "title": "Here’s Why Janus Henderson is Bullish On Meta Platforms, Inc. (META)",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/why-janus-henderson-bullish-meta-212034266.html?.tsrc=rss",
+    "published": "Sat, 31 Oct 2026 21:20:34 +0000",
+    "summary_th": "",
+    "category": "General",
+    "ai_analysis": "",
+    "impact_level": "low",
+    "impact_direction": "neutral",
+    "sentiment": "neutral",
+    "fetched_at": "2026-10-31T21:29:17.636062+00:00"
+  },
+  {
+    "ticker": "META",
+    "title": "After Meta, Could These Be Wall Street’s Next Blockbuster Stock Splits?",
+    "link": "https://www.fool.com/investing/2026/10/31/after-meta-could-these-be-wall-street-s-next-blockbuster-stock-splits/?.tsrc=rss",
+    "published": "Sat, 31 Oct 2026 20:53:02 +0000",
+    "summary_th": "",
+    "category": "General",
+    "ai_analysis": "",
+    "impact_level": "low",
+    "impact_direction": "neutral",
+    "sentiment": "positive",
+    "fetched_at": "2026-10-31T21:29:17.636157+00:00"
+  },
+  {
+    "ticker": "INTC",
+    "title": "If Taiwan Semi Raises Prices, It Could Be Bad News for Intel Stock. Here’s Why.",
+    "link": "https://www.barchart.com/story/news/8572976/if-taiwan-semi-raises-prices-it-could-be-bad-news-for-intel-stock-heres-why?.tsrc=rss",
+    "published": "Sat, 31 Oct 2026 15:08:39 +0000",
+    "summary_th": "",
+    "category": "General",
+    "ai_analysis": "",
+    "impact_level": "low",
+    "impact_direction": "neutral",
+    "sentiment": "negative",
+    "fetched_at": "2026-10-31T21:29:18.869305+00:00"
+  },
+  {
+    "ticker": "ADBE",
+    "title": "Should You Buy Adobe Stock For Its Cash?",
+    "link": "https://www.trefis.com/stock/adbe/articles/621518/should-you-buy-adobe-stock-for-its-cash-2/2026-10-30?.tsrc=rss",
+    "published": "Fri, 30 Oct 2026 12:59:20 +0000",
+    "summary_th": "",
+    "category": "General",
+    "ai_analysis": "",
+    "impact_level": "low",
+    "impact_direction": "neutral",
+    "sentiment": "neutral",
+    "fetched_at": "2026-10-31T21:29:19.814414+00:00"
+  },
+  {
     "ticker": "NVDA",
     "title": "The U.S. Labor Market Just Delivered Its Strongest Signal in 57 Years. But There's a Catch.",
     "link": "https://www.fool.com/investing/2026/10/31/labor-market-delivered-strong-signal-theres-catch/?.tsrc=rss",
@@ -3846,57 +3898,5 @@
     "impact_direction": "neutral",
     "sentiment": "negative",
     "fetched_at": "2026-10-30T13:33:35.939975+00:00"
-  },
-  {
-    "ticker": "INTC",
-    "title": "Intel Dropped 20% Over The Last Month: This Pro Analyst Says It’s Going to Gain 70% Soon",
-    "link": "https://247wallst.com/investing/2026/10/30/intel-dropped-20-over-the-last-month-this-pro-analyst-says-its-going-to-gain-70-soon/?.tsrc=rss",
-    "published": "Fri, 30 Oct 2026 12:45:59 +0000",
-    "summary_th": "",
-    "category": "General",
-    "ai_analysis": "",
-    "impact_level": "low",
-    "impact_direction": "neutral",
-    "sentiment": "positive",
-    "fetched_at": "2026-10-30T13:33:35.940042+00:00"
-  },
-  {
-    "ticker": "QCOM",
-    "title": "Google's AI is winning. Search is paying for it.",
-    "link": "https://finance.yahoo.com/video/googles-ai-winning-search-paying-110000726.html?.tsrc=rss",
-    "published": "Fri, 30 Oct 2026 11:00:00 +0000",
-    "summary_th": "",
-    "category": "General",
-    "ai_analysis": "",
-    "impact_level": "low",
-    "impact_direction": "neutral",
-    "sentiment": "positive",
-    "fetched_at": "2026-10-30T13:33:36.112298+00:00"
-  },
-  {
-    "ticker": "QCOM",
-    "title": "Curious about Qualcomm (QCOM) Q4 Performance? Explore Wall Street Estimates for Key Metrics",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/curious-qualcomm-qcom-q4-performance-121507387.html?.tsrc=rss",
-    "published": "Fri, 30 Oct 2026 12:15:07 +0000",
-    "summary_th": "",
-    "category": "General",
-    "ai_analysis": "",
-    "impact_level": "low",
-    "impact_direction": "neutral",
-    "sentiment": "positive",
-    "fetched_at": "2026-10-30T13:33:36.112351+00:00"
-  },
-  {
-    "ticker": "PLTR",
-    "title": "Palantir Trades at 150 Times, Josh Brown Says. Monday’s Guidance Has to Do More Than Beat",
-    "link": "https://www.tikr.com/blog/palantir-trades-at-150-times-josh-brown-says-mondays-guidance-has-to-do-more-than-beat?ref=yahoofinance&.tsrc=rss",
-    "published": "Fri, 30 Oct 2026 11:47:21 +0000",
-    "summary_th": "",
-    "category": "General",
-    "ai_analysis": "",
-    "impact_level": "low",
-    "impact_direction": "neutral",
-    "sentiment": "neutral",
-    "fetched_at": "2026-10-30T13:33:36.262647+00:00"
   }
 ]
