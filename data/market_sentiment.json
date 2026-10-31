@@ -1,14 +1,14 @@
 {
   "date": "2026-10-31",
-  "score": 52,
+  "score": 54,
   "label": "Mixed",
   "counts": {
-    "positive": 17,
-    "negative": 16,
-    "neutral": 16
+    "positive": 26,
+    "negative": 22,
+    "neutral": 25
   },
-  "total": 49,
-  "updated_at": "2026-10-31T13:54:21.656737+00:00",
+  "total": 73,
+  "updated_at": "2026-10-31T16:40:31.578834+00:00",
   "articles": [
     {
       "link": "https://www.tikr.com/blog/amd-stock-fell-11-in-a-day-ahead-of-its-november-3-report-heres-why-intels-78-data-center-jump-matters-more-to-amd-than-its-pc-warning?ref=yahoofinance&tlnk=yf-261031-43g8j33g&.tsrc=rss",
@@ -205,6 +205,102 @@
     {
       "link": "https://finance.yahoo.com/technology/ai/articles/presentations-ai-launches-ai-sales-133900758.html?.tsrc=rss",
       "sentiment": "neutral"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/10/31/the-nasdaq-100-briefly-fell-into-a-correction-as-the-ai-trade-cracks/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/31/if-a-bear-market-is-coming-history-says-these-stoc/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/31/prediction-100-per-month-invested-in-eli-lilly-lly/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/31/enbridge-vs-enterprise-products-which-high-yield-d/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/31/3-unstoppable-sp-500-stocks-to-buy-in-november/?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.thestreet.com/technology/mkbhd-review-apple-touchscreen-macbook-pro-proled-xdr-display?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/10/31/openais-ceo-thinks-your-laptops-memory-should-be-in-a-data-center/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/10/31/big-tech-now-spends-more-on-ai-than-it-brings-in-from-operations/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/article/the-fed-put-is-very-much-back-wall-street-strategists-weigh-central-banks-next-move-155353732.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/10/31/prediction-this-under-the-radar-ai-stock-could-have-a-big-2030-ahead/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.thestreet.com/technology/reddit-stock-plunges-28-as-google-ai-cuts-us-traffic?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/10/31/amazon-is-borrowing-against-its-own-data-center-gear-to-fund-more-data-centers/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/amazon-amzn-stock-slips-q3-151326000.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.tikr.com/blog/barclays-ai-capex-trillion-dollars-revenue-2028-amazon-stock?ref=yahoofinance&tlnk=yf-261031-xfcr4c53&.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/10/31/entergy-just-raised-its-dividend-6-3-can-cash-flow-support-the-increase/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/31/intel-has-a-massive-warning-for-amd-stock-investors-is-it-time-to-book-profits-before-nov-3/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.tikr.com/blog/amd-just-dropped-11-in-a-day-as-intels-pc-warning-rattles-chips-is-it-time-to-sell-or-load-up?ref=yahoofinance&tlnk=yf-261031-f65r9mpm&.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/31/here-s-what-a-usd1-000-investment-in-oracle-stock-will-be-worth-by-2030/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.thestreet.com/investing/stocks/nflx-jim-cramer-says-streaming-confusion-is-netflix-biggest-problem-not-price?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.tikr.com/blog/netflix-slides-to-a-52-week-low-as-its-ad-business-runs-a-bit-behind-its-3-billion-target?ref=yahoofinance&tlnk=yf-261031-2fhqrxcf&.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-intel-intc-stock-trading-151529235.html?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.tikr.com/blog/marvell-sinks-14-in-a-week-on-lumentum-talks-chipmakers-like-it-dont-have-a-choice?ref=yahoofinance&tlnk=yf-261031-wj2h3h27&.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.tikr.com/blog/palantir-called-q2-otherworldly-mondays-report-has-to-top-a-2-18-billion-consensus?ref=yahoofinance&tlnk=yf-261031-6g7g3g6v&.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/31/heres-the-real-winner-of-the-ai-build-out/?.tsrc=rss",
+      "sentiment": "positive"
     }
   ]
 }
