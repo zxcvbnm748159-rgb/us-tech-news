@@ -1,7 +1,7 @@
 {
   "date": "2026-10-30",
   "window_days": 7,
-  "source_count": 1406,
+  "source_count": 1418,
   "topics": [
     {
       "label": "NVDA",
@@ -21,7 +21,7 @@
         "revenue guidance",
         "profit forecast"
       ],
-      "count": 190,
+      "count": 192,
       "kind": "topic"
     },
     {
@@ -30,7 +30,7 @@
       "search_terms": [
         "GOOGL"
       ],
-      "count": 157,
+      "count": 160,
       "kind": "ticker"
     },
     {
@@ -39,7 +39,7 @@
       "search_terms": [
         "MSFT"
       ],
-      "count": 145,
+      "count": 146,
       "kind": "ticker"
     },
     {
@@ -48,7 +48,7 @@
       "search_terms": [
         "TSLA"
       ],
-      "count": 107,
+      "count": 108,
       "kind": "ticker"
     },
     {
@@ -57,7 +57,7 @@
       "search_terms": [
         "META"
       ],
-      "count": 103,
+      "count": 104,
       "kind": "ticker"
     },
     {
@@ -66,7 +66,7 @@
       "search_terms": [
         "AMZN"
       ],
-      "count": 94,
+      "count": 96,
       "kind": "ticker"
     },
     {
@@ -84,7 +84,7 @@
       "search_terms": [
         "INTC"
       ],
-      "count": 74,
+      "count": 76,
       "kind": "ticker"
     },
     {
@@ -115,7 +115,7 @@
       "kind": "ticker"
     }
   ],
-  "updated_at": "2026-10-30T22:43:19.474879+00:00",
+  "updated_at": "2026-10-31T01:50:18.300160+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -18394,6 +18394,162 @@
       "impact_direction": "neutral",
       "sentiment": "positive",
       "fetched_at": "2026-10-30T22:43:19.031819+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "‘Big Short’ trader says Anthropic slowdown tests AI boom",
+      "link": "https://www.thestreet.com/investing/big-short-trader-says-anthropic-slowdown-tests-ai-boom?.tsrc=rss",
+      "published": "Sat, 31 Oct 2026 00:37:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-31T01:50:16.157880+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Strong Growth Momentum and Rising Revisions Fuel Bright Earnings Outlook",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/strong-growth-momentum-rising-revisions-221400708.html?.tsrc=rss",
+      "published": "Fri, 30 Oct 2026 22:14:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-31T01:50:16.271020+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Stocktwits Weekly Spread: What Shaped Treasury Yields And The Dollar This Week",
+      "link": "https://stocktwits.com/news-articles/markets/equity/stocktwits-weekly-spread-what-shaped-treasury-yields-and-the-dollar-this-week-3/cZUK1ucR9ca?.tsrc=rss",
+      "published": "Sat, 31 Oct 2026 00:54:38 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-31T01:50:16.271082+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Review & Preview: Ending on a Down Note",
+      "link": "https://finance.yahoo.com/m/b0499f52-933b-3c3a-a9fe-a4d478f02828/review-%26-preview%3A-ending-on-a.html?.tsrc=rss",
+      "published": "Fri, 30 Oct 2026 23:55:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-31T01:50:16.271108+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "S&P 500, Nasdaq End Third Straight Week Lower As Investors Move Away From Tech, AI —  AMZN, INTC, LLY, RBLX In Focus",
+      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-end-third-straight-week-lower-as-investors-move-away-from-tech-ai-amzn-intc-lly-rblx-in-focus/cZUKKlTR9cJ?.tsrc=rss",
+      "published": "Sat, 31 Oct 2026 00:05:39 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-31T01:50:16.411786+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Amazon Just Lost $42 Billion in Free Cash Flow. Is It a Red Flag for Investors?",
+      "link": "https://www.fool.com/investing/2026/10/30/amazon-just-lost-usd42-billion-in-free-cash-flow-is-it-a-red-flag-for-investors/?.tsrc=rss",
+      "published": "Fri, 30 Oct 2026 23:50:01 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-31T01:50:16.411854+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "Big Tech Holds $3 Trillion in Spending Commitments for AI Boom",
+      "link": "https://finance.yahoo.com/technology/ai/articles/big-tech-holds-3-trillion-192531716.html?.tsrc=rss",
+      "published": "Fri, 30 Oct 2026 19:25:31 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-31T01:50:16.541785+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Stocktwits Zero To Sixty: Rivian Raises Delivery Guidance On R2 Demand, Tesla Expands Robotaxi Fleet,  And Ford Advances Low-Cost EV Plans",
+      "link": "https://stocktwits.com/news-articles/markets/equity/stocktwits-zero-to-sixty-rivian-beats-q3-estimates-on-r2-strength-and-raises-guidance-tesla-expands-robotaxi-fleet-and-ford-advances-low-cost-ev-plans/cZUKK8sR9cB?.tsrc=rss",
+      "published": "Sat, 31 Oct 2026 00:10:18 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-31T01:50:16.676210+00:00"
+    },
+    {
+      "ticker": "AMD",
+      "title": "Cathie Wood Shifts From AI Chips to Robinhood and Air Taxis in Latest ARK Trades",
+      "link": "https://247wallst.com/investing/2026/10/30/cathie-wood-shifts-from-ai-chips-to-robinhood-and-air-taxis-in-latest-ark-trades/?.tsrc=rss",
+      "published": "Fri, 30 Oct 2026 23:09:47 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-31T01:50:16.787662+00:00"
+    },
+    {
+      "ticker": "CRM",
+      "title": "Salesforce’s M&A spree continues with a reported $375M deal for defense tech startup Rune",
+      "link": "https://finance.yahoo.com/technology/ai/articles/salesforce-m-spree-continues-reported-232123064.html?.tsrc=rss",
+      "published": "Fri, 30 Oct 2026 23:21:23 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-31T01:50:17.192982+00:00"
+    },
+    {
+      "ticker": "INTC",
+      "title": "Why Arm Holdings Stock Plummeted by Nearly 10% Today",
+      "link": "https://www.fool.com/investing/2026/10/30/why-arm-holdings-stock-plummeted-by-nearly-10-today/?.tsrc=rss",
+      "published": "Fri, 30 Oct 2026 23:44:18 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-31T01:50:17.447728+00:00"
+    },
+    {
+      "ticker": "INTC",
+      "title": "Is Intel Stock a Buy After Its Post-Earnings Plunge?",
+      "link": "https://www.fool.com/investing/2026/10/30/is-intel-stock-a-buy-after-its-post-earnings-plunge/?.tsrc=rss",
+      "published": "Fri, 30 Oct 2026 23:34:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-31T01:50:17.447763+00:00"
     }
   ]
 }
