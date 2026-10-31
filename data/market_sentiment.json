@@ -1,14 +1,14 @@
 {
   "date": "2026-10-31",
-  "score": 54,
+  "score": 58,
   "label": "Mixed",
   "counts": {
-    "positive": 26,
+    "positive": 30,
     "negative": 22,
-    "neutral": 25
+    "neutral": 30
   },
-  "total": 73,
-  "updated_at": "2026-10-31T16:40:31.578834+00:00",
+  "total": 82,
+  "updated_at": "2026-10-31T18:03:32.573097+00:00",
   "articles": [
     {
       "link": "https://www.tikr.com/blog/amd-stock-fell-11-in-a-day-ahead-of-its-november-3-report-heres-why-intels-78-data-center-jump-matters-more-to-amd-than-its-pc-warning?ref=yahoofinance&tlnk=yf-261031-43g8j33g&.tsrc=rss",
@@ -300,6 +300,42 @@
     },
     {
       "link": "https://www.fool.com/investing/2026/10/31/heres-the-real-winner-of-the-ai-build-out/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/31/is-apple-a-top-tech-stock-to-buy-now/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/31/a-stock-market-correction-could-be-coming-heres-wh/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/31/looking-for-growth-income-and-stability-this-stock-could-offer-all-3/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/31/3-dates-for-disney-investors-to-circle-in-november/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/31/could-rivians-model-3-moment-be-coming-tesla-stock/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/10/31/france-wants-a-5-5-cent-per-gigabyte-tax-on-netflix-google-and-meta/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.axios.com/2026/10/31/data-centers-economy-ohio#utm_source=yahoo_finance&utm_medium=partner&utm_campaign=subs-partner-yahoo-finance-AI?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/10/31/sp-says-meta-cant-make-money-from-ai-as-well-as-its-rivals/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/intc-q3-deep-dive-strong-175529416.html?.tsrc=rss",
       "sentiment": "positive"
     }
   ]

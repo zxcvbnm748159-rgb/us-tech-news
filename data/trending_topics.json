@@ -1,7 +1,7 @@
 {
   "date": "2026-10-31",
   "window_days": 7,
-  "source_count": 1399,
+  "source_count": 1408,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 227,
+      "count": 232,
       "kind": "ticker"
     },
     {
@@ -30,7 +30,7 @@
       "search_terms": [
         "GOOGL"
       ],
-      "count": 165,
+      "count": 167,
       "kind": "ticker"
     },
     {
@@ -52,19 +52,19 @@
       "kind": "ticker"
     },
     {
-      "label": "AMZN",
-      "query": "AMZN",
-      "search_terms": [
-        "AMZN"
-      ],
-      "count": 101,
-      "kind": "ticker"
-    },
-    {
       "label": "META",
       "query": "META",
       "search_terms": [
         "META"
+      ],
+      "count": 102,
+      "kind": "ticker"
+    },
+    {
+      "label": "AMZN",
+      "query": "AMZN",
+      "search_terms": [
+        "AMZN"
       ],
       "count": 101,
       "kind": "ticker"
@@ -84,7 +84,7 @@
       "search_terms": [
         "INTC"
       ],
-      "count": 79,
+      "count": 80,
       "kind": "ticker"
     },
     {
@@ -115,7 +115,7 @@
       "kind": "ticker"
     }
   ],
-  "updated_at": "2026-10-31T16:40:31.622248+00:00",
+  "updated_at": "2026-10-31T18:03:32.605823+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -18303,6 +18303,123 @@
       "impact_direction": "neutral",
       "sentiment": "positive",
       "fetched_at": "2026-10-31T16:40:31.578376+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Is Apple a Top Tech Stock to Buy Now?",
+      "link": "https://www.fool.com/investing/2026/10/31/is-apple-a-top-tech-stock-to-buy-now/?.tsrc=rss",
+      "published": "Sat, 31 Oct 2026 17:50:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-31T18:03:28.424923+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "A Stock Market Correction Could Be Coming. Here's Why I'm Still Investing.",
+      "link": "https://www.fool.com/investing/2026/10/31/a-stock-market-correction-could-be-coming-heres-wh/?.tsrc=rss",
+      "published": "Sat, 31 Oct 2026 17:49:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-31T18:03:28.424974+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Looking For Growth, Income, and Stability? This Stock Could Offer All 3",
+      "link": "https://www.fool.com/investing/2026/10/31/looking-for-growth-income-and-stability-this-stock-could-offer-all-3/?.tsrc=rss",
+      "published": "Sat, 31 Oct 2026 17:28:01 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-31T18:03:28.425018+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "3 Dates for Disney Investors to Circle in November",
+      "link": "https://www.fool.com/investing/2026/10/31/3-dates-for-disney-investors-to-circle-in-november/?.tsrc=rss",
+      "published": "Sat, 31 Oct 2026 17:23:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-31T18:03:28.425039+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Could Rivian's Model 3 Moment Be Coming? Tesla Stock Climbed 1,364% in 3 Years.",
+      "link": "https://www.fool.com/investing/2026/10/31/could-rivians-model-3-moment-be-coming-tesla-stock/?.tsrc=rss",
+      "published": "Sat, 31 Oct 2026 17:03:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-31T18:03:28.425068+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "France Wants a 5.5-Cent-per-Gigabyte Tax on Netflix, Google and Meta",
+      "link": "https://247wallst.com/investing/2026/10/31/france-wants-a-5-5-cent-per-gigabyte-tax-on-netflix-google-and-meta/?.tsrc=rss",
+      "published": "Sat, 31 Oct 2026 17:07:01 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-31T18:03:28.945438+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "The daunting economic decision on data centers",
+      "link": "https://www.axios.com/2026/10/31/data-centers-economy-ohio#utm_source=yahoo_finance&utm_medium=partner&utm_campaign=subs-partner-yahoo-finance-AI?.tsrc=rss",
+      "published": "Sat, 31 Oct 2026 17:00:07 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-31T18:03:28.945471+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "S&P Says Meta Can’t Make Money From AI as Well as Its Rivals",
+      "link": "https://247wallst.com/investing/2026/10/31/sp-says-meta-cant-make-money-from-ai-as-well-as-its-rivals/?.tsrc=rss",
+      "published": "Sat, 31 Oct 2026 17:36:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-31T18:03:29.300855+00:00"
+    },
+    {
+      "ticker": "INTC",
+      "title": "INTC Q3 deep dive: strong data center growth offsets PC challenges, outlook pressured by supply constraints",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/intc-q3-deep-dive-strong-175529416.html?.tsrc=rss",
+      "published": "Sat, 31 Oct 2026 17:55:29 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-31T18:03:31.495326+00:00"
     }
   ]
 }
