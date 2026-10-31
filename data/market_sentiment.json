@@ -1,14 +1,14 @@
 {
   "date": "2026-10-31",
-  "score": 58,
-  "label": "Mixed",
+  "score": 60,
+  "label": "Bullish",
   "counts": {
-    "positive": 30,
-    "negative": 22,
-    "neutral": 30
+    "positive": 34,
+    "negative": 23,
+    "neutral": 37
   },
-  "total": 82,
-  "updated_at": "2026-10-31T18:03:32.573097+00:00",
+  "total": 94,
+  "updated_at": "2026-10-31T20:52:52.694397+00:00",
   "articles": [
     {
       "link": "https://www.tikr.com/blog/amd-stock-fell-11-in-a-day-ahead-of-its-november-3-report-heres-why-intels-78-data-center-jump-matters-more-to-amd-than-its-pc-warning?ref=yahoofinance&tlnk=yf-261031-43g8j33g&.tsrc=rss",
@@ -337,6 +337,54 @@
     {
       "link": "https://finance.yahoo.com/markets/stocks/articles/intc-q3-deep-dive-strong-175529416.html?.tsrc=rss",
       "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/31/labor-market-delivered-strong-signal-theres-catch/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.thestreet.com/investing/stocks/microsoft-just-gave-nvidia-shareholders-a-reason-to-pay-attention?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/5-most-profitable-stocks-past-202256304.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/31/this-dirt-cheap-5-stock-could-make-you-filthy-rich/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/31/boeing-stock-slumps-again-time-to-buy-or-throw-in/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/5-insightful-analyst-questions-microsoft-182729596.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://unchainedcrypto.com/will-ai-answers-become-as-winner-take-all-as-google-uneasy-money/?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/31/3-numbers-meta-platforms-ai-spend-pay-off/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.barchart.com/story/news/8571795/what-to-expect-from-amds-q3-earnings?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.barchart.com/story/news/8572624/orcl-stock-has-a-solid-base-to-build-on-after-q1-especially-as-oracle-announces-key-ai-partnerships?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.barchart.com/story/news/8572104/oracle-surges-10-on-ambitious-new-targets-3-questions-to-answer-before-dumping-orcl-stock?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/31/is-adobe-the-ultimate-buy-on-the-dip-stock/?.tsrc=rss",
+      "sentiment": "neutral"
     }
   ]
 }
