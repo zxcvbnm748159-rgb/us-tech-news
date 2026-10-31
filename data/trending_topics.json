@@ -1,7 +1,7 @@
 {
   "date": "2026-10-31",
   "window_days": 7,
-  "source_count": 1358,
+  "source_count": 1375,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 217,
+      "count": 222,
       "kind": "ticker"
     },
     {
@@ -30,7 +30,7 @@
       "search_terms": [
         "GOOGL"
       ],
-      "count": 159,
+      "count": 162,
       "kind": "ticker"
     },
     {
@@ -39,7 +39,7 @@
       "search_terms": [
         "MSFT"
       ],
-      "count": 141,
+      "count": 143,
       "kind": "ticker"
     },
     {
@@ -57,7 +57,7 @@
       "search_terms": [
         "META"
       ],
-      "count": 97,
+      "count": 100,
       "kind": "ticker"
     },
     {
@@ -66,7 +66,7 @@
       "search_terms": [
         "AMZN"
       ],
-      "count": 96,
+      "count": 98,
       "kind": "ticker"
     },
     {
@@ -102,7 +102,7 @@
       "search_terms": [
         "AVGO"
       ],
-      "count": 60,
+      "count": 61,
       "kind": "ticker"
     },
     {
@@ -115,7 +115,7 @@
       "kind": "ticker"
     }
   ],
-  "updated_at": "2026-10-31T11:33:22.134437+00:00",
+  "updated_at": "2026-10-31T13:54:21.705648+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -17770,6 +17770,227 @@
       "impact_direction": "neutral",
       "sentiment": "neutral",
       "fetched_at": "2026-10-31T11:33:22.090256+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "4 Words From Fed Chair Kevin Warsh Should Have Wall Street and Investors Quaking in Their Boots",
+      "link": "https://www.fool.com/investing/2026/10/31/4-words-fed-chair-kevin-warsh-have-wall-street-investors-quaking-in-their-boots/?.tsrc=rss",
+      "published": "Sat, 31 Oct 2026 13:26:01 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-31T13:54:19.077118+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Jensen Huang Just Announced Fantastic News for Nvidia Stock Investors",
+      "link": "https://www.fool.com/investing/2026/10/31/jensen-huang-just-announced-fantastic-news-for-nvidia-stock-investors/?.tsrc=rss",
+      "published": "Sat, 31 Oct 2026 13:05:01 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-31T13:54:19.077199+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Starlink's Consumer Business Is Booming. This Business Is Growing Even Faster.",
+      "link": "https://www.fool.com/investing/2026/10/31/starlink-consumer-business-booming-spacex-stock/?.tsrc=rss",
+      "published": "Sat, 31 Oct 2026 12:22:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-31T13:54:19.077261+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "1 Unstoppable ETF I'm Buying and Holding for Decades -- Even if the Stock Market Crashes",
+      "link": "https://www.fool.com/investing/2026/10/31/unstoppable-etf-buy-hold-decade-vug-stock/?.tsrc=rss",
+      "published": "Sat, 31 Oct 2026 11:50:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-31T13:54:19.077310+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Meet the Brilliant AI Stock Obliterating Nvidia in 2026 With a Return of 44%",
+      "link": "https://www.fool.com/investing/2026/10/31/meet-brilliant-ai-stock-nvidia-in-2026-return-44/?.tsrc=rss",
+      "published": "Sat, 31 Oct 2026 11:29:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-31T13:54:19.077383+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Microsoft Offers Voluntary Exits to 60,000 Workers. After 37 Years, He Risks Losing a 401(k) Tax Break With One IRA Rollover",
+      "link": "https://247wallst.com/personal-finance/2026/10/31/microsoft-offers-voluntary-exits-to-60000-workers-after-37-years-he-risks-losing-a-401k-tax-break-with-one-ira-rollover/?.tsrc=rss",
+      "published": "Sat, 31 Oct 2026 13:33:51 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-31T13:54:19.354286+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Fears over $828 billion AI capex spending spree help erase $1 trillion in market value",
+      "link": "https://finance.yahoo.com/technology/ai/articles/fears-over-828-billion-ai-104400351.html?.tsrc=rss",
+      "published": "Sat, 31 Oct 2026 10:44:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-31T13:54:19.354413+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Alphabet (GOOGL) Stock Sees Fair Value Cut After Q3 Miss And Higher AI Spending",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/alphabet-googl-stock-sees-fair-131300291.html?.tsrc=rss",
+      "published": "Sat, 31 Oct 2026 13:13:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-31T13:54:19.470251+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Wall Street's favorite stocks are in their worst slump since 2010: Chart of the Day",
+      "link": "https://finance.yahoo.com/markets/article/wall-streets-favorite-stocks-are-in-their-worst-slump-since-2010-chart-of-the-day-124436147.html?.tsrc=rss",
+      "published": "Sat, 31 Oct 2026 12:44:36 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-31T13:54:19.470331+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "OpenAI Cuts Funding Target Amid Meta, Microsoft Offerings, Anthropic IPO",
+      "link": "https://finance.yahoo.com/m/9f64f875-35a4-3cac-86e3-a7d06eb54605/openai-cuts-funding-target.html?.tsrc=rss",
+      "published": "Sat, 31 Oct 2026 12:57:04 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-31T13:54:19.470396+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Amazon CEO Andy Jassy makes a strong prediction on Amazon stock",
+      "link": "https://www.thestreet.com/investing/stocks/amazon-ceo-andy-jassy-predicts-two-trillion-dollar-businesses-amazon-stock?.tsrc=rss",
+      "published": "Sat, 31 Oct 2026 12:03:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-31T13:54:19.629269+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Amazon Is 16% Off Its High After a Record Quarter: Take Profits, or Buy More?",
+      "link": "https://www.tikr.com/blog/amazon-is-16-off-its-high-after-a-record-quarter-take-profits-or-buy-more?ref=yahoofinance&tlnk=yf-261031-3r8cp665&.tsrc=rss",
+      "published": "Sat, 31 Oct 2026 11:27:56 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-31T13:54:19.629378+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "Why don't the ultra-wealthy just leave high-tax states?",
+      "link": "https://finance.yahoo.com/video/why-dont-ultra-wealthy-just-120000461.html?.tsrc=rss",
+      "published": "Sat, 31 Oct 2026 12:00:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-31T13:54:19.767756+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "Zuckerberg Says Meta’s “Core Business Is Strong.” S&P Still Cut Its Outlook to Negative",
+      "link": "https://www.tikr.com/blog/zuckerberg-says-metas-core-business-is-strong-sp-still-cut-its-outlook-to-negative?ref=yahoofinance&tlnk=yf-261031-mq37m692&.tsrc=rss",
+      "published": "Sat, 31 Oct 2026 11:32:59 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-31T13:54:19.767858+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "Meta builds bipartisan influence team ahead of midterms",
+      "link": "https://www.axios.com/2026/10/31/meta-bipartisan-influence-team-midterms#utm_source=yahoo_finance&utm_medium=partner&utm_campaign=subs-partner-yahoo-finance-AI?.tsrc=rss",
+      "published": "Sat, 31 Oct 2026 11:30:07 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-31T13:54:19.767889+00:00"
+    },
+    {
+      "ticker": "AVGO",
+      "title": "Broadcom Sinks 5.5% as Its $43 Billion Anthropic Backstop Meets an Intel-Led Chip Rout",
+      "link": "https://www.tikr.com/blog/broadcom-sinks-5-5-as-its-43-billion-anthropic-backstop-meets-an-intel-led-chip-rout?ref=yahoofinance&tlnk=yf-261031-3w43fxxq&.tsrc=rss",
+      "published": "Sat, 31 Oct 2026 11:38:05 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-31T13:54:20.237074+00:00"
+    },
+    {
+      "ticker": "CRM",
+      "title": "Presentations.AI Launches AI Sales Enablement Deck Generator With Salesforce to PowerPoint Automation, Live Presentation Refresh, Editable PowerPoint Export and a Presentation API at $0.10 Per Slide",
+      "link": "https://finance.yahoo.com/technology/ai/articles/presentations-ai-launches-ai-sales-133900758.html?.tsrc=rss",
+      "published": "Sat, 31 Oct 2026 13:39:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-31T13:54:20.496684+00:00"
     }
   ]
 }
