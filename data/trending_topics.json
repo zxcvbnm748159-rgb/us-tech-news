@@ -1,7 +1,7 @@
 {
   "date": "2026-10-31",
   "window_days": 7,
-  "source_count": 1423,
+  "source_count": 1432,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 237,
+      "count": 241,
       "kind": "ticker"
     },
     {
@@ -21,7 +21,7 @@
         "revenue guidance",
         "profit forecast"
       ],
-      "count": 194,
+      "count": 195,
       "kind": "topic"
     },
     {
@@ -30,7 +30,7 @@
       "search_terms": [
         "GOOGL"
       ],
-      "count": 168,
+      "count": 169,
       "kind": "ticker"
     },
     {
@@ -66,7 +66,7 @@
       "search_terms": [
         "AMZN"
       ],
-      "count": 101,
+      "count": 102,
       "kind": "ticker"
     },
     {
@@ -84,7 +84,7 @@
       "search_terms": [
         "INTC"
       ],
-      "count": 81,
+      "count": 83,
       "kind": "ticker"
     },
     {
@@ -111,11 +111,11 @@
       "search_terms": [
         "PLTR"
       ],
-      "count": 52,
+      "count": 53,
       "kind": "ticker"
     }
   ],
-  "updated_at": "2026-10-31T21:29:20.035469+00:00",
+  "updated_at": "2026-10-31T23:54:17.315625+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -18615,6 +18615,123 @@
       "impact_direction": "neutral",
       "sentiment": "negative",
       "fetched_at": "2026-10-31T21:29:18.869305+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Nvidia (NVDA) CEO Jensen Huang Reportedly Targeted In Chinese Espionage Plot",
+      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-ceo-jensen-huang-220818674.html?.tsrc=rss",
+      "published": "Sat, 31 Oct 2026 22:08:18 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-31T23:54:14.358125+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Shopify Stock Is More Than 10% Below Its Record. Should You Buy Before Its Nov. 3 Report?",
+      "link": "https://www.fool.com/investing/2026/10/31/shopify-stock-is-more-than-10-below-its-record-should-you-buy-before-its-nov-3-report/?.tsrc=rss",
+      "published": "Sat, 31 Oct 2026 22:07:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-31T23:54:14.358193+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Want $1,000 a Month in Passive Income? Start With This Brilliant Dividend ETF.",
+      "link": "https://www.fool.com/investing/2026/10/31/want-1000-month-passive-income-schd-dividend-etf/?.tsrc=rss",
+      "published": "Sat, 31 Oct 2026 21:50:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-31T23:54:14.358305+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "5 Best High Growth Stocks Outside Big Tech",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/5-best-high-growth-stocks-213926607.html?.tsrc=rss",
+      "published": "Sat, 31 Oct 2026 21:39:26 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-31T23:54:14.358359+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "The 5 most interesting analyst questions from Alphabet’s Q3 earnings call",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/5-most-interesting-analyst-questions-213100472.html?.tsrc=rss",
+      "published": "Sat, 31 Oct 2026 21:31:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-31T23:54:14.840617+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "The AI Red Queen Effect: Why Big Tech Can’t Afford to Stop Spending",
+      "link": "https://www.barchart.com/story/news/8573211/the-ai-red-queen-effect-why-big-tech-cant-afford-to-stop-spending?.tsrc=rss",
+      "published": "Sat, 31 Oct 2026 15:30:03 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-31T23:54:15.003784+00:00"
+    },
+    {
+      "ticker": "INTC",
+      "title": "Intel (INTC) Stock Fair Value Falls After Mixed Analyst Reactions To Weak Guidance",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/intel-intc-stock-fair-value-231012483.html?.tsrc=rss",
+      "published": "Sat, 31 Oct 2026 23:10:12 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-10-31T23:54:16.292431+00:00"
+    },
+    {
+      "ticker": "INTC",
+      "title": "Jim Cramer issues 'falling knife' warning on top chip stock after Intel's outlook",
+      "link": "https://www.thestreet.com/investing/stocks/lrcx-intc-jim-cramer-warns-lam-research-investors-to-buy-slowly-amid-intel-weak-outlook?.tsrc=rss",
+      "published": "Sat, 31 Oct 2026 22:07:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-10-31T23:54:16.292532+00:00"
+    },
+    {
+      "ticker": "PLTR",
+      "title": "Are Wall Street Analysts Predicting Palantir Technologies Stock Will Climb or Sink?",
+      "link": "https://www.barchart.com/story/news/8573432/are-wall-street-analysts-predicting-palantir-technologies-stock-will-climb-or-sink?.tsrc=rss",
+      "published": "Sat, 31 Oct 2026 15:56:26 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-10-31T23:54:16.621202+00:00"
     }
   ]
 }
