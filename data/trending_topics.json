@@ -1,7 +1,7 @@
 {
   "date": "2026-11-01",
   "window_days": 7,
-  "source_count": 1352,
+  "source_count": 1361,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 214,
+      "count": 218,
       "kind": "ticker"
     },
     {
@@ -30,7 +30,7 @@
       "search_terms": [
         "GOOGL"
       ],
-      "count": 155,
+      "count": 157,
       "kind": "ticker"
     },
     {
@@ -57,7 +57,7 @@
       "search_terms": [
         "AMZN"
       ],
-      "count": 98,
+      "count": 99,
       "kind": "ticker"
     },
     {
@@ -66,7 +66,7 @@
       "search_terms": [
         "TSLA"
       ],
-      "count": 97,
+      "count": 98,
       "kind": "ticker"
     },
     {
@@ -93,7 +93,7 @@
       "search_terms": [
         "ORCL"
       ],
-      "count": 66,
+      "count": 67,
       "kind": "ticker"
     },
     {
@@ -115,7 +115,7 @@
       "kind": "ticker"
     }
   ],
-  "updated_at": "2026-11-01T12:30:09.576987+00:00",
+  "updated_at": "2026-11-01T13:47:00.321375+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -17692,6 +17692,123 @@
       "impact_direction": "neutral",
       "sentiment": "neutral",
       "fetched_at": "2026-11-01T12:30:08.885968+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "1 Unstoppable ETF I'm Buying Hand Over Fist During the Next Bear Market",
+      "link": "https://www.fool.com/investing/2026/11/01/unstoppable-etf-buying-bear-market-smh/?.tsrc=rss",
+      "published": "Sun, 01 Nov 2026 13:05:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-11-01T13:46:57.069740+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Beyond Nvidia And Hyperscalers: Beth Kindig Sees A $1 Trillion AI Infrastructure Opportunity For These Stocks",
+      "link": "https://stocktwits.com/news-articles/markets/equity/beyond-nvda-hyperscalers-beth-kindig-1-trillion-opportunity-stocks/cNGep4bR922?.tsrc=rss",
+      "published": "Sun, 01 Nov 2026 12:52:03 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-11-01T13:46:57.069804+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "If You'd Invested $5,000 in SCHD 10 Years Ago, Here's the Passive Income You'd Have Today",
+      "link": "https://www.fool.com/investing/2026/11/01/if-invest-5k-schd-10-years-ago-passive-income/?.tsrc=rss",
+      "published": "Sun, 01 Nov 2026 12:35:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-11-01T13:46:57.069848+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "1 Magnificent Cybersecurity Stock That Might be a Better Value Than CrowdStrike and Palo Alto Networks",
+      "link": "https://www.fool.com/investing/2026/11/01/1-cybersecurity-stock-better-crowdstrike-palo-alto/?.tsrc=rss",
+      "published": "Sun, 01 Nov 2026 12:27:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-11-01T13:46:57.069898+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "1 Reason Alphabet Stock Is Worth Buying on This Pullback",
+      "link": "https://www.fool.com/investing/2026/11/01/reason-alphabet-stock-worth-buying-pullback/?.tsrc=rss",
+      "published": "Sun, 01 Nov 2026 13:20:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-11-01T13:46:57.619257+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Alphabet Gets Kicked Out of the $4 Trillion Club After Its Record $505 Billion Drop. Here's What History Says Could Come Next",
+      "link": "https://www.fool.com/investing/2026/11/01/alphabet-gets-kicked-out-of-the-4-trillion-club/?.tsrc=rss",
+      "published": "Sun, 01 Nov 2026 12:35:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-11-01T13:46:57.619323+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Andy Jassy Says Robots Will Replace Many Repetitive Warehouse Jobs — Amazon Already Has Over 1 Million Machines, and the Impact Could Be Much Bigger in Five Years",
+      "link": "https://finance.yahoo.com/technology/ai/articles/andy-jassy-says-robots-replace-114505236.html?.tsrc=rss",
+      "published": "Sun, 01 Nov 2026 11:45:05 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-11-01T13:46:57.798810+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Tesla China EV Rivals BYD, Xiaomi, XPeng Report Strong Sales As Year-End Push Begins",
+      "link": "https://finance.yahoo.com/m/baa62bb5-87b3-3c69-aa80-c1e67491d7bf/tesla-china-ev-rivals-byd%2C.html?.tsrc=rss",
+      "published": "Sun, 01 Nov 2026 13:25:47 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-11-01T13:46:58.141318+00:00"
+    },
+    {
+      "ticker": "ORCL",
+      "title": "Your stock portfolio increasingly hinges on the bond market — and the midterm elections",
+      "link": "https://www.marketwatch.com/story/your-stock-portfolio-increasingly-hinges-on-the-bond-market-and-the-midterm-elections-dc1abadb?.tsrc=rss",
+      "published": "Sat, 31 Oct 2026 14:03:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-11-01T13:46:58.670521+00:00"
     }
   ]
 }

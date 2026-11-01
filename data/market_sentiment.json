@@ -1,14 +1,14 @@
 {
   "date": "2026-11-01",
-  "score": 80,
+  "score": 82,
   "label": "Bullish",
   "counts": {
-    "positive": 8,
-    "negative": 2,
-    "neutral": 12
+    "positive": 14,
+    "negative": 3,
+    "neutral": 13
   },
-  "total": 22,
-  "updated_at": "2026-11-01T12:30:09.552555+00:00",
+  "total": 30,
+  "updated_at": "2026-11-01T13:47:00.294575+00:00",
   "articles": [
     {
       "link": "https://finance.yahoo.com/markets/stocks/articles/amzn-q3-deep-dive-cloud-043500791.html?.tsrc=rss",
@@ -97,6 +97,38 @@
     {
       "link": "https://www.fool.com/investing/2026/11/01/prediction-palantir-stock-price-by-2027/?.tsrc=rss",
       "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/01/unstoppable-etf-buying-bear-market-smh/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://stocktwits.com/news-articles/markets/equity/beyond-nvda-hyperscalers-beth-kindig-1-trillion-opportunity-stocks/cNGep4bR922?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/01/if-invest-5k-schd-10-years-ago-passive-income/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/01/1-cybersecurity-stock-better-crowdstrike-palo-alto/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/01/reason-alphabet-stock-worth-buying-pullback/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/01/alphabet-gets-kicked-out-of-the-4-trillion-club/?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/andy-jassy-says-robots-replace-114505236.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/baa62bb5-87b3-3c69-aa80-c1e67491d7bf/tesla-china-ev-rivals-byd%2C.html?.tsrc=rss",
+      "sentiment": "positive"
     }
   ]
 }
