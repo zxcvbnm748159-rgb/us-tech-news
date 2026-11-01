@@ -1,5 +1,31 @@
 [
   {
+    "ticker": "PLTR",
+    "title": "Prediction: This Will Be Palantir's Stock Price by the End of 2027",
+    "link": "https://www.fool.com/investing/2026/10/31/prediction-palantirs-price-by-the-end-of-2027/?.tsrc=rss",
+    "published": "Sat, 31 Oct 2026 23:57:00 +0000",
+    "summary_th": "",
+    "category": "General",
+    "ai_analysis": "",
+    "impact_level": "low",
+    "impact_direction": "neutral",
+    "sentiment": "neutral",
+    "fetched_at": "2026-11-01T00:19:09.023159+00:00"
+  },
+  {
+    "ticker": "SMCI",
+    "title": "VyOS Networks Opens Waitlist for Pre-Validated VyOS + Supermicro Routing System",
+    "link": "https://finance.yahoo.com/technology/articles/vyos-networks-opens-waitlist-pre-130000880.html?.tsrc=rss",
+    "published": "Fri, 30 Oct 2026 13:00:00 +0000",
+    "summary_th": "",
+    "category": "General",
+    "ai_analysis": "",
+    "impact_level": "low",
+    "impact_direction": "neutral",
+    "sentiment": "neutral",
+    "fetched_at": "2026-11-01T00:19:09.212072+00:00"
+  },
+  {
     "ticker": "NVDA",
     "title": "Nvidia (NVDA) CEO Jensen Huang Reportedly Targeted In Chinese Espionage Plot",
     "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-ceo-jensen-huang-220818674.html?.tsrc=rss",
@@ -3872,31 +3898,5 @@
     "impact_direction": "neutral",
     "sentiment": "positive",
     "fetched_at": "2026-10-30T13:33:34.795288+00:00"
-  },
-  {
-    "ticker": "TSLA",
-    "title": "Why Beijing could block the SpaceX-Tesla merger",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/why-beijing-could-block-spacex-125025186.html?.tsrc=rss",
-    "published": "Fri, 30 Oct 2026 12:50:25 +0000",
-    "summary_th": "",
-    "category": "General",
-    "ai_analysis": "",
-    "impact_level": "low",
-    "impact_direction": "neutral",
-    "sentiment": "negative",
-    "fetched_at": "2026-10-30T13:33:34.957832+00:00"
-  },
-  {
-    "ticker": "TSLA",
-    "title": "There are 3 Questions to Answer Before a Possible Tesla and SpaceX Merger",
-    "link": "https://finance.yahoo.com/m/38368385-2ed5-33ad-98b0-01af6d4dbd00/there-are-3-questions-to.html?.tsrc=rss",
-    "published": "Fri, 30 Oct 2026 10:38:00 +0000",
-    "summary_th": "",
-    "category": "General",
-    "ai_analysis": "",
-    "impact_level": "low",
-    "impact_direction": "neutral",
-    "sentiment": "neutral",
-    "fetched_at": "2026-10-30T13:33:34.957882+00:00"
   }
 ]

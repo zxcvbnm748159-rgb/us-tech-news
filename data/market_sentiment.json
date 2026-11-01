@@ -5,10 +5,10 @@
   "counts": {
     "positive": 39,
     "negative": 26,
-    "neutral": 41
+    "neutral": 42
   },
-  "total": 106,
-  "updated_at": "2026-10-31T23:54:17.271125+00:00",
+  "total": 107,
+  "updated_at": "2026-11-01T00:19:09.711144+00:00",
   "articles": [
     {
       "link": "https://www.tikr.com/blog/amd-stock-fell-11-in-a-day-ahead-of-its-november-3-report-heres-why-intels-78-data-center-jump-matters-more-to-amd-than-its-pc-warning?ref=yahoofinance&tlnk=yf-261031-43g8j33g&.tsrc=rss",
@@ -432,6 +432,10 @@
     },
     {
       "link": "https://www.barchart.com/story/news/8573432/are-wall-street-analysts-predicting-palantir-technologies-stock-will-climb-or-sink?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/31/prediction-palantirs-price-by-the-end-of-2027/?.tsrc=rss",
       "sentiment": "neutral"
     }
   ]
