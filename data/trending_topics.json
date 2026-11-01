@@ -1,7 +1,7 @@
 {
   "date": "2026-11-01",
   "window_days": 7,
-  "source_count": 1332,
+  "source_count": 1352,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 209,
+      "count": 214,
       "kind": "ticker"
     },
     {
@@ -21,7 +21,7 @@
         "revenue guidance",
         "profit forecast"
       ],
-      "count": 185,
+      "count": 186,
       "kind": "topic"
     },
     {
@@ -30,7 +30,7 @@
       "search_terms": [
         "GOOGL"
       ],
-      "count": 153,
+      "count": 155,
       "kind": "ticker"
     },
     {
@@ -39,7 +39,7 @@
       "search_terms": [
         "MSFT"
       ],
-      "count": 137,
+      "count": 138,
       "kind": "ticker"
     },
     {
@@ -48,7 +48,7 @@
       "search_terms": [
         "META"
       ],
-      "count": 98,
+      "count": 101,
       "kind": "ticker"
     },
     {
@@ -57,7 +57,7 @@
       "search_terms": [
         "AMZN"
       ],
-      "count": 97,
+      "count": 98,
       "kind": "ticker"
     },
     {
@@ -66,7 +66,7 @@
       "search_terms": [
         "TSLA"
       ],
-      "count": 95,
+      "count": 97,
       "kind": "ticker"
     },
     {
@@ -75,7 +75,7 @@
       "search_terms": [
         "AAPL"
       ],
-      "count": 83,
+      "count": 86,
       "kind": "ticker"
     },
     {
@@ -106,16 +106,16 @@
       "kind": "ticker"
     },
     {
-      "label": "AMD",
-      "query": "AMD",
+      "label": "PLTR",
+      "query": "PLTR",
       "search_terms": [
-        "AMD"
+        "PLTR"
       ],
-      "count": 48,
+      "count": 51,
       "kind": "ticker"
     }
   ],
-  "updated_at": "2026-11-01T06:31:38.873513+00:00",
+  "updated_at": "2026-11-01T12:30:09.576987+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -17432,6 +17432,266 @@
       "impact_direction": "neutral",
       "sentiment": "positive",
       "fetched_at": "2026-11-01T06:31:38.834436+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "If the AI Boom Goes Bust, What Happens to Crypto? Here's the Most Likely Scenario for the Crypto Market.",
+      "link": "https://www.fool.com/investing/2026/11/01/if-the-ai-boom-goes-bust-what-happens-to-crypto-he/?.tsrc=rss",
+      "published": "Sun, 01 Nov 2026 12:05:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-11-01T12:30:06.372969+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Focused on Inflation? 3 ETFs That Could Help Protect Your Portfolio",
+      "link": "https://www.fool.com/investing/2026/11/01/focused-on-inflation-three-etfs-that-could-help/?.tsrc=rss",
+      "published": "Sun, 01 Nov 2026 10:20:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-11-01T12:30:06.373057+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Should You Buy Stocks Ahead of the Midterms? History Says There's a 100% Chance Of This Happening If You Do.",
+      "link": "https://www.fool.com/investing/2026/11/01/should-you-buy-stocks-ahead-of-the-midterms-histor/?.tsrc=rss",
+      "published": "Sun, 01 Nov 2026 12:20:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-11-01T12:30:06.373128+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "SK Hynix Shares Surge. Why It's Not Too Late to Buy the Stock.",
+      "link": "https://www.fool.com/investing/2026/11/01/sk-hynix-shares-surge-why-its-not-too-late-to-buy/?.tsrc=rss",
+      "published": "Sun, 01 Nov 2026 11:35:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-11-01T12:30:06.373158+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "This Dividend Stock Yielding Quadruple the S&P 500 Looks Like a Buy Right Now",
+      "link": "https://www.fool.com/investing/2026/11/01/dividend-stock-yield-quadruple-sp-500-pepsico/?.tsrc=rss",
+      "published": "Sun, 01 Nov 2026 11:03:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-11-01T12:30:06.373193+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "A big sell-off collides with more Big Tech earnings and a midterm election: What to watch this week",
+      "link": "https://finance.yahoo.com/markets/article/a-big-sell-off-collides-with-more-big-tech-earnings-and-a-midterm-election-what-to-watch-this-week-110000657.html?.tsrc=rss",
+      "published": "Sun, 01 Nov 2026 11:00:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-11-01T12:30:06.559281+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "What to Expect in Markets This Week: Apple, Palantir Report; October Jobs Data Lands",
+      "link": "https://www.investopedia.com/what-to-expect-in-markets-this-week-apple-palantir-report-october-jobs-data-lands-12199599?.tsrc=rss",
+      "published": "Sun, 01 Nov 2026 10:00:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-11-01T12:30:06.559318+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Apple CEO John Ternus Says ‘I Really Like Where We're At’ in AI Race: Won't ‘Ship AI for AI's Sake’",
+      "link": "https://finance.yahoo.com/technology/ai/articles/apple-ceo-john-ternus-says-073247018.html?.tsrc=rss",
+      "published": "Sun, 01 Nov 2026 07:32:47 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-11-01T12:30:06.559372+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "3 Growth Stocks Facing A Fed Rate Test Including Microsoft Stock",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-growth-stocks-facing-fed-081112560.html?.tsrc=rss",
+      "published": "Sun, 01 Nov 2026 08:11:12 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-11-01T12:30:06.754276+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "GOOGL Market Cap Drops Nearly $500B After Google Search Fell Below 50% Of Alphabet's Revenue — David Sacks Explains Why That's A Good Thing",
+      "link": "https://stocktwits.com/news-articles/markets/equity/googl-market-cap-500b-google-search-share-50-david-sacks-good-thing/cNGe8XsR92b?.tsrc=rss",
+      "published": "Sun, 01 Nov 2026 11:44:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-11-01T12:30:06.924027+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "AI stocks just lost $5 trillion — but history says the stock market's sweetest stretch starts now",
+      "link": "https://finance.yahoo.com/markets/article/ai-stocks-just-lost-5-trillion--but-history-says-the-stock-markets-sweetest-stretch-starts-now-110000768.html?.tsrc=rss",
+      "published": "Sun, 01 Nov 2026 11:00:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-11-01T12:30:06.924082+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Anthropic Is “Reduplicating AWS” as It Rents Its Own Data Centers. Amazon Reports Thursday",
+      "link": "https://www.tikr.com/blog/anthropic-is-reduplicating-aws-as-it-rents-its-own-data-centers-amazon-reports-thursday?ref=yahoofinance&tlnk=yf-261101-p4cj25qx&.tsrc=rss",
+      "published": "Sun, 01 Nov 2026 07:46:52 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-11-01T12:30:07.105051+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "Here's Where I Think Meta Stock Will Be in 2030",
+      "link": "https://www.fool.com/investing/2026/11/01/here-s-where-i-think-meta-stock-will-be-in-2030/?.tsrc=rss",
+      "published": "Sun, 01 Nov 2026 08:57:01 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-11-01T12:30:07.273679+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "Josh Brown: Meta Could Become “a Cash Spigot” That Makes Nvidia Look Expensive",
+      "link": "https://www.tikr.com/blog/josh-brown-meta-could-become-a-cash-spigot-that-makes-nvidia-look-expensive?ref=yahoofinance&tlnk=yf-261101-8m9xjfvm&.tsrc=rss",
+      "published": "Sun, 01 Nov 2026 07:29:37 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-11-01T12:30:07.273708+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "Anthropic's Frenemies Meta and Google Are Showing Cracks In the AI Trade. What That Tells Us About the Anthropic IPO.",
+      "link": "https://www.barchart.com/story/news/8577768/anthropic-s-frenemies-meta-and-google-are-showing-cracks-in-the-ai-trade-what-that-tells-us-about-the-anthropic-ipo?.tsrc=rss",
+      "published": "Sun, 01 Nov 2026 01:00:03 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-11-01T12:30:07.273736+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "The First U.S. Humanoid Robot Stock Starts Trading in November. Here's Why I'd Wait for the De-SPAC Dip.",
+      "link": "https://www.fool.com/investing/2026/11/01/the-first-us-humanoid-robot-stock-starts-trading-i/?.tsrc=rss",
+      "published": "Sun, 01 Nov 2026 11:28:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-11-01T12:30:07.481660+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Tesla’s Cybercab Costs “About $25,000” to Build. Waymo Has a Big Problem: It’s Cost Is Nearly 4X That",
+      "link": "https://www.tikr.com/blog/teslas-cybercab-costs-about-25000-to-build-waymo-has-a-big-problem-its-cost-is-nearly-4x-that?ref=yahoofinance&tlnk=yf-261101-739mfm8c&.tsrc=rss",
+      "published": "Sun, 01 Nov 2026 08:18:14 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-11-01T12:30:07.481722+00:00"
+    },
+    {
+      "ticker": "PLTR",
+      "title": "Is Palantir Stock a Buy?",
+      "link": "https://www.fool.com/investing/2026/11/01/is-palantir-stock-a-buy/?.tsrc=rss",
+      "published": "Sun, 01 Nov 2026 12:07:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-11-01T12:30:08.885902+00:00"
+    },
+    {
+      "ticker": "PLTR",
+      "title": "Lab monkey prices reportedly jumped from $3K to $20K. Now a Palantir billionaire wants to breed 30,000 of them in the US",
+      "link": "https://finance.yahoo.com/healthcare/articles/lab-monkey-prices-reportedly-jumped-113000275.html?.tsrc=rss",
+      "published": "Sun, 01 Nov 2026 11:30:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-11-01T12:30:08.885946+00:00"
+    },
+    {
+      "ticker": "PLTR",
+      "title": "Prediction: This Will Be Palantir's Stock Price by Year-End 2027",
+      "link": "https://www.fool.com/investing/2026/11/01/prediction-palantir-stock-price-by-2027/?.tsrc=rss",
+      "published": "Sun, 01 Nov 2026 10:35:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-11-01T12:30:08.885968+00:00"
     }
   ]
 }
