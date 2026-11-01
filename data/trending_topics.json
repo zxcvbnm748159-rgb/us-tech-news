@@ -1,7 +1,7 @@
 {
   "date": "2026-11-01",
   "window_days": 7,
-  "source_count": 1361,
+  "source_count": 1379,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 218,
+      "count": 223,
       "kind": "ticker"
     },
     {
@@ -21,7 +21,7 @@
         "revenue guidance",
         "profit forecast"
       ],
-      "count": 186,
+      "count": 188,
       "kind": "topic"
     },
     {
@@ -30,7 +30,7 @@
       "search_terms": [
         "GOOGL"
       ],
-      "count": 157,
+      "count": 159,
       "kind": "ticker"
     },
     {
@@ -39,7 +39,7 @@
       "search_terms": [
         "MSFT"
       ],
-      "count": 138,
+      "count": 140,
       "kind": "ticker"
     },
     {
@@ -48,7 +48,7 @@
       "search_terms": [
         "META"
       ],
-      "count": 101,
+      "count": 102,
       "kind": "ticker"
     },
     {
@@ -57,7 +57,7 @@
       "search_terms": [
         "AMZN"
       ],
-      "count": 99,
+      "count": 100,
       "kind": "ticker"
     },
     {
@@ -75,7 +75,7 @@
       "search_terms": [
         "AAPL"
       ],
-      "count": 86,
+      "count": 89,
       "kind": "ticker"
     },
     {
@@ -84,7 +84,7 @@
       "search_terms": [
         "INTC"
       ],
-      "count": 80,
+      "count": 81,
       "kind": "ticker"
     },
     {
@@ -111,11 +111,11 @@
       "search_terms": [
         "PLTR"
       ],
-      "count": 51,
+      "count": 53,
       "kind": "ticker"
     }
   ],
-  "updated_at": "2026-11-01T13:47:00.321375+00:00",
+  "updated_at": "2026-11-01T18:41:26.347422+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -17809,6 +17809,240 @@
       "impact_direction": "neutral",
       "sentiment": "neutral",
       "fetched_at": "2026-11-01T13:46:58.670521+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "GE & GM Earnings, Plus Deals, Deals, Deals",
+      "link": "https://www.fool.com/investing/2026/11/01/ge-and-gm-earnings-plus-deals-deals-deals/?.tsrc=rss",
+      "published": "Sun, 01 Nov 2026 17:13:58 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-11-01T18:41:24.039652+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "ICE And OKX's Tokenized Stock Venue Hits A Wall As Nvidia, Nike Join Growing List Of Objectors",
+      "link": "https://stocktwits.com/news-articles/markets/cryptocurrency/ice-and-okx-s-tokenized-stock-venue-hits-a-wall-as-nvidia-nike-join-growing-list-of-objectors/cNGewptR927?.tsrc=rss",
+      "published": "Sun, 01 Nov 2026 16:57:37 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-11-01T18:41:24.039749+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Prediction: A Bear Market Is Coming, and This 1 Investing Move Will Make or Break Your Portfolio",
+      "link": "https://www.fool.com/investing/2026/11/01/prediction-bear-market-is-coming-this-1-investing/?.tsrc=rss",
+      "published": "Sun, 01 Nov 2026 16:50:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-11-01T18:41:24.039779+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "History Says Now Is the Perfect Time to Buy Nvidia Stock",
+      "link": "https://www.fool.com/investing/2026/11/01/history-says-now-is-the-perfect-time-to-buy-nvidia/?.tsrc=rss",
+      "published": "Sun, 01 Nov 2026 16:35:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-11-01T18:41:24.039815+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "5 Huge Winners From Anthropic's IPO",
+      "link": "https://www.fool.com/investing/2026/11/01/5-huge-winners-from-anthropics-ipo/?.tsrc=rss",
+      "published": "Sun, 01 Nov 2026 16:24:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-11-01T18:41:24.039842+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Could Apple's Latest iPhone Be Its Biggest Growth Catalyst in Years?",
+      "link": "https://www.fool.com/investing/2026/11/01/could-apple-s-latest-iphone-be-its-biggest-growth-catalyst-in-years/?.tsrc=rss",
+      "published": "Sun, 01 Nov 2026 17:29:01 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-11-01T18:41:24.157940+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Warren Buffett's Apple Bet Is Still Berkshire Hathaway's Biggest Stock Holding at 22% of the Portfolio",
+      "link": "https://www.fool.com/investing/2026/11/01/buffetts-apple-bet-is-still-berkshire-hathaways/?.tsrc=rss",
+      "published": "Sun, 01 Nov 2026 17:05:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-11-01T18:41:24.157983+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "What To Expect In Markets This Week: AAPL, PLTR, AMD, SMCI, SHOP, Earnings, Jobs Report And More",
+      "link": "https://stocktwits.com/news-articles/markets/equity/what-to-expect-markets-this-week-nov-1-2026/cNGes4VR923?.tsrc=rss",
+      "published": "Sun, 01 Nov 2026 14:06:16 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-11-01T18:41:24.158012+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "1 Reason to Buy Microsoft Stock for 10 Years",
+      "link": "https://www.fool.com/investing/2026/11/01/1-reason-to-buy-microsoft-stock-for-10-years/?.tsrc=rss",
+      "published": "Sun, 01 Nov 2026 18:03:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-11-01T18:41:24.273747+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Copilot AI Predicts Solana Could Hit $2,500 if This Landmark Event Happens",
+      "link": "https://99bitcoins.com/news/altcoins/copilot-ai-predicts-solana-could-hit-2500-if-this-landmark-event-happens/?.tsrc=rss",
+      "published": "Sun, 01 Nov 2026 15:00:19 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-11-01T18:41:24.273809+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Why Did Alphabet (GOOGL) Shares Fall After Its $500 Billion Value Wipeout?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-did-alphabet-googl-shares-170811904.html?.tsrc=rss",
+      "published": "Sun, 01 Nov 2026 17:08:11 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-11-01T18:41:24.399163+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Reddit vs. The Trade Desk: One's Revenue Growth Overtook the Other's Lead",
+      "link": "https://www.fool.com/coverage/charts/2026/11/01/reddit-vs-the-trade-desk-one-s-revenue-growth-overtook-the-other-s-lead/?.tsrc=rss",
+      "published": "Sun, 01 Nov 2026 16:42:08 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-11-01T18:41:24.399214+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "There's a $12,000 Reason to Consider Investing in QQQ Over SPY, but It Comes With a Caveat",
+      "link": "https://www.kiplinger.com/what-1000-invested-in-qqq-etf-spy-etf-is-worth-now?.tsrc=rss",
+      "published": "Sun, 01 Nov 2026 16:30:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-11-01T18:41:24.534750+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "S&P Turns Negative on Meta. Wall Street Sees Less Than Half the Cash Hole",
+      "link": "https://www.tikr.com/blog/sp-turns-negative-on-meta-wall-street-sees-less-than-half-the-cash-hole?ref=yahoofinance&tlnk=yf-261101-5295m6m8&.tsrc=rss",
+      "published": "Sun, 01 Nov 2026 14:18:55 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-11-01T18:41:24.648647+00:00"
+    },
+    {
+      "ticker": "INTC",
+      "title": "A Wall Street Firm Modeled Out an AI Crash: S&P 500 Down 30%, $20 Trillion Gone. But Here's What Happens Next",
+      "link": "https://www.fool.com/investing/2026/11/01/a-wall-street-firm-modeled-out-an-ai-crash-s-and-p-500-down-30-usd20-trillion-gone-but-here-s-what-happens-next/?.tsrc=rss",
+      "published": "Sun, 01 Nov 2026 16:40:27 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-11-01T18:41:25.552853+00:00"
+    },
+    {
+      "ticker": "PLTR",
+      "title": "Prediction: 3 Stocks That Will Be Worth More Than Palantir 5 Years From Now",
+      "link": "https://www.fool.com/investing/2026/11/01/prediction-3-stocks-that-will-be-worth-more-than-p/?.tsrc=rss",
+      "published": "Sun, 01 Nov 2026 17:03:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-11-01T18:41:25.847282+00:00"
+    },
+    {
+      "ticker": "PLTR",
+      "title": "Palantir Technologies (PLTR) Deepens Sovereign AI Deployments Across Sensitive Industries",
+      "link": "https://finance.yahoo.com/technology/ai/articles/palantir-technologies-pltr-deepens-sovereign-160706148.html?.tsrc=rss",
+      "published": "Sun, 01 Nov 2026 16:07:06 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-11-01T18:41:25.847319+00:00"
+    },
+    {
+      "ticker": "IBM",
+      "title": "CRWD, PANW, OKTA Stocks Have Doubled This Year — Here’s What’s Driving The Cybersecurity Rally",
+      "link": "https://stocktwits.com/news-articles/markets/equity/crwd-panw-okta-stocks-doubled-this-year-whats-driving-cybersecurity-rally/cNGetEDR92I?.tsrc=rss",
+      "published": "Sun, 01 Nov 2026 14:44:15 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-11-01T18:41:26.074706+00:00"
     }
   ]
 }
