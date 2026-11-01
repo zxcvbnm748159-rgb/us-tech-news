@@ -1,7 +1,7 @@
 {
   "date": "2026-11-01",
   "window_days": 7,
-  "source_count": 1379,
+  "source_count": 1381,
   "topics": [
     {
       "label": "NVDA",
@@ -21,7 +21,7 @@
         "revenue guidance",
         "profit forecast"
       ],
-      "count": 188,
+      "count": 189,
       "kind": "topic"
     },
     {
@@ -75,7 +75,7 @@
       "search_terms": [
         "AAPL"
       ],
-      "count": 89,
+      "count": 90,
       "kind": "ticker"
     },
     {
@@ -115,7 +115,7 @@
       "kind": "ticker"
     }
   ],
-  "updated_at": "2026-11-01T18:41:26.347422+00:00",
+  "updated_at": "2026-11-01T19:19:55.539289+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -18043,6 +18043,32 @@
       "impact_direction": "neutral",
       "sentiment": "neutral",
       "fetched_at": "2026-11-01T18:41:26.074706+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Apple to report Q4 earnings Monday, with iPhone 18 sales in the spotlight",
+      "link": "https://finance.yahoo.com/technology/article/apple-to-report-q4-earnings-monday-with-iphone-18-sales-in-the-spotlight-190138409.html?.tsrc=rss",
+      "published": "Sun, 01 Nov 2026 19:01:38 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-11-01T19:19:37.250871+00:00"
+    },
+    {
+      "ticker": "NFLX",
+      "title": "Why Netflix Stock Could Double From This Dip",
+      "link": "https://www.fool.com/investing/2026/11/01/why-netflix-stock-could-double-from-this-dip/?.tsrc=rss",
+      "published": "Sun, 01 Nov 2026 18:53:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-11-01T19:19:54.157801+00:00"
     }
   ]
 }

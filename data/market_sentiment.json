@@ -5,10 +5,10 @@
   "counts": {
     "positive": 21,
     "negative": 5,
-    "neutral": 22
+    "neutral": 24
   },
-  "total": 48,
-  "updated_at": "2026-11-01T18:41:26.317459+00:00",
+  "total": 50,
+  "updated_at": "2026-11-01T19:19:55.505671+00:00",
   "articles": [
     {
       "link": "https://finance.yahoo.com/markets/stocks/articles/amzn-q3-deep-dive-cloud-043500791.html?.tsrc=rss",
@@ -200,6 +200,14 @@
     },
     {
       "link": "https://stocktwits.com/news-articles/markets/equity/crwd-panw-okta-stocks-doubled-this-year-whats-driving-cybersecurity-rally/cNGetEDR92I?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/article/apple-to-report-q4-earnings-monday-with-iphone-18-sales-in-the-spotlight-190138409.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/01/why-netflix-stock-could-double-from-this-dip/?.tsrc=rss",
       "sentiment": "neutral"
     }
   ]

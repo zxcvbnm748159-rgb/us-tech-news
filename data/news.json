@@ -1,5 +1,44 @@
 [
   {
+    "ticker": "AAPL",
+    "title": "Apple to report Q4 earnings Monday, with iPhone 18 sales in the spotlight",
+    "link": "https://finance.yahoo.com/technology/article/apple-to-report-q4-earnings-monday-with-iphone-18-sales-in-the-spotlight-190138409.html?.tsrc=rss",
+    "published": "Sun, 01 Nov 2026 19:01:38 +0000",
+    "summary_th": "",
+    "category": "General",
+    "ai_analysis": "",
+    "impact_level": "low",
+    "impact_direction": "neutral",
+    "sentiment": "neutral",
+    "fetched_at": "2026-11-01T19:19:37.250871+00:00"
+  },
+  {
+    "ticker": "NFLX",
+    "title": "Why Netflix Stock Could Double From This Dip",
+    "link": "https://www.fool.com/investing/2026/11/01/why-netflix-stock-could-double-from-this-dip/?.tsrc=rss",
+    "published": "Sun, 01 Nov 2026 18:53:00 +0000",
+    "summary_th": "",
+    "category": "General",
+    "ai_analysis": "",
+    "impact_level": "low",
+    "impact_direction": "neutral",
+    "sentiment": "neutral",
+    "fetched_at": "2026-11-01T19:19:54.157801+00:00"
+  },
+  {
+    "ticker": "QCOM",
+    "title": "Broadcom Falls 5% Despite DA Davidson Upgrade on Anthropic and OpenAI IPO Hopes; Arm and Qualcomm Sink 10%, Marvell Drops 8%",
+    "link": "https://247wallst.com/investing/2026/10/30/broadcom-falls-5-despite-da-davidson-upgrade-on-anthropic-and-openai-ipo-hopes-arm-and-qualcomm-sink-10-marvell-drops-8/?.tsrc=rss",
+    "published": "Fri, 30 Oct 2026 14:56:49 +0000",
+    "summary_th": "",
+    "category": "General",
+    "ai_analysis": "",
+    "impact_level": "low",
+    "impact_direction": "neutral",
+    "sentiment": "positive",
+    "fetched_at": "2026-11-01T19:19:54.546065+00:00"
+  },
+  {
     "ticker": "NVDA",
     "title": "GE & GM Earnings, Plus Deals, Deals, Deals",
     "link": "https://www.fool.com/investing/2026/11/01/ge-and-gm-earnings-plus-deals-deals-deals/?.tsrc=rss",
@@ -3859,44 +3898,5 @@
     "impact_direction": "neutral",
     "sentiment": "positive",
     "fetched_at": "2026-10-30T17:36:51.229215+00:00"
-  },
-  {
-    "ticker": "GOOGL",
-    "title": "Big Tech Stocks Have Never Looked Cheaper. Is the Magnificent Seven a Screaming Buy?",
-    "link": "https://www.fool.com/investing/2026/10/30/big-tech-stocks-have-never-looked-cheaper-is-the-magnificent-seven-a-screaming-buy/?.tsrc=rss",
-    "published": "Fri, 30 Oct 2026 17:20:03 +0000",
-    "summary_th": "",
-    "category": "General",
-    "ai_analysis": "",
-    "impact_level": "low",
-    "impact_direction": "neutral",
-    "sentiment": "positive",
-    "fetched_at": "2026-10-30T17:36:51.443746+00:00"
-  },
-  {
-    "ticker": "GOOGL",
-    "title": "Applied Optoelectronics Plunges 15%, Coherent Tumbles 13% as Hyperscaler Spending Fears Hit AI Optics Stocks; Lumentum and Marvell Sink 10%",
-    "link": "https://247wallst.com/investing/2026/10/30/applied-optoelectronics-plunges-15-coherent-tumbles-13-as-hyperscaler-spending-fears-hit-ai-optics-stocks-lumentum-and-marvell-sink-10/?.tsrc=rss",
-    "published": "Fri, 30 Oct 2026 16:57:26 +0000",
-    "summary_th": "",
-    "category": "General",
-    "ai_analysis": "",
-    "impact_level": "low",
-    "impact_direction": "neutral",
-    "sentiment": "negative",
-    "fetched_at": "2026-10-30T17:36:51.443835+00:00"
-  },
-  {
-    "ticker": "GOOGL",
-    "title": "Amazon and Intel Tank the AI Trade. The 1 Factor Linking Big Tech’s Underwhelming Earnings.",
-    "link": "https://finance.yahoo.com/m/dcd0bfe0-38c5-3877-82a0-9aafb3362b01/amazon-and-intel-tank-the-ai.html?.tsrc=rss",
-    "published": "Fri, 30 Oct 2026 16:48:00 +0000",
-    "summary_th": "",
-    "category": "General",
-    "ai_analysis": "",
-    "impact_level": "low",
-    "impact_direction": "neutral",
-    "sentiment": "neutral",
-    "fetched_at": "2026-10-30T17:36:51.443882+00:00"
   }
 ]
