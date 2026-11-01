@@ -1,5 +1,44 @@
 [
   {
+    "ticker": "AMZN",
+    "title": "AMZN Q3 deep dive: cloud surge and AI investments drive mixed market reception",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/amzn-q3-deep-dive-cloud-043500791.html?.tsrc=rss",
+    "published": "Sun, 01 Nov 2026 04:35:00 +0000",
+    "summary_th": "",
+    "category": "General",
+    "ai_analysis": "",
+    "impact_level": "low",
+    "impact_direction": "neutral",
+    "sentiment": "neutral",
+    "fetched_at": "2026-11-01T06:31:36.633925+00:00"
+  },
+  {
+    "ticker": "TSLA",
+    "title": "Cybercab Expansion Might Change The Case For Investing In Tesla Stock (TSLA)",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/cybercab-expansion-might-change-case-051614061.html?.tsrc=rss",
+    "published": "Sun, 01 Nov 2026 05:16:14 +0000",
+    "summary_th": "",
+    "category": "General",
+    "ai_analysis": "",
+    "impact_level": "low",
+    "impact_direction": "neutral",
+    "sentiment": "neutral",
+    "fetched_at": "2026-11-01T06:31:36.956566+00:00"
+  },
+  {
+    "ticker": "TSM",
+    "title": "2 Unstoppable Growth Stocks I'd Buy With $1,000 and Hold for a Decade",
+    "link": "https://www.fool.com/investing/2026/11/01/2-unstoppable-growth-stocks-id-buy-with-1000-and-h/?.tsrc=rss",
+    "published": "Sun, 01 Nov 2026 04:20:00 +0000",
+    "summary_th": "",
+    "category": "General",
+    "ai_analysis": "",
+    "impact_level": "low",
+    "impact_direction": "neutral",
+    "sentiment": "positive",
+    "fetched_at": "2026-11-01T06:31:38.834436+00:00"
+  },
+  {
     "ticker": "NVDA",
     "title": "Prediction: This Will Be Intel's Stock Price by Year-End 2027",
     "link": "https://www.fool.com/investing/2026/10/31/prediction-this-will-be-intels-stock-price-by-year/?.tsrc=rss",
@@ -3859,44 +3898,5 @@
     "impact_direction": "neutral",
     "sentiment": "neutral",
     "fetched_at": "2026-10-30T13:33:34.328529+00:00"
-  },
-  {
-    "ticker": "MSFT",
-    "title": "Amazon Could Be Building Toward Its Next Big Stock Market Breakout",
-    "link": "https://247wallst.com/investing/2026/10/30/amazon-could-be-building-toward-its-next-big-stock-market-breakout/?.tsrc=rss",
-    "published": "Fri, 30 Oct 2026 13:04:06 +0000",
-    "summary_th": "",
-    "category": "General",
-    "ai_analysis": "",
-    "impact_level": "low",
-    "impact_direction": "neutral",
-    "sentiment": "neutral",
-    "fetched_at": "2026-10-30T13:33:34.328562+00:00"
-  },
-  {
-    "ticker": "GOOGL",
-    "title": "Alphabet Shares Plunge. Why Now Is a Great Time to Buy the Dip.",
-    "link": "https://www.fool.com/investing/2026/10/30/alphabet-shares-plunge-why-now-is-a-great-time-to/?.tsrc=rss",
-    "published": "Fri, 30 Oct 2026 13:21:50 +0000",
-    "summary_th": "",
-    "category": "General",
-    "ai_analysis": "",
-    "impact_level": "low",
-    "impact_direction": "neutral",
-    "sentiment": "positive",
-    "fetched_at": "2026-10-30T13:33:34.483920+00:00"
-  },
-  {
-    "ticker": "GOOGL",
-    "title": "Does Wall Street think Amazon's $77 billion capex was worth it?",
-    "link": "https://finance.yahoo.com/video/does-wall-street-think-amazons-77-billion-capex-was-worth-it-131448078.html?.tsrc=rss",
-    "published": "Fri, 30 Oct 2026 13:14:48 +0000",
-    "summary_th": "",
-    "category": "General",
-    "ai_analysis": "",
-    "impact_level": "low",
-    "impact_direction": "neutral",
-    "sentiment": "positive",
-    "fetched_at": "2026-10-30T13:33:34.483985+00:00"
   }
 ]
