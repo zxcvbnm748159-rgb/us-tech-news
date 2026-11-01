@@ -1,7 +1,7 @@
 {
   "date": "2026-11-01",
   "window_days": 7,
-  "source_count": 1381,
+  "source_count": 1392,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 223,
+      "count": 228,
       "kind": "ticker"
     },
     {
@@ -21,7 +21,7 @@
         "revenue guidance",
         "profit forecast"
       ],
-      "count": 189,
+      "count": 192,
       "kind": "topic"
     },
     {
@@ -39,7 +39,7 @@
       "search_terms": [
         "MSFT"
       ],
-      "count": 140,
+      "count": 142,
       "kind": "ticker"
     },
     {
@@ -48,7 +48,7 @@
       "search_terms": [
         "META"
       ],
-      "count": 102,
+      "count": 103,
       "kind": "ticker"
     },
     {
@@ -57,7 +57,7 @@
       "search_terms": [
         "AMZN"
       ],
-      "count": 100,
+      "count": 101,
       "kind": "ticker"
     },
     {
@@ -66,7 +66,7 @@
       "search_terms": [
         "TSLA"
       ],
-      "count": 98,
+      "count": 99,
       "kind": "ticker"
     },
     {
@@ -75,7 +75,7 @@
       "search_terms": [
         "AAPL"
       ],
-      "count": 90,
+      "count": 91,
       "kind": "ticker"
     },
     {
@@ -115,7 +115,7 @@
       "kind": "ticker"
     }
   ],
-  "updated_at": "2026-11-01T19:19:55.539289+00:00",
+  "updated_at": "2026-11-01T22:25:32.032563+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -18069,6 +18069,149 @@
       "impact_direction": "neutral",
       "sentiment": "neutral",
       "fetched_at": "2026-11-01T19:19:54.157801+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Stellantis Stock Is Soaring. Europe Is Crashing the Party.",
+      "link": "https://www.fool.com/investing/2026/11/01/stellantis-stock-is-soaring-europe-is-crashing-the/?.tsrc=rss",
+      "published": "Sun, 01 Nov 2026 22:07:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-11-01T22:25:30.033550+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "MPLX Reports Earnings on Nov. 3, 2026. Here's What Investors Should Be Watching.",
+      "link": "https://www.fool.com/investing/2026/11/01/mplx-reports-earnings-on-nov-3-2026-heres-what-investors-should-be-watching/?.tsrc=rss",
+      "published": "Sun, 01 Nov 2026 21:28:01 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-11-01T22:25:30.033629+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "1 Dividend-Paying Biotech Stock to Buy Hand Over Fist in November",
+      "link": "https://www.fool.com/investing/2026/11/01/1-dividend-paying-biotech-stock-to-buy-hand-over-f/?.tsrc=rss",
+      "published": "Sun, 01 Nov 2026 21:02:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-11-01T22:25:30.033699+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Prediction: Nvidia Stock Is Going to Soar After Nov. 17",
+      "link": "https://www.fool.com/investing/2026/11/01/prediction-nvidia-stock-is-going-to-soar-after-dat/?.tsrc=rss",
+      "published": "Sun, 01 Nov 2026 20:49:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-11-01T22:25:30.033729+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Starlink's Subscriber Growth Is Explosive. Could SpaceX Unlock a Second Growth Engine?",
+      "link": "https://www.fool.com/investing/2026/11/01/starlink-subscriber-growth-explosive-spacex-growth/?.tsrc=rss",
+      "published": "Sun, 01 Nov 2026 21:22:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-11-01T22:25:30.033798+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Jobs, Midterm Elections, Apple, Palantir, McDonald’s, Moderna, and More to Watch This Week",
+      "link": "https://finance.yahoo.com/m/70ce984f-00d7-351b-ac85-1541ff0679b6/jobs%2C-midterm-elections%2C.html?.tsrc=rss",
+      "published": "Sun, 01 Nov 2026 19:00:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-11-01T22:25:30.147795+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Microsoft Delivered a Beat on Both Earnings and Revenue. Here’s How to Think About MSFT Stock Now.",
+      "link": "https://www.barchart.com/story/news/8580868/microsoft-delivered-a-beat-on-both-earnings-and-revenue-heres-how-to-think-about-msft-stock-now?.tsrc=rss",
+      "published": "Sun, 01 Nov 2026 15:30:03 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-11-01T22:25:30.268029+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "AI Stocks Are Getting a Reality Check, But Don’t Count the Trade Out Just Yet. Here’s Why.",
+      "link": "https://www.barchart.com/story/news/8580824/ai-stocks-are-getting-a-reality-check-but-dont-count-the-trade-out-just-yet-heres-why?.tsrc=rss",
+      "published": "Sun, 01 Nov 2026 15:15:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-11-01T22:25:30.268088+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Amazon Stock Fell After Earnings. Jim Cramer Says Buy Right Here",
+      "link": "https://247wallst.com/investing/2026/11/01/amazon-stock-fell-after-earnings-jim-cramer-says-buy-right-here/?.tsrc=rss",
+      "published": "Sun, 01 Nov 2026 22:07:05 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-11-01T22:25:30.469451+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "SpaceX Stock Is Nearly 30% Below Its Post-IPO High. Here's What Facebook's Stock Did From the Same Spot.",
+      "link": "https://www.fool.com/investing/2026/11/01/spacex-stock-is-nearly-30-below-its-post-ipo-high-here-s-what-facebook-s-stock-did-from-the-same-spot/?.tsrc=rss",
+      "published": "Sun, 01 Nov 2026 20:03:01 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-11-01T22:25:30.560624+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Barclays Says a SpaceX Merger Is Now \"a Key Part\" of the Tesla Bull Case. Here's Who Actually Wins if It Happens -- and Who Pays.",
+      "link": "https://www.fool.com/investing/2026/11/01/barclays-says-a-spacex-merger-is-now-a-key-part-of/?.tsrc=rss",
+      "published": "Sun, 01 Nov 2026 21:05:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-11-01T22:25:30.663866+00:00"
     }
   ]
 }
