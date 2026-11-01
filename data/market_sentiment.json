@@ -3,12 +3,12 @@
   "score": 60,
   "label": "Bullish",
   "counts": {
-    "positive": 39,
-    "negative": 26,
-    "neutral": 42
+    "positive": 41,
+    "negative": 27,
+    "neutral": 47
   },
-  "total": 107,
-  "updated_at": "2026-11-01T00:19:09.711144+00:00",
+  "total": 115,
+  "updated_at": "2026-11-01T03:49:18.284432+00:00",
   "articles": [
     {
       "link": "https://www.tikr.com/blog/amd-stock-fell-11-in-a-day-ahead-of-its-november-3-report-heres-why-intels-78-data-center-jump-matters-more-to-amd-than-its-pc-warning?ref=yahoofinance&tlnk=yf-261031-43g8j33g&.tsrc=rss",
@@ -436,6 +436,38 @@
     },
     {
       "link": "https://www.fool.com/investing/2026/10/31/prediction-palantirs-price-by-the-end-of-2027/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/31/prediction-this-will-be-intels-stock-price-by-year/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/31/jp-morgan-just-made-a-bold-prediction-about-bitcoi/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/d0bc23d0-115b-314d-8989-07ca797bebfa/dow-jones-futures-loom-after.html?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/31/i-graded-microsoft-s-latest-report-on-3-things-here-s-my-verdict-on-the-stock/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/microsoft-msft-lands-25-billion-011021686.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/andy-jassy-says-west-very-233005253.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/10/31/teslas-cybercab-reaches-dallas-in-november-and-nev/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/options/articles/ai-investors-rush-hedge-against-030211499.html?.tsrc=rss",
       "sentiment": "neutral"
     }
   ]

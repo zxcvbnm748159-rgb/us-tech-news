@@ -1,7 +1,7 @@
 {
   "date": "2026-10-31",
   "window_days": 7,
-  "source_count": 1433,
+  "source_count": 1441,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 241,
+      "count": 243,
       "kind": "ticker"
     },
     {
@@ -39,7 +39,7 @@
       "search_terms": [
         "MSFT"
       ],
-      "count": 146,
+      "count": 148,
       "kind": "ticker"
     },
     {
@@ -57,7 +57,7 @@
       "search_terms": [
         "TSLA"
       ],
-      "count": 103,
+      "count": 104,
       "kind": "ticker"
     },
     {
@@ -66,7 +66,7 @@
       "search_terms": [
         "AMZN"
       ],
-      "count": 102,
+      "count": 103,
       "kind": "ticker"
     },
     {
@@ -75,7 +75,7 @@
       "search_terms": [
         "AAPL"
       ],
-      "count": 86,
+      "count": 87,
       "kind": "ticker"
     },
     {
@@ -93,7 +93,7 @@
       "search_terms": [
         "ORCL"
       ],
-      "count": 67,
+      "count": 68,
       "kind": "ticker"
     },
     {
@@ -115,7 +115,7 @@
       "kind": "ticker"
     }
   ],
-  "updated_at": "2026-11-01T00:19:09.755674+00:00",
+  "updated_at": "2026-11-01T03:49:18.314874+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -18745,6 +18745,110 @@
       "impact_direction": "neutral",
       "sentiment": "neutral",
       "fetched_at": "2026-11-01T00:19:09.023159+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Prediction: This Will Be Intel's Stock Price by Year-End 2027",
+      "link": "https://www.fool.com/investing/2026/10/31/prediction-this-will-be-intels-stock-price-by-year/?.tsrc=rss",
+      "published": "Sun, 01 Nov 2026 02:20:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-11-01T03:49:16.153195+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "J.P. Morgan Just Made a Bold Prediction About Bitcoin. Should You Buy It?",
+      "link": "https://www.fool.com/investing/2026/10/31/jp-morgan-just-made-a-bold-prediction-about-bitcoi/?.tsrc=rss",
+      "published": "Sun, 01 Nov 2026 01:20:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-11-01T03:49:16.153286+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Dow Jones Futures Loom After Stock Market Sell-Off; Apple, Palantir, Midterm Elections In Focus",
+      "link": "https://finance.yahoo.com/m/d0bc23d0-115b-314d-8989-07ca797bebfa/dow-jones-futures-loom-after.html?.tsrc=rss",
+      "published": "Sun, 01 Nov 2026 02:44:14 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-11-01T03:49:16.269607+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "I Graded Microsoft's Latest Report on 3 Things. Here's My Verdict on the Stock.",
+      "link": "https://www.fool.com/investing/2026/10/31/i-graded-microsoft-s-latest-report-on-3-things-here-s-my-verdict-on-the-stock/?.tsrc=rss",
+      "published": "Sun, 01 Nov 2026 01:46:01 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-11-01T03:49:16.381539+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Microsoft (MSFT) Lands $25 Billion Bond Deal As AI Push Deepens",
+      "link": "https://finance.yahoo.com/technology/ai/articles/microsoft-msft-lands-25-billion-011021686.html?.tsrc=rss",
+      "published": "Sun, 01 Nov 2026 01:10:21 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-11-01T03:49:16.381578+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Andy Jassy Says West Is 'Very Hungry' For More Western Open Source AI Models as Amazon Adds China's Kimi and GLM to Bedrock",
+      "link": "https://finance.yahoo.com/technology/ai/articles/andy-jassy-says-west-very-233005253.html?.tsrc=rss",
+      "published": "Sat, 31 Oct 2026 23:30:05 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-11-01T03:49:16.601803+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Tesla's Cybercab Reaches Dallas in November, and Nevada Just Cleared 5,000 Robotaxis in Las Vegas. Here's the Number That Makes the Bulls Right.",
+      "link": "https://www.fool.com/investing/2026/10/31/teslas-cybercab-reaches-dallas-in-november-and-nev/?.tsrc=rss",
+      "published": "Sun, 01 Nov 2026 01:05:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-11-01T03:49:16.825575+00:00"
+    },
+    {
+      "ticker": "ORCL",
+      "title": "AI investors rush to hedge against potential tech market downturn - WSJ",
+      "link": "https://finance.yahoo.com/markets/options/articles/ai-investors-rush-hedge-against-030211499.html?.tsrc=rss",
+      "published": "Sun, 01 Nov 2026 03:02:11 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-11-01T03:49:17.186096+00:00"
     }
   ]
 }
