@@ -1,7 +1,7 @@
 {
   "date": "2026-11-01",
   "window_days": 7,
-  "source_count": 1392,
+  "source_count": 1399,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 228,
+      "count": 229,
       "kind": "ticker"
     },
     {
@@ -21,7 +21,7 @@
         "revenue guidance",
         "profit forecast"
       ],
-      "count": 192,
+      "count": 193,
       "kind": "topic"
     },
     {
@@ -30,7 +30,7 @@
       "search_terms": [
         "GOOGL"
       ],
-      "count": 159,
+      "count": 161,
       "kind": "ticker"
     },
     {
@@ -75,7 +75,7 @@
       "search_terms": [
         "AAPL"
       ],
-      "count": 91,
+      "count": 94,
       "kind": "ticker"
     },
     {
@@ -115,7 +115,7 @@
       "kind": "ticker"
     }
   ],
-  "updated_at": "2026-11-01T22:25:32.032563+00:00",
+  "updated_at": "2026-11-02T00:08:57.765761+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -18212,6 +18212,97 @@
       "impact_direction": "neutral",
       "sentiment": "positive",
       "fetched_at": "2026-11-01T22:25:30.663866+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "SK Hynix Sees the Memory Shortage Lasting Through 2030. 2 Memory Stocks to Buy and Hold Until Then.",
+      "link": "https://www.fool.com/investing/2026/11/01/sk-hynix-sees-the-memory-shortage-lasting-through-2030-2-memory-stocks-to-buy-and-hold-until-then/?.tsrc=rss",
+      "published": "Sun, 01 Nov 2026 23:41:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-11-02T00:08:55.099076+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Dow Jones Futures Rise After Market Sell-Off; How Midterm Elections May Swing Stocks",
+      "link": "https://finance.yahoo.com/m/d0bc23d0-115b-314d-8989-07ca797bebfa/dow-jones-futures-rise-after.html?.tsrc=rss",
+      "published": "Sun, 01 Nov 2026 23:57:20 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-11-02T00:08:55.248041+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Instinct's WhatsApp replies fail, AI agent blames billing",
+      "link": "https://www.thestreet.com/crypto/artificial-intelligence/instincts-whatsapp-replies-fail-ai-agent-blames-billing?.tsrc=rss",
+      "published": "Sun, 01 Nov 2026 22:33:51 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-11-02T00:08:55.248134+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Apple earnings: what to look for from AAPL",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/apple-earnings-look-aapl-222407504.html?.tsrc=rss",
+      "published": "Sun, 01 Nov 2026 22:24:07 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-11-02T00:08:55.248167+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Learjet Plummets to Ground in Florida Neighborhood",
+      "link": "https://finance.yahoo.com/video/learjet-plummets-ground-florida-neighborhood-235209409.html?.tsrc=rss",
+      "published": "Sun, 01 Nov 2026 23:52:09 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-11-02T00:08:55.549848+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Reddit Stock Crashed 29%: Is Google AI Coming for More Stocks?",
+      "link": "https://beincrypto.com/reddit-stock-google-ai-traffic-crash/?.tsrc=rss",
+      "published": "Sun, 01 Nov 2026 23:00:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-11-02T00:08:55.549894+00:00"
+    },
+    {
+      "ticker": "NFLX",
+      "title": "Netflix Stock Is Trading at a Historically Low Valuation. Is This a Generational Buying Opportunity?",
+      "link": "https://www.fool.com/investing/2026/11/01/netflix-stock-is-trading-at-a-historically-low-valuation-is-this-a-generational-buying-opportunity/?.tsrc=rss",
+      "published": "Sun, 01 Nov 2026 22:48:01 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-11-02T00:08:56.722290+00:00"
     }
   ]
 }

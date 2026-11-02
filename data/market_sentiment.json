@@ -1,14 +1,14 @@
 {
   "date": "2026-11-01",
-  "score": 83,
+  "score": 78,
   "label": "Bullish",
   "counts": {
     "positive": 25,
-    "negative": 5,
-    "neutral": 31
+    "negative": 7,
+    "neutral": 36
   },
-  "total": 61,
-  "updated_at": "2026-11-01T22:25:31.988405+00:00",
+  "total": 68,
+  "updated_at": "2026-11-02T00:08:57.720667+00:00",
   "articles": [
     {
       "link": "https://finance.yahoo.com/markets/stocks/articles/amzn-q3-deep-dive-cloud-043500791.html?.tsrc=rss",
@@ -253,6 +253,34 @@
     {
       "link": "https://www.fool.com/investing/2026/11/01/barclays-says-a-spacex-merger-is-now-a-key-part-of/?.tsrc=rss",
       "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/01/sk-hynix-sees-the-memory-shortage-lasting-through-2030-2-memory-stocks-to-buy-and-hold-until-then/?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/d0bc23d0-115b-314d-8989-07ca797bebfa/dow-jones-futures-rise-after.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.thestreet.com/crypto/artificial-intelligence/instincts-whatsapp-replies-fail-ai-agent-blames-billing?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/apple-earnings-look-aapl-222407504.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/video/learjet-plummets-ground-florida-neighborhood-235209409.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://beincrypto.com/reddit-stock-google-ai-traffic-crash/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/01/netflix-stock-is-trading-at-a-historically-low-valuation-is-this-a-generational-buying-opportunity/?.tsrc=rss",
+      "sentiment": "neutral"
     }
   ]
 }
