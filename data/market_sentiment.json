@@ -1,14 +1,14 @@
 {
   "date": "2026-11-01",
-  "score": 78,
+  "score": 79,
   "label": "Bullish",
   "counts": {
-    "positive": 25,
+    "positive": 27,
     "negative": 7,
-    "neutral": 36
+    "neutral": 38
   },
-  "total": 68,
-  "updated_at": "2026-11-02T00:08:57.720667+00:00",
+  "total": 72,
+  "updated_at": "2026-11-02T01:39:27.656542+00:00",
   "articles": [
     {
       "link": "https://finance.yahoo.com/markets/stocks/articles/amzn-q3-deep-dive-cloud-043500791.html?.tsrc=rss",
@@ -280,6 +280,22 @@
     },
     {
       "link": "https://www.fool.com/investing/2026/11/01/netflix-stock-is-trading-at-a-historically-low-valuation-is-this-a-generational-buying-opportunity/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/01/if-i-could-only-buy-and-hold-1-magnificent-seven-s/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.barchart.com/story/news/8581500/midterm-elections-important-earnings-and-other-key-things-to-watch-this-week?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.barchart.com/story/news/8581610/why-now-is-not-the-time-to-load-up-on-netflix-stock?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://beincrypto.com/intel-stock-drop-us-stake-loss/?.tsrc=rss",
       "sentiment": "neutral"
     }
   ]

@@ -1,7 +1,7 @@
 {
   "date": "2026-11-01",
   "window_days": 7,
-  "source_count": 1399,
+  "source_count": 1403,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 229,
+      "count": 230,
       "kind": "ticker"
     },
     {
@@ -21,7 +21,7 @@
         "revenue guidance",
         "profit forecast"
       ],
-      "count": 193,
+      "count": 194,
       "kind": "topic"
     },
     {
@@ -84,7 +84,7 @@
       "search_terms": [
         "INTC"
       ],
-      "count": 81,
+      "count": 82,
       "kind": "ticker"
     },
     {
@@ -115,7 +115,7 @@
       "kind": "ticker"
     }
   ],
-  "updated_at": "2026-11-02T00:08:57.765761+00:00",
+  "updated_at": "2026-11-02T01:39:27.686046+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -18303,6 +18303,58 @@
       "impact_direction": "neutral",
       "sentiment": "neutral",
       "fetched_at": "2026-11-02T00:08:56.722290+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "If I Could Only Buy and Hold 1 \"Magnificent Seven\" Stock Through 2030, It Would Be This One",
+      "link": "https://www.fool.com/investing/2026/11/01/if-i-could-only-buy-and-hold-1-magnificent-seven-s/?.tsrc=rss",
+      "published": "Mon, 02 Nov 2026 00:28:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-11-02T01:39:24.528304+00:00"
+    },
+    {
+      "ticker": "AMD",
+      "title": "Midterm Elections, Important Earnings and Other Key things to Watch this Week",
+      "link": "https://www.barchart.com/story/news/8581500/midterm-elections-important-earnings-and-other-key-things-to-watch-this-week?.tsrc=rss",
+      "published": "Sun, 01 Nov 2026 18:00:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-11-02T01:39:25.723926+00:00"
+    },
+    {
+      "ticker": "NFLX",
+      "title": "Why Now Is Not the Time to Load Up on Netflix Stock",
+      "link": "https://www.barchart.com/story/news/8581610/why-now-is-not-the-time-to-load-up-on-netflix-stock?.tsrc=rss",
+      "published": "Sun, 01 Nov 2026 18:30:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-11-02T01:39:26.359673+00:00"
+    },
+    {
+      "ticker": "INTC",
+      "title": "Trump Bragged About Intel Stock Gains. Now the U.S. Stake Has Lost $11 Billion",
+      "link": "https://beincrypto.com/intel-stock-drop-us-stake-loss/?.tsrc=rss",
+      "published": "Sun, 01 Nov 2026 23:42:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-11-02T01:39:26.536899+00:00"
     }
   ]
 }
