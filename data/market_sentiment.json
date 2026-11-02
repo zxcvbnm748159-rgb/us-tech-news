@@ -1,302 +1,70 @@
 {
-  "date": "2026-11-01",
-  "score": 79,
-  "label": "Bullish",
+  "date": "2026-11-02",
+  "score": 57,
+  "label": "Mixed",
   "counts": {
-    "positive": 27,
-    "negative": 7,
-    "neutral": 38
+    "positive": 4,
+    "negative": 3,
+    "neutral": 7
   },
-  "total": 72,
-  "updated_at": "2026-11-02T01:39:27.656542+00:00",
+  "total": 14,
+  "updated_at": "2026-11-02T08:17:28.958301+00:00",
   "articles": [
     {
-      "link": "https://finance.yahoo.com/markets/stocks/articles/amzn-q3-deep-dive-cloud-043500791.html?.tsrc=rss",
+      "link": "https://stocktwits.com/news-articles/markets/equity/spacex-mirror-nvidia-revenue-boom-sequoia-partner-tesla-influencer-merger-math/cNG9YeiR92p?.tsrc=rss",
       "sentiment": "neutral"
     },
     {
-      "link": "https://finance.yahoo.com/markets/stocks/articles/cybercab-expansion-might-change-case-051614061.html?.tsrc=rss",
-      "sentiment": "neutral"
-    },
-    {
-      "link": "https://www.fool.com/investing/2026/11/01/2-unstoppable-growth-stocks-id-buy-with-1000-and-h/?.tsrc=rss",
-      "sentiment": "positive"
-    },
-    {
-      "link": "https://www.fool.com/investing/2026/11/01/if-the-ai-boom-goes-bust-what-happens-to-crypto-he/?.tsrc=rss",
-      "sentiment": "neutral"
-    },
-    {
-      "link": "https://www.fool.com/investing/2026/11/01/focused-on-inflation-three-etfs-that-could-help/?.tsrc=rss",
-      "sentiment": "positive"
-    },
-    {
-      "link": "https://www.fool.com/investing/2026/11/01/should-you-buy-stocks-ahead-of-the-midterms-histor/?.tsrc=rss",
-      "sentiment": "positive"
-    },
-    {
-      "link": "https://www.fool.com/investing/2026/11/01/sk-hynix-shares-surge-why-its-not-too-late-to-buy/?.tsrc=rss",
-      "sentiment": "positive"
-    },
-    {
-      "link": "https://www.fool.com/investing/2026/11/01/dividend-stock-yield-quadruple-sp-500-pepsico/?.tsrc=rss",
-      "sentiment": "positive"
-    },
-    {
-      "link": "https://finance.yahoo.com/markets/article/a-big-sell-off-collides-with-more-big-tech-earnings-and-a-midterm-election-what-to-watch-this-week-110000657.html?.tsrc=rss",
+      "link": "https://www.fool.com/investing/2026/11/02/is-alphabets-massive-ai-spending-a-problem-the-cfo/?.tsrc=rss",
       "sentiment": "negative"
     },
     {
-      "link": "https://www.investopedia.com/what-to-expect-in-markets-this-week-apple-palantir-report-october-jobs-data-lands-12199599?.tsrc=rss",
-      "sentiment": "neutral"
-    },
-    {
-      "link": "https://finance.yahoo.com/technology/ai/articles/apple-ceo-john-ternus-says-073247018.html?.tsrc=rss",
+      "link": "https://stocktwits.com/news-articles/markets/equity/apple-q4-earnings-holiday-sales-outlook-i-phone-duo-demand-and-memory-costs-take-center-stage-in-first-report-under-new-ceo/cNG9Y35R92Y?.tsrc=rss",
       "sentiment": "positive"
     },
     {
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-growth-stocks-facing-fed-081112560.html?.tsrc=rss",
-      "sentiment": "positive"
-    },
-    {
-      "link": "https://stocktwits.com/news-articles/markets/equity/googl-market-cap-500b-google-search-share-50-david-sacks-good-thing/cNGe8XsR92b?.tsrc=rss",
-      "sentiment": "positive"
-    },
-    {
-      "link": "https://finance.yahoo.com/markets/article/ai-stocks-just-lost-5-trillion--but-history-says-the-stock-markets-sweetest-stretch-starts-now-110000768.html?.tsrc=rss",
+      "link": "https://www.benzinga.com/markets/prediction-markets/26/11/62767926/stock-market-will-sp-500-open-up-or-down-today-70?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
       "sentiment": "neutral"
     },
     {
-      "link": "https://www.tikr.com/blog/anthropic-is-reduplicating-aws-as-it-rents-its-own-data-centers-amazon-reports-thursday?ref=yahoofinance&tlnk=yf-261101-p4cj25qx&.tsrc=rss",
-      "sentiment": "neutral"
-    },
-    {
-      "link": "https://www.fool.com/investing/2026/11/01/here-s-where-i-think-meta-stock-will-be-in-2030/?.tsrc=rss",
-      "sentiment": "neutral"
-    },
-    {
-      "link": "https://www.tikr.com/blog/josh-brown-meta-could-become-a-cash-spigot-that-makes-nvidia-look-expensive?ref=yahoofinance&tlnk=yf-261101-8m9xjfvm&.tsrc=rss",
-      "sentiment": "neutral"
-    },
-    {
-      "link": "https://www.fool.com/investing/2026/11/01/the-first-us-humanoid-robot-stock-starts-trading-i/?.tsrc=rss",
-      "sentiment": "neutral"
-    },
-    {
-      "link": "https://www.tikr.com/blog/teslas-cybercab-costs-about-25000-to-build-waymo-has-a-big-problem-its-cost-is-nearly-4x-that?ref=yahoofinance&tlnk=yf-261101-739mfm8c&.tsrc=rss",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-mixed-tech-sector-024236684.html?.tsrc=rss",
       "sentiment": "negative"
     },
     {
-      "link": "https://www.fool.com/investing/2026/11/01/is-palantir-stock-a-buy/?.tsrc=rss",
+      "link": "https://www.trefis.com/stock/amzn/articles/621832/how-has-amazons-story-changed/2026-11-02?.tsrc=rss",
       "sentiment": "neutral"
     },
     {
-      "link": "https://finance.yahoo.com/healthcare/articles/lab-monkey-prices-reportedly-jumped-113000275.html?.tsrc=rss",
+      "link": "https://www.trefis.com/stock/rgti/articles/621850/what-is-the-case-for-waiting-on-rigetti-computing-stock/2026-11-02?.tsrc=rss",
       "sentiment": "neutral"
     },
     {
-      "link": "https://www.fool.com/investing/2026/11/01/prediction-palantir-stock-price-by-2027/?.tsrc=rss",
+      "link": "https://www.trefis.com/stock/rddt/articles/621770/should-you-buy-reddit-stock-for-its-cash/2026-11-01?.tsrc=rss",
       "sentiment": "neutral"
     },
     {
-      "link": "https://www.fool.com/investing/2026/11/01/unstoppable-etf-buying-bear-market-smh/?.tsrc=rss",
+      "link": "https://www.trefis.com/stock/meta/articles/621753/can-meta-stock-fall-30/2026-11-01?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.thestreet.com/markets/tesla-spacex-merger-math-just-shifted-in-teslas-favor?.tsrc=rss",
       "sentiment": "positive"
     },
     {
-      "link": "https://stocktwits.com/news-articles/markets/equity/beyond-nvda-hyperscalers-beth-kindig-1-trillion-opportunity-stocks/cNGep4bR922?.tsrc=rss",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/gary-black-says-tesla-losing-053544426.html?.tsrc=rss",
       "sentiment": "positive"
     },
     {
-      "link": "https://www.fool.com/investing/2026/11/01/if-invest-5k-schd-10-years-ago-passive-income/?.tsrc=rss",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-2-more-051057766.html?.tsrc=rss",
       "sentiment": "positive"
     },
     {
-      "link": "https://www.fool.com/investing/2026/11/01/1-cybersecurity-stock-better-crowdstrike-palo-alto/?.tsrc=rss",
-      "sentiment": "positive"
+      "link": "https://www.trefis.com/stock/intc/articles/621871/why-is-intel-stock-falling/2026-11-02?.tsrc=rss",
+      "sentiment": "neutral"
     },
     {
-      "link": "https://www.fool.com/investing/2026/11/01/reason-alphabet-stock-worth-buying-pullback/?.tsrc=rss",
-      "sentiment": "positive"
-    },
-    {
-      "link": "https://www.fool.com/investing/2026/11/01/alphabet-gets-kicked-out-of-the-4-trillion-club/?.tsrc=rss",
+      "link": "https://stocktwits.com/news-articles/markets/equity/palantir-s-q3-report-to-test-stock-defensiveness-amid-ai-panic-what-analysts-are-expecting/cNG9FfPR92V?.tsrc=rss",
       "sentiment": "negative"
-    },
-    {
-      "link": "https://finance.yahoo.com/technology/ai/articles/andy-jassy-says-robots-replace-114505236.html?.tsrc=rss",
-      "sentiment": "neutral"
-    },
-    {
-      "link": "https://finance.yahoo.com/m/baa62bb5-87b3-3c69-aa80-c1e67491d7bf/tesla-china-ev-rivals-byd%2C.html?.tsrc=rss",
-      "sentiment": "positive"
-    },
-    {
-      "link": "https://www.fool.com/investing/2026/11/01/ge-and-gm-earnings-plus-deals-deals-deals/?.tsrc=rss",
-      "sentiment": "neutral"
-    },
-    {
-      "link": "https://stocktwits.com/news-articles/markets/cryptocurrency/ice-and-okx-s-tokenized-stock-venue-hits-a-wall-as-nvidia-nike-join-growing-list-of-objectors/cNGewptR927?.tsrc=rss",
-      "sentiment": "positive"
-    },
-    {
-      "link": "https://www.fool.com/investing/2026/11/01/prediction-bear-market-is-coming-this-1-investing/?.tsrc=rss",
-      "sentiment": "neutral"
-    },
-    {
-      "link": "https://www.fool.com/investing/2026/11/01/history-says-now-is-the-perfect-time-to-buy-nvidia/?.tsrc=rss",
-      "sentiment": "positive"
-    },
-    {
-      "link": "https://www.fool.com/investing/2026/11/01/5-huge-winners-from-anthropics-ipo/?.tsrc=rss",
-      "sentiment": "positive"
-    },
-    {
-      "link": "https://www.fool.com/investing/2026/11/01/could-apple-s-latest-iphone-be-its-biggest-growth-catalyst-in-years/?.tsrc=rss",
-      "sentiment": "positive"
-    },
-    {
-      "link": "https://www.fool.com/investing/2026/11/01/buffetts-apple-bet-is-still-berkshire-hathaways/?.tsrc=rss",
-      "sentiment": "neutral"
-    },
-    {
-      "link": "https://stocktwits.com/news-articles/markets/equity/what-to-expect-markets-this-week-nov-1-2026/cNGes4VR923?.tsrc=rss",
-      "sentiment": "neutral"
-    },
-    {
-      "link": "https://www.fool.com/investing/2026/11/01/1-reason-to-buy-microsoft-stock-for-10-years/?.tsrc=rss",
-      "sentiment": "neutral"
-    },
-    {
-      "link": "https://99bitcoins.com/news/altcoins/copilot-ai-predicts-solana-could-hit-2500-if-this-landmark-event-happens/?.tsrc=rss",
-      "sentiment": "neutral"
-    },
-    {
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-did-alphabet-googl-shares-170811904.html?.tsrc=rss",
-      "sentiment": "positive"
-    },
-    {
-      "link": "https://www.fool.com/coverage/charts/2026/11/01/reddit-vs-the-trade-desk-one-s-revenue-growth-overtook-the-other-s-lead/?.tsrc=rss",
-      "sentiment": "positive"
-    },
-    {
-      "link": "https://www.kiplinger.com/what-1000-invested-in-qqq-etf-spy-etf-is-worth-now?.tsrc=rss",
-      "sentiment": "neutral"
-    },
-    {
-      "link": "https://www.tikr.com/blog/sp-turns-negative-on-meta-wall-street-sees-less-than-half-the-cash-hole?ref=yahoofinance&tlnk=yf-261101-5295m6m8&.tsrc=rss",
-      "sentiment": "negative"
-    },
-    {
-      "link": "https://www.fool.com/investing/2026/11/01/a-wall-street-firm-modeled-out-an-ai-crash-s-and-p-500-down-30-usd20-trillion-gone-but-here-s-what-happens-next/?.tsrc=rss",
-      "sentiment": "negative"
-    },
-    {
-      "link": "https://www.fool.com/investing/2026/11/01/prediction-3-stocks-that-will-be-worth-more-than-p/?.tsrc=rss",
-      "sentiment": "positive"
-    },
-    {
-      "link": "https://finance.yahoo.com/technology/ai/articles/palantir-technologies-pltr-deepens-sovereign-160706148.html?.tsrc=rss",
-      "sentiment": "neutral"
-    },
-    {
-      "link": "https://stocktwits.com/news-articles/markets/equity/crwd-panw-okta-stocks-doubled-this-year-whats-driving-cybersecurity-rally/cNGetEDR92I?.tsrc=rss",
-      "sentiment": "neutral"
-    },
-    {
-      "link": "https://finance.yahoo.com/technology/article/apple-to-report-q4-earnings-monday-with-iphone-18-sales-in-the-spotlight-190138409.html?.tsrc=rss",
-      "sentiment": "neutral"
-    },
-    {
-      "link": "https://www.fool.com/investing/2026/11/01/why-netflix-stock-could-double-from-this-dip/?.tsrc=rss",
-      "sentiment": "neutral"
-    },
-    {
-      "link": "https://www.fool.com/investing/2026/11/01/stellantis-stock-is-soaring-europe-is-crashing-the/?.tsrc=rss",
-      "sentiment": "positive"
-    },
-    {
-      "link": "https://www.fool.com/investing/2026/11/01/mplx-reports-earnings-on-nov-3-2026-heres-what-investors-should-be-watching/?.tsrc=rss",
-      "sentiment": "neutral"
-    },
-    {
-      "link": "https://www.fool.com/investing/2026/11/01/1-dividend-paying-biotech-stock-to-buy-hand-over-f/?.tsrc=rss",
-      "sentiment": "positive"
-    },
-    {
-      "link": "https://www.fool.com/investing/2026/11/01/prediction-nvidia-stock-is-going-to-soar-after-dat/?.tsrc=rss",
-      "sentiment": "neutral"
-    },
-    {
-      "link": "https://www.fool.com/investing/2026/11/01/starlink-subscriber-growth-explosive-spacex-growth/?.tsrc=rss",
-      "sentiment": "positive"
-    },
-    {
-      "link": "https://finance.yahoo.com/m/70ce984f-00d7-351b-ac85-1541ff0679b6/jobs%2C-midterm-elections%2C.html?.tsrc=rss",
-      "sentiment": "neutral"
-    },
-    {
-      "link": "https://www.barchart.com/story/news/8580868/microsoft-delivered-a-beat-on-both-earnings-and-revenue-heres-how-to-think-about-msft-stock-now?.tsrc=rss",
-      "sentiment": "neutral"
-    },
-    {
-      "link": "https://www.barchart.com/story/news/8580824/ai-stocks-are-getting-a-reality-check-but-dont-count-the-trade-out-just-yet-heres-why?.tsrc=rss",
-      "sentiment": "neutral"
-    },
-    {
-      "link": "https://247wallst.com/investing/2026/11/01/amazon-stock-fell-after-earnings-jim-cramer-says-buy-right-here/?.tsrc=rss",
-      "sentiment": "neutral"
-    },
-    {
-      "link": "https://www.fool.com/investing/2026/11/01/spacex-stock-is-nearly-30-below-its-post-ipo-high-here-s-what-facebook-s-stock-did-from-the-same-spot/?.tsrc=rss",
-      "sentiment": "neutral"
-    },
-    {
-      "link": "https://www.fool.com/investing/2026/11/01/barclays-says-a-spacex-merger-is-now-a-key-part-of/?.tsrc=rss",
-      "sentiment": "positive"
-    },
-    {
-      "link": "https://www.fool.com/investing/2026/11/01/sk-hynix-sees-the-memory-shortage-lasting-through-2030-2-memory-stocks-to-buy-and-hold-until-then/?.tsrc=rss",
-      "sentiment": "negative"
-    },
-    {
-      "link": "https://finance.yahoo.com/m/d0bc23d0-115b-314d-8989-07ca797bebfa/dow-jones-futures-rise-after.html?.tsrc=rss",
-      "sentiment": "neutral"
-    },
-    {
-      "link": "https://www.thestreet.com/crypto/artificial-intelligence/instincts-whatsapp-replies-fail-ai-agent-blames-billing?.tsrc=rss",
-      "sentiment": "negative"
-    },
-    {
-      "link": "https://finance.yahoo.com/markets/stocks/articles/apple-earnings-look-aapl-222407504.html?.tsrc=rss",
-      "sentiment": "neutral"
-    },
-    {
-      "link": "https://finance.yahoo.com/video/learjet-plummets-ground-florida-neighborhood-235209409.html?.tsrc=rss",
-      "sentiment": "neutral"
-    },
-    {
-      "link": "https://beincrypto.com/reddit-stock-google-ai-traffic-crash/?.tsrc=rss",
-      "sentiment": "neutral"
-    },
-    {
-      "link": "https://www.fool.com/investing/2026/11/01/netflix-stock-is-trading-at-a-historically-low-valuation-is-this-a-generational-buying-opportunity/?.tsrc=rss",
-      "sentiment": "neutral"
-    },
-    {
-      "link": "https://www.fool.com/investing/2026/11/01/if-i-could-only-buy-and-hold-1-magnificent-seven-s/?.tsrc=rss",
-      "sentiment": "positive"
-    },
-    {
-      "link": "https://www.barchart.com/story/news/8581500/midterm-elections-important-earnings-and-other-key-things-to-watch-this-week?.tsrc=rss",
-      "sentiment": "positive"
-    },
-    {
-      "link": "https://www.barchart.com/story/news/8581610/why-now-is-not-the-time-to-load-up-on-netflix-stock?.tsrc=rss",
-      "sentiment": "neutral"
-    },
-    {
-      "link": "https://beincrypto.com/intel-stock-drop-us-stake-loss/?.tsrc=rss",
-      "sentiment": "neutral"
     }
   ]
 }
