@@ -1,14 +1,14 @@
 {
   "date": "2026-11-02",
-  "score": 57,
+  "score": 53,
   "label": "Mixed",
   "counts": {
-    "positive": 4,
-    "negative": 3,
-    "neutral": 7
+    "positive": 9,
+    "negative": 8,
+    "neutral": 18
   },
-  "total": 14,
-  "updated_at": "2026-11-02T08:17:28.958301+00:00",
+  "total": 35,
+  "updated_at": "2026-11-02T10:25:33.535553+00:00",
   "articles": [
     {
       "link": "https://stocktwits.com/news-articles/markets/equity/spacex-mirror-nvidia-revenue-boom-sequoia-partner-tesla-influencer-merger-math/cNG9YeiR92p?.tsrc=rss",
@@ -65,6 +65,90 @@
     {
       "link": "https://stocktwits.com/news-articles/markets/equity/palantir-s-q3-report-to-test-stock-defensiveness-amid-ai-panic-what-analysts-are-expecting/cNG9FfPR92V?.tsrc=rss",
       "sentiment": "negative"
+    },
+    {
+      "link": "https://unchainedcrypto.com/nvidia-costco-and-10-more-issuers-opt-out-of-ice-and-okxs-tokenized-stock-venue/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/02/2-words-fed-chair-kevin-warsh-echoing-through-wall-street-unnerving-investors/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/02/prediction-nvidia-will-have-an-incredible-november/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-081600916.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-micron-alphabet-part-zacks-080900490.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/articles/apple-earnings-binance-hack-midterm-092038238.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://247wallst.com/investing/etf/2026/11/02/fidelitys-broader-nasdaq-etf-has-a-surprise-for-qqq-investors-even-more-apple/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://stocktwits.com/news-articles/markets/equity/apple-and-palantir-to-kick-off-tech-earnings-in-another-crucial-week-amd-to-settle-chip-debate-after-intel-s-warning/cNG9qNVR92s?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/02/microsoft-approach-ai-infrastructure-stock-buy/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.trefis.com/stock/msft/articles/621784/what-could-surprise-microsoft-stock-investors-on-the-upside/2026-11-02?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-futures-rise-premarket-after-wall-street-s-worst-week-in-months-aapl-pltr-googl-intc-tgtx-in-focus/cNG9MJPR92w?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/02/alphabet-missed-q3-estimates-couldnt-care/?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://stocktwits.com/news-articles/markets/equity/googl-gains-premarket-as-tech-selloff-eases-alphabet-preps-second-euro-bond-this-year/cNG9rlpR92u?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-com-featured-highlights-alphabet-085700899.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/02/stat-makes-walmart-stock-hard-ignore-november/?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-registrations-jump-sweden-norway-095029537.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.marketbeat.com/instant-alerts/event-fermi-advances-project-matador-pivots-to-powered-land-strategy-as-director-vote-fails-2026-11-02/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.tikr.com/blog/a-24-billion-hedge-fund-bought-advanced-micro-devices-cathie-wood-cut-her-stake-48-whos-right?ref=yahoofinance&tlnk=yf-261102-5vg3vfc6&.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://beincrypto.com/netflix-box-office-cinema-hypnosis/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/zkh-intel-bring-industrial-multimodal-100000600.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/japanese-stocks-fall-domestic-earnings-070116236.html?.tsrc=rss",
+      "sentiment": "neutral"
     }
   ]
 }
