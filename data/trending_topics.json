@@ -1,7 +1,7 @@
 {
   "date": "2026-11-02",
   "window_days": 7,
-  "source_count": 1361,
+  "source_count": 1381,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 217,
+      "count": 220,
       "kind": "ticker"
     },
     {
@@ -21,7 +21,7 @@
         "revenue guidance",
         "profit forecast"
       ],
-      "count": 201,
+      "count": 207,
       "kind": "topic"
     },
     {
@@ -30,7 +30,7 @@
       "search_terms": [
         "GOOGL"
       ],
-      "count": 159,
+      "count": 163,
       "kind": "ticker"
     },
     {
@@ -39,7 +39,7 @@
       "search_terms": [
         "MSFT"
       ],
-      "count": 133,
+      "count": 134,
       "kind": "ticker"
     },
     {
@@ -48,7 +48,7 @@
       "search_terms": [
         "AAPL"
       ],
-      "count": 105,
+      "count": 109,
       "kind": "ticker"
     },
     {
@@ -84,7 +84,7 @@
       "search_terms": [
         "INTC"
       ],
-      "count": 80,
+      "count": 81,
       "kind": "ticker"
     },
     {
@@ -93,7 +93,7 @@
       "search_terms": [
         "ORCL"
       ],
-      "count": 67,
+      "count": 69,
       "kind": "ticker"
     },
     {
@@ -102,20 +102,20 @@
       "search_terms": [
         "PLTR"
       ],
-      "count": 56,
+      "count": 58,
       "kind": "ticker"
     },
     {
-      "label": "AVGO",
-      "query": "AVGO",
+      "label": "AMD",
+      "query": "AMD",
       "search_terms": [
-        "AVGO"
+        "AMD"
       ],
       "count": 52,
       "kind": "ticker"
     }
   ],
-  "updated_at": "2026-11-03T01:15:18.237568+00:00",
+  "updated_at": "2026-11-03T04:56:00.868443+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -17809,6 +17809,266 @@
       "impact_direction": "neutral",
       "sentiment": "neutral",
       "fetched_at": "2026-11-03T01:15:17.729451+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "5 Key Earnings Charts to Watch This Week",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/5-key-earnings-charts-watch-002000682.html?.tsrc=rss",
+      "published": "Tue, 03 Nov 2026 00:20:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-11-03T04:55:57.940356+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Why Arm Holdings Stock Lost 29% Last Month",
+      "link": "https://www.fool.com/investing/2026/11/02/why-arm-holdings-stock-lost-29-last-month/?.tsrc=rss",
+      "published": "Tue, 03 Nov 2026 04:38:59 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-11-03T04:55:57.940452+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Why Rivian Stock Popped Today",
+      "link": "https://www.fool.com/investing/2026/11/02/why-rivian-stock-popped-today/?.tsrc=rss",
+      "published": "Tue, 03 Nov 2026 04:04:42 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-11-03T04:55:57.940480+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Apple (AAPL) Q4 2026 Earnings Call Transcript",
+      "link": "https://www.fool.com/earnings/call-transcripts/2026/11/02/apple-aapl-q4-2026-earnings-call-transcript/?.tsrc=rss",
+      "published": "Tue, 03 Nov 2026 04:43:42 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-11-03T04:55:58.108723+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Asia stocks mixed as Apple outlook weighs; RBA raises rates to 18-yr high",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/asia-stocks-mixed-apple-outlook-044034259.html?.tsrc=rss",
+      "published": "Tue, 03 Nov 2026 04:40:34 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-11-03T04:55:58.108773+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Jim Cramer Calls Out 'Pretty Thick' Negativity on Apple, Palantir and Marvell: 'No Matter What They Say, It Isn't Enough'",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-calls-pretty-thick-032537139.html?.tsrc=rss",
+      "published": "Tue, 03 Nov 2026 03:25:37 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-11-03T04:55:58.108904+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Apple suppliers split in Asia as strong iPhone sales meet rising memory costs",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/apple-suppliers-split-asia-strong-025825667.html?.tsrc=rss",
+      "published": "Tue, 03 Nov 2026 02:58:25 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-11-03T04:55:58.108967+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Oracle stock sinks as Wall Street confronts a $20 billion AI problem",
+      "link": "https://www.thestreet.com/investing/stocks/oracle-stock-sinks-as-wall-street-confronts-a-20-billion-ai-problem?.tsrc=rss",
+      "published": "Tue, 03 Nov 2026 01:47:09 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-11-03T04:55:58.268487+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Morgan Stanley issues a fresh warning about AI stocks",
+      "link": "https://www.thestreet.com/investing/stocks/morgan-stanley-issues-warning-about-ai-stocks?.tsrc=rss",
+      "published": "Tue, 03 Nov 2026 04:33:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-11-03T04:55:58.426503+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "GOOGL Q3 deep dive: AI investment drives revenue growth but profit falls short of expectations",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/googl-q3-deep-dive-ai-042936289.html?.tsrc=rss",
+      "published": "Tue, 03 Nov 2026 04:29:36 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-11-03T04:55:58.426600+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Yardeni Says Analysts Still See S&P 500 Earnings Near $500 Per Share by 2028",
+      "link": "https://beincrypto.com/yardeni-sp500-earnings-forecast-2028/?.tsrc=rss",
+      "published": "Tue, 03 Nov 2026 03:40:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-11-03T04:55:58.426661+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "What Realty Income (O) Said on Its Q3 Earnings Call",
+      "link": "https://www.marketbeat.com/instant-alerts/transcript-what-realty-income-o-said-on-its-q3-earnings-call-2026-11-02/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+      "published": "Tue, 03 Nov 2026 03:13:19 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-11-03T04:55:58.426692+00:00"
+    },
+    {
+      "ticker": "AMD",
+      "title": "Why AMD Stock Is In Focus Before Q3 Earnings And AI Partnership Updates",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-amd-stock-focus-q3-021510488.html?.tsrc=rss",
+      "published": "Tue, 03 Nov 2026 02:15:10 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-11-03T04:55:59.078967+00:00"
+    },
+    {
+      "ticker": "ORCL",
+      "title": "Oracle Announces Pricing of $20 Billion of Common Stock and Senior Notes",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/oracle-announces-pricing-20-billion-030900901.html?.tsrc=rss",
+      "published": "Tue, 03 Nov 2026 03:09:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-11-03T04:55:59.394957+00:00"
+    },
+    {
+      "ticker": "ORCL",
+      "title": "Oracle says $20 billion is all it needs, and BofA buys it",
+      "link": "https://www.thestreet.com/investing/oracle-needs-20-billion-dollars-data-center-buildout?.tsrc=rss",
+      "published": "Tue, 03 Nov 2026 02:03:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-11-03T04:55:59.394998+00:00"
+    },
+    {
+      "ticker": "INTC",
+      "title": "Intel Just Suffered Its Steepest Drop in Decades, and 1 Word From a Top Bernstein Analyst Sums Up the Outlook",
+      "link": "https://247wallst.com/videos/intel-just-suffered-its-steepest-drop-in-decades-and-1-word-from-a-top-bernstein-analyst-sums-up-the-outlook/?.tsrc=rss",
+      "published": "Mon, 02 Nov 2026 23:13:54 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-11-03T04:55:59.877755+00:00"
+    },
+    {
+      "ticker": "PLTR",
+      "title": "Palantir (PLTR) Q3 2026 Earnings Call Transcript",
+      "link": "https://www.fool.com/earnings/call-transcripts/2026/11/02/palantir-pltr-q3-2026-earnings-call-transcript/?.tsrc=rss",
+      "published": "Tue, 03 Nov 2026 04:28:39 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-11-03T04:56:00.188420+00:00"
+    },
+    {
+      "ticker": "PLTR",
+      "title": "‘Captain Of The Football Team’: Alex Karp Says Palantir’s AI Appeal Is Surging",
+      "link": "https://stocktwits.com/news-articles/markets/equity/captain-of-the-football-team-alex-karp-says-palantir-s-ai-appeal-is-surging/cNGQofOR9Pz?.tsrc=rss",
+      "published": "Tue, 03 Nov 2026 02:47:15 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-11-03T04:56:00.188476+00:00"
+    },
+    {
+      "ticker": "IBM",
+      "title": "Quantum Computing and Communications Market Global Report 2026 | Capitalize on 35.2% CAGR Through 2030 as IBM, Quantinuum, IonQ and PsiQuantum Scale Secure Quantum Networks",
+      "link": "https://finance.yahoo.com/technology/articles/quantum-computing-communications-market-global-144700100.html?.tsrc=rss",
+      "published": "Mon, 02 Nov 2026 14:47:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-11-03T04:56:00.509810+00:00"
+    },
+    {
+      "ticker": "IBM",
+      "title": "Quantum X Labs Tests Qatacomb Encryption on IBM Quantum Processor",
+      "link": "https://investorshub.advfn.com/market-news/article/39052/quantum-x-labs-tests-qatacomb-encryption-on-ibm-quantum-processor?.tsrc=rss",
+      "published": "Mon, 02 Nov 2026 13:38:01 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-11-03T04:56:00.509852+00:00"
     }
   ]
 }

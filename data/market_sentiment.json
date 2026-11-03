@@ -3,12 +3,12 @@
   "score": 61,
   "label": "Bullish",
   "counts": {
-    "positive": 52,
-    "negative": 33,
-    "neutral": 102
+    "positive": 56,
+    "negative": 36,
+    "neutral": 116
   },
-  "total": 187,
-  "updated_at": "2026-11-03T01:15:18.195869+00:00",
+  "total": 208,
+  "updated_at": "2026-11-03T04:56:00.825094+00:00",
   "articles": [
     {
       "link": "https://stocktwits.com/news-articles/markets/equity/spacex-mirror-nvidia-revenue-boom-sequoia-partner-tesla-influencer-merger-math/cNG9YeiR92p?.tsrc=rss",
@@ -756,6 +756,90 @@
     },
     {
       "link": "https://finance.yahoo.com/markets/stocks/articles/3-founder-led-stocks-watch-211051147.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/5-key-earnings-charts-watch-002000682.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/02/why-arm-holdings-stock-lost-29-last-month/?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/02/why-rivian-stock-popped-today/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/earnings/call-transcripts/2026/11/02/apple-aapl-q4-2026-earnings-call-transcript/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/asia-stocks-mixed-apple-outlook-044034259.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-calls-pretty-thick-032537139.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/apple-suppliers-split-asia-strong-025825667.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.thestreet.com/investing/stocks/oracle-stock-sinks-as-wall-street-confronts-a-20-billion-ai-problem?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.thestreet.com/investing/stocks/morgan-stanley-issues-warning-about-ai-stocks?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/googl-q3-deep-dive-ai-042936289.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://beincrypto.com/yardeni-sp500-earnings-forecast-2028/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.marketbeat.com/instant-alerts/transcript-what-realty-income-o-said-on-its-q3-earnings-call-2026-11-02/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-janus-henderson-bullish-meta-212034266.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-amd-stock-focus-q3-021510488.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/oracle-announces-pricing-20-billion-030900901.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.thestreet.com/investing/oracle-needs-20-billion-dollars-data-center-buildout?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://247wallst.com/videos/intel-just-suffered-its-steepest-drop-in-decades-and-1-word-from-a-top-bernstein-analyst-sums-up-the-outlook/?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.fool.com/earnings/call-transcripts/2026/11/02/palantir-pltr-q3-2026-earnings-call-transcript/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://stocktwits.com/news-articles/markets/equity/captain-of-the-football-team-alex-karp-says-palantir-s-ai-appeal-is-surging/cNGQofOR9Pz?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/articles/quantum-computing-communications-market-global-144700100.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://investorshub.advfn.com/market-news/article/39052/quantum-x-labs-tests-qatacomb-encryption-on-ibm-quantum-processor?.tsrc=rss",
       "sentiment": "neutral"
     }
   ]
