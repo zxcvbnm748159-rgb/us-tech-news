@@ -1,14 +1,14 @@
 {
   "date": "2026-11-03",
-  "score": 74,
+  "score": 75,
   "label": "Bullish",
   "counts": {
-    "positive": 71,
-    "negative": 25,
-    "neutral": 95
+    "positive": 84,
+    "negative": 28,
+    "neutral": 107
   },
-  "total": 191,
-  "updated_at": "2026-11-03T20:44:33.966080+00:00",
+  "total": 219,
+  "updated_at": "2026-11-03T21:44:42.546304+00:00",
   "articles": [
     {
       "link": "https://finance.yahoo.com/technology/articles/nvidia-tells-data-center-partners-072601586.html?.tsrc=rss",
@@ -773,6 +773,118 @@
     {
       "link": "https://www.fool.com/investing/2026/11/03/taiwan-semi-or-broadcom-if-i-could-only-own-1-for/?.tsrc=rss",
       "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/coverage/charts/2026/11/03/nvidia-vs-sk-hynix-comparing-quarterly-revenue-trajectories/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.thestreet.com/crypto/artificial-intelligence/nvidias-new-51-rule-could-shut-chinas-backdoor-to-ai-chips?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://app.moby.co/home/news/news-oman-wants-to-turn-war-profits-into-longterm-economic-gains?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/03/the-best-blue-chip-stock-to-buy-in-november-and-ho/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/super-micro-computer-smci-stock-211040745.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/810dfed2-d215-3d61-b039-c22ccd3cf6d4/stock-market-today%3A-dow-dips.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/f8f7e1fc-502f-3216-b7c4-b48d1ccc08b8/apple-stock-undercuts-key.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/buy-dip-apple-palantir-stock-202500414.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/03/alphabets-free-cash-flow-just-turned-negative/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/uber-president-jill-hazelbaker-joins-204431583.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/arista-networks-inc-reports-third-210500149.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/video/amd-beats-q3-estimates-with-data-center-business-booming-212830094.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.proactiveinvestors.com/companies/news/1101178/amd-data-center-revenue-nearly-doubles-as-q4-outlook-beats-expectations-1101178.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/amd-nasdaq-amd-surprises-q3-213046300.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-q3-earnings-snapshot-212740218.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/2bba823c-0f6d-37bf-b886-26409be285d8/amd-posts-beat-and-raise.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/jfrog-closes-patching-gap-universal-210500790.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.tikr.com/blog/cerebras-sinks-11-in-a-week-to-a-new-52-week-low-ubs-still-sees-159-upside?ref=yahoofinance&tlnk=yf-261103-vchxmc7p&.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.proactiveinvestors.com/companies/news/1101175/oracle-gains-4-as-wedbush-flags-ai-funding-concerns-1101175.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/coverage/charts/2026/11/03/salesforce-vs-ibm-comparing-consistent-revenue-expansion-against-slow-sales-growth/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.tikr.com/blog/tower-semiconductor-sinks-14-in-a-week-despite-the-strongest-growth-phase-in-our-history?ref=yahoofinance&tlnk=yf-261103-wq8h4j9m&.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.barchart.com/story/news/8617486/dear-qualcomm-stock-fans-mark-your-calendars-for-november-4?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/03/palantir-s-report-moved-my-buy-price-for-the-stock-here-s-the-new-number/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/hiding-inside-palantir-skyrocketing-quarter-210555581.html?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/article/super-micro-tops-q1-estimates-offers-strong-q2-outlook-211716932.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.proactiveinvestors.com/companies/news/1101179/super-micro-shares-jump-as-revenue-surges-and-full-year-outlook-tops-estimates-1101179.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/smci-earnings-preview-margins-guidance-212213482.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/super-micro-fiscal-q1-earnings-211954474.html?.tsrc=rss",
+      "sentiment": "positive"
     }
   ]
 }
