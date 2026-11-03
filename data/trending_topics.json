@@ -1,7 +1,7 @@
 {
   "date": "2026-11-02",
   "window_days": 7,
-  "source_count": 1328,
+  "source_count": 1361,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 212,
+      "count": 217,
       "kind": "ticker"
     },
     {
@@ -21,7 +21,7 @@
         "revenue guidance",
         "profit forecast"
       ],
-      "count": 195,
+      "count": 201,
       "kind": "topic"
     },
     {
@@ -30,7 +30,7 @@
       "search_terms": [
         "GOOGL"
       ],
-      "count": 155,
+      "count": 159,
       "kind": "ticker"
     },
     {
@@ -39,7 +39,7 @@
       "search_terms": [
         "MSFT"
       ],
-      "count": 131,
+      "count": 133,
       "kind": "ticker"
     },
     {
@@ -48,7 +48,7 @@
       "search_terms": [
         "AAPL"
       ],
-      "count": 100,
+      "count": 105,
       "kind": "ticker"
     },
     {
@@ -57,7 +57,7 @@
       "search_terms": [
         "AMZN"
       ],
-      "count": 96,
+      "count": 100,
       "kind": "ticker"
     },
     {
@@ -66,7 +66,7 @@
       "search_terms": [
         "META"
       ],
-      "count": 92,
+      "count": 93,
       "kind": "ticker"
     },
     {
@@ -75,7 +75,7 @@
       "search_terms": [
         "TSLA"
       ],
-      "count": 86,
+      "count": 87,
       "kind": "ticker"
     },
     {
@@ -84,7 +84,7 @@
       "search_terms": [
         "INTC"
       ],
-      "count": 77,
+      "count": 80,
       "kind": "ticker"
     },
     {
@@ -93,7 +93,16 @@
       "search_terms": [
         "ORCL"
       ],
-      "count": 66,
+      "count": 67,
+      "kind": "ticker"
+    },
+    {
+      "label": "PLTR",
+      "query": "PLTR",
+      "search_terms": [
+        "PLTR"
+      ],
+      "count": 56,
       "kind": "ticker"
     },
     {
@@ -104,18 +113,9 @@
       ],
       "count": 52,
       "kind": "ticker"
-    },
-    {
-      "label": "PLTR",
-      "query": "PLTR",
-      "search_terms": [
-        "PLTR"
-      ],
-      "count": 52,
-      "kind": "ticker"
     }
   ],
-  "updated_at": "2026-11-02T21:16:17.527634+00:00",
+  "updated_at": "2026-11-03T01:15:18.237568+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -17380,6 +17380,435 @@
       "impact_direction": "neutral",
       "sentiment": "positive",
       "fetched_at": "2026-11-02T21:16:17.321826+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Intel (INTC) Joined A $700 Million AI Startup Funding Round",
+      "link": "https://finance.yahoo.com/technology/ai/articles/intel-intc-joined-700-million-001701528.html?.tsrc=rss",
+      "published": "Tue, 03 Nov 2026 00:17:01 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-11-03T01:15:15.636379+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Nvidia Reports Nov. 17. History Says What Its Stock Usually Does Next.",
+      "link": "https://www.fool.com/investing/2026/11/02/nvidia-reports-nov-17-history-says-what-its-stock-usually-does-next/?.tsrc=rss",
+      "published": "Mon, 02 Nov 2026 23:37:01 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-11-03T01:15:15.636436+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "AMD Reports Tuesday. Here's the Number That Will Show Whether It's Gaining on Nvidia",
+      "link": "https://www.fool.com/investing/2026/11/02/amd-reports-tuesday-here-s-the-number-that-will-show-whether-it-s-gaining-on-nvidia/?.tsrc=rss",
+      "published": "Mon, 02 Nov 2026 22:42:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-11-03T01:15:15.636545+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Amazon's Report Passed Both Tests I Set for It. I'd Buy More of the Stock Now.",
+      "link": "https://www.fool.com/investing/2026/11/02/amazon-s-report-passed-both-tests-i-set-for-it-i-d-buy-more-of-the-stock-now/?.tsrc=rss",
+      "published": "Tue, 03 Nov 2026 01:07:01 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-11-03T01:15:15.636587+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Why RH Stock Jumped 20% in October",
+      "link": "https://www.fool.com/investing/2026/11/02/why-rh-stock-jumped-20-in-october/?.tsrc=rss",
+      "published": "Tue, 03 Nov 2026 00:35:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-11-03T01:15:15.636610+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Ternus touts Apple's $600B US manufacturing pledge on Q4 earnings call",
+      "link": "https://finance.yahoo.com/video/ternus-touts-apples-600b-us-manufacturing-pledge-on-q4-earnings-call-225322516.html?.tsrc=rss",
+      "published": "Mon, 02 Nov 2026 22:53:22 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-11-03T01:15:15.771795+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Jim Cramer explains the 'AI cheat code' driving Apple stock higher",
+      "link": "https://www.thestreet.com/investing/stocks/jim-cramer-apple-stock-ai-strategy?.tsrc=rss",
+      "published": "Tue, 03 Nov 2026 00:00:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-11-03T01:15:15.771875+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Dow Jones Futures: AI Trade Dives As Marvell, Lumentum Plunge; Apple Tumbles On Earnings With Midterm Elections Next",
+      "link": "https://finance.yahoo.com/m/4fe38c4f-79dc-38c4-99cf-7844e9e446ee/dow-jones-futures%3A-ai-trade.html?.tsrc=rss",
+      "published": "Mon, 02 Nov 2026 23:40:43 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-11-03T01:15:15.771922+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Apple beats sales and profit expectations but AI costs weigh on holiday sales",
+      "link": "https://finance.yahoo.com/technology/ai/articles/apple-beats-sales-profit-expectations-233407139.html?.tsrc=rss",
+      "published": "Mon, 02 Nov 2026 23:34:07 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-11-03T01:15:15.772003+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Apple says it’s ‘hard to predict’ when iPhone Duo constraints will improve",
+      "link": "https://finance.yahoo.com/technology/articles/apple-says-hard-predict-iphone-232532837.html?.tsrc=rss",
+      "published": "Mon, 02 Nov 2026 23:25:32 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-11-03T01:15:15.772062+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Accenture vs. Microsoft: Which Technology Stock Is a Better Buy for 2027?",
+      "link": "https://www.fool.com/coverage/better-buy/2026/11/02/accenture-vs-microsoft-which-technology-stock-is-a-better-buy-for-2027/?.tsrc=rss",
+      "published": "Mon, 02 Nov 2026 22:58:40 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-11-03T01:15:15.943543+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Why Is Boeing (BA) Pushing Deeper Into Cargo And Airline Data Tools?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-boeing-ba-pushing-deeper-002152370.html?.tsrc=rss",
+      "published": "Tue, 03 Nov 2026 00:21:52 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-11-03T01:15:15.943591+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Alphabet Lost $500 Billion in Market Value. Should You Really Buy AI Stocks Now?",
+      "link": "https://www.fool.com/investing/2026/11/02/alphabet-lost-usd500-billion-in-market-value-should-you-really-buy-ai-stocks-now/?.tsrc=rss",
+      "published": "Mon, 02 Nov 2026 23:25:01 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-11-03T01:15:16.058446+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Alphabet Has Lost $766 Billion in October, Its Worst Month Ever. UBS Warns Against Running for the Exits.",
+      "link": "https://247wallst.com/videos/alphabet-has-lost-766-billion-in-october-its-worst-month-ever-ubs-warns-against-running-for-the-exits/?.tsrc=rss",
+      "published": "Mon, 02 Nov 2026 23:18:33 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-11-03T01:15:16.058557+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Stock Market Today, Nov. 2: Apple Stock Slides Ahead of Earnings, but Its Latest Results Tell a Different Story",
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/11/02/stock-market-today-nov-2-apple-stock-slides-ahead-of-earnings-but-its-latest-results-tell-a-different-story/?.tsrc=rss",
+      "published": "Mon, 02 Nov 2026 22:45:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-11-03T01:15:16.058605+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Apple posts stronger-than-expected Q4 revenue in first earnings report for new CEO John Ternus",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/apple-posts-stronger-expected-q4-223133053.html?.tsrc=rss",
+      "published": "Mon, 02 Nov 2026 22:31:33 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-11-03T01:15:16.058641+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Amazon Prime Video beats Apple TV",
+      "link": "https://www.thestreet.com/retail/amazon-makes-money-in-an-area-where-apple-loses-billions?.tsrc=rss",
+      "published": "Tue, 03 Nov 2026 00:07:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-11-03T01:15:16.199363+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Amazon Is Pouring About $220 Billion Into AI This Year, and Insuring Its Debt Costs 50% More Than in August",
+      "link": "https://247wallst.com/videos/amazon-is-pouring-about-220-billion-into-ai-this-year-and-insuring-its-debt-costs-50-more-than-in-august/?.tsrc=rss",
+      "published": "Mon, 02 Nov 2026 23:22:29 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-11-03T01:15:16.199455+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Stock Market Today, Nov. 2: Amazon Rallies on Phillip Securities Buy Upgrade and $330 Target",
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/11/02/stock-market-today-nov-2-amazon-rallies-on-phillip-securities-buy-upgrade-and-330-target/?.tsrc=rss",
+      "published": "Mon, 02 Nov 2026 22:05:58 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-11-03T01:15:16.199540+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Amazon vs. Alibaba: Two E-Commerce Giants, a Big Valuation Gap, but Which Offers More Upside in 2027?",
+      "link": "https://www.fool.com/coverage/better-buy/2026/11/02/amazon-vs-alibaba-two-e-commerce-giants-a-big-valuation-gap-but-which-offers-more-upside-in-2027/?.tsrc=rss",
+      "published": "Mon, 02 Nov 2026 21:50:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-11-03T01:15:16.199591+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "S&P 500, Nasdaq Drop As Capex Concerns Grip Tech Investors, Outweighing US-Iran Diplomacy Hope —  ORCL, META, PLTR, AAPL In Focus",
+      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-drop-as-capex-concerns-grip-tech-investors-outweighing-us-iran-diplomacy-hope/cNGQZKqR9PD?.tsrc=rss",
+      "published": "Tue, 03 Nov 2026 00:22:35 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-11-03T01:15:16.359567+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Tesla Has a Flying Car. What Does This Mean for Archer's Flying \"Taxi\" Business?",
+      "link": "https://www.fool.com/investing/2026/11/02/tesla-has-a-flying-car-what-mean-for-archer/?.tsrc=rss",
+      "published": "Mon, 02 Nov 2026 22:20:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-11-03T01:15:16.473653+00:00"
+    },
+    {
+      "ticker": "ORCL",
+      "title": "Oracle Stock Tumbles. Its $20B Funding Plan Wasn’t the Surprise—the Speed Was.",
+      "link": "https://finance.yahoo.com/m/3998f6b0-a45f-3ea4-9944-d1ebebc86d09/oracle-stock-tumbles.-its.html?.tsrc=rss",
+      "published": "Mon, 02 Nov 2026 21:02:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-11-03T01:15:16.869513+00:00"
+    },
+    {
+      "ticker": "CRM",
+      "title": "Why Salesforce (CRM) Dipped More Than Broader Market Today",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-salesforce-crm-dipped-more-214503577.html?.tsrc=rss",
+      "published": "Mon, 02 Nov 2026 21:45:03 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-11-03T01:15:16.999202+00:00"
+    },
+    {
+      "ticker": "INTC",
+      "title": "The Intel stock collapse is getting worse — and the $3.7 trillion chip rout is spreading",
+      "link": "https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html?.tsrc=rss",
+      "published": "Mon, 02 Nov 2026 20:41:39 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-11-03T01:15:17.280953+00:00"
+    },
+    {
+      "ticker": "INTC",
+      "title": "Bank of America pulls its Buy on Intel as the comeback slips",
+      "link": "https://www.thestreet.com/investing/bank-of-america-pulls-buy-rating-on-intel-as-comeback-slips?.tsrc=rss",
+      "published": "Tue, 03 Nov 2026 00:17:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-11-03T01:15:17.281004+00:00"
+    },
+    {
+      "ticker": "INTC",
+      "title": "Why Intel Stock Is Down After Weak Q4 Guidance",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-intel-stock-down-weak-231626988.html?.tsrc=rss",
+      "published": "Mon, 02 Nov 2026 23:16:26 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-11-03T01:15:17.281056+00:00"
+    },
+    {
+      "ticker": "PLTR",
+      "title": "Alex Karp on Palantir's AI demand: 'Much larger than we can service'",
+      "link": "https://finance.yahoo.com/video/alex-karp-on-palantirs-ai-demand-much-larger-than-we-can-service-232326872.html?.tsrc=rss",
+      "published": "Mon, 02 Nov 2026 23:23:26 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-11-03T01:15:17.594682+00:00"
+    },
+    {
+      "ticker": "PLTR",
+      "title": "Palantir Q3 earnings: Did the AI company just have a 'celestial' quarter?",
+      "link": "https://finance.yahoo.com/video/palantir-q3-earnings-did-the-ai-company-just-have-a-celestial-quarter-213936890.html?.tsrc=rss",
+      "published": "Mon, 02 Nov 2026 21:39:36 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-11-03T01:15:17.594727+00:00"
+    },
+    {
+      "ticker": "PLTR",
+      "title": "Palantir Blows Past Expectations In Q3 On Strong Commercial Sales, But Valuation Concerns Dampen Sentiment",
+      "link": "https://stocktwits.com/news-articles/markets/equity/palantir-blows-past-expectations-in-q3-on-strong-commercial-sales-but-valuation-concerns-dampen-sentiment/cNGaXtiR9Pv?.tsrc=rss",
+      "published": "Mon, 02 Nov 2026 23:46:57 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-11-03T01:15:17.594807+00:00"
+    },
+    {
+      "ticker": "PLTR",
+      "title": "Palantir's U.S. Revenue Soars 119% as Commercial Revenue Surpasses Government Revenue for the First Time. Here's Why Its Growth Is Still Surging, Even as Other AI Stocks Falter",
+      "link": "https://www.fool.com/investing/2026/11/02/palantirs-us-revenue-soars-119-as-commercial-revenue-surpasses-government-revenue-for-the-first-time-heres-why-its-growth-is-still-surging-even-as-other-ai-stocks-falter/?.tsrc=rss",
+      "published": "Mon, 02 Nov 2026 23:34:15 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-11-03T01:15:17.594888+00:00"
+    },
+    {
+      "ticker": "SMCI",
+      "title": "AI Earnings: 3 Reports to Watch This Week",
+      "link": "https://finance.yahoo.com/technology/ai/articles/ai-earnings-3-reports-watch-222800689.html?.tsrc=rss",
+      "published": "Mon, 02 Nov 2026 22:28:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-11-03T01:15:17.729411+00:00"
+    },
+    {
+      "ticker": "SMCI",
+      "title": "3 Founder Led Stocks To Watch In November 2026",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-founder-led-stocks-watch-211051147.html?.tsrc=rss",
+      "published": "Mon, 02 Nov 2026 21:10:51 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-11-03T01:15:17.729451+00:00"
     }
   ]
 }
