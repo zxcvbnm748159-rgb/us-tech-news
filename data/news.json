@@ -1,5 +1,57 @@
 [
   {
+    "ticker": "AAPL",
+    "title": "Review & Preview: A Divided Market on Election Day",
+    "link": "https://finance.yahoo.com/m/d01706ed-bcdd-34f3-a5ca-4605fa78c17b/review-%26-preview%3A-a-divided.html?.tsrc=rss",
+    "published": "Wed, 04 Nov 2026 00:55:00 +0000",
+    "summary_th": "",
+    "category": "General",
+    "ai_analysis": "",
+    "impact_level": "low",
+    "impact_direction": "neutral",
+    "sentiment": "neutral",
+    "fetched_at": "2026-11-04T01:40:38.830633+00:00"
+  },
+  {
+    "ticker": "GOOGL",
+    "title": "People Inc (PPLI) Q3 2026 Earnings Call Highlights: Digital Revenue Extends Growth Streak to 12 ...",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/people-inc-ppli-q3-2026-010554012.html?.tsrc=rss",
+    "published": "Wed, 04 Nov 2026 01:05:54 +0000",
+    "summary_th": "",
+    "category": "General",
+    "ai_analysis": "",
+    "impact_level": "low",
+    "impact_direction": "neutral",
+    "sentiment": "positive",
+    "fetched_at": "2026-11-04T01:40:39.272006+00:00"
+  },
+  {
+    "ticker": "AMZN",
+    "title": "McDonald's and Qualcomm earnings, ADP labor data: What to Watch",
+    "link": "https://finance.yahoo.com/video/mcdonalds-qualcomm-earnings-adp-labor-010000492.html?.tsrc=rss",
+    "published": "Wed, 04 Nov 2026 01:00:00 +0000",
+    "summary_th": "",
+    "category": "General",
+    "ai_analysis": "",
+    "impact_level": "low",
+    "impact_direction": "neutral",
+    "sentiment": "neutral",
+    "fetched_at": "2026-11-04T01:40:39.493417+00:00"
+  },
+  {
+    "ticker": "AMD",
+    "title": "U.S. stock futures steady with midterms in focus; AMD rallies on strong earnings",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/u-stock-futures-steady-midterms-010643358.html?.tsrc=rss",
+    "published": "Wed, 04 Nov 2026 01:06:43 +0000",
+    "summary_th": "",
+    "category": "General",
+    "ai_analysis": "",
+    "impact_level": "low",
+    "impact_direction": "neutral",
+    "sentiment": "positive",
+    "fetched_at": "2026-11-04T01:40:40.115740+00:00"
+  },
+  {
     "ticker": "NVDA",
     "title": "What Is Nvidia (NVDA) Asking Cloud Clients To Change Under New China Rules?",
     "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-asking-cloud-clients-232102833.html?.tsrc=rss",
@@ -3846,57 +3898,5 @@
     "impact_direction": "neutral",
     "sentiment": "neutral",
     "fetched_at": "2026-11-03T01:15:15.943591+00:00"
-  },
-  {
-    "ticker": "GOOGL",
-    "title": "Alphabet Lost $500 Billion in Market Value. Should You Really Buy AI Stocks Now?",
-    "link": "https://www.fool.com/investing/2026/11/02/alphabet-lost-usd500-billion-in-market-value-should-you-really-buy-ai-stocks-now/?.tsrc=rss",
-    "published": "Mon, 02 Nov 2026 23:25:01 +0000",
-    "summary_th": "",
-    "category": "General",
-    "ai_analysis": "",
-    "impact_level": "low",
-    "impact_direction": "neutral",
-    "sentiment": "neutral",
-    "fetched_at": "2026-11-03T01:15:16.058446+00:00"
-  },
-  {
-    "ticker": "GOOGL",
-    "title": "Alphabet Has Lost $766 Billion in October, Its Worst Month Ever. UBS Warns Against Running for the Exits.",
-    "link": "https://247wallst.com/videos/alphabet-has-lost-766-billion-in-october-its-worst-month-ever-ubs-warns-against-running-for-the-exits/?.tsrc=rss",
-    "published": "Mon, 02 Nov 2026 23:18:33 +0000",
-    "summary_th": "",
-    "category": "General",
-    "ai_analysis": "",
-    "impact_level": "low",
-    "impact_direction": "neutral",
-    "sentiment": "negative",
-    "fetched_at": "2026-11-03T01:15:16.058557+00:00"
-  },
-  {
-    "ticker": "GOOGL",
-    "title": "Stock Market Today, Nov. 2: Apple Stock Slides Ahead of Earnings, but Its Latest Results Tell a Different Story",
-    "link": "https://www.fool.com/coverage/stock-market-today/2026/11/02/stock-market-today-nov-2-apple-stock-slides-ahead-of-earnings-but-its-latest-results-tell-a-different-story/?.tsrc=rss",
-    "published": "Mon, 02 Nov 2026 22:45:02 +0000",
-    "summary_th": "",
-    "category": "General",
-    "ai_analysis": "",
-    "impact_level": "low",
-    "impact_direction": "neutral",
-    "sentiment": "neutral",
-    "fetched_at": "2026-11-03T01:15:16.058605+00:00"
-  },
-  {
-    "ticker": "GOOGL",
-    "title": "Apple posts stronger-than-expected Q4 revenue in first earnings report for new CEO John Ternus",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/apple-posts-stronger-expected-q4-223133053.html?.tsrc=rss",
-    "published": "Mon, 02 Nov 2026 22:31:33 +0000",
-    "summary_th": "",
-    "category": "General",
-    "ai_analysis": "",
-    "impact_level": "low",
-    "impact_direction": "neutral",
-    "sentiment": "neutral",
-    "fetched_at": "2026-11-03T01:15:16.058641+00:00"
   }
 ]

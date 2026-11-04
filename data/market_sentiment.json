@@ -3,12 +3,12 @@
   "score": 76,
   "label": "Bullish",
   "counts": {
-    "positive": 98,
+    "positive": 100,
     "negative": 31,
-    "neutral": 125
+    "neutral": 127
   },
-  "total": 254,
-  "updated_at": "2026-11-04T01:00:00.191633+00:00",
+  "total": 258,
+  "updated_at": "2026-11-04T01:40:42.243949+00:00",
   "articles": [
     {
       "link": "https://finance.yahoo.com/technology/articles/nvidia-tells-data-center-partners-072601586.html?.tsrc=rss",
@@ -1024,6 +1024,22 @@
     },
     {
       "link": "https://finance.yahoo.com/markets/stocks/articles/adobe-systems-adbe-stock-sinks-214501693.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/d01706ed-bcdd-34f3-a5ca-4605fa78c17b/review-%26-preview%3A-a-divided.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/people-inc-ppli-q3-2026-010554012.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/video/mcdonalds-qualcomm-earnings-adp-labor-010000492.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/u-stock-futures-steady-midterms-010643358.html?.tsrc=rss",
       "sentiment": "positive"
     }
   ]

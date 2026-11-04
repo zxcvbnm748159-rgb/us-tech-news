@@ -1,7 +1,7 @@
 {
   "date": "2026-11-03",
   "window_days": 7,
-  "source_count": 1375,
+  "source_count": 1379,
   "topics": [
     {
       "label": "Earnings",
@@ -12,7 +12,7 @@
         "revenue guidance",
         "profit forecast"
       ],
-      "count": 214,
+      "count": 217,
       "kind": "topic"
     },
     {
@@ -30,7 +30,7 @@
       "search_terms": [
         "GOOGL"
       ],
-      "count": 155,
+      "count": 156,
       "kind": "ticker"
     },
     {
@@ -48,7 +48,7 @@
       "search_terms": [
         "AAPL"
       ],
-      "count": 117,
+      "count": 118,
       "kind": "ticker"
     },
     {
@@ -57,7 +57,7 @@
       "search_terms": [
         "AMZN"
       ],
-      "count": 102,
+      "count": 103,
       "kind": "ticker"
     },
     {
@@ -102,7 +102,7 @@
       "search_terms": [
         "AMD"
       ],
-      "count": 67,
+      "count": 68,
       "kind": "ticker"
     },
     {
@@ -115,7 +115,7 @@
       "kind": "ticker"
     }
   ],
-  "updated_at": "2026-11-04T01:00:00.222088+00:00",
+  "updated_at": "2026-11-04T01:40:42.271467+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -17991,6 +17991,58 @@
       "impact_direction": "neutral",
       "sentiment": "positive",
       "fetched_at": "2026-11-04T01:00:00.103322+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Review & Preview: A Divided Market on Election Day",
+      "link": "https://finance.yahoo.com/m/d01706ed-bcdd-34f3-a5ca-4605fa78c17b/review-%26-preview%3A-a-divided.html?.tsrc=rss",
+      "published": "Wed, 04 Nov 2026 00:55:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-11-04T01:40:38.830633+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "People Inc (PPLI) Q3 2026 Earnings Call Highlights: Digital Revenue Extends Growth Streak to 12 ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/people-inc-ppli-q3-2026-010554012.html?.tsrc=rss",
+      "published": "Wed, 04 Nov 2026 01:05:54 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-11-04T01:40:39.272006+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "McDonald's and Qualcomm earnings, ADP labor data: What to Watch",
+      "link": "https://finance.yahoo.com/video/mcdonalds-qualcomm-earnings-adp-labor-010000492.html?.tsrc=rss",
+      "published": "Wed, 04 Nov 2026 01:00:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-11-04T01:40:39.493417+00:00"
+    },
+    {
+      "ticker": "AMD",
+      "title": "U.S. stock futures steady with midterms in focus; AMD rallies on strong earnings",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/u-stock-futures-steady-midterms-010643358.html?.tsrc=rss",
+      "published": "Wed, 04 Nov 2026 01:06:43 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-11-04T01:40:40.115740+00:00"
     }
   ]
 }
