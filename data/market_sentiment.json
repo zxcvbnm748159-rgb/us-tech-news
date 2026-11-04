@@ -1,14 +1,14 @@
 {
   "date": "2026-11-03",
-  "score": 75,
+  "score": 76,
   "label": "Bullish",
   "counts": {
-    "positive": 84,
-    "negative": 28,
-    "neutral": 107
+    "positive": 98,
+    "negative": 31,
+    "neutral": 125
   },
-  "total": 219,
-  "updated_at": "2026-11-03T21:44:42.546304+00:00",
+  "total": 254,
+  "updated_at": "2026-11-04T01:00:00.191633+00:00",
   "articles": [
     {
       "link": "https://finance.yahoo.com/technology/articles/nvidia-tells-data-center-partners-072601586.html?.tsrc=rss",
@@ -884,6 +884,146 @@
     },
     {
       "link": "https://finance.yahoo.com/markets/stocks/articles/super-micro-fiscal-q1-earnings-211954474.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-asking-cloud-clients-232102833.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-ferrari-nv-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-regal-rexnord-corporation-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://247wallst.com/investing/cryptocurrency/2026/11/03/bitcoin-vs-nvidia-10000-invested-5-years-ago-which-is-worth-more-now/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-pfizer-inc-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/earnings/takeaways/2026/11/03/apple-3-key-takeaways-for-long-term-investors/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/11/03/jim-cramer-says-the-executioner-is-axing-palantir-and-apple-what-investors-should-make-of-it/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/128f1048-6ad1-33df-9ddf-897d7e346cbb/apple%2C-palantir%2C-pfizer%2C.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/bill-ackman-drops-stunning-ai-180605817.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/crowdstrike-crwd-stock-trades-down-234936695.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/cloudflare-mongodb-datadog-jfrog-elastic-234136948.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-reddit-stock-focus-strong-232429824.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://247wallst.com/personal-finance/2026/11/03/do-you-know-how-much-of-your-401k-is-riding-on-the-ai-trade-voters-want-paused/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/small-business/articles/ricardo-dom-nguezs-entre-cajas-220000391.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.thestreet.com/investing/jeff-bezos-has-simple-advice-for-retirees-watching-the-ai-market?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.thestreet.com/crypto/markets/elon-musks-tesla-and-spacex-protest-nyse-parents-new-plan?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-recover-from-ai-rout-on-us-midterm-election-day-meta-aapl-amd-skhy-in-focus/cNGXlSbR9dS?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/3de61a32-b3db-3085-aba0-8c8b89589b6d/a-dem-sweep-could-get-the.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/e5be454d-07fd-3d94-8114-a4e8ff2910de/stock-market-election-night%3A.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/video/amds-lisa-su-q3-was-largest-and-most-profitable-in-our-history-222718914.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-amd-stock-001838344.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/amd-eps-intels-drag-makes-231300384.html?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/broadcom-avgo-changing-ai-security-001741357.html?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/oracle-stock-faces-questions-20-231707584.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.thestreet.com/investing/why-salesforce-and-servicenow-could-emerge-as-ai-winners?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/03/should-you-buy-qualcomm-stock-before-its-nov-4-report/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/03/is-palantir-stock-a-buy-after-its-latest-earnings-report/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/11/03/stock-market-today-nov-3-palantir-falls-after-q3-results-as-valuation-stays-in-focus/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/article/supermicro-tops-q1-estimates-offers-strong-q2-outlook-220213885.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://stocktwits.com/news-articles/markets/equity/super-micro-s-q1-revenue-nearly-quadruples-to-20-b-on-surging-ai-server-demand/cNGhsPWR9dk?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/03/supermicro-s-sales-quadruple-as-cash-drains-rapid-earnings-reaction/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/e923ed8d-5389-3bf9-bb73-298578567780/super-micro-reports-strong.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/super-micro-computer-smci-beats-215008626.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/adobe-adbe-stock-sees-modest-231707869.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/adobe-systems-adbe-stock-sinks-214501693.html?.tsrc=rss",
       "sentiment": "positive"
     }
   ]
