@@ -1,14 +1,14 @@
 {
   "date": "2026-11-05",
-  "score": 67,
+  "score": 71,
   "label": "Bullish",
   "counts": {
-    "positive": 4,
-    "negative": 2,
-    "neutral": 16
+    "positive": 10,
+    "negative": 4,
+    "neutral": 17
   },
-  "total": 22,
-  "updated_at": "2026-11-05T08:43:41.455914+00:00",
+  "total": 31,
+  "updated_at": "2026-11-05T10:11:51.403140+00:00",
   "articles": [
     {
       "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-earnings-trends-highlights-nvidia-071000049.html?.tsrc=rss",
@@ -97,6 +97,42 @@
     {
       "link": "https://www.thestreet.com/investing/stocks/bofa-lifts-supermicro-target-despite-ai-margin-concerns?.tsrc=rss",
       "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/05/rivians-r2-is-winning-more-than-trophies-and-fans/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/05/is-apple-a-buy-on-the-dip-or-are-mounting-headwind/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://stocktwits.com/news-articles/markets/equity/ai-roundup-amd-apple-results-puzzle-investors-democrats-midterm-win-weighs-on-traders/cNG1fJyR9EN?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://stocktwits.com/news-articles/markets/equity/after-pulling-deal-for-nscale-s-uk-data-center-microsoft-rejects-texas-expansion-option/cNG1X30R9En?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.tikr.com/blog/uber-beat-on-20-bookings-growth-josh-brown-says-its-just-narratively-challenged?ref=yahoofinance&tlnk=yf-261105-vvg43hp3&.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.retail-insight-network.com/news/amazon-shop-direct-merchant-workspace/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/05/1-number-that-should-concern-every-amazon-investor/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.tikr.com/blog/arm-sinks-19-in-a-week-as-intels-warning-hits-chip-stocks-is-it-a-buy?ref=yahoofinance&tlnk=yf-261105-r2v3rx76&.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/u-midterms-fallout-focus-qualcomm-092945824.html?.tsrc=rss",
+      "sentiment": "positive"
     }
   ]
 }

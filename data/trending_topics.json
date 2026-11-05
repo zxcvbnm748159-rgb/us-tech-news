@@ -1,7 +1,7 @@
 {
   "date": "2026-11-05",
   "window_days": 7,
-  "source_count": 1188,
+  "source_count": 1198,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 175,
+      "count": 176,
       "kind": "ticker"
     },
     {
@@ -30,7 +30,7 @@
       "search_terms": [
         "GOOGL"
       ],
-      "count": 125,
+      "count": 126,
       "kind": "ticker"
     },
     {
@@ -39,7 +39,7 @@
       "search_terms": [
         "AAPL"
       ],
-      "count": 107,
+      "count": 109,
       "kind": "ticker"
     },
     {
@@ -48,7 +48,7 @@
       "search_terms": [
         "AMZN"
       ],
-      "count": 88,
+      "count": 90,
       "kind": "ticker"
     },
     {
@@ -57,7 +57,7 @@
       "search_terms": [
         "MSFT"
       ],
-      "count": 84,
+      "count": 85,
       "kind": "ticker"
     },
     {
@@ -75,7 +75,7 @@
       "search_terms": [
         "INTC"
       ],
-      "count": 69,
+      "count": 70,
       "kind": "ticker"
     },
     {
@@ -93,7 +93,7 @@
       "search_terms": [
         "TSLA"
       ],
-      "count": 68,
+      "count": 69,
       "kind": "ticker"
     },
     {
@@ -115,7 +115,7 @@
       "kind": "ticker"
     }
   ],
-  "updated_at": "2026-11-05T08:43:41.495335+00:00",
+  "updated_at": "2026-11-05T10:11:51.433445+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -15560,6 +15560,136 @@
       "impact_direction": "neutral",
       "sentiment": "positive",
       "fetched_at": "2026-11-05T08:43:41.455304+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Rivian's R2 Is Winning More Than Trophies and Fans",
+      "link": "https://www.fool.com/investing/2026/11/05/rivians-r2-is-winning-more-than-trophies-and-fans/?.tsrc=rss",
+      "published": "Thu, 05 Nov 2026 09:50:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-11-05T10:11:47.559928+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Is Apple a Buy on the Dip, or Are Mounting Headwinds Too Strong?",
+      "link": "https://www.fool.com/investing/2026/11/05/is-apple-a-buy-on-the-dip-or-are-mounting-headwind/?.tsrc=rss",
+      "published": "Thu, 05 Nov 2026 09:25:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-11-05T10:11:47.768701+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "AI Roundup: AMD, Apple Results Puzzle Investors, Democrats’ Midterm Win Weighs On Traders",
+      "link": "https://stocktwits.com/news-articles/markets/equity/ai-roundup-amd-apple-results-puzzle-investors-democrats-midterm-win-weighs-on-traders/cNG1fJyR9EN?.tsrc=rss",
+      "published": "Thu, 05 Nov 2026 08:48:28 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-11-05T10:11:47.768769+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "After Pulling Deal For Nscale’s UK Data Center, Microsoft Rejects Texas Expansion Option: Report",
+      "link": "https://stocktwits.com/news-articles/markets/equity/after-pulling-deal-for-nscale-s-uk-data-center-microsoft-rejects-texas-expansion-option/cNG1X30R9En?.tsrc=rss",
+      "published": "Thu, 05 Nov 2026 09:21:14 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-11-05T10:11:47.970341+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Uber Beat on 20% Bookings Growth. Josh Brown Says It’s Just “Narratively Challenged”",
+      "link": "https://www.tikr.com/blog/uber-beat-on-20-bookings-growth-josh-brown-says-its-just-narratively-challenged?ref=yahoofinance&tlnk=yf-261105-vvg43hp3&.tsrc=rss",
+      "published": "Thu, 05 Nov 2026 05:09:41 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-11-05T10:11:48.177260+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Amazon launches Shop Direct Merchant Workspace",
+      "link": "https://www.retail-insight-network.com/news/amazon-shop-direct-merchant-workspace/?.tsrc=rss",
+      "published": "Thu, 05 Nov 2026 09:48:08 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-11-05T10:11:48.438744+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "1 Number That Should Concern Every Amazon Investor",
+      "link": "https://www.fool.com/investing/2026/11/05/1-number-that-should-concern-every-amazon-investor/?.tsrc=rss",
+      "published": "Thu, 05 Nov 2026 09:20:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-11-05T10:11:48.438809+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Tesla and SpaceX Stocks Fall as Investors Worry About Elon Musk’s Political Risk",
+      "link": "https://beincrypto.com/tesla-spacex-stocks-fall-us-midterms/?.tsrc=rss",
+      "published": "Wed, 04 Nov 2026 22:23:29 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-11-05T10:11:48.847821+00:00"
+    },
+    {
+      "ticker": "INTC",
+      "title": "Arm Sinks 19% in a Week as Intel’s Warning Hits Chip Stocks. Is It a Buy?",
+      "link": "https://www.tikr.com/blog/arm-sinks-19-in-a-week-as-intels-warning-hits-chip-stocks-is-it-a-buy?ref=yahoofinance&tlnk=yf-261105-r2v3rx76&.tsrc=rss",
+      "published": "Thu, 05 Nov 2026 08:50:32 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-11-05T10:11:50.126649+00:00"
+    },
+    {
+      "ticker": "QCOM",
+      "title": "U.S. midterms fallout in focus; Qualcomm shares slip - what’s moving markets",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/u-midterms-fallout-focus-qualcomm-092945824.html?.tsrc=rss",
+      "published": "Thu, 05 Nov 2026 09:29:45 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-11-05T10:11:50.332564+00:00"
     }
   ]
 }
