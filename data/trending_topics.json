@@ -1,7 +1,7 @@
 {
   "date": "2026-11-04",
   "window_days": 7,
-  "source_count": 1381,
+  "source_count": 1387,
   "topics": [
     {
       "label": "NVDA",
@@ -39,7 +39,7 @@
       "search_terms": [
         "AAPL"
       ],
-      "count": 117,
+      "count": 118,
       "kind": "ticker"
     },
     {
@@ -75,7 +75,7 @@
       "search_terms": [
         "META"
       ],
-      "count": 81,
+      "count": 84,
       "kind": "ticker"
     },
     {
@@ -93,7 +93,7 @@
       "search_terms": [
         "TSLA"
       ],
-      "count": 76,
+      "count": 77,
       "kind": "ticker"
     },
     {
@@ -115,7 +115,7 @@
       "kind": "ticker"
     }
   ],
-  "updated_at": "2026-11-05T01:14:53.854758+00:00",
+  "updated_at": "2026-11-05T01:53:36.287659+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -18069,6 +18069,84 @@
       "impact_direction": "neutral",
       "sentiment": "positive",
       "fetched_at": "2026-11-05T01:14:53.540535+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Dow Jones Futures Rise, But Techs Tumble; Apple, Microsoft, Amazon Flash Buy Signals In Postelection Rally",
+      "link": "https://finance.yahoo.com/m/a147bf9a-4218-3171-97a4-fb80fda211eb/dow-jones-futures-rise%2C-but.html?.tsrc=rss",
+      "published": "Thu, 05 Nov 2026 01:47:46 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-11-05T01:53:33.783344+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "Is the AI Bubble Popping?",
+      "link": "https://www.fool.com/investing/2026/11/04/is-the-ai-bubble-popping/?.tsrc=rss",
+      "published": "Thu, 05 Nov 2026 01:16:38 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-11-05T01:53:34.330259+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "Top 3 Founder Led Stocks To Watch In November 2026",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/top-3-founder-led-stocks-011204704.html?.tsrc=rss",
+      "published": "Thu, 05 Nov 2026 01:12:04 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-11-05T01:53:34.330313+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "Facebook expands Creator Fast Track program to Brazil",
+      "link": "https://www.socialmediatoday.com/news/facebook-expands-creator-fast-track-program-to-brazil/873821/?.tsrc=rss",
+      "published": "Wed, 04 Nov 2026 22:56:01 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-11-05T01:53:34.330358+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Tesla Registrations Explode Across Europe as Iran War Sends Fuel Prices Soaring — But BYD and Chinese EV Rivals Are Gaining Fast",
+      "link": "https://finance.yahoo.com/energy/articles/tesla-registrations-explode-across-europe-003014737.html?.tsrc=rss",
+      "published": "Thu, 05 Nov 2026 00:30:14 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-11-05T01:53:34.486771+00:00"
+    },
+    {
+      "ticker": "AVGO",
+      "title": "Is Broadcom Stock a Buy After Marvell's $115 Billion Deal?",
+      "link": "https://www.fool.com/investing/2026/11/04/is-broadcom-stock-a-buy-after-marvell-s-usd115-billion-deal/?.tsrc=rss",
+      "published": "Thu, 05 Nov 2026 01:43:01 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-11-05T01:53:34.772681+00:00"
     }
   ]
 }

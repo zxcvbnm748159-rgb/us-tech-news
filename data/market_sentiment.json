@@ -1,14 +1,14 @@
 {
   "date": "2026-11-04",
-  "score": 67,
+  "score": 68,
   "label": "Bullish",
   "counts": {
-    "positive": 68,
+    "positive": 71,
     "negative": 34,
-    "neutral": 130
+    "neutral": 133
   },
-  "total": 232,
-  "updated_at": "2026-11-05T01:14:53.812024+00:00",
+  "total": 238,
+  "updated_at": "2026-11-05T01:53:36.243618+00:00",
   "articles": [
     {
       "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-china-clients-1-70-053111298.html?.tsrc=rss",
@@ -937,6 +937,30 @@
     {
       "link": "https://www.fool.com/investing/2026/11/04/did-ibm-just-tell-the-truth-about-ai/?.tsrc=rss",
       "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/a147bf9a-4218-3171-97a4-fb80fda211eb/dow-jones-futures-rise%2C-but.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/04/is-the-ai-bubble-popping/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/top-3-founder-led-stocks-011204704.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.socialmediatoday.com/news/facebook-expands-creator-fast-track-program-to-brazil/873821/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/energy/articles/tesla-registrations-explode-across-europe-003014737.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/04/is-broadcom-stock-a-buy-after-marvell-s-usd115-billion-deal/?.tsrc=rss",
+      "sentiment": "neutral"
     }
   ]
 }
