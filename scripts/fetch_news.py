@@ -439,22 +439,22 @@ def generate_stock_analysis(items, now=None):
         }
         context.append({
             "ticker": ticker,
-            "change_percent": change_percent
-            if isinstance(change_percent, (int, float)) and not isinstance(change_percent, bool)
-            else None,
             "headlines": articles,
         })
 
     api_key = os.environ.get("GEMINI_API_KEY")
     if api_key and context:
         prompt = (
-            "คุณคือนักวิเคราะห์หุ้นเทคโนโลยีสหรัฐ สรุปเป็นภาษาไทยโดยใช้เฉพาะข้อมูลราคาและข่าวที่ให้ "
+            "คุณคือนักวิเคราะห์ธุรกิจหุ้นเทคโนโลยีสหรัฐ สรุปเป็นภาษาไทยโดยใช้เฉพาะพาดหัวและสรุปข่าวที่ให้ "
+            "วิเคราะห์บริบทธุรกิจ โอกาส ความเสี่ยง และประเด็นที่ต้องติดตามเท่านั้น "
+            "ห้ามระบุราคาหุ้น เปอร์เซ็นต์การเปลี่ยนแปลงรายวัน หรือสรุปว่าราคาหุ้นขึ้น/ลง "
+            "ตัวเลขราคาและทิศทางตลาดจะแสดงจากแหล่งข้อมูลราคาแยกต่างหาก "
             "ห้ามอ้างว่าข่าวเป็นสาเหตุแน่นอน ห้ามคาดเดาเมื่อไม่มีข้อมูลรองรับ "
             "หากไม่มีข่าวให้บอกว่ายังไม่มีหลักฐานข่าวเพียงพอ "
             "ตอบเป็น JSON object ที่มี key stocks เป็น array โดยแต่ละรายการมี ticker, summary และ analysis_points "
             "(ไม่เกิน 3 ข้อ)\n"
             f"วันที่อ้างอิง (America/New_York): {now.astimezone(EASTERN).date().isoformat()}\n"
-            f"ข้อมูลหุ้น: {json.dumps(context, ensure_ascii=False)}"
+            f"ข้อมูลข่าวรายหุ้น: {json.dumps(context, ensure_ascii=False)}"
         )
         try:
             client = genai.Client(api_key=api_key)
