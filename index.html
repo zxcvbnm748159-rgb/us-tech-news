@@ -34,6 +34,25 @@ button{cursor:pointer}
 button:disabled,select:disabled{cursor:not-allowed;opacity:.55}
 a{color:inherit}
 :focus-visible{outline:2px solid var(--lime);outline-offset:3px}
+
+/* Navigation polish and compact mobile command dock */
+.skip-link{
+  position:fixed;top:9px;left:12px;z-index:120;
+  transform:translateY(-160%);padding:9px 13px;
+  border:1px solid #b6df69;border-radius:9px;
+  background:#c8f169;color:#18210d;font-size:.72rem;font-weight:950;
+  box-shadow:0 8px 24px rgba(0,0,0,.28);transition:transform .18s ease;
+}
+.skip-link:focus{transform:translateY(0)}
+.mobile-dock{display:none}
+.market-nav a[aria-current="location"]{
+  border-color:#46583b;background:#172016;color:var(--lime);
+}
+#marketOverview,#stock-workspace,#newsDashboard,#watchlistTitle{scroll-margin-top:84px}
+@media(hover:hover) and (pointer:fine){
+  .market-nav a,.card,.trending-item,.watchlist-row{transition:all .18s ease}
+  .market-nav a:hover{transform:translateY(-1px)}
+}
 [hidden]{display:none!important}
 
 /* Live price tape */
@@ -391,6 +410,29 @@ footer{grid-area:footer;margin-top:1px;padding:14px 2px 0;border-top:1px solid #
   #newsSort{grid-column:auto}
 }
 @media(max-width:760px){
+
+  body{padding-bottom:calc(96px + env(safe-area-inset-bottom,0px))}
+  .mobile-dock{
+    position:fixed;z-index:80;left:50%;bottom:calc(10px + env(safe-area-inset-bottom,0px));
+    display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:4px;
+    width:min(calc(100% - 22px),470px);padding:7px;
+    transform:translateX(-50%);border:1px solid rgba(161,183,199,.2);
+    border-radius:16px;background:rgba(13,18,23,.93);
+    box-shadow:0 14px 42px rgba(0,0,0,.42),inset 0 1px rgba(255,255,255,.045);
+    backdrop-filter:blur(20px);-webkit-backdrop-filter:blur(20px);
+  }
+  .mobile-dock a{
+    display:flex;min-width:0;min-height:51px;flex-direction:column;align-items:center;justify-content:center;gap:3px;
+    border:1px solid transparent;border-radius:10px;color:#91a0ac;
+    font-size:.61rem;font-weight:850;line-height:1.1;text-decoration:none;
+    transition:background .16s,color .16s,border-color .16s;
+    -webkit-tap-highlight-color:transparent;
+  }
+  .mobile-dock a svg{width:18px;height:18px;fill:none;stroke:currentColor;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round}
+  .mobile-dock a[aria-current="location"]{
+    border-color:rgba(200,241,105,.25);background:rgba(200,241,105,.1);color:var(--lime);
+  }
+  .mobile-dock a:active{background:rgba(200,241,105,.15)}
   .ticker-bar{padding:6px 12px;gap:8px}
   #tickerUpdated{display:none}
   main.app-shell{grid-template-columns:minmax(0,1fr);grid-template-areas:"header" "market" "stock" "sidebar" "feed" "trend" "footer";width:calc(100% - 22px);padding:11px 0 28px;gap:10px}
@@ -440,6 +482,7 @@ footer{grid-area:footer;margin-top:1px;padding:14px 2px 0;border-top:1px solid #
 </style>
 </head>
 <body>
+<a class="skip-link" href="#marketOverview">ข้ามไปยังเนื้อหาหลัก</a>
 <section class="ticker-bar" aria-label="ราคาหุ้นในตลาด">
   <span class="ticker-label">MARKET TAPE</span>
   <div class="ticker-items" id="tickerItems" aria-live="polite">
@@ -667,6 +710,25 @@ footer{grid-area:footer;margin-top:1px;padding:14px 2px 0;border-top:1px solid #
 
   <footer>ข้อมูลราคาอาจล่าช้าหรือไม่ครบถ้วน · สรุปโดย AI อาจมีข้อผิดพลาด · ไม่ใช่คำแนะนำการลงทุน โปรดอ่านข่าวต้นฉบับก่อนตัดสินใจ</footer>
 </main>
+
+<nav class="mobile-dock" aria-label="เมนูทางลัดบนมือถือ">
+  <a href="#marketOverview">
+    <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 19V5M4 19h16"/><path d="m7 14 4-4 3 2 5-7"/></svg>
+    <span>ตลาด</span>
+  </a>
+  <a href="#stock-workspace">
+    <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 19V5M4 19h16"/><path d="m7 15 3-4 3 2 4-6"/></svg>
+    <span>หุ้น</span>
+  </a>
+  <a href="#newsDashboard">
+    <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 3h9l4 4v14H6z"/><path d="M15 3v5h5M9 12h7M9 16h7"/></svg>
+    <span>ข่าว</span>
+  </a>
+  <a href="#watchlistTitle">
+    <svg viewBox="0 0 24 24" aria-hidden="true"><path d="m12 3 2.8 5.7 6.2.9-4.5 4.4 1.1 6.2-5.6-3-5.6 3 1.1-6.2L3 9.6l6.2-.9z"/></svg>
+    <span>ติดตาม</span>
+  </a>
+</nav>
 
 <div id="toast" class="toast" role="status" aria-live="polite"></div>
 
@@ -1772,6 +1834,32 @@ document.getElementById("closeDialog").onclick = () => document.getElementById("
 document.getElementById("newsDialog").addEventListener("click", event => {
   if (event.target === event.currentTarget) event.currentTarget.close();
 });
+
+
+// Keep the desktop navigation and mobile dock in sync with the visible section.
+(function initSectionNavigation(){
+  const links = Array.from(document.querySelectorAll(".market-nav a, .mobile-dock a"));
+  const setCurrent = id => {
+    links.forEach(link => {
+      if (link.hash === "#" + id) link.setAttribute("aria-current", "location");
+      else link.removeAttribute("aria-current");
+    });
+  };
+  links.forEach(link => link.addEventListener("click", () => setCurrent(link.hash.slice(1))));
+  if ("IntersectionObserver" in window) {
+    const sectionIds = ["marketOverview", "stock-workspace", "newsDashboard"];
+    const sections = sectionIds.map(id => document.getElementById(id)).filter(Boolean);
+    const observer = new IntersectionObserver(entries => {
+      const visible = entries.filter(entry => entry.isIntersecting);
+      if (!visible.length) return;
+      visible.sort((a, b) =>
+        Math.abs(a.boundingClientRect.top - 120) - Math.abs(b.boundingClientRect.top - 120)
+      );
+      setCurrent(visible[0].target.id);
+    }, { rootMargin: "-12% 0px -68% 0px", threshold: [0, 0.1, 0.25, 0.5] });
+    sections.forEach(section => observer.observe(section));
+  }
+})();
 </script>
 </body>
 </html>
