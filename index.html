@@ -1774,7 +1774,7 @@ function render() {
       </article>`;
   }).join("") || '<div class="empty-state">ยังไม่มีข่าวในเงื่อนไขที่คุณเลือก</div>';
   if (items.length > visibleItems.length) {
-    list.insertAdjacentHTML("beforeend", \`<div class="load-more-wrap"><button id="loadMoreNews" class="load-more-button" type="button">โหลดข่าวเพิ่มเติม · เหลือ \${items.length-visibleItems.length} รายการ</button></div>\`);
+    list.insertAdjacentHTML("beforeend", `<div class="load-more-wrap"><button id="loadMoreNews" class="load-more-button" type="button">โหลดข่าวเพิ่มเติม · เหลือ ${items.length-visibleItems.length} รายการ</button></div>`);
   }
   const moreButton = document.getElementById("loadMoreNews");
   if (moreButton) moreButton.onclick = () => {visibleNewsLimit += 24;render();};
@@ -1877,7 +1877,7 @@ function showNews(item) {
   document.getElementById("dialogTitle").textContent = item.title || "ข่าว";
   const summarySource = item.summary_source === "gemini" ? "สรุปโดย Gemini AI"
     : item.summary_source === "headline_fallback" ? "ข้อมูลสำรองจากพาดหัวต้นฉบับ" : "แหล่งสรุปไม่ระบุ";
-  document.getElementById("dialogMeta").textContent = \`\${item.ticker} · \${formatNewsDate(item.published)} · \${summarySource}\`;
+  document.getElementById("dialogMeta").textContent = `${item.ticker} · ${formatNewsDate(item.published)} · ${summarySource}`;
   document.getElementById("dialogSummary").textContent = item.summary_th || "ยังไม่มีสรุปภาษาไทยจากฟีดข่าวนี้";
   const analysisSource = item.analysis_source === "gemini" ? "Gemini AI"
     : item.analysis_source === "fallback" ? "ข้อมูลสำรองจากพาดหัว" : "ยังไม่ระบุแหล่งวิเคราะห์";
@@ -1888,14 +1888,14 @@ function showNews(item) {
   const note = personalNotes[item.link] || {};
   document.getElementById("personalNote").value = note.text || "";
   document.getElementById("targetPrice").value = Number.isFinite(note.targetPrice) ? note.targetPrice : "";
-  document.getElementById("noteStatus").textContent = note.updatedAt ? \`บันทึกล่าสุด \${new Date(note.updatedAt).toLocaleString("th-TH")}\` : "";
+  document.getElementById("noteStatus").textContent = note.updatedAt ? `บันทึกล่าสุด ${new Date(note.updatedAt).toLocaleString("th-TH")}` : "";
   const originalUrl = safeHttpUrl(item.link);
   const originalLink = document.getElementById("originalNews");
   const translateLink = document.getElementById("translateNews");
   if (originalUrl) {
     originalLink.href = originalUrl;
     originalLink.removeAttribute("aria-disabled");
-    translateLink.href = \`https://translate.google.com/translate?sl=auto&tl=th&u=\${encodeURIComponent(originalUrl)}\`;
+    translateLink.href = `https://translate.google.com/translate?sl=auto&tl=th&u=${encodeURIComponent(originalUrl)}`;
   } else {
     originalLink.removeAttribute("href");
     originalLink.setAttribute("aria-disabled", "true");
