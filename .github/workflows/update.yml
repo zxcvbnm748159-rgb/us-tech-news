@@ -1,6 +1,13 @@
 name: Update news
 
 on:
+  push:
+    branches:
+      - main
+    paths:
+      - "scripts/fetch_news.py"
+      - "requirements.txt"
+      - ".github/workflows/update.yml"
   schedule:
     - cron: "*/15 * * * *"    # ตรวจข่าวและแจ้งเตือนทุก 15 นาที (เวลา UTC)
     - cron: "0 */3 * * *"     # สร้างสรุปตลาดทุก 3 ชั่วโมง (เวลา UTC)
