@@ -39,9 +39,17 @@ jobs:
           git config user.email "bot@users.noreply.github.com"
           git add data/market_prices.json
           git diff --staged --quiet || git commit -m "update market prices"
-          git fetch origin main
-          git rebase origin/main
-          git push origin HEAD:main
+          for attempt in 1 2 3 4 5; do
+            git fetch origin main
+            git rebase origin/main
+            if git push origin HEAD:main; then
+              exit 0
+            fi
+            echo "Push attempt $attempt failed; retrying after backoff..."
+            sleep $((attempt * 5))
+          done
+          echo "Unable to publish data after 5 attempts"
+          exit 1
       - name: Notify Telegram on failure
         if: failure()
         uses: ./.github/actions/notify-telegram
