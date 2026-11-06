@@ -1,14 +1,14 @@
 {
   "date": "2026-11-05",
-  "score": 59,
-  "label": "Mixed",
+  "score": 60,
+  "label": "Bullish",
   "counts": {
-    "positive": 60,
-    "negative": 41,
-    "neutral": 134
+    "positive": 63,
+    "negative": 42,
+    "neutral": 138
   },
-  "total": 235,
-  "updated_at": "2026-11-06T01:19:13.681801+00:00",
+  "total": 243,
+  "updated_at": "2026-11-06T02:41:35.240908+00:00",
   "articles": [
     {
       "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-earnings-trends-highlights-nvidia-071000049.html?.tsrc=rss",
@@ -949,6 +949,38 @@
     {
       "link": "https://finance.yahoo.com/markets/stocks/articles/ibm-ibm-stock-could-trade-220946495.html?.tsrc=rss",
       "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/05/should-you-buy-nvidia-stock-before-nov-17/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/u-stock-futures-rise-ai-013807565.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/11/05/cathie-wood-sells-12-8-million-of-alphabet-days-after-the-stock-suffered-its-worst-day-since-its-2004-ipo-losing-nearly-half-a-trillion-dollars-in-market-value/?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/real-estate/articles/chatham-lodging-trust-cldt-q3-011124012.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/elon-musks-spacex-could-build-003006299.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/purple-innovation-inc-prpl-q3-010759073.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/broadcom-avgo-stock-could-37-021738809.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/intel-intc-brings-hardware-backed-022104103.html?.tsrc=rss",
+      "sentiment": "positive"
     }
   ]
 }

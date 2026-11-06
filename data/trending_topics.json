@@ -1,7 +1,7 @@
 {
   "date": "2026-11-05",
   "window_days": 7,
-  "source_count": 1402,
+  "source_count": 1410,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 196,
+      "count": 198,
       "kind": "ticker"
     },
     {
@@ -21,7 +21,7 @@
         "revenue guidance",
         "profit forecast"
       ],
-      "count": 169,
+      "count": 171,
       "kind": "topic"
     },
     {
@@ -30,7 +30,7 @@
       "search_terms": [
         "GOOGL"
       ],
-      "count": 143,
+      "count": 146,
       "kind": "ticker"
     },
     {
@@ -48,7 +48,7 @@
       "search_terms": [
         "AMZN"
       ],
-      "count": 104,
+      "count": 105,
       "kind": "ticker"
     },
     {
@@ -75,7 +75,7 @@
       "search_terms": [
         "INTC"
       ],
-      "count": 81,
+      "count": 82,
       "kind": "ticker"
     },
     {
@@ -115,7 +115,7 @@
       "kind": "ticker"
     }
   ],
-  "updated_at": "2026-11-06T01:19:13.716423+00:00",
+  "updated_at": "2026-11-06T02:41:35.285824+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -18342,6 +18342,110 @@
       "impact_direction": "neutral",
       "sentiment": "neutral",
       "fetched_at": "2026-11-06T01:19:13.450863+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Should You Buy Nvidia Stock Before Nov. 17?",
+      "link": "https://www.fool.com/investing/2026/11/05/should-you-buy-nvidia-stock-before-nov-17/?.tsrc=rss",
+      "published": "Fri, 06 Nov 2026 02:20:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-11-06T02:41:32.373910+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "U.S. stock futures rise after AI rout batters Wall St; payrolls data in focus",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/u-stock-futures-rise-ai-013807565.html?.tsrc=rss",
+      "published": "Fri, 06 Nov 2026 01:38:07 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-11-06T02:41:32.373971+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Cathie Wood Sells $12.8 Million Of Alphabet, Days After The Stock Suffered Its Worst Day Since Its 2004 IPO, Losing Nearly Half A Trillion Dollars In Market Value",
+      "link": "https://247wallst.com/investing/2026/11/05/cathie-wood-sells-12-8-million-of-alphabet-days-after-the-stock-suffered-its-worst-day-since-its-2004-ipo-losing-nearly-half-a-trillion-dollars-in-market-value/?.tsrc=rss",
+      "published": "Fri, 06 Nov 2026 01:20:15 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "fetched_at": "2026-11-06T02:41:32.889702+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Chatham Lodging Trust (CLDT) (Q3 2026) Earnings Call Highlights: Silicon Valley Surge Drives ...",
+      "link": "https://finance.yahoo.com/real-estate/articles/chatham-lodging-trust-cldt-q3-011124012.html?.tsrc=rss",
+      "published": "Fri, 06 Nov 2026 01:11:24 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-11-06T02:41:32.889766+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Elon Musk's SpaceX Could Build More Data Center Capacity in 18 Months Than Google Did in 27 Years, Says SemiAnalysis",
+      "link": "https://finance.yahoo.com/technology/ai/articles/elon-musks-spacex-could-build-003006299.html?.tsrc=rss",
+      "published": "Fri, 06 Nov 2026 00:30:06 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-11-06T02:41:32.889816+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Purple Innovation Inc (PRPL) Q3 2026 Earnings Call Highlights: Cash Flow Turns Positive as ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/purple-innovation-inc-prpl-q3-010759073.html?.tsrc=rss",
+      "published": "Fri, 06 Nov 2026 01:07:59 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-11-06T02:41:33.039924+00:00"
+    },
+    {
+      "ticker": "AVGO",
+      "title": "Broadcom (AVGO) Stock Could Be 37% Undervalued Despite Fresh AI Demand News",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/broadcom-avgo-stock-could-37-021738809.html?.tsrc=rss",
+      "published": "Fri, 06 Nov 2026 02:17:38 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "fetched_at": "2026-11-06T02:41:33.686023+00:00"
+    },
+    {
+      "ticker": "INTC",
+      "title": "Intel (INTC) Brings Hardware Backed Security To EdgeAI And Sharpens Xeon AI Case",
+      "link": "https://finance.yahoo.com/technology/ai/articles/intel-intc-brings-hardware-backed-022104103.html?.tsrc=rss",
+      "published": "Fri, 06 Nov 2026 02:21:04 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "fetched_at": "2026-11-06T02:41:34.326455+00:00"
     }
   ]
 }
