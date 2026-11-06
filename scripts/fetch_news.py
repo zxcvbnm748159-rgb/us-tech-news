@@ -25,7 +25,7 @@ MARKET_PRICES_FILE = "data/market_prices.json"
 STOCK_ANALYSIS_FILE = "data/stock_analysis.json"
 MAX_KEEP = 300
 MAX_TRANSLATE = 15
-MODEL = os.environ.get("GEMINI_MODEL", "gemini-2.5-flash-lite")
+MODEL = os.environ.get("GEMINI_MODEL", "gemini-3.5-flash-lite")
 EASTERN = ZoneInfo("America/New_York")
 TRENDING_TERMS = {
     "AI Chip": (r"\b(?:AI chips?|GPU|accelerators?|semiconductors?)\b",
