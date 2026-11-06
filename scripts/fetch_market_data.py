@@ -51,7 +51,7 @@ def downsample_history(history, max_points=360):
     """Keep a bounded chart payload while preserving each bucket's local highs and lows."""
     if not isinstance(history, list) or len(history) <= max_points or max_points < 3:
         return history
-    bucket_count = max(1, max_points // 2)
+    bucket_count = max(1, (max_points - 2) // 2)
     bucket_width = len(history) / bucket_count
     selected = {0, len(history) - 1}
 
