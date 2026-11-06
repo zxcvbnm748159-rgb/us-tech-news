@@ -89,6 +89,9 @@ class MarketDataTests(unittest.TestCase):
         self.assertEqual(fetch_market_data.downsample_history(history, 100), history)
 
 
+    def test_news_and_market_data_cover_the_same_stock_universe(self):
+        self.assertEqual(set(fetch_news.TICKERS), set(fetch_market_data.TICKERS))
+
 class NewsAlertTests(unittest.TestCase):
     def test_stock_analysis_filters_48_hours_and_writes_frontend_schema_on_cold_start(self):
         now = datetime(2026, 10, 16, 12, tzinfo=timezone.utc)
