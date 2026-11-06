@@ -1,6 +1,13 @@
 name: Update market prices
 
 on:
+  push:
+    branches:
+      - main
+    paths:
+      - "scripts/fetch_market_data.py"
+      - "requirements.txt"
+      - ".github/workflows/update-market-prices.yml"
   schedule:
     - cron: "*/15 * * * *"
   workflow_dispatch:
