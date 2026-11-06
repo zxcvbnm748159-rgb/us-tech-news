@@ -1,14 +1,14 @@
 {
   "date": "2026-11-06",
-  "score": 60,
+  "score": 64,
   "label": "Bullish",
   "counts": {
-    "positive": 6,
+    "positive": 7,
     "negative": 4,
     "neutral": 8
   },
-  "total": 18,
-  "updated_at": "2026-11-06T09:53:02.602661+00:00",
+  "total": 19,
+  "updated_at": "2026-11-06T10:16:12.145027+00:00",
   "articles": [
     {
       "link": "https://www.fool.com/investing/2026/11/06/fed-chair-kevin-warsh-planning-fed-policy-change/?.tsrc=rss",
@@ -81,6 +81,10 @@
     {
       "link": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-qcom-stock-price-slides-081137207.html?.tsrc=rss",
       "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/06/dividend-yield-energy-transfer-stock-buy-growth/?.tsrc=rss",
+      "sentiment": "positive"
     }
   ]
 }

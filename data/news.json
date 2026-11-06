@@ -1,6 +1,32 @@
 [
   {
     "ticker": "NVDA",
+    "title": "With a Nearly 7% Yield, Is Energy Transfer Stock a Buy as It Looks to Turbocharge Growth?",
+    "link": "https://www.fool.com/investing/2026/11/06/dividend-yield-energy-transfer-stock-buy-growth/?.tsrc=rss",
+    "published": "Fri, 06 Nov 2026 09:50:00 +0000",
+    "summary_th": "",
+    "category": "General",
+    "ai_analysis": "",
+    "impact_level": "low",
+    "impact_direction": "neutral",
+    "sentiment": "positive",
+    "fetched_at": "2026-11-06T10:16:09.834635+00:00"
+  },
+  {
+    "ticker": "AMZN",
+    "title": "Affirm delivers quarterly results beat, but shares fall on GMV guide",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/affirm-delivers-quarterly-results-guidance-215510525.html?.tsrc=rss",
+    "published": "Thu, 05 Nov 2026 21:55:10 +0000",
+    "summary_th": "",
+    "category": "General",
+    "ai_analysis": "",
+    "impact_level": "low",
+    "impact_direction": "neutral",
+    "sentiment": "positive",
+    "fetched_at": "2026-11-06T10:16:10.323776+00:00"
+  },
+  {
+    "ticker": "NVDA",
     "title": "Fed Chair Kevin Warsh Is Planning to Break 45 Years of Precedent With a Stunning Change to Monetary Policy -- It Could Rattle Wall Street for Years to Come",
     "link": "https://www.fool.com/investing/2026/11/06/fed-chair-kevin-warsh-planning-fed-policy-change/?.tsrc=rss",
     "published": "Fri, 06 Nov 2026 09:35:00 +0000",
@@ -3872,31 +3898,5 @@
     "impact_direction": "neutral",
     "sentiment": "neutral",
     "fetched_at": "2026-11-05T01:14:51.310965+00:00"
-  },
-  {
-    "ticker": "AAPL",
-    "title": "Apple’s Siri AI Could Become a Paid Upgrade — CEO John Ternus Reveals Plans to Charge for More Server-Side Apple Intelligence Usage",
-    "link": "https://finance.yahoo.com/technology/ai/articles/apple-siri-ai-could-become-213018500.html?.tsrc=rss",
-    "published": "Wed, 04 Nov 2026 21:30:18 +0000",
-    "summary_th": "",
-    "category": "General",
-    "ai_analysis": "",
-    "impact_level": "low",
-    "impact_direction": "neutral",
-    "sentiment": "positive",
-    "fetched_at": "2026-11-05T01:14:51.311046+00:00"
-  },
-  {
-    "ticker": "AAPL",
-    "title": "The Apple Supply Chain Faces Its Biggest Test Yet",
-    "link": "https://finance.yahoo.com/m/bc49a9ba-6921-3e49-8174-aed50fc0fcf9/the-apple-supply-chain-faces.html?.tsrc=rss",
-    "published": "Wed, 04 Nov 2026 21:10:00 +0000",
-    "summary_th": "",
-    "category": "General",
-    "ai_analysis": "",
-    "impact_level": "low",
-    "impact_direction": "neutral",
-    "sentiment": "neutral",
-    "fetched_at": "2026-11-05T01:14:51.311075+00:00"
   }
 ]
