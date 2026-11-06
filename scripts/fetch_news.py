@@ -15,7 +15,7 @@ from google.genai import types
 TICKERS = [
     "NVDA", "AAPL", "MSFT", "GOOGL", "AMZN", "META", "TSLA", "AMD",
     "AVGO", "ORCL", "CRM", "NFLX", "INTC", "QCOM", "PLTR", "SMCI",
-    "IBM", "ADBE", "TSM",
+    "IBM", "ADBE", "TSM", "GCTK", "QUCY", "ONDS", "SNDK",
 ]
 DATA_FILE = "data/news.json"
 SUMMARY_FILE = "data/market_summary.json"
