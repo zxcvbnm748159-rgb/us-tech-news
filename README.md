@@ -173,3 +173,7 @@ Workflow อัปเดตข่าวและราคาเรียกช�
 * **Disclaimer:** ข้อมูล ข่าวสาร และการวิเคราะห์โดย AI บนเว็บไซต์นี้จัดทำเพื่อการศึกษาและให้ข้อมูลเท่านั้น **ไม่ถือเป็นคำแนะนำทางการลงทุน (Not Financial Advice)** โปรดตรวจสอบข้อมูลจากแหล่งข่าวต้นฉบับก่อนตัดสินใจลงทุนทุกครั้ง
 
 ---
+
+### Stock analysis freshness
+
+When the market-price workflow updates quotes, it also regenerates the 23-stock analysis using the newly fetched prices and the latest news file before publishing both datasets together. This keeps daily percentage changes and AI analysis aligned to the same data cycle.
