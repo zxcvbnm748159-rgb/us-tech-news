@@ -173,7 +173,9 @@ class NewsAlertTests(unittest.TestCase):
         })
         self.assertIn("New AI chip announced", prompts[0])
         self.assertNotIn("Old headline", prompts[0])
-        self.assertIn('"change_percent": null', prompts[0])
+        self.assertNotIn('"change_percent"', prompts[0])
+        self.assertIn("ห้ามระบุราคาหุ้น", prompts[0])
+        self.assertIn("วิเคราะห์บริบทธุรกิจ", prompts[0])
 
     def test_headline_fallback_is_transparent_and_does_not_claim_ai_analysis(self):
         item = {
@@ -450,6 +452,41 @@ class StockAnalysisRefreshTests(unittest.TestCase):
             news_path.write_text('{"not":"an array"}', encoding="utf-8")
             with self.assertRaises(ValueError):
                 refresh_stock_analysis.refresh_stock_analysis(news_path)
+
+
+class AIPromptSeparationTests(unittest.TestCase):
+    def test_stock_analysis_prompt_uses_news_without_quote_percentages(self):
+        now = datetime(2026, 11, 6, 20, tzinfo=timezone.utc)
+        items = [{
+            "ticker": "NVDA",
+            "title": "AI accelerator demand grows",
+            "summary_th": "ความต้องการชิป AI เพิ่มขึ้น",
+            "published": "",
+            "fetched_at": (now - timedelta(hours=1)).isoformat(),
+        }]
+        response = SimpleNamespace(text=json.dumps({
+            "stocks": [{"ticker":"NVDA","summary":"ความต้องการชิป AI เป็นประเด็นสำคัญ","analysis_points":["ติดตามกำลังการผลิต"]}],
+        }))
+        client = SimpleNamespace(models=SimpleNamespace(generate_content=lambda **kwargs: (
+            self.assertNotIn("change_percent", kwargs["contents"]),
+            self.assertIn("ห้ามระบุราคาหุ้น", kwargs["contents"]),
+            response,
+        )[-1]))
+        with tempfile.TemporaryDirectory() as directory:
+            prices_path = Path(directory) / "market_prices.json"
+            prices_path.write_text(json.dumps({
+                "quotes":[{"symbol":"NVDA","change_percent":527.32}]
+            }), encoding="utf-8")
+            output = Path(directory) / "stock_analysis.json"
+            with patch.dict(os.environ, {"GEMINI_API_KEY":"test-key"}, clear=True):
+                with patch.object(fetch_news.genai,"Client",return_value=client):
+                    with patch.object(fetch_news,"MARKET_PRICES_FILE",str(prices_path)):
+                        with patch.object(fetch_news,"STOCK_ANALYSIS_FILE",str(output)):
+                            fetch_news.generate_stock_analysis(items,now)
+            result=json.loads(output.read_text(encoding="utf-8"))
+
+        self.assertEqual(result[0]["analysis_source"],"gemini")
+        self.assertIn("ความต้องการชิป AI",result[0]["summary"])
 
 
 class PipelineReliabilityTests(unittest.TestCase):
