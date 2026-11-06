@@ -14,7 +14,7 @@
   --line:#283542;--line2:rgba(175,194,211,.13);
   --text:#f1f4f6;--muted:#8998a8;--muted2:#627181;
   --lime:#c8f169;--lime2:#a9d950;--blue:#83bfff;
-  --positive:#c8f169;--negative:#ff7187;--amber:#efc578;
+  --chart-line:#c8f169;--positive:#c8f169;--negative:#ff7187;--amber:#efc578;
   --radius:18px;--shadow:0 18px 50px rgba(0,0,0,.28);
 }
 *{box-sizing:border-box}
@@ -1131,7 +1131,7 @@ function renderStockChart() {
     container.className = "chart-empty";
     container.textContent = points.length === 1
       ? "มีข้อมูลราคาเพียงจุดเดียว ยังสร้างกราฟไม่ได้"
-      : \`ไม่มีข้อมูลกราฟช่วง \${selectedTimeframe}\`;
+      : "ไม่มีข้อมูลกราฟช่วง " + selectedTimeframe;
     return;
   }
   const sampled = points.length > 180
@@ -1142,53 +1142,58 @@ function renderStockChart() {
   const left = 18, right = 642, base = 150;
   const x = index => left + index / (sampled.length - 1) * (right - left);
   const y = price => base - (price - min) / span * 108;
-  const line = sampled.map((point, index) => \`\${index ? "L" : "M"}\${x(index).toFixed(1)},\${y(point.price).toFixed(1)}\`).join(" ");
-  const area = \`\${line} L\${right},\${base} L\${left},\${base} Z\`;
+  const line = sampled.map((point, index) =>
+    (index ? "L" : "M") + x(index).toFixed(1) + "," + y(point.price).toFixed(1)
+  ).join(" ");
+  const area = line + " L" + right + "," + base + " L" + left + "," + base + " Z";
   const volumes = sampled.slice(-48);
   const maxVolume = Math.max(1, ...volumes.map(point => Number.isFinite(point.volume) ? point.volume : 0));
+  const isUp = prices[prices.length - 1] >= prices[0];
+  const stroke = isUp ? "#c8f169" : "#ff7187";
   const volumeBars = volumes.map((point, index) => {
     const value = Number.isFinite(point.volume) ? point.volume : 0;
     const width = Math.max(1, 570 / volumes.length - 1.4);
     const height = value / maxVolume * 31;
-    return \`<rect class="chart-volume" x="\${(left + index * (570 / volumes.length)).toFixed(1)}"
-      y="\${(195 - height).toFixed(1)}" width="\${width.toFixed(1)}" height="\${height.toFixed(1)}" fill="var(--chart-line)"/>\`;
+    const barX = left + index * (570 / volumes.length);
+    return '<rect class="chart-volume" x="' + barX.toFixed(1) +
+      '" y="' + (195 - height).toFixed(1) +
+      '" width="' + width.toFixed(1) +
+      '" height="' + height.toFixed(1) +
+      '" fill="' + stroke + '"/>';
   }).join("");
-  const isUp = prices[prices.length - 1] >= prices[0];
-  const stroke = isUp ? "#c8f169" : "#ff7187";
   const currency = stock.currency || "USD";
   const lastX = x(sampled.length - 1).toFixed(1);
   const lastY = y(prices[prices.length - 1]).toFixed(1);
   container.className = "";
-  container.innerHTML = \`<svg class="price-chart" viewBox="0 0 660 218" preserveAspectRatio="none"
-    role="img" aria-label="\${selectedStock} \${selectedTimeframe} price and volume chart">
-    <defs>
-      <linearGradient id="atlasChartFill" x1="0" x2="0" y1="0" y2="1">
-        <stop offset="0%" stop-color="\${stroke}" stop-opacity=".24"/>
-        <stop offset="100%" stop-color="\${stroke}" stop-opacity="0"/>
-      </linearGradient>
-      <filter id="atlasChartGlow" x="-30%" y="-30%" width="160%" height="160%">
-        <feGaussianBlur stdDeviation="3" result="blur"/>
-        <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
-      </filter>
-    </defs>
-    <g stroke="#293743" stroke-width="1" stroke-dasharray="3 6">
-      <line x1="18" y1="26" x2="642" y2="26"/>
-      <line x1="18" y1="66" x2="642" y2="66"/>
-      <line x1="18" y1="106" x2="642" y2="106"/>
-      <line x1="18" y1="150" x2="642" y2="150"/>
-    </g>
-    \${volumeBars}
-    <path d="\${area}" fill="url(#atlasChartFill)"/>
-    <path d="\${line}" fill="none" stroke="\${stroke}" stroke-width="2.5" stroke-linecap="round"
-      stroke-linejoin="round" vector-effect="non-scaling-stroke" filter="url(#atlasChartGlow)"/>
-    <line x1="\${lastX}" y1="\${lastY}" x2="\${lastX}" y2="150" stroke="\${stroke}" stroke-opacity=".35" stroke-dasharray="3 4"/>
-    <circle cx="\${lastX}" cy="\${lastY}" r="4.5" fill="\${stroke}" stroke="#0d151c" stroke-width="2"/>
-    <text x="18" y="15" fill="#92a3af" font-size="10">\${formatStockCurrency(max, currency)}</text>
-    <text x="18" y="143" fill="#92a3af" font-size="10">\${formatStockCurrency(min, currency)}</text>
-    <text x="18" y="211" fill="#728493" font-size="9">PRICE</text>
-    <text x="74" y="211" fill="#728493" font-size="9">VOLUME</text>
-    <text x="642" y="211" text-anchor="end" fill="#728493" font-size="9">\${selectedTimeframe}</text>
-  </svg>\`;
+  container.innerHTML =
+    '<svg class="price-chart" viewBox="0 0 660 218" preserveAspectRatio="none" role="img" aria-label="' +
+      esc(selectedStock + " " + selectedTimeframe + " price and volume chart") + '">' +
+      '<defs>' +
+        '<linearGradient id="atlasChartFill" x1="0" x2="0" y1="0" y2="1">' +
+          '<stop offset="0%" stop-color="' + stroke + '" stop-opacity=".24"/>' +
+          '<stop offset="100%" stop-color="' + stroke + '" stop-opacity="0"/>' +
+        '</linearGradient>' +
+        '<filter id="atlasChartGlow" x="-30%" y="-30%" width="160%" height="160%">' +
+          '<feGaussianBlur stdDeviation="3" result="blur"/>' +
+          '<feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>' +
+        '</filter>' +
+      '</defs>' +
+      '<g stroke="#293743" stroke-width="1" stroke-dasharray="3 6">' +
+        '<line x1="18" y1="26" x2="642" y2="26"/>' +
+        '<line x1="18" y1="66" x2="642" y2="66"/>' +
+        '<line x1="18" y1="106" x2="642" y2="106"/>' +
+        '<line x1="18" y1="150" x2="642" y2="150"/>' +
+      '</g>' + volumeBars +
+      '<path d="' + area + '" fill="url(#atlasChartFill)"/>' +
+      '<path d="' + line + '" fill="none" stroke="' + stroke + '" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" vector-effect="non-scaling-stroke" filter="url(#atlasChartGlow)"/>' +
+      '<line x1="' + lastX + '" y1="' + lastY + '" x2="' + lastX + '" y2="150" stroke="' + stroke + '" stroke-opacity=".35" stroke-dasharray="3 4"/>' +
+      '<circle cx="' + lastX + '" cy="' + lastY + '" r="4.5" fill="' + stroke + '" stroke="#0d151c" stroke-width="2"/>' +
+      '<text x="18" y="15" fill="#92a3af" font-size="10">' + formatStockCurrency(max, currency) + '</text>' +
+      '<text x="18" y="143" fill="#92a3af" font-size="10">' + formatStockCurrency(min, currency) + '</text>' +
+      '<text x="18" y="211" fill="#728493" font-size="9">PRICE</text>' +
+      '<text x="74" y="211" fill="#728493" font-size="9">VOLUME</text>' +
+      '<text x="642" y="211" text-anchor="end" fill="#728493" font-size="9">' + selectedTimeframe + '</text>' +
+    '</svg>';
 }
 function metricValue(metrics, key, format, currency) {
   const value = metrics && metrics[key];
