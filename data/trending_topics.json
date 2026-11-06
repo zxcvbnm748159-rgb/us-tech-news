@@ -1,7 +1,7 @@
 {
   "date": "2026-11-06",
   "window_days": 7,
-  "source_count": 1368,
+  "source_count": 1369,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 192,
+      "count": 193,
       "kind": "ticker"
     },
     {
@@ -115,7 +115,7 @@
       "kind": "ticker"
     }
   ],
-  "updated_at": "2026-11-06T23:12:19.583584+00:00",
+  "updated_at": "2026-11-06T23:17:33.565495+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -17921,6 +17921,20 @@
       "sentiment": "negative",
       "sentiment_source": "headline_vader",
       "fetched_at": "2026-11-06T23:08:34.257224+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Cathie Wood buys $47 million of popular semiconductor stock",
+      "link": "https://www.thestreet.com/investing/stocks/cathie-wood-buys-47-million-of-popular-semiconductor-stock-nvidia-nvda?.tsrc=rss",
+      "published": "Fri, 06 Nov 2026 23:07:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-06T23:17:29.504878+00:00"
     }
   ]
 }

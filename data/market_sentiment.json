@@ -1,14 +1,14 @@
 {
   "date": "2026-11-06",
-  "score": 56,
+  "score": 57,
   "label": "Mixed",
   "counts": {
-    "positive": 45,
+    "positive": 46,
     "negative": 35,
     "neutral": 93
   },
-  "total": 173,
-  "updated_at": "2026-11-06T23:12:19.541034+00:00",
+  "total": 174,
+  "updated_at": "2026-11-06T23:17:33.528596+00:00",
   "articles": [
     {
       "link": "https://www.fool.com/investing/2026/11/06/fed-chair-kevin-warsh-planning-fed-policy-change/?.tsrc=rss",
@@ -701,6 +701,10 @@
     {
       "link": "https://finance.yahoo.com/markets/stocks/articles/sandisk-stocks-rebound-5-82-190538374.html?.tsrc=rss",
       "sentiment": "negative"
+    },
+    {
+      "link": "https://www.thestreet.com/investing/stocks/cathie-wood-buys-47-million-of-popular-semiconductor-stock-nvidia-nvda?.tsrc=rss",
+      "sentiment": "positive"
     }
   ]
 }
