@@ -101,24 +101,119 @@ def translate_and_analyze_batch(items):
             if isinstance(index, int) and not isinstance(index, bool) and 0 <= index < len(items):
                 if isinstance(row.get("summary_th"), str) and row["summary_th"].strip():
                     items[index]["summary_th"] = row["summary_th"].strip()
+                    items[index]["summary_source"] = "gemini"
                 category = row.get("category")
                 if isinstance(category, str) and category in {"AI", "Hardware", "Financial", "General"}:
                     items[index]["category"] = category
+                    items[index]["category_source"] = "gemini"
                 if isinstance(row.get("ai_analysis"), str) and row["ai_analysis"].strip():
                     items[index]["ai_analysis"] = row["ai_analysis"].strip()
+                    items[index]["analysis_source"] = "gemini"
                 impact_level = row.get("impact_level")
                 if isinstance(impact_level, str) and impact_level in {"high", "medium", "low"}:
                     items[index]["impact_level"] = impact_level
+                    items[index]["impact_source"] = "gemini"
                 impact_direction = row.get("impact_direction")
                 if isinstance(impact_direction, str) and impact_direction in {"positive", "negative", "neutral"}:
                     items[index]["impact_direction"] = impact_direction
+                    items[index]["impact_source"] = "gemini"
                 if isinstance(row.get("impact_reason"), str) and row["impact_reason"].strip():
                     items[index]["impact_reason"] = row["impact_reason"].strip()
+                    items[index]["impact_source"] = "gemini"
                 updated_count += 1
 
         print(f"AI fully analyzed {updated_count} of {len(items)} items")
     except Exception as ex:
         print("gemini analysis failed:", ex)
+
+
+def classify_headline_category(title):
+    text = (title or "").lower()
+    if re.search(r"\b(ai|artificial intelligence|machine learning|generative ai|llm|gpu|accelerator)\b", text):
+        return "AI"
+    if re.search(r"\b(chip|semiconductor|processor|hardware|device|memory|foundry|wafer)\b", text):
+        return "Hardware"
+    if re.search(r"\b(earnings|revenue|profit|quarter|guidance|forecast|analyst|stock|shares|valuation|investor|dividend)\b", text):
+        return "Financial"
+    return "General"
+
+
+CATEGORY_LABELS_TH = {
+    "AI": "ปัญญาประดิษฐ์",
+    "Hardware": "ฮาร์ดแวร์และเซมิคอนดักเตอร์",
+    "Financial": "การเงินและผลประกอบการ",
+    "General": "ข่าวทั่วไป",
+}
+
+
+def apply_headline_fallback(item):
+    """Fill missing fields without presenting title-based heuristics as AI analysis."""
+    ticker = item.get("ticker") if isinstance(item.get("ticker"), str) else "หุ้น"
+    title = item.get("title") if isinstance(item.get("title"), str) else ""
+    category = classify_headline_category(title)
+
+    if not item.get("category") or (
+        item.get("category") == "General" and item.get("category_source") not in {"gemini", "manual"}
+    ):
+        item["category"] = category
+        item["category_source"] = "headline_rule"
+
+    if not isinstance(item.get("summary_th"), str) or not item["summary_th"].strip():
+        item["summary_th"] = (
+            f"ข่าว {ticker} ในหมวด{CATEGORY_LABELS_TH[category]} "
+            f"อ้างอิงจากพาดหัวต้นฉบับ: {title or 'ไม่มีพาดหัวข่าว'}"
+        )
+        item["summary_source"] = "headline_fallback"
+
+    if not isinstance(item.get("ai_analysis"), str) or not item["ai_analysis"].strip():
+        item["ai_analysis"] = "\n".join([
+            "ยังไม่มีผลวิเคราะห์จาก Gemini AI สำหรับข่าวนี้",
+            f"พาดหัวที่ใช้ประกอบ: {title or 'ไม่มีพาดหัวข่าว'}",
+            "ข้อจำกัด: ระบบมีเพียงพาดหัวข่าว จึงยังยืนยันผลกระทบต่อธุรกิจหรือราคาหุ้นไม่ได้ โปรดอ่านข่าวต้นฉบับ",
+        ])
+        item["analysis_source"] = "fallback"
+
+    sentiment = item.get("sentiment")
+    if sentiment not in {"positive", "negative", "neutral"}:
+        sentiment = "neutral"
+        item["sentiment"] = sentiment
+    item.setdefault("sentiment_source", "headline_vader")
+
+    if item.get("impact_level") not in {"high", "medium", "low"}:
+        item["impact_level"] = "low"
+    if item.get("impact_direction") not in {"positive", "negative", "neutral"}:
+        item["impact_direction"] = sentiment
+    if not isinstance(item.get("impact_reason"), str) or not item["impact_reason"].strip():
+        item["impact_reason"] = (
+            "จัดหมวดเบื้องต้นจากพาดหัวและ sentiment เท่านั้น "
+            "ยังไม่ได้ตรวจสอบเนื้อหาข่าวฉบับเต็ม"
+        )
+    item.setdefault("impact_source", "headline_rule")
+    return item
+
+
+def build_rule_based_daily_summary(items, today):
+    counts = calculate_market_sentiment(items)["counts"]
+    total = len(items)
+    if not total:
+        return "\n".join([
+            "วันนี้ยังไม่พบข่าวใหม่ที่ยืนยันวันเผยแพร่ได้",
+            "ระบบจะแสดงข่าวล่าสุดเมื่อมีข้อมูลจากแหล่งข่าวเข้ามา",
+            "โปรดตรวจสอบข่าวต้นฉบับก่อนใช้ประกอบการตัดสินใจ",
+        ])
+
+    ticker_counts = {}
+    for item in items:
+        ticker = item.get("ticker")
+        if isinstance(ticker, str) and ticker:
+            ticker_counts[ticker] = ticker_counts.get(ticker, 0) + 1
+    leaders = sorted(ticker_counts.items(), key=lambda row: (-row[1], row[0]))[:3]
+    leaders_text = ", ".join(f"{ticker} ({count})" for ticker, count in leaders) or "ยังไม่มีข้อมูลรายหุ้น"
+    return "\n".join([
+        f"ภาพรวมวันที่ {today}: พบข่าว {total} รายการ — บวก {counts['positive']} · ลบ {counts['negative']} · กลาง {counts['neutral']}",
+        f"หุ้นที่มีพาดหัวข่าวมาก: {leaders_text}",
+        "ข้อควรระวัง: ตัวเลขนี้นับจาก sentiment ของพาดหัว ไม่ใช่ทิศทางราคา และยังไม่ใช่บทวิเคราะห์ AI",
+    ])
 
 
 def parse_news_datetime(item):
@@ -209,69 +304,67 @@ def update_daily_market_sentiment(new_items):
 
 
 def generate_daily_summary(items):
-    api_key = os.environ.get("GEMINI_API_KEY")
-    today = datetime.now(EASTERN).date()
+    now = datetime.now(timezone.utc)
+    today = now.astimezone(EASTERN).date()
     today_items = [
         item for item in items
         if (published := parse_news_datetime(item)) is not None
         and published.astimezone(EASTERN).date() == today
     ]
-    if not api_key:
-        print("skip daily summary (no GEMINI_API_KEY)")
-        return
-    if not today_items:
-        print("skip daily summary (no news published today)")
-        return
+    summary = build_rule_based_daily_summary(today_items, today.isoformat())
+    source = "rules"
+    api_key = os.environ.get("GEMINI_API_KEY")
 
-    headlines = [
-        f"[{item['ticker']}] ({item.get('sentiment', 'neutral')}) {item['title']}"
-        for item in today_items
-    ]
-    prompt = (
-        "สรุปภาวะตลาดหุ้นเทคโนโลยีสหรัฐวันนี้เป็นภาษาไทยให้สั้นพออ่านจบใน 10 วินาที "
-        "เขียน summary_th เป็นข้อความ 3 บรรทัดพอดี (คั่นแต่ละบรรทัดด้วย newline): "
-        "บรรทัด 1 ระบุภาพรวม/ทิศทางจาก sentiment ข่าว, บรรทัด 2 ระบุหุ้นหรือประเด็นเด่น, "
-        "บรรทัด 3 ระบุความเสี่ยง/สิ่งที่ต้องติดตาม "
-        "อย่ากล่าวอ้างว่าราคาตลาดขึ้นลงจริงถ้าไม่มีข้อมูลราคา และอย่าคาดเดานอกเหนือจากหัวข้อข่าว "
-        "ตอบเป็น JSON object ที่มี key summary_th เท่านั้น\n\n"
-        + "\n".join(headlines)
-    )
-
-    try:
-        client = genai.Client(api_key=api_key)
-        response = client.models.generate_content(
-            model=MODEL,
-            contents=prompt,
-            config=types.GenerateContentConfig(response_mime_type="application/json"),
+    if api_key and today_items:
+        headlines = [
+            f"[{item.get('ticker', 'N/A')}] ({item.get('sentiment', 'neutral')}) {item.get('title', '')}"
+            for item in today_items
+        ]
+        prompt = (
+            "สรุปภาวะตลาดหุ้นเทคโนโลยีสหรัฐวันนี้เป็นภาษาไทยให้สั้นพออ่านจบใน 10 วินาที "
+            "เขียน summary_th เป็นข้อความ 3 บรรทัดพอดี: ภาพรวมจากจำนวนข่าวและ sentiment, "
+            "หุ้น/ประเด็นที่เด่นจากหัวข้อ, และความเสี่ยงที่ควรตรวจสอบ "
+            "ห้ามกล่าวอ้างว่าราคาตลาดขึ้นลงจริงหากไม่มีข้อมูลราคา ห้ามเดาสาเหตุจากพาดหัว "
+            "ตอบเป็น JSON object ที่มี key summary_th เท่านั้น\n\n"
+            + "\n".join(headlines)
         )
-        result = json.loads(response.text)
-        summary = result.get("summary_th") if isinstance(result, dict) else None
-        if not isinstance(summary, str) or not summary.strip():
-            raise ValueError("Gemini daily summary must contain non-empty summary_th")
-        summary_lines = [line.strip() for line in summary.splitlines() if line.strip()]
-        if len(summary_lines) != 3:
-            raise ValueError("Gemini daily summary must contain exactly three non-empty lines")
-        summary = "\n".join(summary_lines)
+        try:
+            client = genai.Client(api_key=api_key)
+            response = client.models.generate_content(
+                model=MODEL,
+                contents=prompt,
+                config=types.GenerateContentConfig(response_mime_type="application/json"),
+            )
+            result = json.loads(response.text)
+            candidate = result.get("summary_th") if isinstance(result, dict) else None
+            summary_lines = [
+                line.strip() for line in candidate.splitlines()
+                if isinstance(candidate, str) and line.strip()
+            ] if isinstance(candidate, str) else []
+            if len(summary_lines) == 3:
+                summary = "\n".join(summary_lines)
+                source = "gemini"
+            else:
+                print("Gemini daily summary returned an invalid format; using rule-based summary")
+        except Exception as ex:
+            print("Gemini daily summary failed; using rule-based summary:", ex)
+    elif not api_key:
+        print("GEMINI_API_KEY unavailable; publishing transparent rule-based daily summary")
+    else:
+        print("no news published today; publishing an explicit no-news summary")
 
-        os.makedirs("data", exist_ok=True)
-        with open(SUMMARY_FILE, "w", encoding="utf-8") as f:
-            json.dump({
-                "date": today.isoformat(),
-                "summary_th": summary.strip(),
-                "source_count": len(today_items),
-                "updated_at": datetime.now(timezone.utc).isoformat(),
-            }, f, ensure_ascii=False, indent=2)
-        print(f"generated daily summary from {len(today_items)} articles")
-    except Exception as ex:
-        print("Gemini daily summary failed:", ex)
-
+    os.makedirs("data", exist_ok=True)
+    with open(SUMMARY_FILE, "w", encoding="utf-8") as f:
+        json.dump({
+            "date": today.isoformat(),
+            "summary_th": summary,
+            "source_count": len(today_items),
+            "source": source,
+            "updated_at": now.isoformat(),
+        }, f, ensure_ascii=False, indent=2)
+    print(f"published {source} daily summary from {len(today_items)} articles")
 
 def generate_stock_analysis(items, now=None):
-    api_key = os.environ.get("GEMINI_API_KEY")
-    if not api_key:
-        print("skip stock analysis (no GEMINI_API_KEY)")
-        return
-
     now = now or datetime.now(timezone.utc)
     cutoff = now - timedelta(hours=48)
     articles_by_ticker = {ticker: [] for ticker in TICKERS}
@@ -284,11 +377,9 @@ def generate_stock_analysis(items, now=None):
         published = parse_news_datetime(item)
         if published is None or not cutoff <= published.astimezone(timezone.utc) <= now:
             continue
-        title = item.get("title")
-        summary = item.get("summary_th")
         articles_by_ticker[ticker].append({
-            "title": title if isinstance(title, str) else "",
-            "summary_th": summary if isinstance(summary, str) else "",
+            "title": item.get("title", "") if isinstance(item.get("title"), str) else "",
+            "summary_th": item.get("summary_th", "") if isinstance(item.get("summary_th"), str) else "",
             "published": published.isoformat(),
         })
 
@@ -311,79 +402,99 @@ def generate_stock_analysis(items, now=None):
     except (OSError, ValueError, json.JSONDecodeError) as ex:
         print(f"stock analysis could not read market prices: {ex}")
 
+    active_tickers = [
+        ticker for ticker in TICKERS
+        if articles_by_ticker[ticker] or ticker in quotes_by_ticker
+    ]
+    stocks = {}
     context = []
-    for ticker in TICKERS:
+    for ticker in active_tickers:
+        articles = articles_by_ticker[ticker][:3]
         quote = quotes_by_ticker.get(ticker, {})
         change_percent = quote.get("change_percent")
+        if isinstance(change_percent, (int, float)) and not isinstance(change_percent, bool):
+            price_context = f"การเปลี่ยนแปลงจากราคาปิดก่อนหน้า {change_percent:+.2f}%"
+        else:
+            price_context = "ไม่มีข้อมูลเปอร์เซ็นต์การเปลี่ยนแปลงราคา"
+        if articles:
+            latest_title = articles[0]["title"] or "ไม่มีพาดหัวข่าว"
+            fallback_summary = (
+                f"{ticker} มีข่าวที่เกี่ยวข้อง {len(articles_by_ticker[ticker])} รายการในช่วง 48 ชั่วโมงล่าสุด "
+                f"พาดหัวล่าสุด: {latest_title} ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น"
+            )
+            points = [
+                f"พาดหัวล่าสุด: {latest_title}",
+                price_context,
+                "ควรอ่านเนื้อหาต้นฉบับและตรวจสอบตัวเลขก่อนสรุปผลกระทบ",
+            ]
+        else:
+            fallback_summary = f"{ticker}: ยังไม่พบข่าวที่เกี่ยวข้องในช่วง 48 ชั่วโมงล่าสุด · {price_context}"
+            points = [price_context, "ยังไม่มีหลักฐานข่าวเพียงพอสำหรับอธิบายการเคลื่อนไหว"]
+        stocks[ticker] = {
+            "ticker": ticker,
+            "last_updated": now.isoformat(),
+            "summary": fallback_summary,
+            "analysis_points": points[:3],
+            "analysis_source": "rules",
+        }
         context.append({
             "ticker": ticker,
             "change_percent": change_percent
             if isinstance(change_percent, (int, float)) and not isinstance(change_percent, bool)
             else None,
-            "headlines": articles_by_ticker[ticker][:3],
+            "headlines": articles,
         })
 
-    prompt = (
-        "คุณคือนักวิเคราะห์หุ้นเทคโนโลยีสหรัฐ "
-        "สรุปเป็นภาษาไทยให้แต่ละหุ้นจากข้อมูลการเปลี่ยนแปลงราคาและข่าวที่ให้เท่านั้น\n"
-        "อธิบายเหตุผลของการขึ้นลงวันนี้เมื่อมีหลักฐานจากข่าว "
-        "ห้ามอ้างว่าข่าวเป็นสาเหตุแน่นอน และห้ามคาดเดาเมื่อไม่มีข้อมูลรองรับ "
-        "กรณีไม่มีข่าวที่เกี่ยวข้อง ให้ระบุชัดเจนว่ายังไม่พบข่าวที่อธิบายการเคลื่อนไหว "
-        "ตอบเป็น JSON object ที่มี key stocks เป็น array โดยแต่ละรายการมี ticker, "
-        "summary (1-2 ประโยคกระชับ) และ analysis_points "
-        "(array ของประเด็นข่าวสั้นๆ ภาษาไทย)\n"
-        "รูปแบบตัวอย่าง: "
-        '{"stocks":[{"ticker":"NVDA","summary":"...","analysis_points":["..."]}]}\n\n'
-        f"วันที่อ้างอิง (America/New_York): {now.astimezone(EASTERN).date().isoformat()}\n"
-        f"ข้อมูลหุ้น: {json.dumps(context, ensure_ascii=False)}"
-    )
-
-    try:
-        client = genai.Client(api_key=api_key)
-        response = client.models.generate_content(
-            model=MODEL,
-            contents=prompt,
-            config=types.GenerateContentConfig(response_mime_type="application/json"),
+    api_key = os.environ.get("GEMINI_API_KEY")
+    if api_key and context:
+        prompt = (
+            "คุณคือนักวิเคราะห์หุ้นเทคโนโลยีสหรัฐ สรุปเป็นภาษาไทยโดยใช้เฉพาะข้อมูลราคาและข่าวที่ให้ "
+            "ห้ามอ้างว่าข่าวเป็นสาเหตุแน่นอน ห้ามคาดเดาเมื่อไม่มีข้อมูลรองรับ "
+            "หากไม่มีข่าวให้บอกว่ายังไม่มีหลักฐานข่าวเพียงพอ "
+            "ตอบเป็น JSON object ที่มี key stocks เป็น array โดยแต่ละรายการมี ticker, summary และ analysis_points "
+            "(ไม่เกิน 3 ข้อ)\\n"
+            f"วันที่อ้างอิง (America/New_York): {now.astimezone(EASTERN).date().isoformat()}\\n"
+            f"ข้อมูลหุ้น: {json.dumps(context, ensure_ascii=False)}"
         )
-        result = json.loads(response.text)
-    except Exception as ex:
-        print("Gemini stock analysis failed:", ex)
-        return
-
-    rows = result.get("stocks") if isinstance(result, dict) else None
-    if not isinstance(rows, list):
-        print("Gemini stock analysis failed: response must contain a stocks array")
-        return
-
-    stocks = {}
-    for row in rows:
-        if not isinstance(row, dict):
-            continue
-        ticker = row.get("ticker")
-        summary = row.get("summary")
-        if (
-            not isinstance(ticker, str)
-            or ticker not in articles_by_ticker
-            or not isinstance(summary, str)
-            or not summary.strip()
-        ):
-            continue
-        points = row.get("analysis_points")
-        stocks[ticker] = {
-            "ticker": ticker,
-            "last_updated": now.isoformat(),
-            "summary": summary.strip(),
-            "analysis_points": [
-                point.strip() for point in points
-                if isinstance(point, str) and point.strip()
-            ][:3] if isinstance(points, list) else [],
-        }
+        try:
+            client = genai.Client(api_key=api_key)
+            response = client.models.generate_content(
+                model=MODEL,
+                contents=prompt,
+                config=types.GenerateContentConfig(response_mime_type="application/json"),
+            )
+            result = json.loads(response.text)
+            rows = result.get("stocks") if isinstance(result, dict) else None
+            if isinstance(rows, list):
+                for row in rows:
+                    if not isinstance(row, dict):
+                        continue
+                    ticker = row.get("ticker")
+                    summary = row.get("summary")
+                    if ticker not in stocks or not isinstance(summary, str) or not summary.strip():
+                        continue
+                    points = row.get("analysis_points")
+                    stocks[ticker] = {
+                        "ticker": ticker,
+                        "last_updated": now.isoformat(),
+                        "summary": summary.strip(),
+                        "analysis_points": [
+                            point.strip() for point in points
+                            if isinstance(point, str) and point.strip()
+                        ][:3] if isinstance(points, list) else [],
+                        "analysis_source": "gemini",
+                    }
+            else:
+                print("Gemini stock analysis returned invalid format; keeping rule-based analysis")
+        except Exception as ex:
+            print("Gemini stock analysis failed; keeping rule-based analysis:", ex)
+    elif not api_key:
+        print("GEMINI_API_KEY unavailable; publishing transparent rule-based stock analysis")
 
     os.makedirs("data", exist_ok=True)
     with open(STOCK_ANALYSIS_FILE, "w", encoding="utf-8") as f:
-        json.dump(list(stocks.values()), f, ensure_ascii=False, indent=2)
-    print(f"generated AI analysis for {len(stocks)} of {len(TICKERS)} stocks")
-
+        json.dump([stocks[ticker] for ticker in TICKERS if ticker in stocks], f, ensure_ascii=False, indent=2)
+    print(f"published stock analysis for {len(stocks)} of {len(TICKERS)} tracked stocks")
 
 def build_trending_topics(articles, now=None):
     now = now or datetime.now(timezone.utc)
@@ -519,7 +630,12 @@ def notify_high_impact(items):
 
 def main():
     existing = load_existing()
-    seen = {item["link"] for item in existing}
+    if not isinstance(existing, list):
+        raise ValueError(f"{DATA_FILE} must contain a JSON array; refusing to overwrite invalid data")
+    seen = {
+        item.get("link") for item in existing
+        if isinstance(item, dict) and isinstance(item.get("link"), str)
+    }
     added = []
     for ticker in TICKERS:
         url = f"https://feeds.finance.yahoo.com/rss/2.0/headline?s={ticker}&region=US&lang=en-US"
@@ -541,6 +657,7 @@ def main():
                 "impact_level": "low",
                 "impact_direction": "neutral",
                 "sentiment": get_sentiment(title),
+                "sentiment_source": "headline_vader",
                 "fetched_at": datetime.now(timezone.utc).isoformat(),
             })
 
@@ -548,8 +665,13 @@ def main():
 
     update_daily_market_sentiment(added)
     update_trending_topics(added)
-    todo = [item for item in all_items if not item.get("ai_analysis")][:MAX_TRANSLATE]
+    todo = [
+        item for item in all_items
+        if item.get("analysis_source") != "gemini" or item.get("summary_source") != "gemini"
+    ][:MAX_TRANSLATE]
     translate_and_analyze_batch(todo)
+    for item in all_items:
+        apply_headline_fallback(item)
     if added or os.environ.get("GENERATE_DAILY_SUMMARY", "true").lower() == "true":
         generate_stock_analysis(all_items)
     else:
