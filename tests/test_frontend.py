@@ -72,6 +72,14 @@ class FrontendContractTests(unittest.TestCase):
             with self.subTest(target=target):
                 self.assertIn(target, ids, f"Navigation target #{target} does not exist")
 
+    def test_mobile_command_dock_and_skip_link_are_present(self):
+        self.assertIn('<nav class="mobile-dock"', self.html)
+        self.assertIn('class="skip-link"', self.html)
+        self.assertIn('aria-label="เมนูทางลัดบนมือถือ"', self.html)
+        for target in ("marketOverview", "stock-workspace", "newsDashboard", "watchlistTitle"):
+            with self.subTest(target=target):
+                self.assertIn(f'href="#{target}"', self.html)
+
     def test_responsive_and_accessibility_styles_are_present(self):
         compact_html = self.html.replace(" ", "")
         for breakpoint in ("1100px", "760px", "560px"):
