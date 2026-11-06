@@ -1,7 +1,7 @@
 {
   "date": "2026-11-06",
   "window_days": 7,
-  "source_count": 1347,
+  "source_count": 1368,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 187,
+      "count": 192,
       "kind": "ticker"
     },
     {
@@ -21,7 +21,7 @@
         "revenue guidance",
         "profit forecast"
       ],
-      "count": 156,
+      "count": 161,
       "kind": "topic"
     },
     {
@@ -30,7 +30,7 @@
       "search_terms": [
         "GOOGL"
       ],
-      "count": 129,
+      "count": 130,
       "kind": "ticker"
     },
     {
@@ -43,6 +43,15 @@
       "kind": "ticker"
     },
     {
+      "label": "AMD",
+      "query": "AMD",
+      "search_terms": [
+        "AMD"
+      ],
+      "count": 96,
+      "kind": "ticker"
+    },
+    {
       "label": "AMZN",
       "query": "AMZN",
       "search_terms": [
@@ -52,21 +61,12 @@
       "kind": "ticker"
     },
     {
-      "label": "AMD",
-      "query": "AMD",
-      "search_terms": [
-        "AMD"
-      ],
-      "count": 94,
-      "kind": "ticker"
-    },
-    {
       "label": "MSFT",
       "query": "MSFT",
       "search_terms": [
         "MSFT"
       ],
-      "count": 85,
+      "count": 86,
       "kind": "ticker"
     },
     {
@@ -75,7 +75,7 @@
       "search_terms": [
         "TSLA"
       ],
-      "count": 82,
+      "count": 83,
       "kind": "ticker"
     },
     {
@@ -93,7 +93,7 @@
       "search_terms": [
         "META"
       ],
-      "count": 71,
+      "count": 72,
       "kind": "ticker"
     },
     {
@@ -115,7 +115,7 @@
       "kind": "ticker"
     }
   ],
-  "updated_at": "2026-11-06T22:04:32.227356+00:00",
+  "updated_at": "2026-11-06T23:08:34.299247+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -17627,6 +17627,300 @@
       "impact_direction": "neutral",
       "sentiment": "positive",
       "fetched_at": "2026-11-06T22:04:32.186039+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Chip rally may be time for investors to 'harvest cash and wait'",
+      "link": "https://finance.yahoo.com/video/chip-rally-may-be-time-for-investors-to-harvest-cash-and-wait-221657650.html?.tsrc=rss",
+      "published": "Fri, 06 Nov 2026 22:16:57 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-06T23:08:31.088996+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Starwood Property Trust, Inc. Q3 2026 Earnings Call Summary",
+      "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-starwood-property-trust-inc-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+      "published": "Fri, 06 Nov 2026 22:05:41 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-06T23:08:31.089072+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Vistra Corp. Q3 2026 Earnings Call Summary",
+      "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-vistra-corp-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+      "published": "Fri, 06 Nov 2026 22:05:01 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-06T23:08:31.089126+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Global Partners LP Q3 2026 Earnings Call Summary",
+      "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-global-partners-lp-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+      "published": "Fri, 06 Nov 2026 22:01:17 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-06T23:08:31.089153+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Nvidia Stock, Other AI Names Rebound After Sell-Off",
+      "link": "https://finance.yahoo.com/m/870e9d6a-dbbb-3380-9680-17f32e5017a1/nvidia-stock%2C-other-ai-names.html?.tsrc=rss",
+      "published": "Fri, 06 Nov 2026 22:00:32 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-06T23:08:31.089183+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "A Retiree Who Bought 1,000 Oracle Shares at $39 Just Watched Microsoft Walk Away",
+      "link": "https://247wallst.com/investing/2026/11/06/a-retiree-who-bought-1000-oracle-shares-at-39-just-watched-microsoft-walk-away/?.tsrc=rss",
+      "published": "Fri, 06 Nov 2026 22:48:41 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-06T23:08:31.372966+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "What Black Hills (BKH) Said on Its Q3 Earnings Call",
+      "link": "https://www.marketbeat.com/instant-alerts/transcript-what-black-hills-bkh-said-on-its-q3-earnings-call-2026-11-06/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+      "published": "Fri, 06 Nov 2026 22:14:35 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-06T23:08:31.507507+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "Meta Pauses Data-Scraping Terms Following Publisher Criticism",
+      "link": "https://www.mediapost.com/publications/article/419294/meta-pauses-data-scraping-terms-following-publishe.html?.tsrc=rss",
+      "published": "Fri, 06 Nov 2026 22:29:34 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-06T23:08:31.802831+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Elon Musk announces Tesla will wind down Cybertruck production at Texas factory to make room for Cybercab",
+      "link": "https://finance.yahoo.com/technology/articles/elon-musk-announces-tesla-wind-220000200.html?.tsrc=rss",
+      "published": "Fri, 06 Nov 2026 22:00:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-06T23:08:31.931902+00:00"
+    },
+    {
+      "ticker": "AMD",
+      "title": "Stock Market Today, Nov. 6: AMD Surges 11% on Record Quarterly Revenue and Stronger Growth Outlook",
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/11/06/stock-market-today-nov-6-amd-surges-11-on-record-quarterly-revenue-and-stronger-growth-outlook/?.tsrc=rss",
+      "published": "Fri, 06 Nov 2026 22:25:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-06T23:08:32.081625+00:00"
+    },
+    {
+      "ticker": "AMD",
+      "title": "Why Did International Business Machines (IBM) Move Today?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-did-international-business-machines-221303478.html?.tsrc=rss",
+      "published": "Fri, 06 Nov 2026 22:13:03 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-06T23:08:32.081684+00:00"
+    },
+    {
+      "ticker": "QUCY",
+      "title": "Quantum Cyber Publishes Investor Explanatory Materials on Its Quantum Antenna Technology, Including Technical Summary and Companion Video",
+      "link": "https://finance.yahoo.com/technology/ai/articles/quantum-cyber-publishes-investor-explanatory-123000985.html?.tsrc=rss",
+      "published": "Mon, 02 Nov 2026 12:30:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-06T23:08:33.967798+00:00"
+    },
+    {
+      "ticker": "ONDS",
+      "title": "Ondas to Report Q3 Earnings: Can Orders and Acquisitions Fuel Growth?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ondas-report-q3-earnings-orders-145600138.html?.tsrc=rss",
+      "published": "Fri, 06 Nov 2026 14:56:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-06T23:08:34.112475+00:00"
+    },
+    {
+      "ticker": "ONDS",
+      "title": "Ondas Just Dropped 38% in a Month: Is ONDS Stock a Falling Knife or Poised for a Comeback?",
+      "link": "https://247wallst.com/investing/2026/11/05/ondas-just-dropped-38-in-a-month-is-onds-stock-a-falling-knife-or-poised-for-a-comeback/?.tsrc=rss",
+      "published": "Thu, 05 Nov 2026 19:56:54 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-06T23:08:34.112571+00:00"
+    },
+    {
+      "ticker": "ONDS",
+      "title": "Ondas Plans Significant U.S. Manufacturing Expansion to Scale Low-Cost ULTRA ISR Aircraft Production, Targeting 10 Aircraft per Month by 2028",
+      "link": "https://finance.yahoo.com/technology/articles/ondas-plans-significant-u-manufacturing-133000945.html?.tsrc=rss",
+      "published": "Thu, 05 Nov 2026 13:30:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-06T23:08:34.112636+00:00"
+    },
+    {
+      "ticker": "ONDS",
+      "title": "Ondas (ONDS) Wins Counter UAS Deals Following A Narrative That Says It Looks Undervalued",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ondas-onds-wins-counter-uas-020918944.html?.tsrc=rss",
+      "published": "Thu, 05 Nov 2026 02:09:18 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-06T23:08:34.112682+00:00"
+    },
+    {
+      "ticker": "ONDS",
+      "title": "Ondas Secures Multi-Million-Dollar Counter-UAS Contracts in Europe and Asia, Accelerating Global Expansion in Aerial Defense",
+      "link": "https://finance.yahoo.com/technology/articles/ondas-secures-multi-million-dollar-133000962.html?.tsrc=rss",
+      "published": "Wed, 04 Nov 2026 13:30:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-06T23:08:34.112747+00:00"
+    },
+    {
+      "ticker": "SNDK",
+      "title": "The Chip Stock Bloodbath Is a Case Study in the Risks of Leveraged ETFs",
+      "link": "https://finance.yahoo.com/m/e1cc3675-f7f1-37df-be78-62a32fbe2487/the-chip-stock-bloodbath-is-a.html?.tsrc=rss",
+      "published": "Fri, 06 Nov 2026 21:28:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-06T23:08:34.257011+00:00"
+    },
+    {
+      "ticker": "SNDK",
+      "title": "Sandisk Stock Has Lost About 64% Since June. Here's the Price at Which I'd Buy It.",
+      "link": "https://www.fool.com/investing/2026/11/06/sandisk-stock-has-lost-about-64-since-june-here-s-the-price-at-which-i-d-buy-it/?.tsrc=rss",
+      "published": "Fri, 06 Nov 2026 21:07:19 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-06T23:08:34.257110+00:00"
+    },
+    {
+      "ticker": "SNDK",
+      "title": "Sandisk Stock is Falling Sharply. Here's the Price at Which I'd Buy.",
+      "link": "https://www.fool.com/investing/2026/11/06/sandisk-stock-is-falling-sharply-heres-the-price-a/?.tsrc=rss",
+      "published": "Fri, 06 Nov 2026 19:15:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-06T23:08:34.257168+00:00"
+    },
+    {
+      "ticker": "SNDK",
+      "title": "SanDisk Stocks Rebound 5.82% After 22% Crash as 8-for-1 Split Nears",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sandisk-stocks-rebound-5-82-190538374.html?.tsrc=rss",
+      "published": "Fri, 06 Nov 2026 19:05:38 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-06T23:08:34.257224+00:00"
     }
   ]
 }
