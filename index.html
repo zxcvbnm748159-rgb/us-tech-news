@@ -1723,7 +1723,7 @@ function render() {
     if (newsSort === "negative") return Number(b.sentiment === "negative") - Number(a.sentiment === "negative") || newsTime(b) - newsTime(a);
     return newsTime(b) - newsTime(a);
   });
-  const filterSignature = JSON.stringify([currentTicker,currentCategory,currentGroup,currentTheme,searchQuery,topicSearchTerms,sentimentFilter,viewMode,newsSort,portfolioTickers,savedBookmarks,Object.keys(personalNotes)]);
+  const filterSignature = JSON.stringify([currentTicker,currentCategory,currentGroup,currentTheme,searchQuery,topicSearchTerms,sentimentFilter,viewMode,newsSort,portfolioTickers]);
   if (filterSignature !== lastNewsFilterSignature) {visibleNewsLimit = 24;lastNewsFilterSignature = filterSignature;}
   const visibleItems = items.slice(0, visibleNewsLimit);
 
@@ -1756,7 +1756,7 @@ function render() {
             ${categoryName}
             <span class="sentiment ${esc(n.sentiment)}">${SENT[n.sentiment] || ""}</span>
             ${n.impact_level && n.impact_level !== "low" ? `<span class="impact-tag impact-${esc(String(n.impact_level).toLowerCase())}">${String(n.impact_level).toLowerCase() === "high" ? "ผลกระทบสูง" : "ผลกระทบปานกลาง"}</span>` : ""}
-            <time datetime="${esc(n.published)}">${esc(formatNewsDate(n.published))}</time>
+            <time>${esc(formatNewsDate(n.published))}</time>
           </div>
           <div class="card-actions">
             <button class="bookmark-btn ${isBookmarked ? 'bookmarked' : ''}" type="button" title="บันทึกข่าวนี้" aria-label="${isBookmarked ? 'นำข่าวออกจากรายการบันทึก' : 'บันทึกข่าวนี้'}">
