@@ -1,14 +1,14 @@
 {
   "date": "2026-11-06",
-  "score": 57,
+  "score": 55,
   "label": "Mixed",
   "counts": {
-    "positive": 24,
-    "negative": 18,
-    "neutral": 47
+    "positive": 32,
+    "negative": 26,
+    "neutral": 62
   },
-  "total": 89,
-  "updated_at": "2026-11-06T17:01:55.519680+00:00",
+  "total": 120,
+  "updated_at": "2026-11-06T18:46:10.360894+00:00",
   "articles": [
     {
       "link": "https://www.fool.com/investing/2026/11/06/fed-chair-kevin-warsh-planning-fed-policy-change/?.tsrc=rss",
@@ -365,6 +365,130 @@
     {
       "link": "https://finance.yahoo.com/technology/ai/articles/tsmc-rises-report-potential-push-151300006.html?.tsrc=rss",
       "sentiment": "positive"
+    },
+    {
+      "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-calumet-inc-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-brookdale-senior-living-inc-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-koppers-holdings-inc-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-brookfield-asset-management-ltd-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-under-armour-inc-q2-2027-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.tikr.com/blog/apple-is-the-anti-ai-large-cap-tech-trade-says-josh-brown-now-its-capping-ai-spending?ref=yahoofinance&tlnk=yf-261106-5rx9fr6v&.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/articles/apple-meta-musk-face-threat-172226280.html?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/apple-stocks-edge-lower-7-170806326.html?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/oracle-falls-4-microsoft-reportedly-181718577.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.tikr.com/blog/qualcomm-rises-5-on-alphabets-548-million-stake-as-ceo-sees-a-disconnect-on-ai?ref=yahoofinance&tlnk=yf-261106-3hf3776h&.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/video/were-rapidly-moving-toward-a-tragedy-why-an-ai-slowdown-could-be-a-good-thing-181553831.html?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-airsculpt-technologies-inc-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/articles/walmart-drone-delivery-nationwide-zipline-162027655.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/11/06/if-meta-reaches-700-your-1000-investment-would-be-worth-this-much/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/06aa7a72-3f3b-3740-ba90-e5a9da6f4d4f/musk-kills-tesla-cybertruck..html?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.tikr.com/blog/tesla-rebounds-5-as-musk-ends-cybertruck-to-make-room-for-increased-cybercab-production?ref=yahoofinance&tlnk=yf-261106-69vjr5x9&.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-stocks-rise-3-musk-170929676.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/11/06/nio-climbs-6-tesla-and-lucid-rise-5-as-ev-stocks-rebound-from-election-sell-off/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.tikr.com/blog/bloom-energy-rises-2-amd-up-8-as-ai-stocks-rebound-from-midterm-rout?ref=yahoofinance&tlnk=yf-261106-qv7xx7qr&.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.thestreet.com/markets/amd-nvidia-and-intel-diverge-as-morningstar-resets-the-scorecard?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/13933ac1-ca44-3c66-87e0-08f5c6b276e8/nvidia%2C-intel%2C-tesla%2C-amd%2C.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/options/articles/michael-burry-takes-profits-major-171655168.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/cathie-wood-picks-side-ai-181257136.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/articles/qualcomm-faces-worst-day-since-181632192.html?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/articles/does-qualcomm-qcom-winning-nationwide-181422645.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-technologies-inc-pltr-delivered-173014252.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/06/the-biggest-takeaway-from-palantir-technologies-latest-quarterly-report-is-a-potential-warning-sign-investors-shouldn-t-miss/?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/11/06/super-micro-computer-and-dell-climb-6-hewlett-packard-enterprise-gains-2-as-ai-server-stocks-rebound-from-election-sell-off/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.barchart.com/story/news/8698103/2-red-flags-supermicro-investors-shouldnt-ignore-after-earnings?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/06/tsmc-makes-the-chips-for-both-nvidia-and-amd-heres/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/11/06/forget-nvidia-heres-the-company-behind-the-chips/?.tsrc=rss",
+      "sentiment": "negative"
     }
   ]
 }
