@@ -449,6 +449,8 @@ class PipelineReliabilityTests(unittest.TestCase):
                 self.assertIn("git fetch origin main", content)
                 self.assertIn("git rebase origin/main", content)
                 self.assertIn("git push origin HEAD:main", content)
+                self.assertIn("for attempt in 1 2 3 4 5", content)
+                self.assertIn("sleep $((attempt * 5))", content)
 
 
 if __name__ == "__main__":
