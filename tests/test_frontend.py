@@ -62,6 +62,27 @@ class FrontendContractTests(unittest.TestCase):
 
         self.assertEqual(result.returncode, 0, result.stderr)
 
+    def test_navigation_targets_exist_and_ids_are_unique(self):
+        ids = re.findall(r'\\bid=["\\']([^"\\']+)["\\']', self.html)
+        self.assertEqual(len(ids), len(set(ids)), "HTML contains duplicate id attributes")
+
+        targets = re.findall(r'href=["\\']#([^"\\']+)["\\']', self.html)
+        self.assertTrue(targets, "Expected in-page navigation links")
+        for target in targets:
+            with self.subTest(target=target):
+                self.assertIn(target, ids, f"Navigation target #{target} does not exist")
+
+    def test_responsive_and_accessibility_styles_are_present(self):
+        compact_html = self.html.replace(" ", "")
+        for breakpoint in ("1100px", "760px", "560px"):
+            with self.subTest(breakpoint=breakpoint):
+                self.assertIn(f"max-width:{breakpoint}", compact_html)
+
+        self.assertIn('name="viewport"', self.html)
+        self.assertIn('lang="th"', self.html)
+        self.assertIn("prefers-reduced-motion:reduce", compact_html)
+        self.assertIn(":focus-visible", self.html)
+
 
 if __name__ == "__main__":
     unittest.main()
