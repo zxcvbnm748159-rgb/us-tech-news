@@ -542,6 +542,89 @@
     .search-row input { grid-column:auto; }
   }
 
+
+  /* Usability polish: clearer hierarchy, calmer spacing, and more comfortable controls. */
+  html { scroll-behavior:smooth; scroll-padding-top:76px; }
+  body { line-height:1.55; }
+  main { width:min(100% - 56px, 1720px); }
+  .market-nav a { transition:all .18s ease; }
+  .market-nav a:focus-visible,.ticker-quote:focus-visible { outline:2px solid var(--accent); outline-offset:3px; }
+  .hero-grid { align-items:stretch; }
+  .hero-grid > div { min-width:0; }
+  .market-summary p,.sentiment-meter small { line-height:1.7; }
+  .stat { display:flex; flex-direction:column; justify-content:center; }
+  .stat-value { font-variant-numeric:tabular-nums; }
+  .dashboard-layout { gap:18px; }
+  .sidebar,.feed-panel,.trending-panel { min-width:0; }
+  .sidebar { scrollbar-gutter:stable; }
+  .feed-panel { padding:20px; }
+  .feed-heading { flex-wrap:wrap; }
+  .search-row { margin-top:12px; margin-bottom:20px; }
+  .search-row input,.search-row select,.stock-controls select,.portfolio-controls select,.watchlist-controls select {
+    min-width:0; transition:border-color .18s ease,box-shadow .18s ease;
+  }
+  .search-row input:focus,.search-row select:focus,.stock-controls select:focus,
+  .portfolio-controls select:focus,.watchlist-controls select:focus {
+    border-color:var(--accent); box-shadow:0 0 0 3px var(--accent-soft); outline:none;
+  }
+  .filters button,.group-filters button,.theme-filters button,.cat-btn,.watchlist-categories button {
+    transition:color .16s ease,background .16s ease,border-color .16s ease;
+  }
+  .filters button:hover,.group-filters button:hover,.theme-filters button:hover,
+  .cat-btn:hover,.watchlist-categories button:hover { border-color:rgba(112,165,255,.55); color:#dce9ff; }
+  .card { padding:17px 18px; margin-bottom:12px; }
+  .card h2 { margin:11px 0 7px; font-size:1.02rem; letter-spacing:-.012em; }
+  .card > p { margin:7px 0 0; color:#c0ccdc; line-height:1.75; }
+  .card .meta { font-size:.76rem; }
+  .card .story-title { text-align:left; }
+  .card-actions { flex-wrap:wrap; }
+  .trending-item { width:100%; text-align:left; cursor:pointer; }
+  .trending-item:hover { background:rgba(38,65,103,.45); }
+  .watchlist-row { min-height:42px; }
+  .watchlist-row:hover { background:rgba(70,125,210,.09); }
+  .stock-tabs { scrollbar-width:thin; }
+  .stock-tabs button { min-height:42px; }
+  .timeframes button { min-height:32px; }
+  .chart-wrap { overflow:hidden; }
+  .empty-state { padding:28px 16px; border:1px dashed var(--border); border-radius:12px; text-align:center; color:var(--muted); }
+  button:not(:disabled):hover { filter:brightness(1.08); }
+  button:disabled { filter:saturate(.45); }
+  footer { line-height:1.7; }
+  @media (max-width:1100px) {
+    main { width:min(100% - 40px, 980px); }
+    .dashboard-layout { grid-template-columns:minmax(210px,.72fr) minmax(0,1.8fr); }
+    .trending-panel { grid-column:1 / -1; }
+    .trending-panel .trending-list { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:9px; }
+  }
+  @media (max-width:760px) {
+    main { width:min(100% - 28px, 700px); }
+    .dashboard-layout { grid-template-columns:minmax(0,1fr); }
+    .sidebar { order:0; }
+    .feed-panel { order:1; padding:15px; }
+    .trending-panel { order:2; grid-column:auto; }
+    .trending-panel .trending-list { grid-template-columns:1fr; }
+    .sidebar .filters { flex-wrap:wrap; overflow:visible; }
+    .sidebar .filters button { flex:0 0 auto; }
+    .stock-workspace { scroll-margin-top:68px; }
+  }
+  @media (max-width:560px) {
+    html { scroll-padding-top:62px; }
+    main { width:calc(100% - 22px); }
+    .market-nav { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); width:100%; }
+    .market-nav a { justify-content:center; }
+    .ticker-bar { gap:8px; }
+    .ticker-items { gap:6px; }
+    .ticker-quote { padding:5px 7px; font-size:.74rem; }
+    .hero-overview { grid-template-columns:repeat(3,minmax(0,1fr)); }
+    .card { padding:14px 12px; }
+    .card .meta { gap:6px; }
+    .card h2 { font-size:.96rem; }
+    .stock-detail-head { align-items:stretch; }
+    .stock-detail-price { line-height:1.35; }
+    .journal-actions { flex-wrap:wrap; }
+    .dialog-actions { flex-wrap:wrap; gap:12px; }
+  }
+
 </style>
 </head>
 <body>
