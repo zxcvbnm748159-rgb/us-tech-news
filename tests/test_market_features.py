@@ -7,7 +7,7 @@ from pathlib import Path
 from types import SimpleNamespace
 from unittest.mock import patch
 
-from scripts import fetch_market_data, fetch_news
+from scripts import fetch_market_data, fetch_news, refresh_stock_analysis
 
 
 class MarketDataTests(unittest.TestCase):
@@ -432,9 +432,38 @@ class NewsAlertTests(unittest.TestCase):
 
 
 
+class StockAnalysisRefreshTests(unittest.TestCase):
+    def test_refresh_stock_analysis_loads_news_and_uses_latest_quotes(self):
+        items = [{"ticker": "NVDA", "title": "Latest chip news"}]
+        with tempfile.TemporaryDirectory() as directory:
+            news_path = Path(directory) / "news.json"
+            news_path.write_text(json.dumps(items), encoding="utf-8")
+            with patch.object(refresh_stock_analysis, "generate_stock_analysis") as generate:
+                count = refresh_stock_analysis.refresh_stock_analysis(news_path)
+
+        self.assertEqual(count, 1)
+        generate.assert_called_once_with(items)
+
+    def test_refresh_stock_analysis_rejects_invalid_news_payload(self):
+        with tempfile.TemporaryDirectory() as directory:
+            news_path = Path(directory) / "news.json"
+            news_path.write_text('{"not":"an array"}', encoding="utf-8")
+            with self.assertRaises(ValueError):
+                refresh_stock_analysis.refresh_stock_analysis(news_path)
+
+
 class PipelineReliabilityTests(unittest.TestCase):
     def test_default_gemini_model_targets_supported_flash_lite(self):
         self.assertEqual(fetch_news.MODEL, "gemini-3.5-flash-lite")
+
+    def test_market_workflow_refreshes_stock_analysis_after_fetching_quotes(self):
+        root = Path(__file__).resolve().parents[1]
+        content = (root / ".github" / "workflows" / "update-market-prices.yml").read_text(encoding="utf-8")
+        fetch_step = content.index("python scripts/fetch_market_data.py")
+        analysis_step = content.index("python scripts/refresh_stock_analysis.py")
+        self.assertLess(fetch_step, analysis_step)
+        self.assertIn("GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}", content)
+        self.assertIn("data/stock_analysis.json", content)
 
     def test_data_update_workflows_checkout_and_rebase_latest_main(self):
         root = Path(__file__).resolve().parents[1]
