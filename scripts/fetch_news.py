@@ -452,8 +452,8 @@ def generate_stock_analysis(items, now=None):
             "ห้ามอ้างว่าข่าวเป็นสาเหตุแน่นอน ห้ามคาดเดาเมื่อไม่มีข้อมูลรองรับ "
             "หากไม่มีข่าวให้บอกว่ายังไม่มีหลักฐานข่าวเพียงพอ "
             "ตอบเป็น JSON object ที่มี key stocks เป็น array โดยแต่ละรายการมี ticker, summary และ analysis_points "
-            "(ไม่เกิน 3 ข้อ)\\n"
-            f"วันที่อ้างอิง (America/New_York): {now.astimezone(EASTERN).date().isoformat()}\\n"
+            "(ไม่เกิน 3 ข้อ)\n"
+            f"วันที่อ้างอิง (America/New_York): {now.astimezone(EASTERN).date().isoformat()}\n"
             f"ข้อมูลหุ้น: {json.dumps(context, ensure_ascii=False)}"
         )
         try:
@@ -632,9 +632,10 @@ def main():
     existing = load_existing()
     if not isinstance(existing, list):
         raise ValueError(f"{DATA_FILE} must contain a JSON array; refusing to overwrite invalid data")
+    existing = [item for item in existing if isinstance(item, dict)]
     seen = {
         item.get("link") for item in existing
-        if isinstance(item, dict) and isinstance(item.get("link"), str)
+        if isinstance(item.get("link"), str)
     }
     added = []
     for ticker in TICKERS:
