@@ -398,5 +398,25 @@ class NewsAlertTests(unittest.TestCase):
         self.assertEqual(summary["source_count"], 1)
 
 
+
+class PipelineReliabilityTests(unittest.TestCase):
+    def test_default_gemini_model_targets_supported_flash_lite(self):
+        self.assertEqual(fetch_news.MODEL, "gemini-3.5-flash-lite")
+
+    def test_data_update_workflows_checkout_and_rebase_latest_main(self):
+        root = Path(__file__).resolve().parents[1]
+        workflow_paths = (
+            root / ".github" / "workflows" / "update.yml",
+            root / ".github" / "workflows" / "update-market-prices.yml",
+        )
+        for workflow_path in workflow_paths:
+            content = workflow_path.read_text(encoding="utf-8")
+            with self.subTest(workflow=workflow_path.name):
+                self.assertRegex(content, r"uses: actions/checkout@v4\s+with:\s+ref: main")
+                self.assertIn("git fetch origin main", content)
+                self.assertIn("git rebase origin/main", content)
+                self.assertIn("git push origin HEAD:main", content)
+
+
 if __name__ == "__main__":
     unittest.main()
