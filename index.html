@@ -289,6 +289,27 @@ header.app-header::after{display:none}
 .stock-related button{border:1px solid #354957;border-radius:99px;background:#192833;color:#b9d9f6;padding:5px 8px;font-size:.63rem}
 .stock-disclaimer{margin:10px 0 0;color:#718291;font-size:.6rem}
 
+/* Data freshness, refresh action, and scalable editorial feed */
+.feed-title-stack{min-width:0}
+.feed-meta-line{display:flex;flex-wrap:wrap;align-items:center;gap:9px;margin-top:3px}
+.feed-meta-line #newsCount{margin:0}
+#dataFreshness{color:#748594;font-size:.59rem;line-height:1.45}
+#dataFreshness.is-stale{color:#e3be7e}
+.refresh-button{flex:none;display:inline-flex;align-items:center;justify-content:center;gap:7px;min-height:36px;padding:7px 11px;border:1px solid #3a4b55;border-radius:9px;background:#17232a;color:#c5d3dc;font-size:.65rem;font-weight:900}
+.refresh-button:hover{border-color:#9ec95b;background:#1a281a;color:#d9f4a4}
+.refresh-button:disabled{cursor:wait;opacity:.68}
+.refresh-button .refresh-icon{font-size:1rem;line-height:1}
+.refresh-button.is-refreshing .refresh-icon{display:inline-block;animation:refresh-spin .85s linear infinite}
+@keyframes refresh-spin{to{transform:rotate(360deg)}}
+.source-tag{display:inline-flex;align-items:center;width:max-content;border:1px solid #405b3a;border-radius:6px;background:rgba(200,241,105,.08);color:#d0e9a5;padding:3px 6px;font-size:.54rem;font-weight:900}
+.source-tag.fallback{border-color:#66583b;background:rgba(239,197,120,.07);color:#e7c98e}
+.card-summary{margin-top:7px}.card-source{display:flex;align-items:center;gap:6px;margin-top:8px}
+.load-more-wrap{display:flex;justify-content:center;padding:10px 0 3px}
+.load-more-button{min-height:39px;padding:8px 15px;border:1px solid #566d42;border-radius:9px;background:#1b281b;color:#d9eeac;font-size:.68rem;font-weight:900}
+.load-more-button:hover{border-color:#b0dc67;background:#253522}
+#aiSourceLabel{margin-left:auto}
+@media(max-width:560px){.feed-heading{align-items:flex-start}.refresh-button{min-height:34px;padding:6px 8px}.feed-meta-line{gap:6px}}
+
 /* News feed */
 .dashboard-layout{display:contents}
 .feed-panel{grid-area:feed;padding:15px}
@@ -661,8 +682,11 @@ footer{grid-area:footer;margin-top:1px;padding:14px 2px 0;border-top:1px solid #
   <div class="dashboard-layout">
     <section class="feed-panel" id="newsDashboard" aria-labelledby="feedTitle">
       <div class="feed-heading">
-        <h2 id="feedTitle">ข่าวล่าสุด / TECHNOLOGY NEWS</h2>
-        <p id="newsCount" aria-live="polite"></p>
+        <div class="feed-title-stack">
+          <h2 id="feedTitle">ข่าวล่าสุด / TECHNOLOGY NEWS</h2>
+          <div class="feed-meta-line"><p id="newsCount" aria-live="polite"></p><span id="dataFreshness" aria-live="polite">กำลังตรวจสอบเวลาอัปเดต...</span></div>
+        </div>
+        <button id="refreshData" class="refresh-button" type="button" aria-label="รีเฟรชข้อมูลข่าวและตลาด"><span class="refresh-icon" aria-hidden="true">↻</span><span>รีเฟรช</span></button>
       </div>
       <div class="search-row">
         <input id="newsSearch" type="search" placeholder="ค้นหาหุ้นหรือหัวข้อข่าว..." aria-label="ค้นหาหุ้นหรือหัวข้อข่าว">
@@ -742,7 +766,8 @@ footer{grid-area:footer;margin-top:1px;padding:14px 2px 0;border-top:1px solid #
   <p id="dialogSummary"></p>
   <div class="ai-box">
     <div class="ai-box-header">
-      <h3>วิเคราะห์เจาะลึกโดย Gemini AI</h3>
+      <h3>วิเคราะห์ข่าวและผลกระทบ</h3>
+      <span id="aiSourceLabel" class="source-tag fallback">ข้อมูลสำรอง</span>
       <button id="copyAiBtn" class="copy-ai-btn" type="button">คัดลอกผลวิเคราะห์</button>
     </div>
     <div id="aiResultContent" style="margin-top:10px;line-height:1.7">กำลังโหลดผลวิเคราะห์...</div>
@@ -799,7 +824,8 @@ let portfolioTickers = [];
 let trendingTopics = [];
 let topicSearchTerms = null;
 let newsLoaded = false;
-let marketData = { stocks: {}, quotes: [] };
+let marketData = { stocks: {}, quotes: [], updated_at: null };
+let visibleNewsLimit = 24, lastNewsFilterSignature = "", refreshingDashboard = false, lastDashboardRefreshAt = 0;
 let stockAnalyses = {};
 let selectedStock = "NVDA";
 let selectedTimeframe = "1D";
@@ -935,18 +961,20 @@ document.getElementById("watchlistPicker").addEventListener("change", event => {
   if (event.target.value) selectStock(event.target.value);
 });
 
-loadMarketData();
-loadStockAnalysis();
-loadDailySummary();
-loadDailySentiment();
-loadTrendingTopics();
+refreshDashboardData({ silent: true });
 buildPortfolioPicker();
 renderPortfolioHoldings();
 buildWatchlistPicker();
 renderWatchlist();
 renderStockWorkspace();
-loadNews();
+document.getElementById("refreshData").onclick = () => refreshDashboardData();
 window.setInterval(loadMarketData, 60_000);
+window.setInterval(() => {
+  if (document.visibilityState === "visible") refreshDashboardData({ silent: true });
+}, 15 * 60 * 1000);
+document.addEventListener("visibilitychange", () => {
+  if (document.visibilityState === "visible" && Date.now() - lastDashboardRefreshAt > 3 * 60 * 1000) refreshDashboardData({ silent: true });
+});
 window.setInterval(() => {
   loadNews();
   loadStockAnalysis();
@@ -954,6 +982,43 @@ window.setInterval(() => {
   loadDailySummary();
   loadDailySentiment();
 }, 15 * 60_000);
+
+function formatNewsDate(value) {
+  if (!value) return "ไม่ระบุเวลา";
+  const date = new Date(value);
+  if (Number.isNaN(date.getTime())) return String(value);
+  return new Intl.DateTimeFormat("th-TH", {day:"numeric",month:"short",year:"numeric",hour:"2-digit",minute:"2-digit",timeZone:"Asia/Bangkok"}).format(date);
+}
+function updateDataFreshness() {
+  const target = document.getElementById("dataFreshness");
+  if (!target) return;
+  const newsTimes = news.map(item => Date.parse(item.fetched_at || "")).filter(Number.isFinite);
+  const newestNews = newsTimes.length ? Math.max(...newsTimes) : null;
+  const marketTime = Date.parse(marketData.updated_at || "");
+  const parts = [];
+  if (newestNews !== null) parts.push("ข่าว " + formatNewsDate(newestNews));
+  if (Number.isFinite(marketTime)) parts.push("ราคา " + formatNewsDate(marketTime));
+  target.textContent = parts.length ? "อัปเดตล่าสุด · " + parts.join(" | ") : "ยังไม่มีเวลาอัปเดตจากแหล่งข้อมูล";
+  const newest = Math.max(newestNews || 0, Number.isFinite(marketTime) ? marketTime : 0);
+  target.classList.toggle("is-stale", newest > 0 && Date.now() - newest > 3600000);
+}
+async function refreshDashboardData(options = {}) {
+  const silent = Boolean(options.silent);
+  if (refreshingDashboard) return;
+  refreshingDashboard = true;
+  const button = document.getElementById("refreshData");
+  const label = button && button.querySelector("span:last-child");
+  if (button) {button.disabled = true;button.classList.add("is-refreshing");if(label && !silent) label.textContent = "กำลังรีเฟรช";}
+  try {
+    await Promise.all([loadNews(),loadMarketData(),loadStockAnalysis(),loadDailySummary(),loadTrendingTopics(),loadDailySentiment()]);
+    lastDashboardRefreshAt = Date.now();
+    if (!silent) showToast("โหลดข้อมูลล่าสุดจากระบบแล้ว");
+  } finally {
+    refreshingDashboard = false;
+    if (button) {button.disabled = false;button.classList.remove("is-refreshing");if(label) label.textContent = "รีเฟรช";}
+    updateDataFreshness();
+  }
+}
 
 async function loadNews() {
   try {
@@ -963,6 +1028,7 @@ async function loadNews() {
     if (!Array.isArray(data)) throw new Error("ข้อมูลต้องเป็นอาเรย์");
     news = data.filter(item => item && typeof item === "object" && typeof item.ticker === "string" && typeof item.title === "string");
     newsLoaded = true;
+    updateDataFreshness();
     buildStockPicker();
     buildFilters();
     buildPortfolioPicker();
@@ -990,6 +1056,7 @@ async function loadMarketData() {
       buildWatchlistPicker();
       renderWatchlist();
       renderStockWorkspace();
+      updateDataFreshness();
       return;
     }
     if (!response.ok) throw new Error(`HTTP ${response.status}`);
@@ -997,7 +1064,8 @@ async function loadMarketData() {
     if (!Array.isArray(data.quotes)) throw new Error("รูปแบบข้อมูลราคาไม่ถูกต้อง");
     marketData = {
       quotes: data.quotes.filter(quote => quote && typeof quote.symbol === "string"),
-      stocks: data.stocks && typeof data.stocks === "object" ? data.stocks : {}
+      stocks: data.stocks && typeof data.stocks === "object" ? data.stocks : {},
+      updated_at: typeof data.updated_at === "string" ? data.updated_at : null
     };
     tickerItems.innerHTML = data.quotes.map(quote => {
       if (!quote || typeof quote.symbol !== "string" || !Number.isFinite(quote.price) ||
@@ -1020,6 +1088,7 @@ async function loadMarketData() {
     buildWatchlistPicker();
     renderWatchlist();
     renderStockWorkspace();
+    updateDataFreshness();
     if (data.updated_at) {
       const updated = new Date(data.updated_at);
       document.getElementById("tickerUpdated").textContent = Number.isNaN(updated.getTime())
@@ -1654,6 +1723,10 @@ function render() {
     if (newsSort === "negative") return Number(b.sentiment === "negative") - Number(a.sentiment === "negative") || newsTime(b) - newsTime(a);
     return newsTime(b) - newsTime(a);
   });
+  const filterSignature = JSON.stringify([currentTicker,currentCategory,currentGroup,currentTheme,searchQuery,topicSearchTerms,sentimentFilter,viewMode,newsSort,portfolioTickers]);
+  if (filterSignature !== lastNewsFilterSignature) {visibleNewsLimit = 24;lastNewsFilterSignature = filterSignature;}
+  const visibleItems = items.slice(0, visibleNewsLimit);
+
   renderComparison(comparisonItems);
   renderPortfolioAlerts();
   renderTrendingTopics();
@@ -1665,10 +1738,16 @@ function render() {
 
   const list = document.getElementById("list");
   list.classList.remove("skeleton-feed");
-  list.innerHTML = items.map(n => {
+  list.innerHTML = visibleItems.map(n => {
     const isBookmarked = savedBookmarks.includes(n.link);
     const hasNote = Boolean(personalNotes[n.link]);
     const categoryName = n.category ? `<span class="cat-tag">${esc(n.category)}</span>` : '';
+    const summarySource = n.summary_source === "gemini"
+      ? '<span class="source-tag">สรุปโดย Gemini AI</span>'
+      : n.summary_source === "headline_fallback"
+        ? '<span class="source-tag fallback">อ้างอิงจากพาดหัว · ไม่ใช่คำแปล</span>'
+        : "";
+
     return `
       <article class="card">
         <div class="card-top">
@@ -1677,7 +1756,7 @@ function render() {
             ${categoryName}
             <span class="sentiment ${esc(n.sentiment)}">${SENT[n.sentiment] || ""}</span>
             ${n.impact_level && n.impact_level !== "low" ? `<span class="impact-tag impact-${esc(String(n.impact_level).toLowerCase())}">${String(n.impact_level).toLowerCase() === "high" ? "ผลกระทบสูง" : "ผลกระทบปานกลาง"}</span>` : ""}
-            <time>${esc(n.published)}</time>
+            <time>${esc(formatNewsDate(n.published))}</time>
           </div>
           <div class="card-actions">
             <button class="bookmark-btn ${isBookmarked ? 'bookmarked' : ''}" type="button" title="บันทึกข่าวนี้" aria-label="${isBookmarked ? 'นำข่าวออกจากรายการบันทึก' : 'บันทึกข่าวนี้'}">
@@ -1689,20 +1768,27 @@ function render() {
           </div>
         </div>
         <h2><button class="story-title" type="button">${esc(n.title)}</button></h2>
-        ${n.summary_th ? `<p>${esc(n.summary_th)}</p>` : '<p class="summary-missing">ยังไม่มีสรุปภาษาไทย</p>'}
+        ${n.summary_th ? `<p class="card-summary">${esc(n.summary_th)}</p>` : '<p class="summary-missing">ยังไม่มีสรุปภาษาไทย</p>'}
+        ${summarySource ? `<div class="card-source">${summarySource}</div>` : ""}
         ${hasNote ? `<p class="journal-preview">📝 ${esc(personalNotes[n.link].text || "")}${Number.isFinite(personalNotes[n.link].targetPrice) ? ` · เป้าหมาย $${personalNotes[n.link].targetPrice.toFixed(2)}` : ""}</p>` : ""}
       </article>`;
   }).join("") || '<div class="empty-state">ยังไม่มีข่าวในเงื่อนไขที่คุณเลือก</div>';
+  if (items.length > visibleItems.length) {
+    list.insertAdjacentHTML("beforeend", `<div class="load-more-wrap"><button id="loadMoreNews" class="load-more-button" type="button">โหลดข่าวเพิ่มเติม · เหลือ ${items.length-visibleItems.length} รายการ</button></div>`);
+  }
+  const moreButton = document.getElementById("loadMoreNews");
+  if (moreButton) moreButton.onclick = () => {visibleNewsLimit += 24;render();};
+
 
   document.querySelectorAll(".story-title").forEach((button, index) => {
-    button.onclick = () => showNews(items[index]);
+    button.onclick = () => showNews(visibleItems[index]);
   });
   document.querySelectorAll(".bookmark-btn").forEach((button, index) => {
-    button.onclick = event => window.toggleBookmark(items[index].link, event);
+    button.onclick = event => window.toggleBookmark(visibleItems[index].link, event);
   });
   document.querySelectorAll(".note-btn").forEach((button, index) => {
     button.onclick = () => {
-      showNews(items[index]);
+      showNews(visibleItems[index]);
       document.getElementById("personalNote").focus();
     };
   });
@@ -1789,20 +1875,38 @@ function renderComparison(items) {
 function showNews(item) {
   currentNoteLink = item.link;
   document.getElementById("dialogTitle").textContent = item.title || "ข่าว";
-  document.getElementById("dialogMeta").textContent = `${item.ticker} · ${item.published || "ไม่ระบุเวลา"}`;
-  document.getElementById("dialogSummary").textContent = item.summary_th || "ไม่มีสรุปภาษาไทยจากฟีดข่าวนี้";
-  
-  renderAiAnalysis(item.ai_analysis || "ยังไม่มีข้อมูลวิเคราะห์เชิงลึกสำหรับข่าวนี้ (ระบบจะทยอยอัปเดตอัตโนมัติ)");
+  const summarySource = item.summary_source === "gemini" ? "สรุปโดย Gemini AI"
+    : item.summary_source === "headline_fallback" ? "ข้อมูลสำรองจากพาดหัวต้นฉบับ" : "แหล่งสรุปไม่ระบุ";
+  document.getElementById("dialogMeta").textContent = `${item.ticker} · ${formatNewsDate(item.published)} · ${summarySource}`;
+  document.getElementById("dialogSummary").textContent = item.summary_th || "ยังไม่มีสรุปภาษาไทยจากฟีดข่าวนี้";
+  const analysisSource = item.analysis_source === "gemini" ? "Gemini AI"
+    : item.analysis_source === "fallback" ? "ข้อมูลสำรองจากพาดหัว" : "ยังไม่ระบุแหล่งวิเคราะห์";
+  const sourceLabel = document.getElementById("aiSourceLabel");
+  sourceLabel.textContent = analysisSource;
+  sourceLabel.classList.toggle("fallback", item.analysis_source !== "gemini");
+  renderAiAnalysis(item.ai_analysis || "ยังไม่มีผลวิเคราะห์จาก AI สำหรับข่าวนี้ โปรดอ่านเนื้อหาต้นฉบับก่อนตัดสินใจ");
   const note = personalNotes[item.link] || {};
   document.getElementById("personalNote").value = note.text || "";
   document.getElementById("targetPrice").value = Number.isFinite(note.targetPrice) ? note.targetPrice : "";
-  document.getElementById("noteStatus").textContent = note.updatedAt
-    ? `บันทึกล่าสุด ${new Date(note.updatedAt).toLocaleString("th-TH")}`
-    : "";
-  
-  document.getElementById("originalNews").href = item.link;
-  document.getElementById("translateNews").href = `https://translate.google.com/translate?sl=auto&tl=th&u=${encodeURIComponent(item.link)}`;
+  document.getElementById("noteStatus").textContent = note.updatedAt ? `บันทึกล่าสุด ${new Date(note.updatedAt).toLocaleString("th-TH")}` : "";
+  const originalUrl = safeHttpUrl(item.link);
+  const originalLink = document.getElementById("originalNews");
+  const translateLink = document.getElementById("translateNews");
+  if (originalUrl) {
+    originalLink.href = originalUrl;
+    originalLink.removeAttribute("aria-disabled");
+    translateLink.href = `https://translate.google.com/translate?sl=auto&tl=th&u=${encodeURIComponent(originalUrl)}`;
+  } else {
+    originalLink.removeAttribute("href");
+    originalLink.setAttribute("aria-disabled", "true");
+    translateLink.removeAttribute("href");
+    translateLink.setAttribute("aria-disabled", "true");
+  }
   document.getElementById("newsDialog").showModal();
+}
+function safeHttpUrl(value) {
+  try {const url = new URL(value);return url.protocol === "https:" || url.protocol === "http:" ? url.href : null;}
+  catch {return null;}
 }
 
 function renderAiAnalysis(text) {

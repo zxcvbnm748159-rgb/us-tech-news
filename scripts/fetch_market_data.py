@@ -47,6 +47,39 @@ def number_or_none(value):
     return value if isinstance(value, (int, float)) and not isinstance(value, bool) else None
 
 
+def downsample_history(history, max_points=360):
+    """Keep a bounded chart payload while preserving each bucket's local highs and lows."""
+    if not isinstance(history, list) or len(history) <= max_points or max_points < 3:
+        return history
+    bucket_count = max(1, (max_points - 2) // 2)
+    bucket_width = len(history) / bucket_count
+    selected = {0, len(history) - 1}
+
+    for bucket in range(bucket_count):
+        start = int(bucket * bucket_width)
+        end = min(len(history), int((bucket + 1) * bucket_width))
+        if end <= start:
+            continue
+        valid = [
+            index for index in range(start, end)
+            if isinstance(history[index], dict)
+            and isinstance(history[index].get("price"), (int, float))
+            and not isinstance(history[index].get("price"), bool)
+        ]
+        if not valid:
+            continue
+        selected.add(min(valid, key=lambda index: history[index]["price"]))
+        selected.add(max(valid, key=lambda index: history[index]["price"]))
+
+    ordered = sorted(selected)
+    if len(ordered) > max_points:
+        ordered = [
+            ordered[round(index * (len(ordered) - 1) / (max_points - 1))]
+            for index in range(max_points)
+        ]
+    return [history[index] for index in ordered]
+
+
 def fetch_stock_data(ticker, now=None):
     now = now or datetime.now(timezone.utc)
     meta, daily_history = fetch_chart(ticker, "5y", "1d")
@@ -79,6 +112,10 @@ def fetch_stock_data(ticker, now=None):
     year_start = datetime(now.year, 1, 1, tzinfo=timezone.utc).timestamp()
     history_by_time["YTD"] = [point for point in daily_history if point["time"] >= year_start]
     history_by_time["MAX"] = max_history
+
+    history_limits = {"1D": 180, "1M": 60, "6M": 180, "YTD": 260, "1Y": 260, "5Y": 320, "MAX": 420}
+    for timeframe, limit in history_limits.items():
+        history_by_time[timeframe] = downsample_history(history_by_time[timeframe], limit)
 
     day_high = number_or_none(meta.get("regularMarketDayHigh"))
     day_low = number_or_none(meta.get("regularMarketDayLow"))

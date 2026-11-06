@@ -80,6 +80,25 @@ class FrontendContractTests(unittest.TestCase):
             with self.subTest(target=target):
                 self.assertIn(f'href="#{target}"', self.html)
 
+    def test_feed_pagination_refresh_and_freshness_controls_are_present(self):
+        for expected in (
+            'id="refreshData"',
+            'id="dataFreshness"',
+            'id="loadMoreNews"',
+            "visibleNewsLimit = 24",
+            "refreshDashboardData",
+            "function safeHttpUrl",
+            'id="aiSourceLabel"',
+        ):
+            with self.subTest(expected=expected):
+                self.assertIn(expected, self.html)
+
+    def test_news_source_labels_distinguish_gemini_from_headline_fallback(self):
+        self.assertIn("summary_source === \"gemini\"", self.html)
+        self.assertIn("summary_source === \"headline_fallback\"", self.html)
+        self.assertIn("analysis_source === \"fallback\"", self.html)
+        self.assertIn("อ้างอิงจากพาดหัว · ไม่ใช่คำแปล", self.html)
+
     def test_responsive_and_accessibility_styles_are_present(self):
         compact_html = self.html.replace(" ", "")
         for breakpoint in ("1100px", "760px", "560px"):

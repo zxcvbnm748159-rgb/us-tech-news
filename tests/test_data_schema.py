@@ -37,6 +37,14 @@ class PublishedDataSchemaTests(unittest.TestCase):
             self.assertIsInstance(quote.get("price"), (int, float))
             self.assertIsInstance(quote.get("change_percent"), (int, float))
 
+    def test_optional_analysis_source_fields_use_known_values(self):
+        news = self.load_json("news.json")
+        for item in news:
+            if "summary_source" in item:
+                self.assertIn(item["summary_source"], {"gemini", "headline_fallback"})
+            if "analysis_source" in item:
+                self.assertIn(item["analysis_source"], {"gemini", "fallback"})
+
     def test_stock_analysis_matches_dashboard_schema(self):
         analyses = self.load_json("stock_analysis.json")
 
