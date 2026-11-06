@@ -361,6 +361,270 @@
   @media (prefers-reduced-motion:reduce) {
     *, *::before, *::after { scroll-behavior:auto !important; animation-duration:.01ms !important; animation-iteration-count:1 !important; transition-duration:.01ms !important; }
   }
+
+  /* Professional market-terminal refresh — presentation only; existing data and interactions stay intact. */
+  :root {
+    color-scheme: dark;
+    --bg:#080d17;
+    --surface:#101827;
+    --surface-raised:#152135;
+    --text:#edf3fc;
+    --muted:#92a2b8;
+    --border:rgba(148,166,194,.16);
+    --accent:#70a5ff;
+    --accent-soft:rgba(72,132,224,.14);
+    --positive:#35c99a;
+    --negative:#ff7185;
+    --gold:#e7bd73;
+    --shadow:0 18px 44px rgba(0,0,0,.22);
+  }
+  body {
+    background:
+      radial-gradient(ellipse at 12% -8%, rgba(46,100,180,.16), transparent 34rem),
+      var(--bg);
+    font-family:Inter,"Noto Sans Thai",system-ui,sans-serif;
+    letter-spacing:.005em;
+  }
+  main { width:min(100% - 48px, 1680px); padding:30px 0 48px; }
+  header {
+    display:flex; flex-direction:column; align-items:flex-start;
+    min-height:218px; justify-content:center;
+    padding:34px 38px; margin-bottom:22px;
+    border:1px solid rgba(132,164,211,.2); border-radius:20px;
+    background:linear-gradient(112deg,rgba(18,31,51,.98),rgba(15,26,43,.94) 58%,rgba(24,47,78,.88));
+    box-shadow:0 24px 60px rgba(0,0,0,.24);
+  }
+  header::after { top:-110px; right:5%; width:280px; height:280px; opacity:.55; }
+  .eyebrow { font-size:.72rem; letter-spacing:.18em; color:#8eb8ff; }
+  h1 { font-size:clamp(2rem,4vw,3.15rem); line-height:1.15; letter-spacing:-.045em; }
+  .intro { max-width:680px; margin-top:12px; color:#b0bfd3; font-size:1rem; line-height:1.75; }
+  .update-note { margin-top:18px; border-color:rgba(121,158,210,.22); background:rgba(7,15,27,.38); color:#b7c7dc; padding:8px 13px; }
+  .market-nav { display:flex; flex-wrap:wrap; gap:8px; margin-top:20px; position:relative; z-index:1; }
+  .market-nav a {
+    display:inline-flex; align-items:center; min-height:36px; padding:7px 12px;
+    border:1px solid rgba(143,171,210,.2); border-radius:8px;
+    color:#c4d3e8; background:rgba(7,15,27,.28); text-decoration:none;
+    font-size:.82rem; font-weight:600; transition:background .18s,border-color .18s,color .18s;
+  }
+  .market-nav a:hover { color:#fff; border-color:rgba(112,165,255,.65); background:rgba(70,125,210,.16); }
+  .ticker-bar {
+    position:sticky; top:0; z-index:20; min-height:52px;
+    border-bottom:1px solid var(--border); border-top:1px solid rgba(255,255,255,.025);
+    background:rgba(8,13,23,.94); backdrop-filter:blur(16px);
+    padding-top:9px; padding-bottom:9px;
+  }
+  .ticker-label { color:#8fa3bf; letter-spacing:.1em; text-transform:uppercase; }
+  .ticker-quote { min-height:32px; border-radius:7px; background:#111d2e; border-color:rgba(148,166,194,.14); }
+  .ticker-quote:hover { border-color:rgba(112,165,255,.48); background:#17263c; }
+  .hero-grid { gap:16px; margin-bottom:20px; }
+  .sentiment-meter,.market-summary,.stat,.stock-workspace,.sidebar,.feed-panel,.trending-panel,
+  .comparison-panel,.watchlist-panel,.portfolio-panel,.theme-panel {
+    border-color:var(--border); background:linear-gradient(155deg,rgba(18,29,46,.98),rgba(13,22,36,.98));
+    box-shadow:0 10px 30px rgba(0,0,0,.12);
+  }
+  .sentiment-meter,.market-summary { padding:20px 22px; border-radius:14px; }
+  .sentiment-meter h2,.market-summary h2 { font-size:.9rem; letter-spacing:.01em; }
+  .sentiment-meter-head strong { font-size:1.2rem; }
+  .sentiment-track { height:10px; background:rgba(148,166,194,.15); }
+  .sentiment-fill { background:linear-gradient(90deg,#ff7185,#e7bd73 50%,#35c99a); }
+  .hero-overview { gap:12px; margin-top:12px; }
+  .stat { min-height:94px; padding:16px 17px; border-radius:12px; }
+  .stat-label { font-size:.78rem; }
+  .stat-value { margin-top:7px; font-size:1.75rem; font-variant-numeric:tabular-nums; }
+  .stock-workspace { padding:22px; margin-bottom:22px; border-radius:16px; }
+  .stock-detail-head { padding-bottom:17px; border-bottom:1px solid var(--border); }
+  .stock-detail-title h2 { font-size:1.5rem; letter-spacing:-.035em; }
+  .stock-detail-price { font-size:2rem; font-variant-numeric:tabular-nums; }
+  .stock-insight { border:1px solid rgba(112,165,255,.18); border-radius:11px; background:rgba(48,91,151,.10); padding:14px 16px; }
+  .stock-tabs { gap:6px; border-bottom-color:var(--border); }
+  .stock-tabs button,.timeframes button {
+    border-radius:8px; border-color:var(--border); background:#111d2e; color:#aebed3;
+  }
+  .stock-tabs button.active,.timeframes button.active {
+    border-color:rgba(112,165,255,.55); background:rgba(70,125,210,.18); color:#a9caff;
+  }
+  .chart-wrap { border:1px solid var(--border); border-radius:12px; background:rgba(7,14,25,.34); }
+  .stock-metrics { gap:10px; }
+  .stock-metrics > * { border-radius:10px; border-color:var(--border); background:rgba(9,17,29,.62); }
+  .dashboard-layout { grid-template-columns:minmax(220px,260px) minmax(0,1fr) minmax(230px,280px); gap:16px; align-items:start; }
+  .sidebar,.feed-panel,.trending-panel { padding:18px; border-radius:14px; }
+  .sidebar { position:sticky; top:68px; max-height:calc(100vh - 84px); overflow:auto; scrollbar-width:thin; }
+  .trending-panel { position:sticky; top:68px; max-height:calc(100vh - 84px); overflow:auto; scrollbar-width:thin; }
+  .filter-heading,.sidebar h2,.trending-panel h2 { font-size:.9rem; letter-spacing:.01em; }
+  .watchlist-panel,.portfolio-panel,.comparison-panel,.theme-panel { padding:14px; border-radius:11px; }
+  .feed-heading { align-items:center; margin-bottom:14px; }
+  .feed-heading h2 { font-size:1.12rem; letter-spacing:-.02em; }
+  .search-row { gap:9px; }
+  .search-row input,.search-row select,.stock-controls select,.stock-controls button,
+  .watchlist-controls select,.portfolio-controls select {
+    min-height:42px; border-radius:9px; border-color:var(--border); background:#0c1524; color:var(--text);
+  }
+  .search-row input { padding-left:14px; }
+  button { transition:transform .16s ease,border-color .16s ease,background .16s ease,box-shadow .16s ease; }
+  button:not(:disabled):active { transform:translateY(1px); }
+  .filters button,.group-filters button,.theme-filters button,.category-filters button,.watchlist-categories button {
+    min-height:34px; border-radius:8px; border-color:var(--border); background:#101b2c; color:#aebed3;
+  }
+  .filters button.active,.group-filters button.active,.theme-filters button.active,.category-filters button.active {
+    border-color:rgba(112,165,255,.48); background:rgba(70,125,210,.17); color:#a9caff;
+  }
+  .card,.news-card,.news-item,.trending-item,.portfolio-alert-item {
+    border-color:var(--border); border-radius:11px; background:rgba(17,28,45,.86);
+  }
+  .card:hover,.news-card:hover,.news-item:hover { border-color:rgba(112,165,255,.38); }
+  .trending-item { padding:12px; }
+  .trending-item strong { line-height:1.55; }
+  .trending-badge { border-radius:7px; }
+  footer { margin-top:26px; padding:18px 0 0; border-top:1px solid var(--border); color:#8192aa; font-size:.8rem; }
+  dialog { border:1px solid rgba(148,166,194,.24); border-radius:16px; background:#101a2a; color:var(--text); box-shadow:0 30px 90px rgba(0,0,0,.55); }
+  dialog::backdrop { background:rgba(2,7,14,.78); backdrop-filter:blur(5px); }
+  input,textarea,select { accent-color:var(--accent); }
+  :focus-visible { outline:2px solid #8db8ff !important; outline-offset:3px !important; }
+  @media (max-width:1100px) {
+    .dashboard-layout { grid-template-columns:220px minmax(0,1fr); }
+    .trending-panel { grid-column:2; position:static; max-height:none; }
+    .sidebar { top:68px; }
+  }
+  @media (max-width:760px) {
+    main { width:min(100% - 28px, 720px); padding-top:18px; }
+    header { min-height:0; padding:25px 22px; }
+    header::after { right:-100px; opacity:.32; }
+    .market-nav { gap:6px; }
+    .market-nav a { min-height:34px; padding:6px 9px; font-size:.76rem; }
+    .dashboard-layout { grid-template-columns:1fr; }
+    .sidebar,.trending-panel { position:static; max-height:none; }
+    .trending-panel { grid-column:auto; }
+    .stock-workspace { padding:16px; }
+    .stock-detail-head { gap:12px; }
+  }
+  @media (max-width:560px) {
+    main { width:min(100% - 20px, 520px); padding-top:12px; }
+    header { padding:22px 17px; border-radius:14px; }
+    h1 { font-size:1.85rem; }
+    .intro { font-size:.9rem; }
+    .hero-overview { grid-template-columns:repeat(3,minmax(0,1fr)); gap:7px; }
+    .stat { min-height:82px; padding:11px 9px; }
+    .stat-label { font-size:.68rem; line-height:1.4; }
+    .stat-value { font-size:1.25rem; }
+    .market-summary,.sentiment-meter { padding:15px; }
+    .stock-detail-price { font-size:1.55rem; }
+    .stock-detail-head { flex-direction:column; }
+    .watchlist-toggle { width:100%; }
+    .sidebar,.feed-panel,.trending-panel { padding:13px; }
+    .search-row { grid-template-columns:minmax(0,1fr); }
+    #tickerUpdated { display:none; }
+  }
+  @media (prefers-reduced-motion:reduce) {
+    *,*::before,*::after { scroll-behavior:auto !important; transition-duration:.01ms !important; }
+  }
+
+
+  /* News discovery controls and impact hierarchy */
+  .search-row { grid-template-columns:minmax(220px,1fr) 170px 170px 170px; }
+  .search-row select { min-width:0; }
+  .impact-tag {
+    display:inline-flex; align-items:center; border:1px solid transparent;
+    border-radius:6px; padding:2px 7px; font-size:.7rem; font-weight:750; letter-spacing:.01em;
+  }
+  .impact-high { color:#ff9aa8; border-color:rgba(255,113,133,.3); background:rgba(255,113,133,.11); }
+  .impact-medium { color:#e9c57f; border-color:rgba(231,189,115,.28); background:rgba(231,189,115,.09); }
+  .card .meta { row-gap:7px; }
+  .card h2 { line-height:1.5; }
+  @media (max-width:1100px) {
+    .search-row { grid-template-columns:minmax(0,1fr) repeat(3,minmax(130px,170px)); }
+  }
+  @media (max-width:760px) {
+    .search-row { grid-template-columns:minmax(0,1fr) minmax(0,1fr); }
+    .search-row input { grid-column:1 / -1; }
+  }
+  @media (max-width:560px) {
+    .search-row { grid-template-columns:minmax(0,1fr); }
+    .search-row input { grid-column:auto; }
+  }
+
+
+  /* Usability polish: clearer hierarchy, calmer spacing, and more comfortable controls. */
+  html { scroll-behavior:smooth; scroll-padding-top:76px; }
+  body { line-height:1.55; }
+  main { width:min(100% - 56px, 1720px); }
+  .market-nav a { transition:all .18s ease; }
+  .market-nav a:focus-visible,.ticker-quote:focus-visible { outline:2px solid var(--accent); outline-offset:3px; }
+  .hero-grid { align-items:stretch; }
+  .hero-grid > div { min-width:0; }
+  .market-summary p,.sentiment-meter small { line-height:1.7; }
+  .stat { display:flex; flex-direction:column; justify-content:center; }
+  .stat-value { font-variant-numeric:tabular-nums; }
+  .dashboard-layout { gap:18px; }
+  .sidebar,.feed-panel,.trending-panel { min-width:0; }
+  .sidebar { scrollbar-gutter:stable; }
+  .feed-panel { padding:20px; }
+  .feed-heading { flex-wrap:wrap; }
+  .search-row { margin-top:12px; margin-bottom:20px; }
+  .search-row input,.search-row select,.stock-controls select,.portfolio-controls select,.watchlist-controls select {
+    min-width:0; transition:border-color .18s ease,box-shadow .18s ease;
+  }
+  .search-row input:focus,.search-row select:focus,.stock-controls select:focus,
+  .portfolio-controls select:focus,.watchlist-controls select:focus {
+    border-color:var(--accent); box-shadow:0 0 0 3px var(--accent-soft); outline:none;
+  }
+  .filters button,.group-filters button,.theme-filters button,.cat-btn,.watchlist-categories button {
+    transition:color .16s ease,background .16s ease,border-color .16s ease;
+  }
+  .filters button:hover,.group-filters button:hover,.theme-filters button:hover,
+  .cat-btn:hover,.watchlist-categories button:hover { border-color:rgba(112,165,255,.55); color:#dce9ff; }
+  .card { padding:17px 18px; margin-bottom:12px; }
+  .card h2 { margin:11px 0 7px; font-size:1.02rem; letter-spacing:-.012em; }
+  .card > p { margin:7px 0 0; color:#c0ccdc; line-height:1.75; }
+  .card .meta { font-size:.76rem; }
+  .card .story-title { text-align:left; }
+  .card-actions { flex-wrap:wrap; }
+  .trending-item { width:100%; text-align:left; cursor:pointer; }
+  .trending-item:hover { background:rgba(38,65,103,.45); }
+  .watchlist-row { min-height:42px; }
+  .watchlist-row:hover { background:rgba(70,125,210,.09); }
+  .stock-tabs { scrollbar-width:thin; }
+  .stock-tabs button { min-height:42px; }
+  .timeframes button { min-height:32px; }
+  .chart-wrap { overflow:hidden; }
+  .empty-state { padding:28px 16px; border:1px dashed var(--border); border-radius:12px; text-align:center; color:var(--muted); }
+  button:not(:disabled):hover { filter:brightness(1.08); }
+  button:disabled { filter:saturate(.45); }
+  footer { line-height:1.7; }
+  @media (max-width:1100px) {
+    main { width:min(100% - 40px, 980px); }
+    .dashboard-layout { grid-template-columns:minmax(210px,.72fr) minmax(0,1.8fr); }
+    .trending-panel { grid-column:1 / -1; }
+    .trending-panel .trending-list { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:9px; }
+  }
+  @media (max-width:760px) {
+    main { width:min(100% - 28px, 700px); }
+    .dashboard-layout { grid-template-columns:minmax(0,1fr); }
+    .sidebar { order:0; }
+    .feed-panel { order:1; padding:15px; }
+    .trending-panel { order:2; grid-column:auto; }
+    .trending-panel .trending-list { grid-template-columns:1fr; }
+    .sidebar .filters { flex-wrap:wrap; overflow:visible; }
+    .sidebar .filters button { flex:0 0 auto; }
+    .stock-workspace { scroll-margin-top:68px; }
+  }
+  @media (max-width:560px) {
+    html { scroll-padding-top:62px; }
+    main { width:calc(100% - 22px); }
+    .market-nav { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); width:100%; }
+    .market-nav a { justify-content:center; }
+    .ticker-bar { gap:8px; }
+    .ticker-items { gap:6px; }
+    .ticker-quote { padding:5px 7px; font-size:.74rem; }
+    .hero-overview { grid-template-columns:repeat(3,minmax(0,1fr)); }
+    .card { padding:14px 12px; }
+    .card .meta { gap:6px; }
+    .card h2 { font-size:.96rem; }
+    .stock-detail-head { align-items:stretch; }
+    .stock-detail-price { line-height:1.35; }
+    .journal-actions { flex-wrap:wrap; }
+    .dialog-actions { flex-wrap:wrap; gap:12px; }
+  }
+
 </style>
 </head>
 <body>
@@ -380,9 +644,15 @@
     <h1>ข่าวหุ้นเทคสหรัฐ</h1>
     <p class="intro">ข่าวล่าสุดและสรุปภาษาไทยในที่เดียว พร้อมวิเคราะห์เชิงลึกด้วย AI</p>
     <span class="update-note">ตรวจข่าวทุก 15 นาที · สรุปตลาดทุก 3 ชั่วโมง</span>
+    <nav class="market-nav" aria-label="เมนูหลัก">
+      <a href="#marketOverview">ภาพรวมตลาด</a>
+      <a href="#stock-workspace">ข้อมูลหุ้น</a>
+      <a href="#newsDashboard">ข่าวล่าสุด</a>
+      <a href="#watchlistTitle">Watchlist</a>
+    </nav>
   </header>
 
-  <section class="hero-grid" aria-label="ภาพรวมตลาดวันนี้">
+  <section class="hero-grid" id="marketOverview" aria-label="ภาพรวมตลาดวันนี้">
     <div>
       <section class="sentiment-meter" aria-labelledby="marketSentimentTitle">
         <h2 id="marketSentimentTitle">ดัชนีความเชื่อมั่นข่าวหุ้นเทควันนี้</h2>
@@ -408,7 +678,7 @@
     </section>
   </section>
 
-  <section class="stock-workspace" aria-labelledby="stockDetailSymbol">
+  <section class="stock-workspace" id="stock-workspace" aria-labelledby="stockDetailSymbol">
     <div class="stock-detail-head">
       <div>
         <div class="stock-detail-title">
@@ -466,7 +736,7 @@
     <p class="stock-disclaimer">ราคาและข้อมูลอาจล่าช้าหรือไม่มีให้บริการในบางสัญลักษณ์ · ไม่ใช่คำแนะนำการลงทุน</p>
   </section>
 
-  <div class="dashboard-layout">
+  <div class="dashboard-layout" id="newsDashboard">
     <aside class="sidebar" aria-label="ตัวกรองและหุ้นที่ติดตาม">
       <div class="toolbar">
         <label for="stockPicker">ติดตามหุ้นเพิ่มเติม</label>
@@ -550,6 +820,12 @@
           <option value="all">ข่าวทั้งหมด</option>
           <option value="saved">⭐ ข่าวที่บันทึกหรือมีโน้ต</option>
           <option value="portfolio">💼 ข่าวหุ้นในพอร์ต</option>
+        </select>
+        <select id="newsSort" aria-label="เรียงลำดับข่าว">
+          <option value="recent">เรียงตามเวลาล่าสุด</option>
+          <option value="impact">ผลกระทบสูงก่อน</option>
+          <option value="positive">ข่าวเชิงบวกก่อน</option>
+          <option value="negative">ข่าวเชิงลบก่อน</option>
         </select>
       </div>
       <section class="portfolio-alerts" id="portfolioAlerts" aria-labelledby="portfolioAlertsTitle" hidden>
@@ -708,6 +984,8 @@ document.getElementById("newsSearch").addEventListener("input", e => {
 });
 document.getElementById("sentimentFilter").addEventListener("change", e => { sentimentFilter = e.target.value; render(); });
 document.getElementById("viewMode").addEventListener("change", e => { viewMode = e.target.value; render(); });
+let newsSort = "recent";
+document.getElementById("newsSort").addEventListener("change", e => { newsSort = e.target.value; render(); });
 
 document.querySelectorAll(".cat-btn").forEach(btn => {
   btn.onclick = (e) => {
@@ -1460,6 +1738,18 @@ function render() {
     return matchesCat && matchesSearch && matchesSentiment && matchesView && matchesGroup && matchesTheme;
   });
   const items = comparisonItems.filter(n => currentTicker === "ALL" || n.ticker === currentTicker);
+  const impactRank = level => ({ high: 3, medium: 2, low: 1 }[String(level || "").toLowerCase()] || 0);
+  const newsTime = item => {
+    const published = Date.parse(item.published || "");
+    const fetched = Date.parse(item.fetched_at || "");
+    return Number.isFinite(published) ? published : (Number.isFinite(fetched) ? fetched : 0);
+  };
+  items.sort((a, b) => {
+    if (newsSort === "impact") return impactRank(b.impact_level) - impactRank(a.impact_level) || newsTime(b) - newsTime(a);
+    if (newsSort === "positive") return Number(b.sentiment === "positive") - Number(a.sentiment === "positive") || newsTime(b) - newsTime(a);
+    if (newsSort === "negative") return Number(b.sentiment === "negative") - Number(a.sentiment === "negative") || newsTime(b) - newsTime(a);
+    return newsTime(b) - newsTime(a);
+  });
   renderComparison(comparisonItems);
   renderPortfolioAlerts();
   renderTrendingTopics();
@@ -1482,6 +1772,7 @@ function render() {
             <span class="tag">${esc(n.ticker)}</span>
             ${categoryName}
             <span class="sentiment ${esc(n.sentiment)}">${SENT[n.sentiment] || ""}</span>
+            ${n.impact_level && n.impact_level !== "low" ? `<span class="impact-tag impact-${esc(String(n.impact_level).toLowerCase())}">${String(n.impact_level).toLowerCase() === "high" ? "ผลกระทบสูง" : "ผลกระทบปานกลาง"}</span>` : ""}
             <time>${esc(n.published)}</time>
           </div>
           <div class="card-actions">
