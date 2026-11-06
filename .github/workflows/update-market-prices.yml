@@ -7,6 +7,7 @@ on:
     paths:
       - "scripts/fetch_market_data.py"
       - "scripts/refresh_stock_analysis.py"
+      - "scripts/fetch_news.py"
       - "requirements.txt"
       - ".github/workflows/update-market-prices.yml"
   schedule:
