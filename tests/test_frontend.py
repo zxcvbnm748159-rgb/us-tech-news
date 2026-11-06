@@ -63,10 +63,10 @@ class FrontendContractTests(unittest.TestCase):
         self.assertEqual(result.returncode, 0, result.stderr)
 
     def test_navigation_targets_exist_and_ids_are_unique(self):
-        ids = re.findall(r'\\bid=["\\']([^"\\']+)["\\']', self.html)
+        ids = re.findall(r"""\bid=["']([^"']+)["']""", self.html)
         self.assertEqual(len(ids), len(set(ids)), "HTML contains duplicate id attributes")
 
-        targets = re.findall(r'href=["\\']#([^"\\']+)["\\']', self.html)
+        targets = re.findall(r"""href=["']#([^"']+)["']""", self.html)
         self.assertTrue(targets, "Expected in-page navigation links")
         for target in targets:
             with self.subTest(target=target):
