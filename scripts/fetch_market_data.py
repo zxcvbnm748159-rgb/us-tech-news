@@ -82,9 +82,15 @@ def downsample_history(history, max_points=360):
 
 def fetch_stock_data(ticker, now=None):
     now = now or datetime.now(timezone.utc)
-    meta, daily_history = fetch_chart(ticker, "5y", "1d")
-    _, intraday_history = fetch_chart(ticker, "1d", "5m")
+    history_meta, daily_history = fetch_chart(ticker, "5y", "1d")
+    intraday_meta, intraday_history = fetch_chart(ticker, "1d", "5m")
     _, monthly_history = fetch_chart(ticker, "max", "1mo")
+
+    # Quote and previous-close metadata must come from the 1-day chart.
+    # Long-range chart metadata can contain a historical reference close.
+    meta = intraday_meta
+    if number_or_none(meta.get("regularMarketPrice")) is None:
+        meta = history_meta
 
     price = number_or_none(meta.get("regularMarketPrice"))
     previous_close = number_or_none(meta.get("chartPreviousClose", meta.get("previousClose")))
