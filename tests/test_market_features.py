@@ -64,6 +64,31 @@ class MarketDataTests(unittest.TestCase):
         self.assertEqual(stock["metrics"]["volume"], 1200)
 
 
+    def test_downsample_history_bounds_payload_and_preserves_endpoints_and_extremes(self):
+        history = [
+            {"time": index, "price": 100 + (index % 19), "volume": index}
+            for index in range(1000)
+        ]
+        history[401]["price"] = 1000
+        history[777]["price"] = 1
+
+        sampled = fetch_market_data.downsample_history(history, 100)
+
+        self.assertLessEqual(len(sampled), 100)
+        self.assertEqual(sampled[0], history[0])
+        self.assertEqual(sampled[-1], history[-1])
+        self.assertIn(history[401], sampled)
+        self.assertIn(history[777], sampled)
+        self.assertEqual(
+            [point["time"] for point in sampled],
+            sorted(point["time"] for point in sampled),
+        )
+
+    def test_downsample_history_leaves_short_series_unchanged(self):
+        history = [{"time": index, "price": 10 + index} for index in range(5)]
+        self.assertEqual(fetch_market_data.downsample_history(history, 100), history)
+
+
 class NewsAlertTests(unittest.TestCase):
     def test_stock_analysis_filters_48_hours_and_writes_frontend_schema_on_cold_start(self):
         now = datetime(2026, 10, 16, 12, tzinfo=timezone.utc)
@@ -108,10 +133,115 @@ class NewsAlertTests(unittest.TestCase):
             "last_updated": now.isoformat(),
             "summary": "ข่าวชิปรุ่นใหม่เป็นประเด็นที่ตลาดติดตาม",
             "analysis_points": ["เปิดตัวชิป AI"],
+            "analysis_source": "gemini",
         })
         self.assertIn("New AI chip announced", prompts[0])
         self.assertNotIn("Old headline", prompts[0])
         self.assertIn('"change_percent": null', prompts[0])
+
+    def test_headline_fallback_is_transparent_and_does_not_claim_ai_analysis(self):
+        item = {
+            "ticker": "NVDA",
+            "title": "NVIDIA announces a new AI GPU accelerator",
+            "summary_th": "",
+            "category": "General",
+            "ai_analysis": "",
+            "impact_level": "low",
+            "impact_direction": "neutral",
+            "sentiment": "positive",
+        }
+
+        result = fetch_news.apply_headline_fallback(item)
+
+        self.assertEqual(result["category"], "AI")
+        self.assertEqual(result["category_source"], "headline_rule")
+        self.assertIn("พาดหัวต้นฉบับ", result["summary_th"])
+        self.assertEqual(result["summary_source"], "headline_fallback")
+        self.assertIn("ยังไม่มีผลวิเคราะห์จาก Gemini AI", result["ai_analysis"])
+        self.assertEqual(result["analysis_source"], "fallback")
+        self.assertEqual(result["impact_source"], "headline_rule")
+
+    def test_headline_fallback_preserves_gemini_content(self):
+        item = {
+            "ticker": "NVDA",
+            "title": "NVIDIA reports results",
+            "summary_th": "สรุปที่ตรวจโดย AI",
+            "summary_source": "gemini",
+            "category": "Financial",
+            "category_source": "gemini",
+            "ai_analysis": "บทวิเคราะห์จาก AI",
+            "analysis_source": "gemini",
+            "impact_level": "medium",
+            "impact_direction": "positive",
+            "impact_source": "gemini",
+            "sentiment": "positive",
+        }
+
+        result = fetch_news.apply_headline_fallback(item)
+
+        self.assertEqual(result["summary_th"], "สรุปที่ตรวจโดย AI")
+        self.assertEqual(result["ai_analysis"], "บทวิเคราะห์จาก AI")
+        self.assertEqual(result["category"], "Financial")
+        self.assertEqual(result["impact_level"], "medium")
+        self.assertEqual(result["impact_source"], "gemini")
+
+    def test_rule_based_daily_summary_is_three_lines_and_uses_only_supplied_counts(self):
+        summary = fetch_news.build_rule_based_daily_summary([
+            {"ticker": "NVDA", "sentiment": "positive"},
+            {"ticker": "NVDA", "sentiment": "negative"},
+            {"ticker": "MSFT", "sentiment": "neutral"},
+        ], "2026-11-07")
+
+        lines = summary.splitlines()
+        self.assertEqual(len(lines), 3)
+        self.assertIn("พบข่าว 3 รายการ", lines[0])
+        self.assertIn("NVDA (2)", lines[1])
+        self.assertIn("ยังไม่ใช่บทวิเคราะห์ AI", lines[2])
+
+    def test_daily_summary_publishes_rule_based_fallback_without_api_key(self):
+        today = datetime.now(timezone.utc).isoformat()
+        item = {
+            "ticker": "NVDA",
+            "title": "New AI chip announced",
+            "published": "",
+            "fetched_at": today,
+            "sentiment": "positive",
+        }
+        with tempfile.TemporaryDirectory() as directory:
+            summary_path = Path(directory) / "summary.json"
+            with patch.dict(os.environ, {}, clear=True):
+                with patch.object(fetch_news, "SUMMARY_FILE", str(summary_path)):
+                    fetch_news.generate_daily_summary([item])
+            summary = json.loads(summary_path.read_text(encoding="utf-8"))
+
+        self.assertEqual(summary["source"], "rules")
+        self.assertEqual(summary["source_count"], 1)
+        self.assertEqual(len(summary["summary_th"].splitlines()), 3)
+        self.assertIsNotNone(summary["updated_at"])
+
+    def test_stock_analysis_publishes_fallback_without_api_key(self):
+        now = datetime.now(timezone.utc)
+        item = {
+            "ticker": "NVDA",
+            "title": "New AI chip announced",
+            "summary_th": "ข่าวเกี่ยวกับชิป AI",
+            "published": "",
+            "fetched_at": (now - timedelta(hours=1)).isoformat(),
+        }
+        with tempfile.TemporaryDirectory() as directory:
+            prices_path = Path(directory) / "market_prices.json"
+            analysis_path = Path(directory) / "stock_analysis.json"
+            with patch.dict(os.environ, {}, clear=True):
+                with patch.object(fetch_news, "MARKET_PRICES_FILE", str(prices_path)):
+                    with patch.object(fetch_news, "STOCK_ANALYSIS_FILE", str(analysis_path)):
+                        fetch_news.generate_stock_analysis([item], now)
+            analysis = json.loads(analysis_path.read_text(encoding="utf-8"))
+
+        self.assertEqual(len(analysis), 1)
+        self.assertEqual(analysis[0]["ticker"], "NVDA")
+        self.assertEqual(analysis[0]["analysis_source"], "rules")
+        self.assertIn("New AI chip announced", analysis[0]["summary"])
+        self.assertTrue(analysis[0]["analysis_points"])
 
     def test_trending_topics_count_recent_unique_articles_and_aliases(self):
         now = datetime(2026, 10, 16, 12, tzinfo=timezone.utc)
