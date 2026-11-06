@@ -20,7 +20,15 @@ class MarketDataTests(unittest.TestCase):
         intraday = [
             {"time": int(now.timestamp()), "price": 125.0, "volume": 2000},
         ]
-        meta = {
+        historical_meta = {
+            "regularMarketPrice": 125.0,
+            "chartPreviousClose": 20.0,
+            "currency": "USD",
+            "regularMarketTime": 1_700_000_000,
+            "fiftyTwoWeekHigh": 140.0,
+            "epsTrailingTwelveMonths": 3.5,
+        }
+        intraday_meta = {
             "regularMarketPrice": 125.0,
             "chartPreviousClose": 100.0,
             "currency": "USD",
@@ -30,8 +38,9 @@ class MarketDataTests(unittest.TestCase):
             "fiftyTwoWeekHigh": 150.0,
             "epsTrailingTwelveMonths": 4.25,
         }
+        monthly_meta = {}
         with patch.object(fetch_market_data, "fetch_chart", side_effect=[
-            (meta, history), (meta, intraday), (meta, history[::30]),
+            (historical_meta, history), (intraday_meta, intraday), (monthly_meta, history[::30]),
         ]):
             stock = fetch_market_data.fetch_stock_data("NVDA", now)
 
@@ -39,11 +48,35 @@ class MarketDataTests(unittest.TestCase):
         self.assertEqual(stock["quote"]["change"], 25.0)
         self.assertEqual(stock["quote"]["change_percent"], 25.0)
         self.assertEqual(stock["quote"]["post_market_price"], 126.5)
+        self.assertEqual(stock["quote"]["market_timestamp"], 1_800_000_000)
         self.assertEqual(stock["metrics"]["fifty_two_week_high"], 150.0)
         self.assertEqual(stock["metrics"]["eps"], 4.25)
         self.assertEqual(set(stock["history"]), {"1D", "5D", "1M", "6M", "YTD", "1Y", "5Y", "MAX"})
         self.assertEqual(len(stock["history"]["1D"]), 1)
         self.assertGreater(len(stock["history"]["MAX"]), len(stock["history"]["5Y"]))
+
+    def test_fetch_stock_data_uses_intraday_previous_close_not_long_range_reference(self):
+        now = datetime(2026, 11, 6, 20, tzinfo=timezone.utc)
+        history = [
+            {"time": int((now - timedelta(days=offset)).timestamp()), "price": 100 + offset, "volume": 1000}
+            for offset in range(30, -1, -1)
+        ]
+        intraday = [{"time": int(now.timestamp()), "price": 527.32, "volume": 5000}]
+        long_meta = {"regularMarketPrice": 527.32, "chartPreviousClose": 84.0}
+        daily_meta = {
+            "regularMarketPrice": 527.32,
+            "chartPreviousClose": 520.0,
+            "currency": "USD",
+            "regularMarketTime": 1_800_000_000,
+        }
+        with patch.object(fetch_market_data, "fetch_chart", side_effect=[
+            (long_meta, history), (daily_meta, intraday), ({}, history[::5]),
+        ]):
+            stock = fetch_market_data.fetch_stock_data("NVDA", now)
+
+        self.assertAlmostEqual(stock["quote"]["change_percent"], (527.32 - 520.0) / 520.0 * 100)
+        self.assertAlmostEqual(stock["quote"]["change_percent"], 1.4076923077, places=6)
+        self.assertEqual(stock["quote"]["market_timestamp"], 1_800_000_000)
 
     def test_missing_after_hours_and_financial_metadata_stays_unavailable(self):
         now = datetime(2026, 10, 16, 12, tzinfo=timezone.utc)
@@ -416,6 +449,8 @@ class PipelineReliabilityTests(unittest.TestCase):
                 self.assertIn("git fetch origin main", content)
                 self.assertIn("git rebase origin/main", content)
                 self.assertIn("git push origin HEAD:main", content)
+                self.assertIn("for attempt in 1 2 3 4 5", content)
+                self.assertIn("sleep $((attempt * 5))", content)
 
 
 if __name__ == "__main__":
