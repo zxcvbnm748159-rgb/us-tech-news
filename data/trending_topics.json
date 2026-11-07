@@ -1,7 +1,7 @@
 {
   "date": "2026-11-07",
   "window_days": 7,
-  "source_count": 1342,
+  "source_count": 1345,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 184,
+      "count": 185,
       "kind": "ticker"
     },
     {
@@ -30,7 +30,7 @@
       "search_terms": [
         "GOOGL"
       ],
-      "count": 129,
+      "count": 130,
       "kind": "ticker"
     },
     {
@@ -75,7 +75,7 @@
       "search_terms": [
         "MSFT"
       ],
-      "count": 84,
+      "count": 85,
       "kind": "ticker"
     },
     {
@@ -116,7 +116,7 @@
       "kind": "topic"
     }
   ],
-  "updated_at": "2026-11-07T21:19:55.382578+00:00",
+  "updated_at": "2026-11-07T22:42:01.786490+00:00",
   "articles": [
     {
       "ticker": "AMZN",
@@ -17675,6 +17675,48 @@
       "sentiment": "positive",
       "sentiment_source": "headline_vader",
       "fetched_at": "2026-11-07T21:19:54.331642+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Elon Musk Is Winding Down Cybertruck Production to Build Cybercabs. The Model S and Model X Already Gave Up Their Factory Space to Robots.",
+      "link": "https://www.fool.com/investing/2026/11/07/elon-musk-is-winding-down-cybertruck-production-to-build-cybercabs-the-model-s-and-model-x-already-gave-up-their-factory-space-to-robots/?.tsrc=rss",
+      "published": "Sat, 07 Nov 2026 22:01:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-07T22:41:58.893430+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Why AGI’s Fuzzy Definition Matters for Investors Betting on Google, Meta, and Microsoft",
+      "link": "https://www.barchart.com/story/news/8717688/why-agis-fuzzy-definition-matters-for-investors-betting-on-google-meta-and-microsoft?.tsrc=rss",
+      "published": "Sat, 07 Nov 2026 15:30:03 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-07T22:41:59.162323+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Berkshire Surprised With Record Buybacks, but Pace Slowed as the Stock Rose",
+      "link": "https://finance.yahoo.com/m/0866fd80-5f0e-31ac-8e1b-909adaacfb82/berkshire-surprised-with.html?.tsrc=rss",
+      "published": "Sat, 07 Nov 2026 21:40:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-07T22:41:59.297621+00:00"
     }
   ]
 }

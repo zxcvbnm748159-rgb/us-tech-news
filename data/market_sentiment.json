@@ -5,10 +5,10 @@
   "counts": {
     "positive": 24,
     "negative": 11,
-    "neutral": 33
+    "neutral": 36
   },
-  "total": 68,
-  "updated_at": "2026-11-07T21:19:55.350605+00:00",
+  "total": 71,
+  "updated_at": "2026-11-07T22:42:01.752894+00:00",
   "articles": [
     {
       "link": "https://stocktwits.com/news-articles/markets/equity/cathie-wood-ark-invest-buys-goog-amd-nvda-biotech-stocks-sell-crwv-avgo-lly/cNGVV2wR9Ii?.tsrc=rss",
@@ -281,6 +281,18 @@
     {
       "link": "https://247wallst.com/personal-finance/2026/11/07/he-inherited-8000-ibm-shares-worth-nearly-2-million-at-52-the-often-overlooked-irs-rule-that-decides-whether-most-of-it-is-taxed-as-income-or-a-capital-gain/?.tsrc=rss",
       "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/07/elon-musk-is-winding-down-cybertruck-production-to-build-cybercabs-the-model-s-and-model-x-already-gave-up-their-factory-space-to-robots/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.barchart.com/story/news/8717688/why-agis-fuzzy-definition-matters-for-investors-betting-on-google-meta-and-microsoft?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/0866fd80-5f0e-31ac-8e1b-909adaacfb82/berkshire-surprised-with.html?.tsrc=rss",
+      "sentiment": "neutral"
     }
   ]
 }
