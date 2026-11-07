@@ -1,7 +1,7 @@
 {
   "date": "2026-11-07",
   "window_days": 7,
-  "source_count": 1331,
+  "source_count": 1342,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 182,
+      "count": 184,
       "kind": "ticker"
     },
     {
@@ -30,7 +30,7 @@
       "search_terms": [
         "GOOGL"
       ],
-      "count": 127,
+      "count": 129,
       "kind": "ticker"
     },
     {
@@ -39,7 +39,7 @@
       "search_terms": [
         "AAPL"
       ],
-      "count": 121,
+      "count": 123,
       "kind": "ticker"
     },
     {
@@ -66,7 +66,7 @@
       "search_terms": [
         "AMZN"
       ],
-      "count": 90,
+      "count": 91,
       "kind": "ticker"
     },
     {
@@ -84,7 +84,16 @@
       "search_terms": [
         "PLTR"
       ],
-      "count": 73,
+      "count": 74,
+      "kind": "ticker"
+    },
+    {
+      "label": "META",
+      "query": "META",
+      "search_terms": [
+        "META"
+      ],
+      "count": 65,
       "kind": "ticker"
     },
     {
@@ -97,26 +106,17 @@
       "kind": "ticker"
     },
     {
-      "label": "META",
-      "query": "META",
-      "search_terms": [
-        "META"
-      ],
-      "count": 64,
-      "kind": "ticker"
-    },
-    {
       "label": "Data Center",
       "query": "Data Center",
       "search_terms": [
         "data center",
         "AI infrastructure"
       ],
-      "count": 57,
+      "count": 58,
       "kind": "topic"
     }
   ],
-  "updated_at": "2026-11-07T19:04:14.914817+00:00",
+  "updated_at": "2026-11-07T21:19:55.382578+00:00",
   "articles": [
     {
       "ticker": "AMZN",
@@ -17521,6 +17521,160 @@
       "sentiment": "neutral",
       "sentiment_source": "headline_vader",
       "fetched_at": "2026-11-07T19:04:12.495842+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "SpaceX's December Lockup Is Nearly the Biggest Share Unlock in IPO History. History Says This Is What Happens Next.",
+      "link": "https://www.fool.com/investing/2026/11/07/spacexs-december-lockup-is-nearly-the-biggest-shar/?.tsrc=rss",
+      "published": "Sat, 07 Nov 2026 21:05:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-07T21:19:51.742535+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "This Warren Buffett Dividend Stock Is the One I'd Buy With $1,000 in November",
+      "link": "https://www.fool.com/investing/2026/11/07/this-warren-buffett-dividend-stock-is-the-one-id-b/?.tsrc=rss",
+      "published": "Sat, 07 Nov 2026 20:50:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-07T21:19:51.742585+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Republican Senator Who Won Reelection Is Selling Magnificent Seven Stocks: Here Are the Trades",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/republican-senator-won-reelection-selling-193025792.html?.tsrc=rss",
+      "published": "Sat, 07 Nov 2026 19:30:25 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-07T21:19:51.879320+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Did Apple Just Get a Boost From Democrats? Data Center Moratoriums Could Benefit the iPhone Maker",
+      "link": "https://www.fool.com/investing/2026/11/07/apple-get-boost-democrats-data-center-iphone/?.tsrc=rss",
+      "published": "Sat, 07 Nov 2026 19:23:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-07T21:19:51.879400+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Alphabet (GOOGL) Expands SpaceX Stake to $69 Billion and Deepens AI Ties",
+      "link": "https://finance.yahoo.com/technology/ai/articles/alphabet-googl-expands-spacex-stake-191144041.html?.tsrc=rss",
+      "published": "Sat, 07 Nov 2026 19:11:44 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-07T21:19:52.228995+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Why Billionaire Armitage Trims but Still Keeps Alphabet (GOOGL) as a Core Hyperscaler Exposure",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-billionaire-armitage-trims-still-185518940.html?.tsrc=rss",
+      "published": "Sat, 07 Nov 2026 18:55:18 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-07T21:19:52.229045+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "He Loses His Job at 62 as Amazon Cuts 95 More Positions. He Claims Social Security to Get By, Then Faces an $8,400 Bill to Undo It",
+      "link": "https://247wallst.com/personal-finance/social-security/2026/11/07/he-loses-his-job-at-62-as-amazon-cuts-95-more-positions-he-claims-social-security-to-get-by-then-faces-an-8400-bill-to-undo-it/?.tsrc=rss",
+      "published": "Sat, 07 Nov 2026 19:04:44 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-07T21:19:52.416521+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "Meta’s Bond Sale Shows New Reality for Tech Debt",
+      "link": "https://finance.yahoo.com/technology/articles/meta-bond-sale-shows-reality-200000968.html?.tsrc=rss",
+      "published": "Sat, 07 Nov 2026 20:00:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-07T21:19:52.558624+00:00"
+    },
+    {
+      "ticker": "CRM",
+      "title": "Braze (BRZE), What Is Behind The Attention Now?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/braze-brze-behind-attention-now-201200280.html?.tsrc=rss",
+      "published": "Sat, 07 Nov 2026 20:12:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-07T21:19:53.357577+00:00"
+    },
+    {
+      "ticker": "PLTR",
+      "title": "Palantir Stock Just Fell 8 Days in a Row. History Says What Followed Its Only 2 Longer Losing Streaks.",
+      "link": "https://www.fool.com/investing/2026/11/07/palantir-stock-just-fell-8-days-in-a-row-history-says-what-followed-its-only-2-longer-losing-streaks/?.tsrc=rss",
+      "published": "Sat, 07 Nov 2026 19:56:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-07T21:19:54.019452+00:00"
+    },
+    {
+      "ticker": "IBM",
+      "title": "He Inherited 8,000 IBM Shares Worth Nearly $2 Million at 52. The Often Overlooked IRS Rule That Decides Whether Most of It Is Taxed as Income or a Capital Gain",
+      "link": "https://247wallst.com/personal-finance/2026/11/07/he-inherited-8000-ibm-shares-worth-nearly-2-million-at-52-the-often-overlooked-irs-rule-that-decides-whether-most-of-it-is-taxed-as-income-or-a-capital-gain/?.tsrc=rss",
+      "published": "Sat, 07 Nov 2026 20:39:12 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-07T21:19:54.331642+00:00"
     }
   ]
 }
