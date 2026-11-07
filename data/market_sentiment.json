@@ -1,14 +1,14 @@
 {
   "date": "2026-11-06",
-  "score": 59,
-  "label": "Mixed",
+  "score": 60,
+  "label": "Bullish",
   "counts": {
-    "positive": 50,
+    "positive": 52,
     "negative": 35,
-    "neutral": 98
+    "neutral": 101
   },
-  "total": 183,
-  "updated_at": "2026-11-07T00:34:25.508157+00:00",
+  "total": 188,
+  "updated_at": "2026-11-07T01:53:15.921145+00:00",
   "articles": [
     {
       "link": "https://www.fool.com/investing/2026/11/06/fed-chair-kevin-warsh-planning-fed-policy-change/?.tsrc=rss",
@@ -740,6 +740,26 @@
     },
     {
       "link": "https://finance.yahoo.com/technology/ai/articles/super-micro-computer-smci-makes-233335805.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-backed-groq-seeks-8-013053376.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/q3-earnings-broad-based-growth-002200772.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/b007a5be-2a9e-3534-973c-5e577846b13e/uber%E2%80%99s-robo-push.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/articles/elon-musk-once-said-cybertruck-215957190.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ondas-inc-onds-key-business-013449690.html?.tsrc=rss",
       "sentiment": "positive"
     }
   ]

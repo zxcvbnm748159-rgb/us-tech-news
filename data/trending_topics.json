@@ -1,7 +1,7 @@
 {
   "date": "2026-11-06",
   "window_days": 7,
-  "source_count": 1378,
+  "source_count": 1383,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 196,
+      "count": 197,
       "kind": "ticker"
     },
     {
@@ -21,7 +21,7 @@
         "revenue guidance",
         "profit forecast"
       ],
-      "count": 161,
+      "count": 162,
       "kind": "topic"
     },
     {
@@ -30,7 +30,7 @@
       "search_terms": [
         "GOOGL"
       ],
-      "count": 131,
+      "count": 133,
       "kind": "ticker"
     },
     {
@@ -75,7 +75,7 @@
       "search_terms": [
         "TSLA"
       ],
-      "count": 85,
+      "count": 86,
       "kind": "ticker"
     },
     {
@@ -115,7 +115,7 @@
       "kind": "ticker"
     }
   ],
-  "updated_at": "2026-11-07T00:34:25.539316+00:00",
+  "updated_at": "2026-11-07T01:53:15.965587+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -18061,6 +18061,76 @@
       "sentiment": "positive",
       "sentiment_source": "headline_vader",
       "fetched_at": "2026-11-07T00:34:24.061983+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Nvidia-backed Groq seeks $8 billion valuation in new funding round - Bloomberg",
+      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-backed-groq-seeks-8-013053376.html?.tsrc=rss",
+      "published": "Sat, 07 Nov 2026 01:30:53 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-07T01:53:12.342909+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Q3 Earnings Update: Broad-Based Growth, Key Sector Outliers, and What's Ahead for Q4",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/q3-earnings-broad-based-growth-002200772.html?.tsrc=rss",
+      "published": "Sat, 07 Nov 2026 00:22:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-07T01:53:12.829250+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Uber’s Robo Push",
+      "link": "https://finance.yahoo.com/m/b007a5be-2a9e-3534-973c-5e577846b13e/uber%E2%80%99s-robo-push.html?.tsrc=rss",
+      "published": "Sat, 07 Nov 2026 00:19:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-07T01:53:12.829288+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Elon Musk once said the Cybertruck would be Tesla’s ‘best product ever.’ Now he’s winding down production",
+      "link": "https://finance.yahoo.com/technology/articles/elon-musk-once-said-cybertruck-215957190.html?.tsrc=rss",
+      "published": "Fri, 06 Nov 2026 21:59:57 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-07T01:53:13.305122+00:00"
+    },
+    {
+      "ticker": "ONDS",
+      "title": "Ondas Inc. (ONDS) Key Business Updates Expected Next Week, Shares Climb 18%",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ondas-inc-onds-key-business-013449690.html?.tsrc=rss",
+      "published": "Sat, 07 Nov 2026 01:34:49 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-07T01:53:15.754546+00:00"
     }
   ]
 }
