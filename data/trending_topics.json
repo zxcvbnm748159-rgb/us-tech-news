@@ -1,7 +1,7 @@
 {
   "date": "2026-11-07",
   "window_days": 7,
-  "source_count": 1280,
+  "source_count": 1284,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 167,
+      "count": 169,
       "kind": "ticker"
     },
     {
@@ -30,7 +30,7 @@
       "search_terms": [
         "GOOGL"
       ],
-      "count": 118,
+      "count": 119,
       "kind": "ticker"
     },
     {
@@ -57,7 +57,7 @@
       "search_terms": [
         "TSLA"
       ],
-      "count": 87,
+      "count": 88,
       "kind": "ticker"
     },
     {
@@ -116,7 +116,7 @@
       "kind": "topic"
     }
   ],
-  "updated_at": "2026-11-07T07:59:34.350658+00:00",
+  "updated_at": "2026-11-07T09:30:45.689708+00:00",
   "articles": [
     {
       "ticker": "AMZN",
@@ -16807,6 +16807,62 @@
       "sentiment": "positive",
       "sentiment_source": "headline_vader",
       "fetched_at": "2026-11-07T07:59:33.331323+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Here's Where I Think Intel Stock Will Be at the End of 2030",
+      "link": "https://www.fool.com/investing/2026/11/07/here-s-where-i-think-intel-stock-will-be-at-the-end-of-2030/?.tsrc=rss",
+      "published": "Sat, 07 Nov 2026 09:12:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-07T09:30:41.711958+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Here's What a $10,000 Investment in Micron Stock Could Be Worth in 2028 (Hint: Big Gains Ahead)",
+      "link": "https://www.fool.com/investing/2026/11/07/heres-what-a-10000-investment-in-micron-stock-co/?.tsrc=rss",
+      "published": "Sat, 07 Nov 2026 08:50:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-07T09:30:41.712082+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Where Will Your Portfolio Be In 2031, Not Tomorrow?",
+      "link": "https://www.trefis.com/stock/nvda/articles/623125/where-will-your-portfolio-be-in-2031-not-tomorrow/2026-11-07?.tsrc=rss",
+      "published": "Sat, 07 Nov 2026 09:13:10 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-07T09:30:42.206535+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Prediction: Tesla’s FSD Attach Rate Will “Trend to 100%.” But Will It Be Enough to Save the Stock?",
+      "link": "https://www.tikr.com/blog/prediction-teslas-fsd-attach-rate-will-trend-to-100-but-will-it-be-enough-to-save-the-stock?ref=yahoofinance&tlnk=yf-261107-c7fx45q6&.tsrc=rss",
+      "published": "Sat, 07 Nov 2026 06:49:03 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-07T09:30:42.763845+00:00"
     }
   ]
 }

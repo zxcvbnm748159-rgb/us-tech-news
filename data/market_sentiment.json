@@ -1,14 +1,14 @@
 {
   "date": "2026-11-07",
-  "score": 33,
-  "label": "Bearish",
+  "score": 60,
+  "label": "Bullish",
   "counts": {
-    "positive": 1,
+    "positive": 3,
     "negative": 2,
-    "neutral": 3
+    "neutral": 5
   },
-  "total": 6,
-  "updated_at": "2026-11-07T07:59:34.319935+00:00",
+  "total": 10,
+  "updated_at": "2026-11-07T09:30:45.651813+00:00",
   "articles": [
     {
       "link": "https://stocktwits.com/news-articles/markets/equity/cathie-wood-ark-invest-buys-goog-amd-nvda-biotech-stocks-sell-crwv-avgo-lly/cNGVV2wR9Ii?.tsrc=rss",
@@ -33,6 +33,22 @@
     {
       "link": "https://247wallst.com/investing/2026/11/07/a-retiree-who-bought-1000-tesla-shares-at-197-just-watched-musk-kill-the-cybertruck/?.tsrc=rss",
       "sentiment": "negative"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/07/here-s-where-i-think-intel-stock-will-be-at-the-end-of-2030/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/07/heres-what-a-10000-investment-in-micron-stock-co/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.trefis.com/stock/nvda/articles/623125/where-will-your-portfolio-be-in-2031-not-tomorrow/2026-11-07?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.tikr.com/blog/prediction-teslas-fsd-attach-rate-will-trend-to-100-but-will-it-be-enough-to-save-the-stock?ref=yahoofinance&tlnk=yf-261107-c7fx45q6&.tsrc=rss",
+      "sentiment": "positive"
     }
   ]
 }
