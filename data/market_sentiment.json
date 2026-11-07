@@ -1,14 +1,14 @@
 {
   "date": "2026-11-06",
-  "score": 57,
+  "score": 59,
   "label": "Mixed",
   "counts": {
-    "positive": 46,
+    "positive": 50,
     "negative": 35,
-    "neutral": 93
+    "neutral": 98
   },
-  "total": 174,
-  "updated_at": "2026-11-06T23:17:33.528596+00:00",
+  "total": 183,
+  "updated_at": "2026-11-07T00:34:25.508157+00:00",
   "articles": [
     {
       "link": "https://www.fool.com/investing/2026/11/06/fed-chair-kevin-warsh-planning-fed-policy-change/?.tsrc=rss",
@@ -704,6 +704,42 @@
     },
     {
       "link": "https://www.thestreet.com/investing/stocks/cathie-wood-buys-47-million-of-popular-semiconductor-stock-nvidia-nvda?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-tightens-chip-tracking-001552079.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/06/warren-buffett-says-this-1-investing-move-is-key-a/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/06/if-i-could-buy-and-hold-only-1-artificial-intellig/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.thestreet.com/crypto/markets/google-backed-miners-710-million-profit-masks-operating-losses?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/articles/musks-futuristic-cybertruck-rolls-toward-143948079.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/befb5162-b4fe-32f1-9b11-f06e7cce8aed/tesla%E2%80%99s-self-driving-is-an.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/06/oracle-just-sold-usd10-billion-of-stock-at-usd116-a-share-is-the-stock-a-buy-at-that-price/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/oracle-orcl-ranks-sixth-among-233410631.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/super-micro-computer-smci-makes-233335805.html?.tsrc=rss",
       "sentiment": "positive"
     }
   ]

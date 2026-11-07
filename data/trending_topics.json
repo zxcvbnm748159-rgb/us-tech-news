@@ -1,7 +1,7 @@
 {
   "date": "2026-11-06",
   "window_days": 7,
-  "source_count": 1369,
+  "source_count": 1378,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 193,
+      "count": 196,
       "kind": "ticker"
     },
     {
@@ -30,7 +30,7 @@
       "search_terms": [
         "GOOGL"
       ],
-      "count": 130,
+      "count": 131,
       "kind": "ticker"
     },
     {
@@ -75,7 +75,7 @@
       "search_terms": [
         "TSLA"
       ],
-      "count": 83,
+      "count": 85,
       "kind": "ticker"
     },
     {
@@ -102,7 +102,7 @@
       "search_terms": [
         "ORCL"
       ],
-      "count": 69,
+      "count": 71,
       "kind": "ticker"
     },
     {
@@ -115,7 +115,7 @@
       "kind": "ticker"
     }
   ],
-  "updated_at": "2026-11-06T23:17:33.565495+00:00",
+  "updated_at": "2026-11-07T00:34:25.539316+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -17935,6 +17935,132 @@
       "sentiment": "positive",
       "sentiment_source": "headline_vader",
       "fetched_at": "2026-11-06T23:17:29.504878+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Nvidia (NVDA) Tightens Chip Tracking In Southeast Asia",
+      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-tightens-chip-tracking-001552079.html?.tsrc=rss",
+      "published": "Sat, 07 Nov 2026 00:15:52 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-07T00:34:20.804575+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Warren Buffett Says This 1 Investing Move Is Key After a Midterm Election. History Says He's Right.",
+      "link": "https://www.fool.com/investing/2026/11/06/warren-buffett-says-this-1-investing-move-is-key-a/?.tsrc=rss",
+      "published": "Fri, 06 Nov 2026 23:20:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-07T00:34:20.804629+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "If I Could Buy and Hold Only 1 Artificial Intelligence (AI) Stock Through a Democratic Congress, It Would Be This One",
+      "link": "https://www.fool.com/investing/2026/11/06/if-i-could-buy-and-hold-only-1-artificial-intellig/?.tsrc=rss",
+      "published": "Fri, 06 Nov 2026 23:11:44 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-07T00:34:20.804705+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Google-backed miner reveals $710M profit, operating loss surges 257%",
+      "link": "https://www.thestreet.com/crypto/markets/google-backed-miners-710-million-profit-masks-operating-losses?.tsrc=rss",
+      "published": "Fri, 06 Nov 2026 23:30:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-07T00:34:21.456741+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Musk's futuristic Cybertruck rolls toward exit",
+      "link": "https://finance.yahoo.com/technology/articles/musks-futuristic-cybertruck-rolls-toward-143948079.html?.tsrc=rss",
+      "published": "Fri, 06 Nov 2026 23:33:10 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-07T00:34:22.148286+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Tesla’s Self-Driving Is an American Marvel",
+      "link": "https://finance.yahoo.com/m/befb5162-b4fe-32f1-9b11-f06e7cce8aed/tesla%E2%80%99s-self-driving-is-an.html?.tsrc=rss",
+      "published": "Fri, 06 Nov 2026 23:15:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-07T00:34:22.148366+00:00"
+    },
+    {
+      "ticker": "ORCL",
+      "title": "Oracle Just Sold $10 Billion of Stock at $116 a Share. Is the Stock a Buy at That Price?",
+      "link": "https://www.fool.com/investing/2026/11/06/oracle-just-sold-usd10-billion-of-stock-at-usd116-a-share-is-the-stock-a-buy-at-that-price/?.tsrc=rss",
+      "published": "Sat, 07 Nov 2026 00:01:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-07T00:34:22.799158+00:00"
+    },
+    {
+      "ticker": "ORCL",
+      "title": "Oracle (ORCL) Ranks Sixth Among the Cheapest AI Data Center Stocks",
+      "link": "https://finance.yahoo.com/technology/ai/articles/oracle-orcl-ranks-sixth-among-233410631.html?.tsrc=rss",
+      "published": "Fri, 06 Nov 2026 23:34:10 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-07T00:34:22.799196+00:00"
+    },
+    {
+      "ticker": "SMCI",
+      "title": "Super Micro Computer (SMCI) Makes the List of the Cheapest AI Data Center Stocks",
+      "link": "https://finance.yahoo.com/technology/ai/articles/super-micro-computer-smci-makes-233335805.html?.tsrc=rss",
+      "published": "Fri, 06 Nov 2026 23:33:35 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-07T00:34:24.061983+00:00"
     }
   ]
 }
