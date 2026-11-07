@@ -1,7 +1,7 @@
 {
   "date": "2026-11-07",
   "window_days": 7,
-  "source_count": 1323,
+  "source_count": 1331,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 178,
+      "count": 182,
       "kind": "ticker"
     },
     {
@@ -30,7 +30,7 @@
       "search_terms": [
         "GOOGL"
       ],
-      "count": 126,
+      "count": 127,
       "kind": "ticker"
     },
     {
@@ -57,7 +57,7 @@
       "search_terms": [
         "TSLA"
       ],
-      "count": 92,
+      "count": 93,
       "kind": "ticker"
     },
     {
@@ -66,7 +66,7 @@
       "search_terms": [
         "AMZN"
       ],
-      "count": 89,
+      "count": 90,
       "kind": "ticker"
     },
     {
@@ -75,7 +75,7 @@
       "search_terms": [
         "MSFT"
       ],
-      "count": 83,
+      "count": 84,
       "kind": "ticker"
     },
     {
@@ -116,7 +116,7 @@
       "kind": "topic"
     }
   ],
-  "updated_at": "2026-11-07T17:17:25.088087+00:00",
+  "updated_at": "2026-11-07T19:04:14.914817+00:00",
   "articles": [
     {
       "ticker": "AMZN",
@@ -17409,6 +17409,118 @@
       "sentiment": "neutral",
       "sentiment_source": "headline_vader",
       "fetched_at": "2026-11-07T17:17:22.362311+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Nvidia Stock Has More Than 60% Upside According to Analysts' Average Price Target. Should You Buy While the AI Trade Wobbles?",
+      "link": "https://www.fool.com/investing/2026/11/07/nvidia-stock-has-more-than-60-upside-according-to/?.tsrc=rss",
+      "published": "Sat, 07 Nov 2026 18:20:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-07T19:04:11.597156+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "The S&P 500 Just Had Its Worst Week Since the April 2025 Tariff Crash",
+      "link": "https://247wallst.com/investing/2026/11/07/the-sp-500-just-had-its-worst-week-since-the-april-2025-tariff-crash/?.tsrc=rss",
+      "published": "Sat, 07 Nov 2026 17:33:39 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-07T19:04:11.597298+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Jim Cramer sends a strong signal to Nvidia stock investors",
+      "link": "https://www.thestreet.com/investing/stocks/jim-cramer-sends-a-strong-signal-to-nvidia-stock-investors?.tsrc=rss",
+      "published": "Sat, 07 Nov 2026 17:17:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-07T19:04:11.597358+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "The Artificial Intelligence (AI) Boom Is Far From Over. Here Are 4 Potential Long-Term Winners",
+      "link": "https://www.fool.com/investing/2026/11/07/the-artificial-intelligence-ai-boom-is-far-from-over-here-are-4-potential-long-term-winners/?.tsrc=rss",
+      "published": "Sat, 07 Nov 2026 17:05:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-07T19:04:11.597433+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Older Nvidia Chips Just Cost Oracle Its Microsoft AI Deal",
+      "link": "https://247wallst.com/investing/2026/11/07/older-nvidia-chips-just-cost-oracle-its-microsoft-ai-deal/?.tsrc=rss",
+      "published": "Sat, 07 Nov 2026 18:08:44 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-07T19:04:11.891454+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Micron and Sandisk Lead the Memory Market. 1 Stock Has Far Greater Upside.",
+      "link": "https://www.fool.com/investing/2026/11/07/micron-and-sandisk-lead-the-memory-market-1-stock/?.tsrc=rss",
+      "published": "Sat, 07 Nov 2026 17:50:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-07T19:04:12.046267+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Amazon Prime members' new Uber Eats perk comes with a $25 minimum",
+      "link": "https://www.thestreet.com/retail/amazon-prime-uber-eats-grubhub-delivery-change?.tsrc=rss",
+      "published": "Sat, 07 Nov 2026 18:07:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-07T19:04:12.200833+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Every Humanoid Robot Needs Rare-Earth Magnets. Here's the American Stock Positioned to Sell Them -- and It's Down 62%.",
+      "link": "https://www.fool.com/investing/2026/11/07/every-humanoid-robot-needs-rare-earth-magnets-here/?.tsrc=rss",
+      "published": "Sat, 07 Nov 2026 17:20:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-07T19:04:12.495842+00:00"
     }
   ]
 }

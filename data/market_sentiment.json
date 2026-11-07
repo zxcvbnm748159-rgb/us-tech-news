@@ -1,14 +1,14 @@
 {
   "date": "2026-11-07",
-  "score": 68,
+  "score": 69,
   "label": "Bullish",
   "counts": {
-    "positive": 17,
-    "negative": 8,
-    "neutral": 24
+    "positive": 20,
+    "negative": 9,
+    "neutral": 28
   },
-  "total": 49,
-  "updated_at": "2026-11-07T17:17:25.066882+00:00",
+  "total": 57,
+  "updated_at": "2026-11-07T19:04:14.874033+00:00",
   "articles": [
     {
       "link": "https://stocktwits.com/news-articles/markets/equity/cathie-wood-ark-invest-buys-goog-amd-nvda-biotech-stocks-sell-crwv-avgo-lly/cNGVV2wR9Ii?.tsrc=rss",
@@ -204,6 +204,38 @@
     },
     {
       "link": "https://www.fool.com/investing/2026/11/07/amd-stock-popped-after-earnings-then-gave-it-back/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/07/nvidia-stock-has-more-than-60-upside-according-to/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/11/07/the-sp-500-just-had-its-worst-week-since-the-april-2025-tariff-crash/?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.thestreet.com/investing/stocks/jim-cramer-sends-a-strong-signal-to-nvidia-stock-investors?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/07/the-artificial-intelligence-ai-boom-is-far-from-over-here-are-4-potential-long-term-winners/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/11/07/older-nvidia-chips-just-cost-oracle-its-microsoft-ai-deal/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/07/micron-and-sandisk-lead-the-memory-market-1-stock/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.thestreet.com/retail/amazon-prime-uber-eats-grubhub-delivery-change?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/07/every-humanoid-robot-needs-rare-earth-magnets-here/?.tsrc=rss",
       "sentiment": "neutral"
     }
   ]
