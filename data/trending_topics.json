@@ -1,7 +1,7 @@
 {
   "date": "2026-11-07",
   "window_days": 7,
-  "source_count": 1311,
+  "source_count": 1323,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 174,
+      "count": 178,
       "kind": "ticker"
     },
     {
@@ -21,7 +21,7 @@
         "revenue guidance",
         "profit forecast"
       ],
-      "count": 159,
+      "count": 160,
       "kind": "topic"
     },
     {
@@ -30,7 +30,7 @@
       "search_terms": [
         "GOOGL"
       ],
-      "count": 123,
+      "count": 126,
       "kind": "ticker"
     },
     {
@@ -39,7 +39,7 @@
       "search_terms": [
         "AAPL"
       ],
-      "count": 120,
+      "count": 121,
       "kind": "ticker"
     },
     {
@@ -48,7 +48,7 @@
       "search_terms": [
         "AMD"
       ],
-      "count": 95,
+      "count": 96,
       "kind": "ticker"
     },
     {
@@ -57,7 +57,7 @@
       "search_terms": [
         "TSLA"
       ],
-      "count": 91,
+      "count": 92,
       "kind": "ticker"
     },
     {
@@ -66,7 +66,7 @@
       "search_terms": [
         "AMZN"
       ],
-      "count": 88,
+      "count": 89,
       "kind": "ticker"
     },
     {
@@ -75,7 +75,7 @@
       "search_terms": [
         "MSFT"
       ],
-      "count": 82,
+      "count": 83,
       "kind": "ticker"
     },
     {
@@ -116,7 +116,7 @@
       "kind": "topic"
     }
   ],
-  "updated_at": "2026-11-07T14:44:59.888921+00:00",
+  "updated_at": "2026-11-07T17:17:25.088087+00:00",
   "articles": [
     {
       "ticker": "AMZN",
@@ -17241,6 +17241,174 @@
       "sentiment": "positive",
       "sentiment_source": "headline_vader",
       "fetched_at": "2026-11-07T14:44:58.376699+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "1 AI Stock I'll Buy Hand Over Fist If the Market Crashes",
+      "link": "https://www.fool.com/investing/2026/11/07/1-ai-stock-ill-buy-hand-over-fist-if-market-crash/?.tsrc=rss",
+      "published": "Sat, 07 Nov 2026 16:20:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-07T17:17:21.195417+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Wall Street May Have Lost $2.5 Trillion, but This 30% Warning Could Be an Even Bigger Problem for AI Stocks",
+      "link": "https://247wallst.com/investing/2026/11/07/wall-street-may-have-lost-2-5-trillion-but-this-30-warning-could-be-an-even-bigger-problem-for-ai-stocks/?.tsrc=rss",
+      "published": "Sat, 07 Nov 2026 15:34:09 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-07T17:17:21.195513+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "TSMC Jumped 6% on a Report It Could Make Memory Chips for Nvidia",
+      "link": "https://247wallst.com/investing/2026/11/07/tsmc-jumped-6-on-a-report-it-could-make-memory-chips-for-nvidia/?.tsrc=rss",
+      "published": "Sat, 07 Nov 2026 15:13:51 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-07T17:17:21.195537+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Here's How These 6 Big Bank Stocks Make Their Money",
+      "link": "https://www.fool.com/investing/2026/11/07/how-these-6-big-bank-stocks-make-their-money/?.tsrc=rss",
+      "published": "Sat, 07 Nov 2026 15:05:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-07T17:17:21.195553+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Apple Completes the Set: Every Magnificent Seven Stock Opts Out of OKX-ICE Venue",
+      "link": "https://decrypt.co/382768/apple-meta-every-magnificent-seven-stock-opts-out-okx-ice-venue?.tsrc=rss",
+      "published": "Sat, 07 Nov 2026 17:01:03 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-07T17:17:21.330887+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "AI Stocks Diverge as Democratic Election Victory Sparks Rotation Into Cloud Giants",
+      "link": "https://investorshub.advfn.com/market-news/article/39467/ai-stocks-diverge-as-democratic-election-victory-sparks-rotation-into-cloud-giants?.tsrc=rss",
+      "published": "Sat, 07 Nov 2026 15:54:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-07T17:17:21.474384+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "AST SpaceMobile Is Building Its Own Reusable Rocket to Rely Less on SpaceX",
+      "link": "https://247wallst.com/investing/2026/11/07/ast-spacemobile-is-building-its-own-reusable-rocket-to-rely-less-on-spacex/?.tsrc=rss",
+      "published": "Sat, 07 Nov 2026 16:49:42 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-07T17:17:21.618272+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Fed Chair Kevin Warsh Just Issued a 6-Word Warning That Could Spell Disaster for AI Stocks",
+      "link": "https://247wallst.com/investing/2026/11/07/fed-chair-kevin-warsh-just-issued-a-6-word-warning-that-could-spell-disaster-for-ai-stocks/?.tsrc=rss",
+      "published": "Sat, 07 Nov 2026 15:26:32 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-07T17:17:21.618355+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Pinterest CEO: The EU Hit Was “Greater Than We Anticipated.” Its Q4 Guide Sits $70 Million Light",
+      "link": "https://www.tikr.com/blog/pinterest-ceo-the-eu-hit-was-greater-than-we-anticipated-its-q4-guide-sits-70-million-light?ref=yahoofinance&tlnk=yf-261107-43v3vfp7&.tsrc=rss",
+      "published": "Sat, 07 Nov 2026 15:03:36 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-07T17:17:21.618385+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "America Just Matched a 57-Year Employment Record. Why Are Workers Still Worried?",
+      "link": "https://247wallst.com/investing/2026/11/07/america-just-matched-a-57-year-employment-record-why-are-workers-still-worried/?.tsrc=rss",
+      "published": "Sat, 07 Nov 2026 15:59:21 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-07T17:17:21.801127+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "3 Artificial Intelligence (AI) Stocks I’d Buy Without Hesitation in a Market Crash",
+      "link": "https://www.fool.com/investing/2026/11/07/3-artificial-intelligence-ai-stocks-i-d-buy-without-hesitation-in-a-market-crash/?.tsrc=rss",
+      "published": "Sat, 07 Nov 2026 14:50:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-07T17:17:22.193888+00:00"
+    },
+    {
+      "ticker": "AMD",
+      "title": "AMD Stock Popped After Earnings, Then Gave It All Back. Is It a Buy Now?",
+      "link": "https://www.fool.com/investing/2026/11/07/amd-stock-popped-after-earnings-then-gave-it-back/?.tsrc=rss",
+      "published": "Sat, 07 Nov 2026 15:23:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-07T17:17:22.362311+00:00"
     }
   ]
 }

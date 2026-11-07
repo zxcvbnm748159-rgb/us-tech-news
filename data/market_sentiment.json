@@ -1,14 +1,14 @@
 {
   "date": "2026-11-07",
-  "score": 74,
+  "score": 68,
   "label": "Bullish",
   "counts": {
-    "positive": 14,
-    "negative": 5,
-    "neutral": 18
+    "positive": 17,
+    "negative": 8,
+    "neutral": 24
   },
-  "total": 37,
-  "updated_at": "2026-11-07T14:44:59.865344+00:00",
+  "total": 49,
+  "updated_at": "2026-11-07T17:17:25.066882+00:00",
   "articles": [
     {
       "link": "https://stocktwits.com/news-articles/markets/equity/cathie-wood-ark-invest-buys-goog-amd-nvda-biotech-stocks-sell-crwv-avgo-lly/cNGVV2wR9Ii?.tsrc=rss",
@@ -157,6 +157,54 @@
     {
       "link": "https://www.fool.com/investing/2026/11/07/palantir-stock-investors-great-news-wall-street-stock-soar/?.tsrc=rss",
       "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/07/1-ai-stock-ill-buy-hand-over-fist-if-market-crash/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/11/07/wall-street-may-have-lost-2-5-trillion-but-this-30-warning-could-be-an-even-bigger-problem-for-ai-stocks/?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/11/07/tsmc-jumped-6-on-a-report-it-could-make-memory-chips-for-nvidia/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/07/how-these-6-big-bank-stocks-make-their-money/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://decrypt.co/382768/apple-meta-every-magnificent-seven-stock-opts-out-okx-ice-venue?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://investorshub.advfn.com/market-news/article/39467/ai-stocks-diverge-as-democratic-election-victory-sparks-rotation-into-cloud-giants?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/11/07/ast-spacemobile-is-building-its-own-reusable-rocket-to-rely-less-on-spacex/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/11/07/fed-chair-kevin-warsh-just-issued-a-6-word-warning-that-could-spell-disaster-for-ai-stocks/?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.tikr.com/blog/pinterest-ceo-the-eu-hit-was-greater-than-we-anticipated-its-q4-guide-sits-70-million-light?ref=yahoofinance&tlnk=yf-261107-43v3vfp7&.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/11/07/america-just-matched-a-57-year-employment-record-why-are-workers-still-worried/?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/07/3-artificial-intelligence-ai-stocks-i-d-buy-without-hesitation-in-a-market-crash/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/07/amd-stock-popped-after-earnings-then-gave-it-back/?.tsrc=rss",
+      "sentiment": "neutral"
     }
   ]
 }
