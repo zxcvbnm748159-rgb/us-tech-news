@@ -1,14 +1,14 @@
 {
   "date": "2026-11-07",
-  "score": 71,
+  "score": 72,
   "label": "Bullish",
   "counts": {
-    "positive": 29,
+    "positive": 31,
     "negative": 12,
     "neutral": 38
   },
-  "total": 79,
-  "updated_at": "2026-11-08T01:50:21.230299+00:00",
+  "total": 81,
+  "updated_at": "2026-11-08T03:52:45.780969+00:00",
   "articles": [
     {
       "link": "https://stocktwits.com/news-articles/markets/equity/cathie-wood-ark-invest-buys-goog-amd-nvda-biotech-stocks-sell-crwv-avgo-lly/cNGVV2wR9Ii?.tsrc=rss",
@@ -324,6 +324,14 @@
     },
     {
       "link": "https://finance.yahoo.com/technology/ai/articles/tsmc-stock-2-ai-infrastructure-002240662.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/07/history-says-energy-led-all-sectors-in-the-last-be/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/07/anduril-keeps-winning-billion-dollar-contracts-and/?.tsrc=rss",
       "sentiment": "positive"
     }
   ]

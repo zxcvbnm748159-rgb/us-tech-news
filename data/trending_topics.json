@@ -1,7 +1,7 @@
 {
   "date": "2026-11-07",
   "window_days": 7,
-  "source_count": 1353,
+  "source_count": 1355,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 190,
+      "count": 192,
       "kind": "ticker"
     },
     {
@@ -116,7 +116,7 @@
       "kind": "topic"
     }
   ],
-  "updated_at": "2026-11-08T01:50:21.257087+00:00",
+  "updated_at": "2026-11-08T03:52:45.818396+00:00",
   "articles": [
     {
       "ticker": "AMZN",
@@ -17829,6 +17829,34 @@
       "sentiment": "positive",
       "sentiment_source": "headline_vader",
       "fetched_at": "2026-11-08T01:50:20.515138+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "History Says Energy Led All Sectors in the Last Bear Market. Here's What's Different Now.",
+      "link": "https://www.fool.com/investing/2026/11/07/history-says-energy-led-all-sectors-in-the-last-be/?.tsrc=rss",
+      "published": "Sun, 08 Nov 2026 03:20:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-08T03:52:42.780022+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Anduril Keeps Winning Billion-Dollar Contracts and You Can't Buy It. Here Are 3 Public Stocks That Get Paid Alongside It.",
+      "link": "https://www.fool.com/investing/2026/11/07/anduril-keeps-winning-billion-dollar-contracts-and/?.tsrc=rss",
+      "published": "Sun, 08 Nov 2026 02:50:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-08T03:52:42.780105+00:00"
     }
   ]
 }
