@@ -1,14 +1,14 @@
 {
   "date": "2026-11-08",
-  "score": 56,
+  "score": 46,
   "label": "Mixed",
   "counts": {
-    "positive": 5,
-    "negative": 4,
-    "neutral": 13
+    "positive": 6,
+    "negative": 7,
+    "neutral": 19
   },
-  "total": 22,
-  "updated_at": "2026-11-08T12:37:02.594395+00:00",
+  "total": 32,
+  "updated_at": "2026-11-08T15:26:39.968730+00:00",
   "articles": [
     {
       "link": "https://finance.yahoo.com/technology/articles/nvidia-2-more-grid-stocks-071029806.html?.tsrc=rss",
@@ -96,6 +96,46 @@
     },
     {
       "link": "https://www.tikr.com/blog/sandisk-lost-51-in-a-month-bernstein-sees-259-upside-from-here?ref=yahoofinance&tlnk=yf-261108-x7rrjp34&.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.tikr.com/blog/ben-thompson-nvidia-will-almost-certainly-be-a-short-term-loser-from-the-blue-wave?ref=yahoofinance&tlnk=yf-261108-5q4fjcqc&.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/08/teslas-fsd-supervised-attach-rate-hit-75-on-new-ve/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/08/obamacare-subsidies-health-insure-stock-election/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/08/is-a-market-crash-coming-warren-buffetts-warning-i/?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/08/should-you-forget-ionq-and-buy-these-2-quantum-com/?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/283e1bd9-349e-390b-a32b-b4ed9a9034f3/dow-jones-futures-loom-with.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/exclusive-democrats-took-congress-ais-114506653.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://stocktwits.com/news-articles/markets/equity/cathie-wood-tesla-robotaxi-business-escape-velocity-investors-waiting-for/cNGYPoVR9IH?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/08/elon-musk-tesla-end-cybertruck-production-why/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/intel-doubters-got-wrong-150828568.html?.tsrc=rss",
       "sentiment": "negative"
     }
   ]

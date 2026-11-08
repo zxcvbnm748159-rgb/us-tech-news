@@ -1,7 +1,7 @@
 {
   "date": "2026-11-08",
   "window_days": 7,
-  "source_count": 1301,
+  "source_count": 1313,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 178,
+      "count": 183,
       "kind": "ticker"
     },
     {
@@ -30,7 +30,7 @@
       "search_terms": [
         "GOOGL"
       ],
-      "count": 126,
+      "count": 128,
       "kind": "ticker"
     },
     {
@@ -39,7 +39,7 @@
       "search_terms": [
         "AAPL"
       ],
-      "count": 110,
+      "count": 111,
       "kind": "ticker"
     },
     {
@@ -57,7 +57,7 @@
       "search_terms": [
         "TSLA"
       ],
-      "count": 90,
+      "count": 92,
       "kind": "ticker"
     },
     {
@@ -116,7 +116,7 @@
       "kind": "topic"
     }
   ],
-  "updated_at": "2026-11-08T12:37:02.624856+00:00",
+  "updated_at": "2026-11-08T15:26:40.011973+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -17184,6 +17184,174 @@
       "sentiment": "negative",
       "sentiment_source": "headline_vader",
       "fetched_at": "2026-11-08T12:37:02.594069+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Ben Thompson: NVIDIA Will “Almost Certainly Be a Short-Term Loser” From the Blue Wave",
+      "link": "https://www.tikr.com/blog/ben-thompson-nvidia-will-almost-certainly-be-a-short-term-loser-from-the-blue-wave?ref=yahoofinance&tlnk=yf-261108-5q4fjcqc&.tsrc=rss",
+      "published": "Sun, 08 Nov 2026 14:21:04 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-08T15:26:35.042615+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Tesla's FSD (Supervised) Attach Rate Hit 75% on New Vehicles. Here's Why That Single Number Could Matter More Than Robotaxi for the Stock in 2027.",
+      "link": "https://www.fool.com/investing/2026/11/08/teslas-fsd-supervised-attach-rate-hit-75-on-new-ve/?.tsrc=rss",
+      "published": "Sun, 08 Nov 2026 15:10:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-08T15:26:35.042748+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Obamacare Subsidies Lapsed. Here's Why Health Insurer Stocks Are Watching the New Congress.",
+      "link": "https://www.fool.com/investing/2026/11/08/obamacare-subsidies-health-insure-stock-election/?.tsrc=rss",
+      "published": "Sun, 08 Nov 2026 14:35:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-08T15:26:35.042789+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Is a Market Crash Coming? Warren Buffett's Warning Is Ringing Loud and Clear.",
+      "link": "https://www.fool.com/investing/2026/11/08/is-a-market-crash-coming-warren-buffetts-warning-i/?.tsrc=rss",
+      "published": "Sun, 08 Nov 2026 14:09:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-08T15:26:35.042886+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Should You Forget IonQ and Buy These 2 Quantum Computing Stocks Instead?",
+      "link": "https://www.fool.com/investing/2026/11/08/should-you-forget-ionq-and-buy-these-2-quantum-com/?.tsrc=rss",
+      "published": "Sun, 08 Nov 2026 13:57:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-08T15:26:35.042934+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Dow Jones Futures Loom With Market Damaged, Big Winners Broken; Apple, Amazon, Microsoft Strong",
+      "link": "https://finance.yahoo.com/m/283e1bd9-349e-390b-a32b-b4ed9a9034f3/dow-jones-futures-loom-with.html?.tsrc=rss",
+      "published": "Sun, 08 Nov 2026 14:14:55 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-08T15:26:35.287647+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "EXCLUSIVE: Democrats Took Congress. But AI's Spending Binge Isn't Going Anywhere, This CEO Says",
+      "link": "https://finance.yahoo.com/technology/ai/articles/exclusive-democrats-took-congress-ais-114506653.html?.tsrc=rss",
+      "published": "Sun, 08 Nov 2026 11:45:06 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-08T15:26:35.752945+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Josh Brown Warns Alphabet Stock “Could Go Down 50%.” Here’s Where He’d Buy It",
+      "link": "https://www.tikr.com/blog/josh-brown-warns-alphabet-stock-could-go-down-50-heres-where-hed-buy-it?ref=yahoofinance&tlnk=yf-261108-hx888pm6&.tsrc=rss",
+      "published": "Sun, 08 Nov 2026 02:22:45 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-08T15:26:35.753029+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Cathie Wood Sees Tesla’s Robotaxi Business Taking Off — Says This Is The Moment Investors Have Waited For",
+      "link": "https://stocktwits.com/news-articles/markets/equity/cathie-wood-tesla-robotaxi-business-escape-velocity-investors-waiting-for/cNGYPoVR9IH?.tsrc=rss",
+      "published": "Sun, 08 Nov 2026 13:09:30 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-08T15:26:36.431002+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Elon Musk Says Tesla Will End Cybertruck Production -- Here's Why",
+      "link": "https://www.fool.com/investing/2026/11/08/elon-musk-tesla-end-cybertruck-production-why/?.tsrc=rss",
+      "published": "Sun, 08 Nov 2026 12:53:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-08T15:26:36.431046+00:00"
+    },
+    {
+      "ticker": "INTC",
+      "title": "What Intel Doubters Got Wrong",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/intel-doubters-got-wrong-150828568.html?.tsrc=rss",
+      "published": "Sun, 08 Nov 2026 15:08:28 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-08T15:26:37.723757+00:00"
+    },
+    {
+      "ticker": "SNDK",
+      "title": "Sandisk Shares Are Oversold: Bargain or Value Trap?",
+      "link": "https://www.marketbeat.com/articles/sandisk-shares-are-oversold-bargain-or-value-trap/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+      "published": "Sat, 07 Nov 2026 14:25:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-08T15:26:39.968348+00:00"
     }
   ]
 }
