@@ -1,7 +1,7 @@
 {
   "date": "2026-11-08",
   "window_days": 7,
-  "source_count": 1281,
+  "source_count": 1301,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 173,
+      "count": 178,
       "kind": "ticker"
     },
     {
@@ -21,7 +21,7 @@
         "revenue guidance",
         "profit forecast"
       ],
-      "count": 149,
+      "count": 150,
       "kind": "topic"
     },
     {
@@ -48,7 +48,7 @@
       "search_terms": [
         "AMD"
       ],
-      "count": 96,
+      "count": 97,
       "kind": "ticker"
     },
     {
@@ -57,7 +57,7 @@
       "search_terms": [
         "TSLA"
       ],
-      "count": 87,
+      "count": 90,
       "kind": "ticker"
     },
     {
@@ -66,7 +66,7 @@
       "search_terms": [
         "AMZN"
       ],
-      "count": 85,
+      "count": 86,
       "kind": "ticker"
     },
     {
@@ -75,7 +75,7 @@
       "search_terms": [
         "MSFT"
       ],
-      "count": 79,
+      "count": 80,
       "kind": "ticker"
     },
     {
@@ -84,7 +84,7 @@
       "search_terms": [
         "PLTR"
       ],
-      "count": 69,
+      "count": 71,
       "kind": "ticker"
     },
     {
@@ -93,7 +93,7 @@
       "search_terms": [
         "ORCL"
       ],
-      "count": 67,
+      "count": 68,
       "kind": "ticker"
     },
     {
@@ -102,7 +102,7 @@
       "search_terms": [
         "META"
       ],
-      "count": 60,
+      "count": 61,
       "kind": "ticker"
     },
     {
@@ -116,7 +116,7 @@
       "kind": "topic"
     }
   ],
-  "updated_at": "2026-11-08T08:18:29.011004+00:00",
+  "updated_at": "2026-11-08T12:37:02.624856+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -16904,6 +16904,286 @@
       "sentiment": "positive",
       "sentiment_source": "headline_vader",
       "fetched_at": "2026-11-08T08:18:26.619012+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Wall Street's Biggest Bubble Looks Ready to Burst, and I Don't Mean AI or Quantum Computing",
+      "link": "https://www.fool.com/investing/2026/11/08/wall-street-biggest-bubble-looks-ready-to-burst-not-ai-or-quantum-computing/?.tsrc=rss",
+      "published": "Sun, 08 Nov 2026 11:56:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-08T12:37:00.438521+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "3 Millionaire-Maker Quantum Computing Stocks",
+      "link": "https://www.fool.com/investing/2026/11/08/3-millionaire-maker-quantum-computing-stocks/?.tsrc=rss",
+      "published": "Sun, 08 Nov 2026 11:46:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-08T12:37:00.438558+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "3 AI Chip Stocks to Buy in November After the October Sell-Off",
+      "link": "https://www.fool.com/investing/2026/11/08/3-ai-chip-stocks-to-buy-in-november-after-the-octo/?.tsrc=rss",
+      "published": "Sun, 08 Nov 2026 11:05:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-08T12:37:00.438588+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Got $5,000? 2 Growth Stocks Building the Software Backbone of Artificial Intelligence (AI).",
+      "link": "https://www.fool.com/investing/2026/11/08/got-5000-2-growth-stocks-building-the-software-bac/?.tsrc=rss",
+      "published": "Sun, 08 Nov 2026 09:27:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-08T12:37:00.438675+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Where Will Lemonade Stock Be in 5 Years?",
+      "link": "https://www.fool.com/investing/2026/11/08/where-will-insurance-stock-stock-be-in-number-year/?.tsrc=rss",
+      "published": "Sun, 08 Nov 2026 12:22:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-08T12:37:00.438697+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Top 3 Quality Stocks To Watch In November 2026",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/top-3-quality-stocks-watch-091315093.html?.tsrc=rss",
+      "published": "Sun, 08 Nov 2026 09:13:15 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-08T12:37:00.618301+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "1 Stat That Makes Amazon Hard to Ignore Right Now",
+      "link": "https://www.fool.com/investing/2026/11/08/1-stat-that-makes-hot-ticker-hard-to-ignore-right/?.tsrc=rss",
+      "published": "Sun, 08 Nov 2026 09:05:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-08T12:37:00.787994+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "Here's how bro scaled from $10K to $60K/month with 1 creator 🤯",
+      "link": "https://starterstory.videonest.co/videos/2374490/here-s-how-bro-scaled-from-10k-to-60k-month-with-1-aBDm-6CoK4?.tsrc=rss",
+      "published": "Sun, 08 Nov 2026 11:31:39 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-08T12:37:00.875348+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Tesla (TSLA) To End Cybertruck Production In 2027 As Cybercab Takes Priority",
+      "link": "https://finance.yahoo.com/technology/ai/articles/tesla-tsla-end-cybertruck-production-120904526.html?.tsrc=rss",
+      "published": "Sun, 08 Nov 2026 12:09:04 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-08T12:37:00.959198+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Tesla Stock Hasn't Closed at a Record in Nearly 11 Months. Here's How Its Past Record Droughts Ended.",
+      "link": "https://www.fool.com/investing/2026/11/08/tesla-stock-hasn-t-closed-at-a-record-in-nearly-11-months-here-s-how-its-past-record-droughts-ended/?.tsrc=rss",
+      "published": "Sun, 08 Nov 2026 11:37:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-08T12:37:00.959244+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Ron Baron Has Made $30B Betting On Elon Musk — Now He Sees ‘Hundreds Of Billions’ More Coming From His TSLA, SPCX Investments",
+      "link": "https://stocktwits.com/news-articles/markets/equity/ron-baron-30b-betting-on-elon-musk-hundreds-billions-more-tsla-spcx-merger/cNGoz1vR9It?.tsrc=rss",
+      "published": "Sun, 08 Nov 2026 09:56:05 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-08T12:37:00.959292+00:00"
+    },
+    {
+      "ticker": "AMD",
+      "title": "AMD Stock Has More Than Doubled in 2026. Here's How Its Last 8 Doubles Played Out the Next Year.",
+      "link": "https://www.fool.com/investing/2026/11/08/amd-stock-has-more-than-doubled-in-2026-here-s-how-its-last-8-doubles-played-out-the-next-year/?.tsrc=rss",
+      "published": "Sun, 08 Nov 2026 10:27:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-08T12:37:01.052203+00:00"
+    },
+    {
+      "ticker": "AVGO",
+      "title": "Congressman Swaps One Chip Stock for Another: Here Are the Moves",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/congressman-swaps-one-chip-stock-104507987.html?.tsrc=rss",
+      "published": "Sun, 08 Nov 2026 10:45:07 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-08T12:37:01.162584+00:00"
+    },
+    {
+      "ticker": "AVGO",
+      "title": "Broadcom Just Dropped 15% in a Week. Is It Time to Sell, or Load Up?",
+      "link": "https://www.tikr.com/blog/broadcom-just-dropped-15-in-a-week-is-it-time-to-sell-or-load-up?ref=yahoofinance&tlnk=yf-261108-84fh59r2&.tsrc=rss",
+      "published": "Sun, 08 Nov 2026 09:07:03 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-08T12:37:01.162649+00:00"
+    },
+    {
+      "ticker": "ORCL",
+      "title": "DTE Energy Q3 Earnings Call Highlights",
+      "link": "https://www.marketbeat.com/instant-alerts/transcript-dte-energy-q3-earnings-call-highlights-2026-11-07/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+      "published": "Sat, 07 Nov 2026 09:15:41 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-08T12:37:01.247229+00:00"
+    },
+    {
+      "ticker": "INTC",
+      "title": "Intel, Arm, and Marvell Have Each Been Cut in Half Since June. Only 1 Is a Stock I'd Buy Now.",
+      "link": "https://www.fool.com/investing/2026/11/08/intel-arm-and-marvell-have-each-been-cut-in-half-since-june-only-1-is-a-stock-i-d-buy-now/?.tsrc=rss",
+      "published": "Sun, 08 Nov 2026 08:58:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-08T12:37:01.531426+00:00"
+    },
+    {
+      "ticker": "PLTR",
+      "title": "Palantir Technologies (PLTR) Lands Enterprise AI Partnership For Insurance And Retirement Rollout",
+      "link": "https://finance.yahoo.com/technology/ai/articles/palantir-technologies-pltr-lands-enterprise-111205834.html?.tsrc=rss",
+      "published": "Sun, 08 Nov 2026 11:12:05 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-08T12:37:01.713036+00:00"
+    },
+    {
+      "ticker": "PLTR",
+      "title": "MarketBeat Week in Review – 11/2 - 11/6",
+      "link": "https://www.marketbeat.com/articles/marketbeat-week-in-review-2026-11-2-11-6/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+      "published": "Sat, 07 Nov 2026 12:00:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-08T12:37:01.713076+00:00"
+    },
+    {
+      "ticker": "IBM",
+      "title": "Better Dividend Stock: Cisco vs. IBM",
+      "link": "https://www.tikr.com/blog/better-dividend-stock-cisco-vs-ibm?ref=yahoofinancedividend&tlnk=yf-261108-g82m2jmw&.tsrc=rss",
+      "published": "Fri, 06 Nov 2026 21:53:18 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-08T12:37:01.893363+00:00"
+    },
+    {
+      "ticker": "SNDK",
+      "title": "Sandisk Lost 51% in a Month. Bernstein Sees 259% Upside From Here",
+      "link": "https://www.tikr.com/blog/sandisk-lost-51-in-a-month-bernstein-sees-259-upside-from-here?ref=yahoofinance&tlnk=yf-261108-x7rrjp34&.tsrc=rss",
+      "published": "Sun, 08 Nov 2026 08:13:43 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-08T12:37:02.594069+00:00"
     }
   ]
 }

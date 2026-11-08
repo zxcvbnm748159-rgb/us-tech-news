@@ -1,14 +1,14 @@
 {
   "date": "2026-11-08",
-  "score": 50,
+  "score": 56,
   "label": "Mixed",
   "counts": {
-    "positive": 1,
-    "negative": 1,
-    "neutral": 3
+    "positive": 5,
+    "negative": 4,
+    "neutral": 13
   },
-  "total": 5,
-  "updated_at": "2026-11-08T08:18:28.985470+00:00",
+  "total": 22,
+  "updated_at": "2026-11-08T12:37:02.594395+00:00",
   "articles": [
     {
       "link": "https://finance.yahoo.com/technology/articles/nvidia-2-more-grid-stocks-071029806.html?.tsrc=rss",
@@ -29,6 +29,74 @@
     {
       "link": "https://finance.yahoo.com/technology/ai/articles/ai-stocks-improve-portfolio-november-051245618.html?.tsrc=rss",
       "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/08/wall-street-biggest-bubble-looks-ready-to-burst-not-ai-or-quantum-computing/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/08/3-millionaire-maker-quantum-computing-stocks/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/08/3-ai-chip-stocks-to-buy-in-november-after-the-octo/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/08/got-5000-2-growth-stocks-building-the-software-bac/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/08/where-will-insurance-stock-stock-be-in-number-year/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/top-3-quality-stocks-watch-091315093.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/08/1-stat-that-makes-hot-ticker-hard-to-ignore-right/?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://starterstory.videonest.co/videos/2374490/here-s-how-bro-scaled-from-10k-to-60k-month-with-1-aBDm-6CoK4?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/tesla-tsla-end-cybertruck-production-120904526.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/08/tesla-stock-hasn-t-closed-at-a-record-in-nearly-11-months-here-s-how-its-past-record-droughts-ended/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://stocktwits.com/news-articles/markets/equity/ron-baron-30b-betting-on-elon-musk-hundreds-billions-more-tsla-spcx-merger/cNGoz1vR9It?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/08/amd-stock-has-more-than-doubled-in-2026-here-s-how-its-last-8-doubles-played-out-the-next-year/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/congressman-swaps-one-chip-stock-104507987.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.tikr.com/blog/broadcom-just-dropped-15-in-a-week-is-it-time-to-sell-or-load-up?ref=yahoofinance&tlnk=yf-261108-84fh59r2&.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/08/intel-arm-and-marvell-have-each-been-cut-in-half-since-june-only-1-is-a-stock-i-d-buy-now/?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/palantir-technologies-pltr-lands-enterprise-111205834.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.tikr.com/blog/sandisk-lost-51-in-a-month-bernstein-sees-259-upside-from-here?ref=yahoofinance&tlnk=yf-261108-x7rrjp34&.tsrc=rss",
+      "sentiment": "negative"
     }
   ]
 }
