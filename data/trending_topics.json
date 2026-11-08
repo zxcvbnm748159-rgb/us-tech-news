@@ -1,7 +1,7 @@
 {
   "date": "2026-11-08",
   "window_days": 7,
-  "source_count": 1313,
+  "source_count": 1337,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 183,
+      "count": 188,
       "kind": "ticker"
     },
     {
@@ -21,7 +21,7 @@
         "revenue guidance",
         "profit forecast"
       ],
-      "count": 150,
+      "count": 152,
       "kind": "topic"
     },
     {
@@ -30,7 +30,7 @@
       "search_terms": [
         "GOOGL"
       ],
-      "count": 128,
+      "count": 133,
       "kind": "ticker"
     },
     {
@@ -39,7 +39,7 @@
       "search_terms": [
         "AAPL"
       ],
-      "count": 111,
+      "count": 112,
       "kind": "ticker"
     },
     {
@@ -48,7 +48,7 @@
       "search_terms": [
         "AMD"
       ],
-      "count": 97,
+      "count": 99,
       "kind": "ticker"
     },
     {
@@ -66,7 +66,7 @@
       "search_terms": [
         "AMZN"
       ],
-      "count": 86,
+      "count": 87,
       "kind": "ticker"
     },
     {
@@ -75,7 +75,7 @@
       "search_terms": [
         "MSFT"
       ],
-      "count": 80,
+      "count": 82,
       "kind": "ticker"
     },
     {
@@ -84,7 +84,7 @@
       "search_terms": [
         "PLTR"
       ],
-      "count": 71,
+      "count": 73,
       "kind": "ticker"
     },
     {
@@ -102,7 +102,7 @@
       "search_terms": [
         "META"
       ],
-      "count": 61,
+      "count": 62,
       "kind": "ticker"
     },
     {
@@ -112,11 +112,11 @@
         "data center",
         "AI infrastructure"
       ],
-      "count": 58,
+      "count": 60,
       "kind": "topic"
     }
   ],
-  "updated_at": "2026-11-08T15:26:40.011973+00:00",
+  "updated_at": "2026-11-08T19:17:17.800697+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -17352,6 +17352,342 @@
       "sentiment": "positive",
       "sentiment_source": "headline_vader",
       "fetched_at": "2026-11-08T15:26:39.968348+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Where Gold and Copper Prices Go From Here -- and 3 Mining Stocks to Own Either Way",
+      "link": "https://www.fool.com/investing/2026/11/08/where-gold-and-copper-prices-go-from-here-and/?.tsrc=rss",
+      "published": "Sun, 08 Nov 2026 18:20:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-08T19:17:13.726425+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Why Nvidia Stock Looks Like a Bargain Right Now",
+      "link": "https://www.fool.com/investing/2026/11/08/why-nvidia-stock-looks-like-a-bargain-right-now/?.tsrc=rss",
+      "published": "Sun, 08 Nov 2026 17:10:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-08T19:17:13.726518+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Revolution Medicines' Pancreatic Cancer Drug Nearly Doubled Survival. Is the High-Flying Stock Still a Buy?",
+      "link": "https://www.fool.com/investing/2026/11/08/revolution-medicines-pancreatic-cancer-drug-nearly/?.tsrc=rss",
+      "published": "Sun, 08 Nov 2026 16:35:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-08T19:17:13.726572+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "AppLovin Shares Surge as Revenue Continues to Soar. Is It Too Late to Buy the Stock?",
+      "link": "https://www.fool.com/investing/2026/11/08/applovin-shares-surge-revenue-soar-buy-stock/?.tsrc=rss",
+      "published": "Sun, 08 Nov 2026 18:55:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-08T19:17:13.726608+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "This Stock Is a Nearly Guaranteed Winner From the AI Infrastructure Buildout",
+      "link": "https://www.fool.com/investing/2026/11/08/this-stock-is-a-nearly-guaranteed-winner-from-the/?.tsrc=rss",
+      "published": "Sun, 08 Nov 2026 18:42:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-08T19:17:13.726648+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Democrats prepare to go after Apple, Meta and Elon Musk companies",
+      "link": "https://www.thestreet.com/technology/democrats-prepare-to-go-after-apple-meta-and-elon-musk-companies?.tsrc=rss",
+      "published": "Sun, 08 Nov 2026 17:17:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-08T19:17:13.887930+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Microsoft Is Reportedly Getting Pickier About AI Data Center Deals. Is the Stock a Buy Now?",
+      "link": "https://www.fool.com/investing/2026/11/08/microsoft-is-reportedly-getting-pickier-about-ai-data-center-deals-is-the-stock-a-buy-now/?.tsrc=rss",
+      "published": "Sun, 08 Nov 2026 17:58:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-08T19:17:14.134302+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Microsoft (MSFT) Makes the 10 Best Dow Stocks for 2027 List as Azure Growth Speeds Up",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/microsoft-msft-makes-10-best-173628657.html?.tsrc=rss",
+      "published": "Sun, 08 Nov 2026 17:36:28 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-08T19:17:14.134401+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Why AI investors may favor established data-center owners",
+      "link": "https://www.thestreet.com/investing/why-ai-investors-may-favor-established-data-center-owners?.tsrc=rss",
+      "published": "Sun, 08 Nov 2026 18:55:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-08T19:17:14.329591+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Tesla Isn’t a Mag-Y Stock. This Is.",
+      "link": "https://finance.yahoo.com/m/1989a8d6-2668-3d81-b94f-8613123a1e6b/tesla-isn%E2%80%99t-a-mag-y-stock..html?.tsrc=rss",
+      "published": "Sun, 08 Nov 2026 17:23:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-08T19:17:14.329631+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "How sustainable is the AI investment boom after Thursday’s selloff?",
+      "link": "https://finance.yahoo.com/technology/ai/articles/sustainable-ai-investment-boom-thursday-164711242.html?.tsrc=rss",
+      "published": "Sun, 08 Nov 2026 16:47:11 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-08T19:17:14.329658+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Anthropic’s $895 Billion AI Gamble Could Become Wall Street’s Next Debt Nightmare",
+      "link": "https://247wallst.com/investing/2026/11/08/anthropics-895-billion-ai-gamble-could-become-wall-streets-next-debt-nightmare/?.tsrc=rss",
+      "published": "Sun, 08 Nov 2026 16:20:41 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-08T19:17:14.329711+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Anthropic’s $2.5 Trillion IPO Dream Could Be Heading for a $1 Trillion Reality Check",
+      "link": "https://247wallst.com/investing/2026/11/08/anthropics-2-5-trillion-ipo-dream-could-be-heading-for-a-1-trillion-reality-check/?.tsrc=rss",
+      "published": "Sun, 08 Nov 2026 16:10:55 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-08T19:17:14.329759+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Amazon (AMZN): AWS Grew 39%, and Management Expects Growth Above 40% in 2027 and 2028",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/amazon-amzn-aws-grew-39-173722876.html?.tsrc=rss",
+      "published": "Sun, 08 Nov 2026 17:37:22 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-08T19:17:14.545734+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "America’s Productivity Just Surged 3.6% — Is AI Finally Delivering on Its Promise?",
+      "link": "https://247wallst.com/investing/2026/11/08/americas-productivity-just-surged-3-6-is-ai-finally-delivering-on-its-promise/?.tsrc=rss",
+      "published": "Sun, 08 Nov 2026 16:44:38 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-08T19:17:14.718421+00:00"
+    },
+    {
+      "ticker": "AMD",
+      "title": "AMD Stock Dropped 11% Last Week. Is Intel’s PC Warning Really That Bad?",
+      "link": "https://www.tikr.com/blog/amd-stock-dropped-11-last-week-is-intels-pc-warning-really-that-bad?ref=yahoofinance&tlnk=yf-261108-jq3xv862&.tsrc=rss",
+      "published": "Sun, 08 Nov 2026 18:55:39 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-08T19:17:15.082847+00:00"
+    },
+    {
+      "ticker": "AMD",
+      "title": "Wall Street Is Dumping AI Stocks Even as Business Booms. Something Doesn’t Add Up.",
+      "link": "https://247wallst.com/investing/2026/11/08/wall-street-is-dumping-ai-stocks-even-as-business-booms-something-doesnt-add-up/?.tsrc=rss",
+      "published": "Sun, 08 Nov 2026 16:26:39 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-08T19:17:15.082908+00:00"
+    },
+    {
+      "ticker": "AVGO",
+      "title": "Broadcom Stock Has Lost Nearly 40% From Its Record. I'd Buy It Now.",
+      "link": "https://www.fool.com/investing/2026/11/08/broadcom-stock-has-lost-nearly-40-from-its-record-i-d-buy-it-now/?.tsrc=rss",
+      "published": "Sun, 08 Nov 2026 15:43:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-08T19:17:15.283414+00:00"
+    },
+    {
+      "ticker": "INTC",
+      "title": "Intel Stock Has Gone Nowhere in 8 Years. Why This Time Could Be Different",
+      "link": "https://247wallst.com/investing/2026/11/08/intel-stock-has-gone-nowhere-in-8-years-why-this-time-could-be-different/?.tsrc=rss",
+      "published": "Sun, 08 Nov 2026 16:29:58 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-08T19:17:16.026602+00:00"
+    },
+    {
+      "ticker": "QCOM",
+      "title": "Qualcomm’s Car Chips Grew 89% as Handsets Fell 26%. Is 16.7x Earnings Too Cheap?",
+      "link": "https://www.tikr.com/blog/qualcomms-car-chips-grew-89-as-handsets-fell-26-is-16-7x-earnings-too-cheap?ref=yahoofinance&tlnk=yf-261108-3p86fw4m&.tsrc=rss",
+      "published": "Sun, 08 Nov 2026 15:59:59 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-08T19:17:16.192345+00:00"
+    },
+    {
+      "ticker": "QCOM",
+      "title": "Why Qualcomm Stock Fell 9% Despite Beating Earnings Estimates",
+      "link": "https://www.fool.com/investing/2026/11/08/why-qualcomm-stock-fell-11-despite-beating-earning/?.tsrc=rss",
+      "published": "Sun, 08 Nov 2026 15:34:33 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-08T19:17:16.192407+00:00"
+    },
+    {
+      "ticker": "PLTR",
+      "title": "Palantir’s business beyond government just got a lot bigger",
+      "link": "https://www.thestreet.com/investing/stocks/palantirs-business-beyond-government-just-got-a-lot-bigger?.tsrc=rss",
+      "published": "Sun, 08 Nov 2026 18:17:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-08T19:17:16.347846+00:00"
+    },
+    {
+      "ticker": "PLTR",
+      "title": "Adobe vs. Palantir Technologies: Which Technology Stock Is a Better Buy Going Into 2027?",
+      "link": "https://www.fool.com/coverage/better-buy/2026/11/08/adobe-vs-palantir-technologies-which-technology-stock-is-a-better-buy-going-into-2027/?.tsrc=rss",
+      "published": "Sun, 08 Nov 2026 18:07:30 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-08T19:17:16.347920+00:00"
+    },
+    {
+      "ticker": "IBM",
+      "title": "IBM (IBM): Software Is Speeding Up, Yet Analysts’ Average Upside Is 5%",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ibm-ibm-software-speeding-yet-173256823.html?.tsrc=rss",
+      "published": "Sun, 08 Nov 2026 17:32:56 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-08T19:17:16.720359+00:00"
     }
   ]
 }

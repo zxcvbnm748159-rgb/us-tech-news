@@ -1,14 +1,14 @@
 {
   "date": "2026-11-08",
-  "score": 46,
+  "score": 57,
   "label": "Mixed",
   "counts": {
-    "positive": 6,
-    "negative": 7,
-    "neutral": 19
+    "positive": 16,
+    "negative": 12,
+    "neutral": 28
   },
-  "total": 32,
-  "updated_at": "2026-11-08T15:26:39.968730+00:00",
+  "total": 56,
+  "updated_at": "2026-11-08T19:17:17.767037+00:00",
   "articles": [
     {
       "link": "https://finance.yahoo.com/technology/articles/nvidia-2-more-grid-stocks-071029806.html?.tsrc=rss",
@@ -137,6 +137,102 @@
     {
       "link": "https://finance.yahoo.com/markets/stocks/articles/intel-doubters-got-wrong-150828568.html?.tsrc=rss",
       "sentiment": "negative"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/08/where-gold-and-copper-prices-go-from-here-and/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/08/why-nvidia-stock-looks-like-a-bargain-right-now/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/08/revolution-medicines-pancreatic-cancer-drug-nearly/?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/08/applovin-shares-surge-revenue-soar-buy-stock/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/08/this-stock-is-a-nearly-guaranteed-winner-from-the/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.thestreet.com/technology/democrats-prepare-to-go-after-apple-meta-and-elon-musk-companies?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/08/microsoft-is-reportedly-getting-pickier-about-ai-data-center-deals-is-the-stock-a-buy-now/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/microsoft-msft-makes-10-best-173628657.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.thestreet.com/investing/why-ai-investors-may-favor-established-data-center-owners?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/1989a8d6-2668-3d81-b94f-8613123a1e6b/tesla-isn%E2%80%99t-a-mag-y-stock..html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/sustainable-ai-investment-boom-thursday-164711242.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/11/08/anthropics-895-billion-ai-gamble-could-become-wall-streets-next-debt-nightmare/?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/11/08/anthropics-2-5-trillion-ipo-dream-could-be-heading-for-a-1-trillion-reality-check/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/amazon-amzn-aws-grew-39-173722876.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/11/08/americas-productivity-just-surged-3-6-is-ai-finally-delivering-on-its-promise/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.tikr.com/blog/amd-stock-dropped-11-last-week-is-intels-pc-warning-really-that-bad?ref=yahoofinance&tlnk=yf-261108-jq3xv862&.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/11/08/wall-street-is-dumping-ai-stocks-even-as-business-booms-something-doesnt-add-up/?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/08/broadcom-stock-has-lost-nearly-40-from-its-record-i-d-buy-it-now/?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/11/08/intel-stock-has-gone-nowhere-in-8-years-why-this-time-could-be-different/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.tikr.com/blog/qualcomms-car-chips-grew-89-as-handsets-fell-26-is-16-7x-earnings-too-cheap?ref=yahoofinance&tlnk=yf-261108-3p86fw4m&.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/08/why-qualcomm-stock-fell-11-despite-beating-earning/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.thestreet.com/investing/stocks/palantirs-business-beyond-government-just-got-a-lot-bigger?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/coverage/better-buy/2026/11/08/adobe-vs-palantir-technologies-which-technology-stock-is-a-better-buy-going-into-2027/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ibm-ibm-software-speeding-yet-173256823.html?.tsrc=rss",
+      "sentiment": "neutral"
     }
   ]
 }
