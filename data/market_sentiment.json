@@ -1,14 +1,14 @@
 {
   "date": "2026-11-07",
-  "score": 69,
+  "score": 71,
   "label": "Bullish",
   "counts": {
-    "positive": 24,
-    "negative": 11,
-    "neutral": 36
+    "positive": 29,
+    "negative": 12,
+    "neutral": 38
   },
-  "total": 71,
-  "updated_at": "2026-11-07T22:42:01.752894+00:00",
+  "total": 79,
+  "updated_at": "2026-11-08T01:50:21.230299+00:00",
   "articles": [
     {
       "link": "https://stocktwits.com/news-articles/markets/equity/cathie-wood-ark-invest-buys-goog-amd-nvda-biotech-stocks-sell-crwv-avgo-lly/cNGVV2wR9Ii?.tsrc=rss",
@@ -293,6 +293,38 @@
     {
       "link": "https://finance.yahoo.com/m/0866fd80-5f0e-31ac-8e1b-909adaacfb82/berkshire-surprised-with.html?.tsrc=rss",
       "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-2-other-ai-stocks-231249303.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/07/amd-stock-just-fell-below-the-price-i-said-i-d-pay-for-it/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/07/warren-buffett-greg-abel-just-sent-shockwaves-through-wall-street-with-377-billion-warning/?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/07/energy-transfer-just-raised-its-distribution-for-t/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/07/novo-nordisk-just-delivered-great-news-for-investors-is-a-comeback-finally-underway/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/07/alphabets-15-billion-investment-in-malaysia-data-c/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/5-best-dow-stocks-buy-231819373.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/tsmc-stock-2-ai-infrastructure-002240662.html?.tsrc=rss",
+      "sentiment": "positive"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "date": "2026-11-07",
   "window_days": 7,
-  "source_count": 1345,
+  "source_count": 1353,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 185,
+      "count": 190,
       "kind": "ticker"
     },
     {
@@ -30,7 +30,7 @@
       "search_terms": [
         "GOOGL"
       ],
-      "count": 130,
+      "count": 132,
       "kind": "ticker"
     },
     {
@@ -112,11 +112,11 @@
         "data center",
         "AI infrastructure"
       ],
-      "count": 58,
+      "count": 60,
       "kind": "topic"
     }
   ],
-  "updated_at": "2026-11-07T22:42:01.786490+00:00",
+  "updated_at": "2026-11-08T01:50:21.257087+00:00",
   "articles": [
     {
       "ticker": "AMZN",
@@ -17717,6 +17717,118 @@
       "sentiment": "neutral",
       "sentiment_source": "headline_vader",
       "fetched_at": "2026-11-07T22:41:59.297621+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "NVIDIA And 2 Other AI Stocks To Watch",
+      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-2-other-ai-stocks-231249303.html?.tsrc=rss",
+      "published": "Sat, 07 Nov 2026 23:12:49 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-08T01:50:17.421166+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "AMD Stock Just Fell Below the Price I Said I'd Pay for It.",
+      "link": "https://www.fool.com/investing/2026/11/07/amd-stock-just-fell-below-the-price-i-said-i-d-pay-for-it/?.tsrc=rss",
+      "published": "Sun, 08 Nov 2026 00:58:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-08T01:50:17.421255+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Warren Buffett and Greg Abel Just Sent Shockwaves Through Wall Street With This $377 Billion Warning",
+      "link": "https://www.fool.com/investing/2026/11/07/warren-buffett-greg-abel-just-sent-shockwaves-through-wall-street-with-377-billion-warning/?.tsrc=rss",
+      "published": "Sun, 08 Nov 2026 00:43:01 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-08T01:50:17.421313+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Energy Transfer Just Raised Its Distribution for the 20th Straight Quarter. Here's How Much $10,000 Invested Pays Annually.",
+      "link": "https://www.fool.com/investing/2026/11/07/energy-transfer-just-raised-its-distribution-for-t/?.tsrc=rss",
+      "published": "Sun, 08 Nov 2026 00:20:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-08T01:50:17.421369+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Novo Nordisk Just Delivered Great News for Investors. Is a Comeback Finally Underway?",
+      "link": "https://www.fool.com/investing/2026/11/07/novo-nordisk-just-delivered-great-news-for-investors-is-a-comeback-finally-underway/?.tsrc=rss",
+      "published": "Sat, 07 Nov 2026 23:40:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-08T01:50:17.421415+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Alphabet's $15 Billion Investment in Malaysia Data Centers Shows That Midterm Results Won't Stop the AI Boom",
+      "link": "https://www.fool.com/investing/2026/11/07/alphabets-15-billion-investment-in-malaysia-data-c/?.tsrc=rss",
+      "published": "Sun, 08 Nov 2026 01:20:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-08T01:50:17.943888+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "5 Best Dow Stocks to Buy for 2027",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/5-best-dow-stocks-buy-231819373.html?.tsrc=rss",
+      "published": "Sat, 07 Nov 2026 23:18:19 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-08T01:50:17.943932+00:00"
+    },
+    {
+      "ticker": "TSM",
+      "title": "TSMC Stock And 2 AI Infrastructure Shares Riding The AGI Spending Wave",
+      "link": "https://finance.yahoo.com/technology/ai/articles/tsmc-stock-2-ai-infrastructure-002240662.html?.tsrc=rss",
+      "published": "Sun, 08 Nov 2026 00:22:40 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-08T01:50:20.515138+00:00"
     }
   ]
 }
