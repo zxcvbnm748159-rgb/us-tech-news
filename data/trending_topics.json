@@ -1,7 +1,7 @@
 {
   "date": "2026-11-08",
   "window_days": 7,
-  "source_count": 1339,
+  "source_count": 1361,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 189,
+      "count": 194,
       "kind": "ticker"
     },
     {
@@ -21,7 +21,7 @@
         "revenue guidance",
         "profit forecast"
       ],
-      "count": 153,
+      "count": 154,
       "kind": "topic"
     },
     {
@@ -30,7 +30,7 @@
       "search_terms": [
         "GOOGL"
       ],
-      "count": 134,
+      "count": 138,
       "kind": "ticker"
     },
     {
@@ -39,7 +39,7 @@
       "search_terms": [
         "AAPL"
       ],
-      "count": 112,
+      "count": 115,
       "kind": "ticker"
     },
     {
@@ -48,7 +48,7 @@
       "search_terms": [
         "AMD"
       ],
-      "count": 99,
+      "count": 100,
       "kind": "ticker"
     },
     {
@@ -57,7 +57,7 @@
       "search_terms": [
         "TSLA"
       ],
-      "count": 92,
+      "count": 93,
       "kind": "ticker"
     },
     {
@@ -66,7 +66,7 @@
       "search_terms": [
         "AMZN"
       ],
-      "count": 87,
+      "count": 89,
       "kind": "ticker"
     },
     {
@@ -75,7 +75,7 @@
       "search_terms": [
         "MSFT"
       ],
-      "count": 82,
+      "count": 83,
       "kind": "ticker"
     },
     {
@@ -93,7 +93,7 @@
       "search_terms": [
         "ORCL"
       ],
-      "count": 68,
+      "count": 70,
       "kind": "ticker"
     },
     {
@@ -102,7 +102,7 @@
       "search_terms": [
         "META"
       ],
-      "count": 62,
+      "count": 64,
       "kind": "ticker"
     },
     {
@@ -116,7 +116,7 @@
       "kind": "topic"
     }
   ],
-  "updated_at": "2026-11-08T19:51:09.850204+00:00",
+  "updated_at": "2026-11-08T23:17:43.123718+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -17716,6 +17716,314 @@
       "sentiment": "neutral",
       "sentiment_source": "headline_vader",
       "fetched_at": "2026-11-08T19:51:07.127051+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Nvidia's board launches investigation into CEO Jensen Huang's affair with an alleged Chinese spy",
+      "link": "https://finance.yahoo.com/markets/article/nvidias-jensen-huang-admits-to-affair-after-allegations-of-romance-with-chinese-spy-report-205122263.html?.tsrc=rss",
+      "published": "Sun, 08 Nov 2026 20:51:22 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-08T23:17:38.244499+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Dow Jones Futures: Techs Slide As Nvidia Probes CEO Jensen Huang Spying Case",
+      "link": "https://finance.yahoo.com/m/283e1bd9-349e-390b-a32b-b4ed9a9034f3/dow-jones-futures%3A-techs.html?.tsrc=rss",
+      "published": "Sun, 08 Nov 2026 23:06:30 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-08T23:17:38.244555+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "AMD or Nvidia: Which AI Chip Stock Would I Buy With $1,000 Today?",
+      "link": "https://www.fool.com/investing/2026/11/08/amd-or-nvidia-which-ai-chip-stock-would-i-buy-with/?.tsrc=rss",
+      "published": "Sun, 08 Nov 2026 23:05:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-08T23:17:38.244594+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Nvidia Board Launches Probe In CEO Jensen Huang Spying Case",
+      "link": "https://finance.yahoo.com/m/7d4c4e40-eb01-324f-b03d-99c6800c4248/nvidia-board-launches-probe.html?.tsrc=rss",
+      "published": "Sun, 08 Nov 2026 23:04:58 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-08T23:17:38.244623+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Nvidia launches investigation into CEO Jensen Huang over foreign intelligence concerns",
+      "link": "https://www.cnn.com/2026/11/08/business/nvidia-investigation-ceo-jensen-huang?.tsrc=rss",
+      "published": "Sun, 08 Nov 2026 22:01:35 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-08T23:17:38.244719+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Apple Won’t “Play in Traffic” on AI. It’s Up 28% in a Year: Too Late to Buy?",
+      "link": "https://www.tikr.com/blog/apple-wont-play-in-traffic-on-ai-its-up-28-in-a-year-too-late-to-buy?ref=yahoofinance&tlnk=yf-261108-522mf3wh&.tsrc=rss",
+      "published": "Sun, 08 Nov 2026 21:55:41 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-08T23:17:38.465640+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "This Is the Best-Performing Magnificent Seven Stock of 2026. Is It Still a Buy?",
+      "link": "https://www.fool.com/investing/2026/11/08/this-is-best-performing-magnificent-seven-stock/?.tsrc=rss",
+      "published": "Sun, 08 Nov 2026 19:50:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-08T23:17:38.465752+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Apple’s iPhone Demand Surges, But AAPL Still Isn’t a ‘Strong Buy’",
+      "link": "https://www.barchart.com/story/news/8724367/apples-iphone-demand-surges-but-aapl-still-isnt-a-strong-buy?.tsrc=rss",
+      "published": "Sun, 08 Nov 2026 13:41:45 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-08T23:17:38.465819+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Lumen Technologies (LUMN) Could Be 47% Undervalued On Fresh Third Quarter Results",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/lumen-technologies-lumn-could-47-140858911.html?.tsrc=rss",
+      "published": "Sun, 08 Nov 2026 14:08:58 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-08T23:17:38.672757+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Could HBF be the solution to the Memory bottleneck?",
+      "link": "https://finance.yahoo.com/technology/ai/articles/could-hbf-solution-memory-bottleneck-224023081.html?.tsrc=rss",
+      "published": "Sun, 08 Nov 2026 22:40:23 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-08T23:17:38.887058+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "SpaceX (SPCX) Lands $45 Billion AI Deal As New Contracts Recast Its Growth Story",
+      "link": "https://finance.yahoo.com/technology/ai/articles/spacex-spcx-lands-45-billion-220638884.html?.tsrc=rss",
+      "published": "Sun, 08 Nov 2026 22:06:38 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-08T23:17:38.887136+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "What Is Meta Platforms (META) Facing As Legal Risks Rise And AI Deals Expand?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/meta-platforms-meta-facing-legal-220633031.html?.tsrc=rss",
+      "published": "Sun, 08 Nov 2026 22:06:33 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-08T23:17:38.887236+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Tesla Isn’t a Mag-7 Stock. This Is.",
+      "link": "https://finance.yahoo.com/m/1989a8d6-2668-3d81-b94f-8613123a1e6b/tesla-isn%E2%80%99t-a-mag-7-stock..html?.tsrc=rss",
+      "published": "Sun, 08 Nov 2026 19:44:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-08T23:17:38.887269+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Amazon.com (AMZN) Added Over 100 New Alexa Shopping Functions",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/amazon-com-amzn-added-over-211017852.html?.tsrc=rss",
+      "published": "Sun, 08 Nov 2026 21:10:17 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-08T23:17:39.089215+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Europe Wants €6 Billion From Cheap Parcels. Temu’s Owner PDD Trades at 7x Earnings",
+      "link": "https://www.tikr.com/blog/europe-wants-e6-billion-from-cheap-parcels-temus-owner-pdd-trades-at-7x-earnings?ref=yahoofinance&tlnk=yf-261108-xfhhh9w7&.tsrc=rss",
+      "published": "Sun, 08 Nov 2026 16:36:18 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-08T23:17:39.089275+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "Should You Buy Meta Platforms Before Its Stock Split?",
+      "link": "https://www.fool.com/investing/2026/11/08/should-you-buy-meta-platforms-before-its-stock-spl/?.tsrc=rss",
+      "published": "Sun, 08 Nov 2026 20:52:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-08T23:17:39.303938+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "Meta Stock Dips Towards $600 But Don’t Load Up Just Yet",
+      "link": "https://www.barchart.com/story/news/8724565/meta-stock-dips-towards-600-but-dont-load-up-just-yet?.tsrc=rss",
+      "published": "Sun, 08 Nov 2026 14:31:25 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-08T23:17:39.303995+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Mark Cuban Says Elon Musk Is Amazing and the ‘Best Entrepreneur of Our Lifetime,’ But He’s a Salesman — ‘He’s Gotta Sell What He’s Got to Sell’",
+      "link": "https://finance.yahoo.com/small-business/articles/mark-cuban-says-elon-musk-213006371.html?.tsrc=rss",
+      "published": "Sun, 08 Nov 2026 21:30:06 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-08T23:17:39.525120+00:00"
+    },
+    {
+      "ticker": "AMD",
+      "title": "Lisa Su Expects 80% Revenue Growth in 2027. AMD Stock Is Still a Strong Buy, But It Demands Flawless Execution.",
+      "link": "https://www.barchart.com/story/news/8724548/lisa-su-expects-80-revenue-growth-in-2027-amd-stock-is-still-a-strong-buy-but-it-demands-flawless-execution?.tsrc=rss",
+      "published": "Sun, 08 Nov 2026 14:26:11 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-08T23:17:39.753000+00:00"
+    },
+    {
+      "ticker": "ORCL",
+      "title": "Oracle Just Walked Away From a $7 Billion Tencent Deal. Here’s What It Means for ORCL Stock.",
+      "link": "https://www.barchart.com/story/news/8724636/oracle-just-walked-away-from-a-7-billion-tencent-deal-heres-what-it-means-for-orcl-stock?.tsrc=rss",
+      "published": "Sun, 08 Nov 2026 14:49:05 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-08T23:17:40.175163+00:00"
+    },
+    {
+      "ticker": "ORCL",
+      "title": "Where Does CPI FIM (BDL:ORCL) Value Sit After A 58% Rise?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/where-does-cpi-fim-bdl-211258633.html?.tsrc=rss",
+      "published": "Sun, 08 Nov 2026 21:12:58 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-08T23:17:40.175240+00:00"
+    },
+    {
+      "ticker": "INTC",
+      "title": "The Government’s $37 Billion Intel Round Trip Is a Warning for Anyone Who Still Holds the Stock",
+      "link": "https://247wallst.com/investing/2026/11/08/the-governments-37-billion-intel-round-trip-is-a-warning-for-anyone-who-still-holds-the-stock/?.tsrc=rss",
+      "published": "Sun, 08 Nov 2026 22:46:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-08T23:17:40.827044+00:00"
     }
   ]
 }
