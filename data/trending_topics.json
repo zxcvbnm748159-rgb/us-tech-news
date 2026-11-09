@@ -1,7 +1,7 @@
 {
   "date": "2026-11-09",
   "window_days": 7,
-  "source_count": 1199,
+  "source_count": 1201,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 180,
+      "count": 182,
       "kind": "ticker"
     },
     {
@@ -116,7 +116,7 @@
       "kind": "topic"
     }
   ],
-  "updated_at": "2026-11-09T10:37:46.486929+00:00",
+  "updated_at": "2026-11-09T10:47:18.597382+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -15965,6 +15965,34 @@
       "sentiment": "positive",
       "sentiment_source": "headline_vader",
       "fetched_at": "2026-11-09T10:37:46.454568+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Nvidia shares sink as board launches probe into Jensen Huang's affair",
+      "link": "https://www.axios.com/2026/11/09/nvidia-shares-stock-jensen-huang#utm_source=yahoo_finance&utm_medium=partner&utm_campaign=subs-partner-yahoo-finance-AI?.tsrc=rss",
+      "published": "Mon, 09 Nov 2026 10:23:17 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-09T10:47:14.395269+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Bitcoin Slides to $73,510 Over the Weekend: Did Nvidia Scandal Trigger BTC’s $2,000 Flash Crash?",
+      "link": "https://www.coinspeaker.com/bitcoin-news-nvidia-weekend-dump/?.tsrc=rss",
+      "published": "Mon, 09 Nov 2026 10:21:29 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-09T10:47:14.395386+00:00"
     }
   ]
 }
