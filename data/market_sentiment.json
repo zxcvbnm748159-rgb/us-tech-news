@@ -1,14 +1,14 @@
 {
   "date": "2026-11-08",
-  "score": 63,
+  "score": 62,
   "label": "Bullish",
   "counts": {
-    "positive": 26,
-    "negative": 15,
-    "neutral": 45
+    "positive": 29,
+    "negative": 18,
+    "neutral": 50
   },
-  "total": 86,
-  "updated_at": "2026-11-09T00:25:57.685609+00:00",
+  "total": 97,
+  "updated_at": "2026-11-09T02:49:18.490842+00:00",
   "articles": [
     {
       "link": "https://finance.yahoo.com/technology/articles/nvidia-2-more-grid-stocks-071029806.html?.tsrc=rss",
@@ -353,6 +353,50 @@
     {
       "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-bulls-could-burned-gary-223005762.html?.tsrc=rss",
       "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/283e1bd9-349e-390b-a32b-b4ed9a9034f3/dow-jones-futures-rise-as.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/3-us-chip-stocks-ai-021219756.html?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://stocktwits.com/news-articles/markets/equity/nvidia-faces-governance-overhang-jensen-huang-s-affair-admission-sparks-board-probe-analysts-warn-of-leadership-risks/cNGAHe2R9IU?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://stocktwits.com/news-articles/markets/equity/nvda-pltr-qcom-spcx-mrvl-why-retail-traders-couldn-t-take-their-eyes-off-these-stocks-last-week/cNGAH2tR9Ix?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/5-stocks-am-retiring-004943035.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/08/bloom-energy-stock-fell-16-on-the-same-day-2-giant-data-center-deals-named-it-is-it-a-buy/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/11/08/a-retiree-who-bought-1000-meta-shares-at-38-just-watched-zuckerberg-top-200-billion/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/earnings/takeaways/2026/11/08/amd-3-key-takeaways-for-long-term-investors/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.barchart.com/story/news/8725829/intel-stock-faces-a-new-threat-that-no-one-saw-coming?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/08/could-buying-palantir-stock-today-set-you-up-for-l/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/spiking-joins-ibm-z-day-010000992.html?.tsrc=rss",
+      "sentiment": "positive"
     }
   ]
 }

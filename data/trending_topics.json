@@ -1,7 +1,7 @@
 {
   "date": "2026-11-08",
   "window_days": 7,
-  "source_count": 1367,
+  "source_count": 1378,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 196,
+      "count": 200,
       "kind": "ticker"
     },
     {
@@ -30,7 +30,7 @@
       "search_terms": [
         "GOOGL"
       ],
-      "count": 139,
+      "count": 141,
       "kind": "ticker"
     },
     {
@@ -48,7 +48,7 @@
       "search_terms": [
         "AMD"
       ],
-      "count": 100,
+      "count": 101,
       "kind": "ticker"
     },
     {
@@ -84,7 +84,7 @@
       "search_terms": [
         "PLTR"
       ],
-      "count": 73,
+      "count": 74,
       "kind": "ticker"
     },
     {
@@ -102,7 +102,7 @@
       "search_terms": [
         "META"
       ],
-      "count": 65,
+      "count": 66,
       "kind": "ticker"
     },
     {
@@ -112,11 +112,11 @@
         "data center",
         "AI infrastructure"
       ],
-      "count": 60,
+      "count": 61,
       "kind": "topic"
     }
   ],
-  "updated_at": "2026-11-09T00:25:57.729073+00:00",
+  "updated_at": "2026-11-09T02:49:18.529793+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -18108,6 +18108,160 @@
       "sentiment": "negative",
       "sentiment_source": "headline_vader",
       "fetched_at": "2026-11-09T00:25:55.977205+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Dow Jones Futures Rise As Nvidia Probes CEO Jensen Huang Spying Case",
+      "link": "https://finance.yahoo.com/m/283e1bd9-349e-390b-a32b-b4ed9a9034f3/dow-jones-futures-rise-as.html?.tsrc=rss",
+      "published": "Mon, 09 Nov 2026 02:35:41 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-09T02:49:14.075230+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "3 US Chip Stocks for AI Exposure With Lower China Risk",
+      "link": "https://finance.yahoo.com/technology/ai/articles/3-us-chip-stocks-ai-021219756.html?.tsrc=rss",
+      "published": "Mon, 09 Nov 2026 02:12:19 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-09T02:49:14.075338+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Nvidia Faces Governance Overhang: Jensen Huang’s Affair Admission Sparks Board Probe, Analysts Warn Of Leadership Risks",
+      "link": "https://stocktwits.com/news-articles/markets/equity/nvidia-faces-governance-overhang-jensen-huang-s-affair-admission-sparks-board-probe-analysts-warn-of-leadership-risks/cNGAHe2R9IU?.tsrc=rss",
+      "published": "Mon, 09 Nov 2026 02:09:07 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-09T02:49:14.075418+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "NVDA, PLTR, QCOM, SPCX, MRVL: Why Retail Traders Couldn’t Take Their Eyes Off These Stocks Last Week",
+      "link": "https://stocktwits.com/news-articles/markets/equity/nvda-pltr-qcom-spcx-mrvl-why-retail-traders-couldn-t-take-their-eyes-off-these-stocks-last-week/cNGAH2tR9Ix?.tsrc=rss",
+      "published": "Mon, 09 Nov 2026 02:04:55 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-09T02:49:14.075458+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "5 Stocks I am Retiring On",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/5-stocks-am-retiring-004943035.html?.tsrc=rss",
+      "published": "Mon, 09 Nov 2026 00:49:43 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-09T02:49:14.662654+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Bloom Energy Stock Fell 16% on the Same Day 2 Giant Data Center Deals Named It. Is It a Buy?",
+      "link": "https://www.fool.com/investing/2026/11/08/bloom-energy-stock-fell-16-on-the-same-day-2-giant-data-center-deals-named-it-is-it-a-buy/?.tsrc=rss",
+      "published": "Mon, 09 Nov 2026 00:36:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-09T02:49:14.662723+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "A Retiree Who Bought 1,000 Meta Shares at $38 Just Watched Zuckerberg Top $200 Billion",
+      "link": "https://247wallst.com/investing/2026/11/08/a-retiree-who-bought-1000-meta-shares-at-38-just-watched-zuckerberg-top-200-billion/?.tsrc=rss",
+      "published": "Mon, 09 Nov 2026 02:41:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-09T02:49:15.032190+00:00"
+    },
+    {
+      "ticker": "AMD",
+      "title": "AMD: 3 Key Takeaways for Long-Term Investors",
+      "link": "https://www.fool.com/earnings/takeaways/2026/11/08/amd-3-key-takeaways-for-long-term-investors/?.tsrc=rss",
+      "published": "Mon, 09 Nov 2026 01:56:05 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-09T02:49:15.446339+00:00"
+    },
+    {
+      "ticker": "INTC",
+      "title": "Intel Stock Faces a New Threat That No One Saw Coming",
+      "link": "https://www.barchart.com/story/news/8725829/intel-stock-faces-a-new-threat-that-no-one-saw-coming?.tsrc=rss",
+      "published": "Sun, 08 Nov 2026 20:30:03 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-09T02:49:16.420155+00:00"
+    },
+    {
+      "ticker": "PLTR",
+      "title": "Could Buying Palantir Stock Today Set You Up for Life?",
+      "link": "https://www.fool.com/investing/2026/11/08/could-buying-palantir-stock-today-set-you-up-for-l/?.tsrc=rss",
+      "published": "Mon, 09 Nov 2026 00:20:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-09T02:49:16.818029+00:00"
+    },
+    {
+      "ticker": "IBM",
+      "title": "Spiking Joins IBM Z Day 2026 Asia Pacific Special Edition Track as a Friend of the IBM Z Community",
+      "link": "https://finance.yahoo.com/technology/ai/articles/spiking-joins-ibm-z-day-010000992.html?.tsrc=rss",
+      "published": "Mon, 09 Nov 2026 01:00:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-09T02:49:17.275933+00:00"
     }
   ]
 }
