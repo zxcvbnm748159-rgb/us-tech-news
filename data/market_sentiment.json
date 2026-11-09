@@ -1,14 +1,14 @@
 {
   "date": "2026-11-09",
-  "score": 66,
+  "score": 64,
   "label": "Bullish",
   "counts": {
-    "positive": 33,
-    "negative": 17,
-    "neutral": 60
+    "positive": 36,
+    "negative": 20,
+    "neutral": 68
   },
-  "total": 110,
-  "updated_at": "2026-11-09T21:04:05.625638+00:00",
+  "total": 124,
+  "updated_at": "2026-11-09T21:50:42.527248+00:00",
   "articles": [
     {
       "link": "https://finance.yahoo.com/markets/stocks/article/nvidia-ceo-jensen-huang-just-made-his-already-surprisingly-cheap-stock-that-much-cheaper-095550447.html?.tsrc=rss",
@@ -448,6 +448,62 @@
     },
     {
       "link": "https://www.barchart.com/story/news/8730509/is-wall-street-bullish-or-bearish-on-sandisk-stock?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/video/jensen-huangs-stance-against-cutting-china-off-from-us-chips-holds-a-lot-less-weight-213031755.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-cnh-industrial-nv-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-ceva-inc-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-abeona-therapeutics-inc-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/09/if-a-recession-is-coming-in-2027-im-making-this-1/?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/articles/soprano-support-organisations-navigating-microsoft-210000722.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://99bitcoins.com/news/altcoins/bill-gates-microsoft-copilot-ai-predicts-sol-crypto-explosion/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/energy/articles/fervo-now-12b-orders-geothermal-205534908.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.tikr.com/blog/the-real-winner-of-googles-135-billion-chip-forecast-broadcom?ref=yahoofinance&tlnk=yf-261109-h64jj3hh&.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/09/meta-platforms-stock-is-it-a-steal-of-a-deal-at-650/?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/2ae36c92-8967-3edc-b819-36aaec68c362/overall-tesla-china-sales.html?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.thestreet.com/investing/amds-biggest-ai-deals-come-with-a-320-million-share-catch?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/11/09/lisa-su-called-the-market-short-sighted-as-amd-crashed-17-two-sessions-later-the-stock-has-it-all-back/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/analyzing-amd-near-term-beneficiary-210952293.html?.tsrc=rss",
       "sentiment": "neutral"
     }
   ]

@@ -1,7 +1,7 @@
 {
   "date": "2026-11-09",
   "window_days": 7,
-  "source_count": 1286,
+  "source_count": 1300,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 187,
+      "count": 192,
       "kind": "ticker"
     },
     {
@@ -18,7 +18,7 @@
       "search_terms": [
         "GOOGL"
       ],
-      "count": 123,
+      "count": 125,
       "kind": "ticker"
     },
     {
@@ -30,7 +30,7 @@
         "revenue guidance",
         "profit forecast"
       ],
-      "count": 121,
+      "count": 124,
       "kind": "topic"
     },
     {
@@ -48,7 +48,7 @@
       "search_terms": [
         "AMD"
       ],
-      "count": 96,
+      "count": 99,
       "kind": "ticker"
     },
     {
@@ -57,7 +57,7 @@
       "search_terms": [
         "TSLA"
       ],
-      "count": 92,
+      "count": 93,
       "kind": "ticker"
     },
     {
@@ -75,7 +75,7 @@
       "search_terms": [
         "MSFT"
       ],
-      "count": 75,
+      "count": 77,
       "kind": "ticker"
     },
     {
@@ -102,7 +102,7 @@
       "search_terms": [
         "META"
       ],
-      "count": 63,
+      "count": 64,
       "kind": "ticker"
     },
     {
@@ -115,7 +115,7 @@
       "kind": "ticker"
     }
   ],
-  "updated_at": "2026-11-09T21:04:05.667192+00:00",
+  "updated_at": "2026-11-09T21:50:42.560362+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -17182,6 +17182,202 @@
       "sentiment": "neutral",
       "sentiment_source": "headline_vader",
       "fetched_at": "2026-11-09T21:04:05.624793+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Jensen Huang's stance against cutting China off from US chips holds a lot less weight",
+      "link": "https://finance.yahoo.com/video/jensen-huangs-stance-against-cutting-china-off-from-us-chips-holds-a-lot-less-weight-213031755.html?.tsrc=rss",
+      "published": "Mon, 09 Nov 2026 21:30:31 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-09T21:50:38.629412+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "CNH Industrial N.V. Q3 2026 Earnings Call Summary",
+      "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-cnh-industrial-nv-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+      "published": "Mon, 09 Nov 2026 21:44:49 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-09T21:50:38.629455+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "CEVA, Inc. Q3 2026 Earnings Call Summary",
+      "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-ceva-inc-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+      "published": "Mon, 09 Nov 2026 21:44:28 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-09T21:50:38.629476+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Abeona Therapeutics Inc. Q3 2026 Earnings Call Summary",
+      "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-abeona-therapeutics-inc-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+      "published": "Mon, 09 Nov 2026 21:44:27 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-09T21:50:38.629495+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "If a Recession Is Coming in 2027, I'm Making This 1 Investing Move Without Any Hesitation",
+      "link": "https://www.fool.com/investing/2026/11/09/if-a-recession-is-coming-in-2027-im-making-this-1/?.tsrc=rss",
+      "published": "Mon, 09 Nov 2026 21:35:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-09T21:50:38.629563+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Soprano to Support Organisations Navigating Microsoft Entra MFA Changes",
+      "link": "https://finance.yahoo.com/technology/articles/soprano-support-organisations-navigating-microsoft-210000722.html?.tsrc=rss",
+      "published": "Mon, 09 Nov 2026 21:00:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-09T21:50:38.942721+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Bill Gates Microsoft Copilot AI Predicts a SOL Crypto Explosion",
+      "link": "https://99bitcoins.com/news/altcoins/bill-gates-microsoft-copilot-ai-predicts-sol-crypto-explosion/?.tsrc=rss",
+      "published": "Mon, 09 Nov 2026 20:37:52 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-09T21:50:38.942764+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Fervo now has $12B in orders for its geothermal power tech",
+      "link": "https://finance.yahoo.com/energy/articles/fervo-now-12b-orders-geothermal-205534908.html?.tsrc=rss",
+      "published": "Mon, 09 Nov 2026 20:55:34 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-09T21:50:39.151664+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "The Real Winner of Google’s $135 Billion Chip Forecast: Broadcom",
+      "link": "https://www.tikr.com/blog/the-real-winner-of-googles-135-billion-chip-forecast-broadcom?ref=yahoofinance&tlnk=yf-261109-h64jj3hh&.tsrc=rss",
+      "published": "Mon, 09 Nov 2026 20:45:31 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-09T21:50:39.151725+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "Meta Platforms Stock: Is it a Steal of a Deal at $650?",
+      "link": "https://www.fool.com/investing/2026/11/09/meta-platforms-stock-is-it-a-steal-of-a-deal-at-650/?.tsrc=rss",
+      "published": "Mon, 09 Nov 2026 20:58:01 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-09T21:50:39.474924+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Overall Tesla China Sales Rise 10%, Sales Inside China Sink To 4-Year Low; Robotaxi Launches New Market",
+      "link": "https://finance.yahoo.com/m/2ae36c92-8967-3edc-b819-36aaec68c362/overall-tesla-china-sales.html?.tsrc=rss",
+      "published": "Mon, 09 Nov 2026 21:12:27 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-09T21:50:39.647452+00:00"
+    },
+    {
+      "ticker": "AMD",
+      "title": "AMD's biggest AI deals come with a 320 million share catch",
+      "link": "https://www.thestreet.com/investing/amds-biggest-ai-deals-come-with-a-320-million-share-catch?.tsrc=rss",
+      "published": "Mon, 09 Nov 2026 21:23:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-09T21:50:39.835094+00:00"
+    },
+    {
+      "ticker": "AMD",
+      "title": "Lisa Su Called the Market ‘Short-Sighted’ as AMD Crashed 17%. Two Sessions Later the Stock Has It All Back",
+      "link": "https://247wallst.com/investing/2026/11/09/lisa-su-called-the-market-short-sighted-as-amd-crashed-17-two-sessions-later-the-stock-has-it-all-back/?.tsrc=rss",
+      "published": "Mon, 09 Nov 2026 21:17:45 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-09T21:50:39.835148+00:00"
+    },
+    {
+      "ticker": "AMD",
+      "title": "Analyzing AMD as a near-term beneficiary of Nvidia’s leadership uncertainty",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/analyzing-amd-near-term-beneficiary-210952293.html?.tsrc=rss",
+      "published": "Mon, 09 Nov 2026 21:09:52 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-09T21:50:39.835210+00:00"
     }
   ]
 }
