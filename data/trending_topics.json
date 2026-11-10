@@ -1,7 +1,7 @@
 {
   "date": "2026-11-10",
   "window_days": 7,
-  "source_count": 1220,
+  "source_count": 1260,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 182,
+      "count": 187,
       "kind": "ticker"
     },
     {
@@ -18,7 +18,7 @@
       "search_terms": [
         "GOOGL"
       ],
-      "count": 121,
+      "count": 126,
       "kind": "ticker"
     },
     {
@@ -27,7 +27,7 @@
       "search_terms": [
         "TSLA"
       ],
-      "count": 91,
+      "count": 93,
       "kind": "ticker"
     },
     {
@@ -36,7 +36,7 @@
       "search_terms": [
         "AMD"
       ],
-      "count": 87,
+      "count": 90,
       "kind": "ticker"
     },
     {
@@ -48,7 +48,7 @@
         "revenue guidance",
         "profit forecast"
       ],
-      "count": 86,
+      "count": 90,
       "kind": "topic"
     },
     {
@@ -57,7 +57,7 @@
       "search_terms": [
         "AAPL"
       ],
-      "count": 85,
+      "count": 88,
       "kind": "ticker"
     },
     {
@@ -66,7 +66,7 @@
       "search_terms": [
         "AMZN"
       ],
-      "count": 75,
+      "count": 79,
       "kind": "ticker"
     },
     {
@@ -75,7 +75,7 @@
       "search_terms": [
         "MSFT"
       ],
-      "count": 74,
+      "count": 79,
       "kind": "ticker"
     },
     {
@@ -84,7 +84,7 @@
       "search_terms": [
         "QCOM"
       ],
-      "count": 64,
+      "count": 65,
       "kind": "ticker"
     },
     {
@@ -103,7 +103,7 @@
         "data center",
         "AI infrastructure"
       ],
-      "count": 57,
+      "count": 58,
       "kind": "topic"
     },
     {
@@ -112,11 +112,11 @@
       "search_terms": [
         "ORCL"
       ],
-      "count": 57,
+      "count": 58,
       "kind": "ticker"
     }
   ],
-  "updated_at": "2026-11-10T18:51:46.817989+00:00",
+  "updated_at": "2026-11-10T21:09:18.051923+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -16535,6 +16535,566 @@
       "sentiment": "neutral",
       "sentiment_source": "headline_vader",
       "fetched_at": "2026-11-10T18:51:46.775089+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Nvidia hires Wachtell Lipton to lead independent review into Jensen Huang affair",
+      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-hires-wachtell-lipton-lead-205924301.html?.tsrc=rss",
+      "published": "Tue, 10 Nov 2026 20:59:24 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-10T21:09:14.814072+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Sector Update: Tech Stocks Fall Late Afternoon",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-fall-afternoon-205122215.html?.tsrc=rss",
+      "published": "Tue, 10 Nov 2026 20:51:22 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-10T21:09:14.814117+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "3 Vanguard ETFs to Buy and Hold Forever",
+      "link": "https://www.fool.com/investing/2026/11/10/3-vanguard-etfs-to-buy-and-hold-forever/?.tsrc=rss",
+      "published": "Tue, 10 Nov 2026 20:47:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-10T21:09:14.814147+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Nvidia Erases 2026 Gains as Republicans Threaten Jensen Huang With Subpoena",
+      "link": "https://decrypt.co/382974/nvidia-erases-2026-gains-republicans-threaten-ceo-subpoena?.tsrc=rss",
+      "published": "Tue, 10 Nov 2026 20:45:50 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-10T21:09:14.814235+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "If a Stock Market Crash Is Coming, This Is What Warren Buffett Says Investors Should Do",
+      "link": "https://www.fool.com/investing/2026/11/10/if-a-stock-market-crash-is-coming-this-is-what-warren-buffett-says-investors-should-do/?.tsrc=rss",
+      "published": "Tue, 10 Nov 2026 20:22:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-10T21:09:14.814303+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "New iOS exploit could let apps steal crypto keys",
+      "link": "https://finance.yahoo.com/video/ios-exploit-could-let-apps-190000953.html?.tsrc=rss",
+      "published": "Tue, 10 Nov 2026 19:00:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-10T21:09:14.950449+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Apple (AAPL) Faces A 38% Premium Following Fresh Debt Issuance",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/apple-aapl-faces-38-premium-200756047.html?.tsrc=rss",
+      "published": "Tue, 10 Nov 2026 20:07:56 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-10T21:09:14.950536+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Apple’s Dividend Is Tiny, but its Business Advantage is Massive",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/apple-dividend-tiny-business-advantage-192939467.html?.tsrc=rss",
+      "published": "Tue, 10 Nov 2026 19:29:39 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-10T21:09:14.950603+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Microsoft (MSFT) Is Getting Paid for AI Agents. That’s Why I’m Bullish",
+      "link": "https://finance.yahoo.com/technology/ai/articles/microsoft-msft-getting-paid-ai-205600526.html?.tsrc=rss",
+      "published": "Tue, 10 Nov 2026 20:56:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-10T21:09:15.085275+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Stock Market Today: Dow Dips As Nvidia Dives; Microsoft Skids On Anthropic Tools Move (Live Coverage)",
+      "link": "https://finance.yahoo.com/m/c7fbd2af-5702-3c77-9aa6-7c6578bb8abb/stock-market-today%3A-dow-dips.html?.tsrc=rss",
+      "published": "Tue, 10 Nov 2026 19:51:50 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-10T21:09:15.085324+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Microsoft Warns a New Trade Crackdown Could Derail America's AI Boom",
+      "link": "https://finance.yahoo.com/technology/ai/articles/microsoft-warns-trade-crackdown-could-193904641.html?.tsrc=rss",
+      "published": "Tue, 10 Nov 2026 19:39:04 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-10T21:09:15.085392+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Microsoft Stock Falls On Anthropic Challenge To Office Software",
+      "link": "https://finance.yahoo.com/m/f591b7f8-013b-367b-b8b5-72d9ef7903d2/microsoft-stock-falls-on.html?.tsrc=rss",
+      "published": "Tue, 10 Nov 2026 19:31:38 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-10T21:09:15.085445+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Update: Market Chatter: Microsoft Urges Trump to Scrap Expected Ban on Chinese Data Center Tech",
+      "link": "https://finance.yahoo.com/technology/ai/articles/market-chatter-microsoft-urges-trump-185620663.html?.tsrc=rss",
+      "published": "Tue, 10 Nov 2026 18:56:20 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-10T21:09:15.085505+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Trade Desk Q3 Earnings & Revenues Beat Estimates, Down Y/Y",
+      "link": "https://finance.yahoo.com/media-advertising/articles/trade-desk-q3-earnings-revenues-182500776.html?.tsrc=rss",
+      "published": "Tue, 10 Nov 2026 18:25:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-10T21:09:15.222287+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Google's SpaceX investment takes an unexpected turn",
+      "link": "https://www.thestreet.com/investing/stocks/googles-spacex-investment-is-taking-an-unexpected-turn?.tsrc=rss",
+      "published": "Tue, 10 Nov 2026 20:13:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-10T21:09:15.222323+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Alphabet (GOOGL) Launches Gemini For Healthcare",
+      "link": "https://finance.yahoo.com/technology/ai/articles/alphabet-googl-launches-gemini-healthcare-201113086.html?.tsrc=rss",
+      "published": "Tue, 10 Nov 2026 20:11:13 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-10T21:09:15.222350+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Is Fervo Energy (FRVO) Undervalued Following Its Google Deal And Cape Station Launch?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/fervo-energy-frvo-undervalued-following-201055205.html?.tsrc=rss",
+      "published": "Tue, 10 Nov 2026 20:10:55 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-10T21:09:15.222402+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Nvidia’s 70% to 80% Margins Are “Like Throwing Chum in the Water,” Says Its Biographer",
+      "link": "https://www.tikr.com/blog/nvidias-70-to-80-margins-are-like-throwing-chum-in-the-water-says-its-biographer?ref=yahoofinance&tlnk=yf-261110-23ph5h8g&.tsrc=rss",
+      "published": "Tue, 10 Nov 2026 19:55:26 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-10T21:09:15.222446+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Can Amazon.com (AMZN) Be A Bargain After Its Maritime Satellite Reseller Deal?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/amazon-com-amzn-bargain-maritime-191151615.html?.tsrc=rss",
+      "published": "Tue, 10 Nov 2026 19:11:51 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-10T21:09:15.356281+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Dow Leader Amazon Approaches Latest Buy Point As Ferrari Races Higher On Formula 1 Strength",
+      "link": "https://finance.yahoo.com/m/140069ae-8a59-3b10-9880-bd0bd13cff6d/dow-leader-amazon-approaches.html?.tsrc=rss",
+      "published": "Tue, 10 Nov 2026 19:10:36 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-10T21:09:15.356367+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "The Midterms' Biggest AI Losers Aren't the Big Spenders. They're the Borrowers.",
+      "link": "https://www.fool.com/investing/2026/11/10/the-midterms-biggest-ai-losers-arent-the-big-spend/?.tsrc=rss",
+      "published": "Tue, 10 Nov 2026 18:50:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-10T21:09:15.356431+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Billionaire David Rubenstein Passed On Facebook’s $30K Startup Pitch, Sold Amazon Before Billions In Gains. 'I Didn’t Take It Seriously'",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/billionaire-david-rubenstein-passed-facebook-181422654.html?.tsrc=rss",
+      "published": "Tue, 10 Nov 2026 18:14:22 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-10T21:09:15.356559+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Top 3 Founder Run Stocks With Earnings Growth Over 15%",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/top-3-founder-run-stocks-200943803.html?.tsrc=rss",
+      "published": "Tue, 10 Nov 2026 20:09:43 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-10T21:09:15.643586+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Elon Musk Says Tesla's Cybertruck Backlog Is Too Big To Clear Before Production Ends — Orders Extra Shift",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-says-teslas-cybertruck-193006712.html?.tsrc=rss",
+      "published": "Tue, 10 Nov 2026 19:30:06 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-10T21:09:15.643692+00:00"
+    },
+    {
+      "ticker": "AMD",
+      "title": "AMD Stock Just Got Massive Upgrade From Oppenheimer",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-just-got-massive-194039394.html?.tsrc=rss",
+      "published": "Tue, 10 Nov 2026 19:40:39 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-10T21:09:15.795684+00:00"
+    },
+    {
+      "ticker": "AMD",
+      "title": "AMD Gains 25% Against NVDA in 2 Days: Chip Analyst Says Lisa Su Is ‘at Her Best’",
+      "link": "https://www.benzinga.com/markets/prediction-markets/26/11/63115849/amd-lisa-su?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+      "published": "Tue, 10 Nov 2026 19:30:08 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-10T21:09:15.795758+00:00"
+    },
+    {
+      "ticker": "AMD",
+      "title": "Top Stock Picks for Week of November 9, 2026",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/top-stock-picks-week-november-192000343.html?.tsrc=rss",
+      "published": "Tue, 10 Nov 2026 19:20:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-10T21:09:15.795794+00:00"
+    },
+    {
+      "ticker": "AVGO",
+      "title": "Will Broadcom Inc. (AVGO) Beat Estimates Again in Its Next Earnings Report?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/broadcom-inc-avgo-beat-estimates-193927747.html?.tsrc=rss",
+      "published": "Tue, 10 Nov 2026 19:39:27 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-10T21:09:15.990545+00:00"
+    },
+    {
+      "ticker": "ORCL",
+      "title": "Oracle Celebrates Groundbreaking on Future Global Headquarters in Nashville",
+      "link": "https://finance.yahoo.com/technology/articles/oracle-celebrates-groundbreaking-future-global-200000538.html?.tsrc=rss",
+      "published": "Tue, 10 Nov 2026 20:00:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-10T21:09:16.127486+00:00"
+    },
+    {
+      "ticker": "CRM",
+      "title": "Salesforce And 2 Other AI Stocks To Watch",
+      "link": "https://finance.yahoo.com/technology/ai/articles/salesforce-2-other-ai-stocks-201026055.html?.tsrc=rss",
+      "published": "Tue, 10 Nov 2026 20:10:26 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-10T21:09:16.272300+00:00"
+    },
+    {
+      "ticker": "INTC",
+      "title": "Intel Stocks Fall 1.82% as Chip Rally Fades and PC Slump Clouds Q4",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/intel-stocks-fall-1-82-193409911.html?.tsrc=rss",
+      "published": "Tue, 10 Nov 2026 19:34:09 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-10T21:09:16.555486+00:00"
+    },
+    {
+      "ticker": "QCOM",
+      "title": "Exclusive: Qualcomm begins job cuts; India and California among regions impacted",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/exclusive-qualcomm-begins-job-cuts-184112803.html?.tsrc=rss",
+      "published": "Tue, 10 Nov 2026 18:41:12 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-10T21:09:16.722770+00:00"
+    },
+    {
+      "ticker": "SMCI",
+      "title": "Super Micro Computer Stocks Fall 2.01% as Cash Drain Shadows Fourfold Sales Jump",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/super-micro-computer-stocks-fall-192505738.html?.tsrc=rss",
+      "published": "Tue, 10 Nov 2026 19:25:05 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-10T21:09:17.000625+00:00"
+    },
+    {
+      "ticker": "ADBE",
+      "title": "Accenture vs. Adobe: What Does Fluctuating vs. Steady Revenue Tell Investors?",
+      "link": "https://www.fool.com/coverage/charts/2026/11/10/accenture-vs-adobe-what-does-fluctuating-vs-steady-revenue-tell-investors/?.tsrc=rss",
+      "published": "Tue, 10 Nov 2026 20:06:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-10T21:09:17.299511+00:00"
+    },
+    {
+      "ticker": "TSM",
+      "title": "TSMC record sales strengthen Wedbush’s bullish outlook",
+      "link": "https://www.proactiveinvestors.com/companies/news/1101547/tsmc-record-sales-strengthen-wedbush-s-bullish-outlook-1101547.html?.tsrc=rss",
+      "published": "Tue, 10 Nov 2026 20:15:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-10T21:09:17.453151+00:00"
+    },
+    {
+      "ticker": "TSM",
+      "title": "TSMC Is at the Center of an AI Boom That Flipped 25 Years of U.S. Trade. Is the Stock a Buy?",
+      "link": "https://www.fool.com/investing/2026/11/10/tsmc-is-at-the-center-of-an-ai-boom-that-flipped-25-years-of-u-s-trade-is-the-stock-a-buy/?.tsrc=rss",
+      "published": "Tue, 10 Nov 2026 19:53:12 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-10T21:09:17.453210+00:00"
+    },
+    {
+      "ticker": "ONDS",
+      "title": "Ondas Retreats 9% Despite Attack Drone Purchase Order Ahead of Earnings; Red Cat Declines 9%, AeroVironment Falls 4%",
+      "link": "https://247wallst.com/investing/2026/11/10/ondas-retreats-9-despite-attack-drone-purchase-order-ahead-of-earnings-red-cat-declines-9-aerovironment-falls-4/?.tsrc=rss",
+      "published": "Tue, 10 Nov 2026 18:56:38 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-10T21:09:17.875691+00:00"
+    },
+    {
+      "ticker": "ONDS",
+      "title": "Ondas Plans U.S. Manufacturing Push to Scale ULTRA Aircraft Output",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ondas-plans-u-manufacturing-push-182300667.html?.tsrc=rss",
+      "published": "Tue, 10 Nov 2026 18:23:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-10T21:09:17.875732+00:00"
+    },
+    {
+      "ticker": "SNDK",
+      "title": "SQC Expands Executive Team With Appointment of Chief Manufacturing Officer",
+      "link": "https://finance.yahoo.com/technology/articles/sqc-expands-executive-team-appointment-200200111.html?.tsrc=rss",
+      "published": "Tue, 10 Nov 2026 20:02:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-10T21:09:18.009665+00:00"
+    },
+    {
+      "ticker": "SNDK",
+      "title": "Why Sandisk Stock Dropped Again on Tuesday",
+      "link": "https://www.fool.com/investing/2026/11/10/why-sandisk-stock-dropped-again-on-tuesday/?.tsrc=rss",
+      "published": "Tue, 10 Nov 2026 18:46:49 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-10T21:09:18.009697+00:00"
     }
   ]
 }
