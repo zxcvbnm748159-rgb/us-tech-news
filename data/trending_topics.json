@@ -1,7 +1,7 @@
 {
   "date": "2026-11-09",
   "window_days": 7,
-  "source_count": 1300,
+  "source_count": 1324,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 192,
+      "count": 197,
       "kind": "ticker"
     },
     {
@@ -18,7 +18,7 @@
       "search_terms": [
         "GOOGL"
       ],
-      "count": 125,
+      "count": 130,
       "kind": "ticker"
     },
     {
@@ -30,17 +30,8 @@
         "revenue guidance",
         "profit forecast"
       ],
-      "count": 124,
+      "count": 125,
       "kind": "topic"
-    },
-    {
-      "label": "AAPL",
-      "query": "AAPL",
-      "search_terms": [
-        "AAPL"
-      ],
-      "count": 99,
-      "kind": "ticker"
     },
     {
       "label": "AMD",
@@ -48,7 +39,16 @@
       "search_terms": [
         "AMD"
       ],
-      "count": 99,
+      "count": 103,
+      "kind": "ticker"
+    },
+    {
+      "label": "AAPL",
+      "query": "AAPL",
+      "search_terms": [
+        "AAPL"
+      ],
+      "count": 100,
       "kind": "ticker"
     },
     {
@@ -57,7 +57,7 @@
       "search_terms": [
         "TSLA"
       ],
-      "count": 93,
+      "count": 95,
       "kind": "ticker"
     },
     {
@@ -66,7 +66,7 @@
       "search_terms": [
         "AMZN"
       ],
-      "count": 82,
+      "count": 83,
       "kind": "ticker"
     },
     {
@@ -84,7 +84,7 @@
       "search_terms": [
         "PLTR"
       ],
-      "count": 67,
+      "count": 68,
       "kind": "ticker"
     },
     {
@@ -111,11 +111,11 @@
       "search_terms": [
         "QCOM"
       ],
-      "count": 61,
+      "count": 63,
       "kind": "ticker"
     }
   ],
-  "updated_at": "2026-11-09T21:50:42.560362+00:00",
+  "updated_at": "2026-11-10T03:30:43.426068+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -17378,6 +17378,342 @@
       "sentiment": "neutral",
       "sentiment_source": "headline_vader",
       "fetched_at": "2026-11-09T21:50:39.835210+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Micron, FormFactor, Amkor, Teradyne, and Nvidia shares skyrocket, what you need to know",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/micron-formfactor-amkor-teradyne-nvidia-024536276.html?.tsrc=rss",
+      "published": "Tue, 10 Nov 2026 02:45:36 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-10T03:30:38.715852+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Nvidia Faces Class Action Suit Over Huang Allegations; Senator Seeks Probe, Analyst Puts CEO Exit Odds At 15%",
+      "link": "https://stocktwits.com/news-articles/markets/equity/nvidia-faces-class-action-suit-over-huang-allegations-senator-seeks-probe-analyst-puts-ceo-exit-odds-at-15/cNGuT97R97g?.tsrc=rss",
+      "published": "Tue, 10 Nov 2026 02:44:48 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-10T03:30:38.715897+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Tech leads Asian stock rally as traders track Wall St rebound",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/tech-leads-asian-stock-rally-023930562.html?.tsrc=rss",
+      "published": "Tue, 10 Nov 2026 02:39:30 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-10T03:30:38.715916+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Dow Jones Soars 1,132 Points As Amazon, Tesla Rally, But Nvidia Dives; CPI Inflation Report Next",
+      "link": "https://finance.yahoo.com/m/db2f6d95-b7a5-3274-8193-c767d2b681c1/dow-jones-soars-1%2C132-points.html?.tsrc=rss",
+      "published": "Tue, 10 Nov 2026 02:31:48 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-10T03:30:38.715962+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Nvidia CEO admits affair as company launches probe into spy claims",
+      "link": "https://www.cnn.com/2026/11/09/business/video/ac360-nvidia-ceo-admits-affair-as-company-launches-probe-into-spy-claims?cid=external-feeds_iluminar_yahoo&.tsrc=rss",
+      "published": "Tue, 10 Nov 2026 02:22:27 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-10T03:30:38.715988+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Singapore Saved Apple $2.7 Billion in Taxes",
+      "link": "https://app.moby.co/home/news/news-apple-is-using-singapore-to-save-on-taxes?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+      "published": "Mon, 09 Nov 2026 17:39:20 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-10T03:30:38.944651+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Anthropic's S-1 Says It Will Expand Its Data Center Footprint. Here's Who Could Pour the Concrete, Wire the Power, and Cool the Chips.",
+      "link": "https://www.fool.com/investing/2026/11/09/anthropics-s-1-says-it-will-expand-its-data-center/?.tsrc=rss",
+      "published": "Tue, 10 Nov 2026 03:14:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-10T03:30:39.416300+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "If I Could Buy Just 1 Stock in November and Hold for 5 Years, It Would Be Alphabet",
+      "link": "https://www.fool.com/investing/2026/11/09/if-i-could-buy-just-1-stock-in-november-and-hold-f/?.tsrc=rss",
+      "published": "Tue, 10 Nov 2026 02:50:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-10T03:30:39.416330+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Is Wall Street Turning on AI?",
+      "link": "https://www.fool.com/investing/2026/11/09/is-wall-street-turning-on-ai/?.tsrc=rss",
+      "published": "Tue, 10 Nov 2026 01:53:01 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-10T03:30:39.416343+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "ASTS Stock Retreats On Q3 Sales Miss – But AST SpaceMobile’s $1B Revenue Opportunity, AI Partnerships Keep Growth In Focus",
+      "link": "https://stocktwits.com/news-articles/markets/equity/asts-q3-sales-miss-1b-revenue-opportunity-ai-partnerships-growth-focus/cNGuGazR97f?.tsrc=rss",
+      "published": "Tue, 10 Nov 2026 01:30:23 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-10T03:30:39.416438+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "What Does Nvidia (NVDA) Need To Prove As AI Rivalry And CEO Scrutiny Build?",
+      "link": "https://finance.yahoo.com/technology/ai/articles/does-nvidia-nvda-prove-ai-011637196.html?.tsrc=rss",
+      "published": "Tue, 10 Nov 2026 01:16:37 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-10T03:30:39.416459+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Jeff Bezos says your family is 'not going to need' 2 paychecks thanks to AI",
+      "link": "https://www.thestreet.com/technology/jeff-bezos-predictions-ai-impact-on-jobs?.tsrc=rss",
+      "published": "Mon, 09 Nov 2026 22:03:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-10T03:30:39.612531+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "How much of Elon Musk’s wealth is in Tesla & SpaceX stock?",
+      "link": "https://www.thestreet.com/personalities/how-much-of-elon-musks-wealth-is-in-tesla-and-spacex-stock?.tsrc=rss",
+      "published": "Tue, 10 Nov 2026 00:05:37 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-10T03:30:40.012022+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Elon Musk says Tesla must refund Cybertruck deposits to ‘a lot of people’; he touted 250K reservations back in 2019",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-says-tesla-must-231500059.html?.tsrc=rss",
+      "published": "Mon, 09 Nov 2026 23:15:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-10T03:30:40.012075+00:00"
+    },
+    {
+      "ticker": "AMD",
+      "title": "Amtech, Intel, Applied Materials, AMD, and KLA Corporation shares are soaring, what you need to know",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/amtech-intel-applied-materials-amd-023736161.html?.tsrc=rss",
+      "published": "Tue, 10 Nov 2026 02:37:36 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-10T03:30:40.212929+00:00"
+    },
+    {
+      "ticker": "AMD",
+      "title": "The AI Trade Looks Like It's Falling Apart. AMD's Earnings Delivered a Reality Check.",
+      "link": "https://www.fool.com/investing/2026/11/09/the-ai-trade-looks-like-its-falling-apart-amds-ear/?.tsrc=rss",
+      "published": "Tue, 10 Nov 2026 01:20:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-10T03:30:40.212981+00:00"
+    },
+    {
+      "ticker": "AMD",
+      "title": "Stock Market Today, Nov. 9: AMD Jumps on Oppenheimer Upgrade and Google Cloud Chip Selection",
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/11/09/stock-market-today-nov-9-amd-jumps-on-oppenheimer-upgrade-and-google-cloud-chip-selection/?.tsrc=rss",
+      "published": "Mon, 09 Nov 2026 22:30:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-10T03:30:40.213005+00:00"
+    },
+    {
+      "ticker": "AMD",
+      "title": "Advanced Micro Devices (AMD) Lands EPYC Role In New AI Security System",
+      "link": "https://finance.yahoo.com/technology/ai/articles/advanced-micro-devices-amd-lands-220845589.html?.tsrc=rss",
+      "published": "Mon, 09 Nov 2026 22:08:45 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-10T03:30:40.213037+00:00"
+    },
+    {
+      "ticker": "AVGO",
+      "title": "Allegro MicroSystems, IPG Photonics, Lattice Semiconductor, Entegris, and Broadcom shares skyrocket, what you need to know",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/allegro-microsystems-ipg-photonics-lattice-030136618.html?.tsrc=rss",
+      "published": "Tue, 10 Nov 2026 03:01:36 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-10T03:30:40.410722+00:00"
+    },
+    {
+      "ticker": "AVGO",
+      "title": "Broadcom Stock Is Down Over 25% in 3 Months. How to Play the Selloff Here.",
+      "link": "https://www.barchart.com/story/news/8740927/broadcom-stock-is-down-over-25-in-3-months-how-to-play-the-selloff-here?.tsrc=rss",
+      "published": "Mon, 09 Nov 2026 19:53:19 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-10T03:30:40.410765+00:00"
+    },
+    {
+      "ticker": "QCOM",
+      "title": "Qualcomm, Impinj, Power Integrations, and Kulicke and Soffa shares are soaring, what you need to know",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-impinj-power-integrations-kulicke-025336657.html?.tsrc=rss",
+      "published": "Tue, 10 Nov 2026 02:53:36 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-10T03:30:41.490462+00:00"
+    },
+    {
+      "ticker": "QCOM",
+      "title": "As Non-Handset Revenue Grows, Qualcomm Is Positioned for Recovery",
+      "link": "https://www.barchart.com/story/news/8740298/as-non-handset-revenue-grows-qualcomm-is-positioned-for-recovery?.tsrc=rss",
+      "published": "Mon, 09 Nov 2026 18:48:04 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-10T03:30:41.490485+00:00"
+    },
+    {
+      "ticker": "PLTR",
+      "title": "Forget Palantir? This IPO Candidate May Be the New \"Autonomy Giant\" in Defense.",
+      "link": "https://www.fool.com/investing/2026/11/09/forget-palantir-ipo-candidate-new-autonomy-giant/?.tsrc=rss",
+      "published": "Tue, 10 Nov 2026 00:50:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-10T03:30:41.725291+00:00"
+    },
+    {
+      "ticker": "ADBE",
+      "title": "What Could Walt Disney (DIS) AI Push Mean For Its Creative Future?",
+      "link": "https://finance.yahoo.com/technology/ai/articles/could-walt-disney-dis-ai-021255201.html?.tsrc=rss",
+      "published": "Tue, 10 Nov 2026 02:12:55 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-10T03:30:42.333737+00:00"
     }
   ]
 }
