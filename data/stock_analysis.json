@@ -1,252 +1,252 @@
 [
   {
     "ticker": "NVDA",
-    "last_updated": "2026-11-10T14:08:25.832295+00:00",
+    "last_updated": "2026-11-10T17:01:43.309215+00:00",
     "summary": "NVDA มีข่าวที่เกี่ยวข้อง 45 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: Google, Nvidia and Microsoft Are Among 7 Tech Giants Putting $26 Billion Into Anthropic’s IPO ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
     "analysis_points": [
       "พาดหัวล่าสุด: Google, Nvidia and Microsoft Are Among 7 Tech Giants Putting $26 Billion Into Anthropic’s IPO",
-      "การเปลี่ยนแปลงจากราคาปิดก่อนหน้า -4.27%",
+      "การเปลี่ยนแปลงจากราคาปิดก่อนหน้า -6.46%",
       "ควรอ่านเนื้อหาต้นฉบับและตรวจสอบตัวเลขก่อนสรุปผลกระทบ"
     ],
     "analysis_source": "rules"
   },
   {
     "ticker": "AAPL",
-    "last_updated": "2026-11-10T14:08:25.832295+00:00",
+    "last_updated": "2026-11-10T17:01:43.309215+00:00",
     "summary": "AAPL มีข่าวที่เกี่ยวข้อง 17 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: Apple Is Above $5 Trillion After Its First-Ever Close Above $350 ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
     "analysis_points": [
       "พาดหัวล่าสุด: Apple Is Above $5 Trillion After Its First-Ever Close Above $350",
-      "การเปลี่ยนแปลงจากราคาปิดก่อนหน้า +2.43%",
+      "การเปลี่ยนแปลงจากราคาปิดก่อนหน้า -0.69%",
       "ควรอ่านเนื้อหาต้นฉบับและตรวจสอบตัวเลขก่อนสรุปผลกระทบ"
     ],
     "analysis_source": "rules"
   },
   {
     "ticker": "MSFT",
-    "last_updated": "2026-11-10T14:08:25.832295+00:00",
+    "last_updated": "2026-11-10T17:01:43.309215+00:00",
     "summary": "MSFT มีข่าวที่เกี่ยวข้อง 16 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: Market Chatter: Microsoft Urges Trump to Scrap Expected Ban on Chinese Data Center Tech ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
     "analysis_points": [
       "พาดหัวล่าสุด: Market Chatter: Microsoft Urges Trump to Scrap Expected Ban on Chinese Data Center Tech",
-      "การเปลี่ยนแปลงจากราคาปิดก่อนหน้า +2.75%",
+      "การเปลี่ยนแปลงจากราคาปิดก่อนหน้า -0.33%",
       "ควรอ่านเนื้อหาต้นฉบับและตรวจสอบตัวเลขก่อนสรุปผลกระทบ"
     ],
     "analysis_source": "rules"
   },
   {
     "ticker": "GOOGL",
-    "last_updated": "2026-11-10T14:08:25.832295+00:00",
+    "last_updated": "2026-11-10T17:01:43.309215+00:00",
     "summary": "GOOGL มีข่าวที่เกี่ยวข้อง 27 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: Adobe and Google Deepen Partnership to Bring Leading AI Models and Integrated Workflows to Creatives and Enterprises ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
     "analysis_points": [
       "พาดหัวล่าสุด: Adobe and Google Deepen Partnership to Bring Leading AI Models and Integrated Workflows to Creatives and Enterprises",
-      "การเปลี่ยนแปลงจากราคาปิดก่อนหน้า +1.18%",
+      "การเปลี่ยนแปลงจากราคาปิดก่อนหน้า -0.37%",
       "ควรอ่านเนื้อหาต้นฉบับและตรวจสอบตัวเลขก่อนสรุปผลกระทบ"
     ],
     "analysis_source": "rules"
   },
   {
     "ticker": "AMZN",
-    "last_updated": "2026-11-10T14:08:25.832295+00:00",
+    "last_updated": "2026-11-10T17:01:43.309215+00:00",
     "summary": "AMZN มีข่าวที่เกี่ยวข้อง 15 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: Andy Jassy Just Delivered Great News for Amazon Stock Investors ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
     "analysis_points": [
       "พาดหัวล่าสุด: Andy Jassy Just Delivered Great News for Amazon Stock Investors",
-      "การเปลี่ยนแปลงจากราคาปิดก่อนหน้า +2.94%",
+      "การเปลี่ยนแปลงจากราคาปิดก่อนหน้า +0.78%",
       "ควรอ่านเนื้อหาต้นฉบับและตรวจสอบตัวเลขก่อนสรุปผลกระทบ"
     ],
     "analysis_source": "rules"
   },
   {
     "ticker": "META",
-    "last_updated": "2026-11-10T14:08:25.832295+00:00",
+    "last_updated": "2026-11-10T17:01:43.309215+00:00",
     "summary": "META มีข่าวที่เกี่ยวข้อง 14 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: Pixelworks Partners with Meta to Bring TrueCut Motion Cinematic Content to Newly Launched Meta VR Glasses ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
     "analysis_points": [
       "พาดหัวล่าสุด: Pixelworks Partners with Meta to Bring TrueCut Motion Cinematic Content to Newly Launched Meta VR Glasses",
-      "การเปลี่ยนแปลงจากราคาปิดก่อนหน้า +5.12%",
+      "การเปลี่ยนแปลงจากราคาปิดก่อนหน้า -0.13%",
       "ควรอ่านเนื้อหาต้นฉบับและตรวจสอบตัวเลขก่อนสรุปผลกระทบ"
     ],
     "analysis_source": "rules"
   },
   {
     "ticker": "TSLA",
-    "last_updated": "2026-11-10T14:08:25.832295+00:00",
+    "last_updated": "2026-11-10T17:01:43.309215+00:00",
     "summary": "TSLA มีข่าวที่เกี่ยวข้อง 19 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: ETFs Are Buying Tesla (TSLA) on Friday ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
     "analysis_points": [
       "พาดหัวล่าสุด: ETFs Are Buying Tesla (TSLA) on Friday",
-      "การเปลี่ยนแปลงจากราคาปิดก่อนหน้า +5.54%",
-      "ควรอ่านเนื้อหาต้นฉบับและตรวจสอบตัวเลขก่อนสรุปผลกระทบ"
-    ],
-    "analysis_source": "rules"
-  },
-  {
-    "ticker": "AMD",
-    "last_updated": "2026-11-10T14:08:25.832295+00:00",
-    "summary": "AMD มีข่าวที่เกี่ยวข้อง 21 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: Advanced Micro Devices, Inc. (AMD) Is a Trending Stock: Facts to Know Before Betting on It ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
-    "analysis_points": [
-      "พาดหัวล่าสุด: Advanced Micro Devices, Inc. (AMD) Is a Trending Stock: Facts to Know Before Betting on It",
-      "การเปลี่ยนแปลงจากราคาปิดก่อนหน้า +13.26%",
-      "ควรอ่านเนื้อหาต้นฉบับและตรวจสอบตัวเลขก่อนสรุปผลกระทบ"
-    ],
-    "analysis_source": "rules"
-  },
-  {
-    "ticker": "AVGO",
-    "last_updated": "2026-11-10T14:08:25.832295+00:00",
-    "summary": "AVGO มีข่าวที่เกี่ยวข้อง 10 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: Broadcom Just Had Its Best Day in Nearly a Year, Back Above $1.5 Trillion ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
-    "analysis_points": [
-      "พาดหัวล่าสุด: Broadcom Just Had Its Best Day in Nearly a Year, Back Above $1.5 Trillion",
-      "การเปลี่ยนแปลงจากราคาปิดก่อนหน้า +8.78%",
-      "ควรอ่านเนื้อหาต้นฉบับและตรวจสอบตัวเลขก่อนสรุปผลกระทบ"
-    ],
-    "analysis_source": "rules"
-  },
-  {
-    "ticker": "ORCL",
-    "last_updated": "2026-11-10T14:08:25.832295+00:00",
-    "summary": "ORCL มีข่าวที่เกี่ยวข้อง 8 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: Why Bernstein says Oracle AI opportunity is more valuable than previously thought ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
-    "analysis_points": [
-      "พาดหัวล่าสุด: Why Bernstein says Oracle AI opportunity is more valuable than previously thought",
-      "การเปลี่ยนแปลงจากราคาปิดก่อนหน้า +3.18%",
-      "ควรอ่านเนื้อหาต้นฉบับและตรวจสอบตัวเลขก่อนสรุปผลกระทบ"
-    ],
-    "analysis_source": "rules"
-  },
-  {
-    "ticker": "CRM",
-    "last_updated": "2026-11-10T14:08:25.832295+00:00",
-    "summary": "CRM มีข่าวที่เกี่ยวข้อง 4 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: Arelion Automates Global Off-Net Access Quoting on The Connected World Platform ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
-    "analysis_points": [
-      "พาดหัวล่าสุด: Arelion Automates Global Off-Net Access Quoting on The Connected World Platform",
-      "การเปลี่ยนแปลงจากราคาปิดก่อนหน้า +0.60%",
-      "ควรอ่านเนื้อหาต้นฉบับและตรวจสอบตัวเลขก่อนสรุปผลกระทบ"
-    ],
-    "analysis_source": "rules"
-  },
-  {
-    "ticker": "NFLX",
-    "last_updated": "2026-11-10T14:08:25.832295+00:00",
-    "summary": "NFLX มีข่าวที่เกี่ยวข้อง 5 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: AMC Global Media Inc (AMCX) Q3 2026 Earnings Call Highlights: Streaming Growth and Netflix Deal ... ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
-    "analysis_points": [
-      "พาดหัวล่าสุด: AMC Global Media Inc (AMCX) Q3 2026 Earnings Call Highlights: Streaming Growth and Netflix Deal ...",
-      "การเปลี่ยนแปลงจากราคาปิดก่อนหน้า +0.85%",
-      "ควรอ่านเนื้อหาต้นฉบับและตรวจสอบตัวเลขก่อนสรุปผลกระทบ"
-    ],
-    "analysis_source": "rules"
-  },
-  {
-    "ticker": "INTC",
-    "last_updated": "2026-11-10T14:08:25.832295+00:00",
-    "summary": "INTC มีข่าวที่เกี่ยวข้อง 9 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: Intel Can Catch Taiwan Semiconductor on Physics, Not Economics ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
-    "analysis_points": [
-      "พาดหัวล่าสุด: Intel Can Catch Taiwan Semiconductor on Physics, Not Economics",
-      "การเปลี่ยนแปลงจากราคาปิดก่อนหน้า +5.49%",
-      "ควรอ่านเนื้อหาต้นฉบับและตรวจสอบตัวเลขก่อนสรุปผลกระทบ"
-    ],
-    "analysis_source": "rules"
-  },
-  {
-    "ticker": "QCOM",
-    "last_updated": "2026-11-10T14:08:25.832295+00:00",
-    "summary": "QCOM มีข่าวที่เกี่ยวข้อง 14 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: Qualcomm vs. Western Digital: Which Tech Stock Is a Better Buy for 2027? ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
-    "analysis_points": [
-      "พาดหัวล่าสุด: Qualcomm vs. Western Digital: Which Tech Stock Is a Better Buy for 2027?",
-      "การเปลี่ยนแปลงจากราคาปิดก่อนหน้า +3.66%",
-      "ควรอ่านเนื้อหาต้นฉบับและตรวจสอบตัวเลขก่อนสรุปผลกระทบ"
-    ],
-    "analysis_source": "rules"
-  },
-  {
-    "ticker": "PLTR",
-    "last_updated": "2026-11-10T14:08:25.832295+00:00",
-    "summary": "PLTR มีข่าวที่เกี่ยวข้อง 11 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: What Is Driving Palantir Stock? ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
-    "analysis_points": [
-      "พาดหัวล่าสุด: What Is Driving Palantir Stock?",
-      "การเปลี่ยนแปลงจากราคาปิดก่อนหน้า +5.50%",
-      "ควรอ่านเนื้อหาต้นฉบับและตรวจสอบตัวเลขก่อนสรุปผลกระทบ"
-    ],
-    "analysis_source": "rules"
-  },
-  {
-    "ticker": "SMCI",
-    "last_updated": "2026-11-10T14:08:25.832295+00:00",
-    "summary": "SMCI มีข่าวที่เกี่ยวข้อง 3 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: Super Micro Is Down 28% in a Year. Is Jim Cramer Right About “Major Structural Problems”? ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
-    "analysis_points": [
-      "พาดหัวล่าสุด: Super Micro Is Down 28% in a Year. Is Jim Cramer Right About “Major Structural Problems”?",
       "การเปลี่ยนแปลงจากราคาปิดก่อนหน้า -0.56%",
       "ควรอ่านเนื้อหาต้นฉบับและตรวจสอบตัวเลขก่อนสรุปผลกระทบ"
     ],
     "analysis_source": "rules"
   },
   {
+    "ticker": "AMD",
+    "last_updated": "2026-11-10T17:01:43.309215+00:00",
+    "summary": "AMD มีข่าวที่เกี่ยวข้อง 21 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: Advanced Micro Devices, Inc. (AMD) Is a Trending Stock: Facts to Know Before Betting on It ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
+    "analysis_points": [
+      "พาดหัวล่าสุด: Advanced Micro Devices, Inc. (AMD) Is a Trending Stock: Facts to Know Before Betting on It",
+      "การเปลี่ยนแปลงจากราคาปิดก่อนหน้า +0.26%",
+      "ควรอ่านเนื้อหาต้นฉบับและตรวจสอบตัวเลขก่อนสรุปผลกระทบ"
+    ],
+    "analysis_source": "rules"
+  },
+  {
+    "ticker": "AVGO",
+    "last_updated": "2026-11-10T17:01:43.309215+00:00",
+    "summary": "AVGO มีข่าวที่เกี่ยวข้อง 10 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: Broadcom Just Had Its Best Day in Nearly a Year, Back Above $1.5 Trillion ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
+    "analysis_points": [
+      "พาดหัวล่าสุด: Broadcom Just Had Its Best Day in Nearly a Year, Back Above $1.5 Trillion",
+      "การเปลี่ยนแปลงจากราคาปิดก่อนหน้า +1.61%",
+      "ควรอ่านเนื้อหาต้นฉบับและตรวจสอบตัวเลขก่อนสรุปผลกระทบ"
+    ],
+    "analysis_source": "rules"
+  },
+  {
+    "ticker": "ORCL",
+    "last_updated": "2026-11-10T17:01:43.309215+00:00",
+    "summary": "ORCL มีข่าวที่เกี่ยวข้อง 8 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: Why Bernstein says Oracle AI opportunity is more valuable than previously thought ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
+    "analysis_points": [
+      "พาดหัวล่าสุด: Why Bernstein says Oracle AI opportunity is more valuable than previously thought",
+      "การเปลี่ยนแปลงจากราคาปิดก่อนหน้า -1.32%",
+      "ควรอ่านเนื้อหาต้นฉบับและตรวจสอบตัวเลขก่อนสรุปผลกระทบ"
+    ],
+    "analysis_source": "rules"
+  },
+  {
+    "ticker": "CRM",
+    "last_updated": "2026-11-10T17:01:43.309215+00:00",
+    "summary": "CRM มีข่าวที่เกี่ยวข้อง 4 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: Arelion Automates Global Off-Net Access Quoting on The Connected World Platform ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
+    "analysis_points": [
+      "พาดหัวล่าสุด: Arelion Automates Global Off-Net Access Quoting on The Connected World Platform",
+      "การเปลี่ยนแปลงจากราคาปิดก่อนหน้า -1.23%",
+      "ควรอ่านเนื้อหาต้นฉบับและตรวจสอบตัวเลขก่อนสรุปผลกระทบ"
+    ],
+    "analysis_source": "rules"
+  },
+  {
+    "ticker": "NFLX",
+    "last_updated": "2026-11-10T17:01:43.309215+00:00",
+    "summary": "NFLX มีข่าวที่เกี่ยวข้อง 5 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: AMC Global Media Inc (AMCX) Q3 2026 Earnings Call Highlights: Streaming Growth and Netflix Deal ... ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
+    "analysis_points": [
+      "พาดหัวล่าสุด: AMC Global Media Inc (AMCX) Q3 2026 Earnings Call Highlights: Streaming Growth and Netflix Deal ...",
+      "การเปลี่ยนแปลงจากราคาปิดก่อนหน้า -1.63%",
+      "ควรอ่านเนื้อหาต้นฉบับและตรวจสอบตัวเลขก่อนสรุปผลกระทบ"
+    ],
+    "analysis_source": "rules"
+  },
+  {
+    "ticker": "INTC",
+    "last_updated": "2026-11-10T17:01:43.309215+00:00",
+    "summary": "INTC มีข่าวที่เกี่ยวข้อง 9 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: Intel Can Catch Taiwan Semiconductor on Physics, Not Economics ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
+    "analysis_points": [
+      "พาดหัวล่าสุด: Intel Can Catch Taiwan Semiconductor on Physics, Not Economics",
+      "การเปลี่ยนแปลงจากราคาปิดก่อนหน้า -3.16%",
+      "ควรอ่านเนื้อหาต้นฉบับและตรวจสอบตัวเลขก่อนสรุปผลกระทบ"
+    ],
+    "analysis_source": "rules"
+  },
+  {
+    "ticker": "QCOM",
+    "last_updated": "2026-11-10T17:01:43.309215+00:00",
+    "summary": "QCOM มีข่าวที่เกี่ยวข้อง 14 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: Qualcomm vs. Western Digital: Which Tech Stock Is a Better Buy for 2027? ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
+    "analysis_points": [
+      "พาดหัวล่าสุด: Qualcomm vs. Western Digital: Which Tech Stock Is a Better Buy for 2027?",
+      "การเปลี่ยนแปลงจากราคาปิดก่อนหน้า -1.44%",
+      "ควรอ่านเนื้อหาต้นฉบับและตรวจสอบตัวเลขก่อนสรุปผลกระทบ"
+    ],
+    "analysis_source": "rules"
+  },
+  {
+    "ticker": "PLTR",
+    "last_updated": "2026-11-10T17:01:43.309215+00:00",
+    "summary": "PLTR มีข่าวที่เกี่ยวข้อง 11 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: What Is Driving Palantir Stock? ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
+    "analysis_points": [
+      "พาดหัวล่าสุด: What Is Driving Palantir Stock?",
+      "การเปลี่ยนแปลงจากราคาปิดก่อนหน้า -1.63%",
+      "ควรอ่านเนื้อหาต้นฉบับและตรวจสอบตัวเลขก่อนสรุปผลกระทบ"
+    ],
+    "analysis_source": "rules"
+  },
+  {
+    "ticker": "SMCI",
+    "last_updated": "2026-11-10T17:01:43.309215+00:00",
+    "summary": "SMCI มีข่าวที่เกี่ยวข้อง 3 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: Super Micro Is Down 28% in a Year. Is Jim Cramer Right About “Major Structural Problems”? ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
+    "analysis_points": [
+      "พาดหัวล่าสุด: Super Micro Is Down 28% in a Year. Is Jim Cramer Right About “Major Structural Problems”?",
+      "การเปลี่ยนแปลงจากราคาปิดก่อนหน้า -3.70%",
+      "ควรอ่านเนื้อหาต้นฉบับและตรวจสอบตัวเลขก่อนสรุปผลกระทบ"
+    ],
+    "analysis_source": "rules"
+  },
+  {
     "ticker": "IBM",
-    "last_updated": "2026-11-10T14:08:25.832295+00:00",
+    "last_updated": "2026-11-10T17:01:43.309215+00:00",
     "summary": "IBM มีข่าวที่เกี่ยวข้อง 7 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: Gix Internet: Quantum X Labs Expands AI-Powered Quantum Error Correction Program to Three IBM Quantum Processors ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
     "analysis_points": [
       "พาดหัวล่าสุด: Gix Internet: Quantum X Labs Expands AI-Powered Quantum Error Correction Program to Three IBM Quantum Processors",
-      "การเปลี่ยนแปลงจากราคาปิดก่อนหน้า +0.45%",
+      "การเปลี่ยนแปลงจากราคาปิดก่อนหน้า -0.25%",
       "ควรอ่านเนื้อหาต้นฉบับและตรวจสอบตัวเลขก่อนสรุปผลกระทบ"
     ],
     "analysis_source": "rules"
   },
   {
     "ticker": "ADBE",
-    "last_updated": "2026-11-10T14:08:25.832295+00:00",
+    "last_updated": "2026-11-10T17:01:43.309215+00:00",
     "summary": "ADBE มีข่าวที่เกี่ยวข้อง 8 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: Adobe Brings Agentic AI to the Content Supply Chain with CX Enterprise Coworker ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
     "analysis_points": [
       "พาดหัวล่าสุด: Adobe Brings Agentic AI to the Content Supply Chain with CX Enterprise Coworker",
-      "การเปลี่ยนแปลงจากราคาปิดก่อนหน้า -0.83%",
+      "การเปลี่ยนแปลงจากราคาปิดก่อนหน้า -1.14%",
       "ควรอ่านเนื้อหาต้นฉบับและตรวจสอบตัวเลขก่อนสรุปผลกระทบ"
     ],
     "analysis_source": "rules"
   },
   {
     "ticker": "TSM",
-    "last_updated": "2026-11-10T14:08:25.832295+00:00",
+    "last_updated": "2026-11-10T17:01:43.309215+00:00",
     "summary": "TSM มีข่าวที่เกี่ยวข้อง 14 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: Is Most-Watched Stock Taiwan Semiconductor Manufacturing Company Ltd. (TSM) Worth Betting on Now? ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
     "analysis_points": [
       "พาดหัวล่าสุด: Is Most-Watched Stock Taiwan Semiconductor Manufacturing Company Ltd. (TSM) Worth Betting on Now?",
-      "การเปลี่ยนแปลงจากราคาปิดก่อนหน้า +3.51%",
+      "การเปลี่ยนแปลงจากราคาปิดก่อนหน้า +0.26%",
       "ควรอ่านเนื้อหาต้นฉบับและตรวจสอบตัวเลขก่อนสรุปผลกระทบ"
     ],
     "analysis_source": "rules"
   },
   {
     "ticker": "GCTK",
-    "last_updated": "2026-11-10T14:08:25.832295+00:00",
-    "summary": "GCTK: ยังไม่พบข่าวที่เกี่ยวข้องในช่วง 48 ชั่วโมงล่าสุด · การเปลี่ยนแปลงจากราคาปิดก่อนหน้า -6.67%",
+    "last_updated": "2026-11-10T17:01:43.309215+00:00",
+    "summary": "GCTK: ยังไม่พบข่าวที่เกี่ยวข้องในช่วง 48 ชั่วโมงล่าสุด · การเปลี่ยนแปลงจากราคาปิดก่อนหน้า +10.71%",
     "analysis_points": [
-      "การเปลี่ยนแปลงจากราคาปิดก่อนหน้า -6.67%",
+      "การเปลี่ยนแปลงจากราคาปิดก่อนหน้า +10.71%",
       "ยังไม่มีหลักฐานข่าวเพียงพอสำหรับอธิบายการเคลื่อนไหว"
     ],
     "analysis_source": "rules"
   },
   {
     "ticker": "QUCY",
-    "last_updated": "2026-11-10T14:08:25.832295+00:00",
+    "last_updated": "2026-11-10T17:01:43.309215+00:00",
     "summary": "QUCY มีข่าวที่เกี่ยวข้อง 1 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: Quantum Cyber Expands and Secures Exclusive Quantum Photonic Array License, Extending Its Quantum Layer Across Air, Surface and Subsea Unmanned Warfare Domains ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
     "analysis_points": [
       "พาดหัวล่าสุด: Quantum Cyber Expands and Secures Exclusive Quantum Photonic Array License, Extending Its Quantum Layer Across Air, Surface and Subsea Unmanned Warfare Domains",
-      "การเปลี่ยนแปลงจากราคาปิดก่อนหน้า -4.27%",
+      "การเปลี่ยนแปลงจากราคาปิดก่อนหน้า +0.10%",
       "ควรอ่านเนื้อหาต้นฉบับและตรวจสอบตัวเลขก่อนสรุปผลกระทบ"
     ],
     "analysis_source": "rules"
   },
   {
     "ticker": "ONDS",
-    "last_updated": "2026-11-10T14:08:25.832295+00:00",
+    "last_updated": "2026-11-10T17:01:43.309215+00:00",
     "summary": "ONDS มีข่าวที่เกี่ยวข้อง 3 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: Ondas Receives Purchase Order for Next-Generation Tactical Attack Drones, Aims to Leverage Planned ARAN Defense Acquisition to Manufacture Thousands of Systems ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
     "analysis_points": [
       "พาดหัวล่าสุด: Ondas Receives Purchase Order for Next-Generation Tactical Attack Drones, Aims to Leverage Planned ARAN Defense Acquisition to Manufacture Thousands of Systems",
-      "การเปลี่ยนแปลงจากราคาปิดก่อนหน้า +11.90%",
+      "การเปลี่ยนแปลงจากราคาปิดก่อนหน้า -6.70%",
       "ควรอ่านเนื้อหาต้นฉบับและตรวจสอบตัวเลขก่อนสรุปผลกระทบ"
     ],
     "analysis_source": "rules"
   },
   {
     "ticker": "SNDK",
-    "last_updated": "2026-11-10T14:08:25.832295+00:00",
+    "last_updated": "2026-11-10T17:01:43.309215+00:00",
     "summary": "SNDK มีข่าวที่เกี่ยวข้อง 8 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: Sandisk Stock Has Collapsed by 65%, but It's Still Undergoing an 8-for-1 Stock Split on Nov. 19. Here's Why I'm Still Not Buying Shares Amidst This Nasdaq Market Slump. ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
     "analysis_points": [
       "พาดหัวล่าสุด: Sandisk Stock Has Collapsed by 65%, but It's Still Undergoing an 8-for-1 Stock Split on Nov. 19. Here's Why I'm Still Not Buying Shares Amidst This Nasdaq Market Slump.",
-      "การเปลี่ยนแปลงจากราคาปิดก่อนหน้า +6.16%",
+      "การเปลี่ยนแปลงจากราคาปิดก่อนหน้า -5.17%",
       "ควรอ่านเนื้อหาต้นฉบับและตรวจสอบตัวเลขก่อนสรุปผลกระทบ"
     ],
     "analysis_source": "rules"
