@@ -1,7 +1,7 @@
 {
   "date": "2026-11-11",
   "window_days": 7,
-  "source_count": 1098,
+  "source_count": 1134,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 178,
+      "count": 183,
       "kind": "ticker"
     },
     {
@@ -18,7 +18,7 @@
       "search_terms": [
         "GOOGL"
       ],
-      "count": 118,
+      "count": 122,
       "kind": "ticker"
     },
     {
@@ -27,7 +27,7 @@
       "search_terms": [
         "TSLA"
       ],
-      "count": 79,
+      "count": 82,
       "kind": "ticker"
     },
     {
@@ -36,7 +36,7 @@
       "search_terms": [
         "AMD"
       ],
-      "count": 76,
+      "count": 78,
       "kind": "ticker"
     },
     {
@@ -45,7 +45,16 @@
       "search_terms": [
         "MSFT"
       ],
-      "count": 73,
+      "count": 77,
+      "kind": "ticker"
+    },
+    {
+      "label": "AMZN",
+      "query": "AMZN",
+      "search_terms": [
+        "AMZN"
+      ],
+      "count": 72,
       "kind": "ticker"
     },
     {
@@ -57,17 +66,8 @@
         "revenue guidance",
         "profit forecast"
       ],
-      "count": 71,
+      "count": 72,
       "kind": "topic"
-    },
-    {
-      "label": "AMZN",
-      "query": "AMZN",
-      "search_terms": [
-        "AMZN"
-      ],
-      "count": 70,
-      "kind": "ticker"
     },
     {
       "label": "AAPL",
@@ -75,7 +75,7 @@
       "search_terms": [
         "AAPL"
       ],
-      "count": 68,
+      "count": 70,
       "kind": "ticker"
     },
     {
@@ -84,7 +84,7 @@
       "search_terms": [
         "QCOM"
       ],
-      "count": 54,
+      "count": 55,
       "kind": "ticker"
     },
     {
@@ -103,7 +103,7 @@
         "data center",
         "AI infrastructure"
       ],
-      "count": 46,
+      "count": 47,
       "kind": "topic"
     },
     {
@@ -112,11 +112,11 @@
       "search_terms": [
         "ORCL"
       ],
-      "count": 45,
+      "count": 46,
       "kind": "ticker"
     }
   ],
-  "updated_at": "2026-11-11T11:28:35.572007+00:00",
+  "updated_at": "2026-11-11T13:24:42.826070+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -15080,6 +15080,510 @@
       "sentiment": "neutral",
       "sentiment_source": "headline_vader",
       "fetched_at": "2026-11-11T11:28:35.529703+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "'Icarus' rise and fall': Analyst downgrades Nvidia stock amid Jensen Huang woes, highlights risks",
+      "link": "https://finance.yahoo.com/markets/article/icarus-rise-and-fall-analyst-downgrades-nvidia-stock-amid-jensen-huang-woes-highlights-risks-131204555.html?.tsrc=rss",
+      "published": "Wed, 11 Nov 2026 13:12:04 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-11T13:24:39.124304+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Why open-source AI models aren't actually cheaper to run: Vinod Khosla",
+      "link": "https://finance.yahoo.com/video/why-open-source-ai-models-130000766.html?.tsrc=rss",
+      "published": "Wed, 11 Nov 2026 13:00:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-11T13:24:39.124338+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Nvidia Selloff Puts China Exposed US Chip Stocks Back In Focus",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-selloff-puts-china-exposed-130900790.html?.tsrc=rss",
+      "published": "Wed, 11 Nov 2026 13:09:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-11T13:24:39.124373+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Premarket movers: CoreWeave, Nvidia rally; Fossil, Tandy Leather jump",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/premarket-movers-coreweave-nvidia-rally-130814151.html?.tsrc=rss",
+      "published": "Wed, 11 Nov 2026 13:08:14 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-11T13:24:39.124390+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "NVDA Stock Set For Best Day In Over 2 Months – Baird Downgrades Shares, Flags Slower AI Spending, Jensen Huang Risk",
+      "link": "https://stocktwits.com/news-articles/markets/equity/nvda-stock-set-for-best-day-in-over-2-months-baird-downgrades-shares-flags-slower-ai-spending-jensen-huang-risk/cNGDYR8R9Bm?.tsrc=rss",
+      "published": "Wed, 11 Nov 2026 13:06:17 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-11T13:24:39.124461+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "How Much Capital Gains Tax Does a 61-Year-Old Owe on $750,000 of Inherited Apple Stock?",
+      "link": "https://247wallst.com/personal-finance/savings-accounts/2026/11/11/how-much-capital-gains-tax-does-a-61-year-old-owe-on-750000-of-inherited-apple-stock/?.tsrc=rss",
+      "published": "Wed, 11 Nov 2026 13:03:52 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-11T13:24:39.258956+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Buy, Sell, or Hold? Wednesday’s Top Upgrades and Downgrades: Akamai Technologies, Apple, BILL Holdings, Corning, Form Factor, Guidewire Software, NVIDIA, Riot Platforms, Toast, and More",
+      "link": "https://247wallst.com/investing/2026/11/11/buy-sell-or-hold-wednesdays-top-upgrades-and-downgrades-akamai-technologies-apple-bill-holdings-corning-form-factor-guidewire-software-nvidia-riot-platforms-toast-and-more/?.tsrc=rss",
+      "published": "Wed, 11 Nov 2026 12:57:12 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-11T13:24:39.259031+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Microsoft Stock Fell After Anthropic Launches Claude Sheets to Rival Excel",
+      "link": "https://www.ibtimes.com/microsoft-shares-fall-anthropic-office-ai-tools-3809631?.tsrc=rss",
+      "published": "Wed, 11 Nov 2026 12:13:24 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-11T13:24:39.442060+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Northern Trust leans on Microsoft FDEs to boost agentic buildout",
+      "link": "https://www.ciodive.com/news/northern-trust-leans-microsoft-fde-agentic-buildout/874317/?.tsrc=rss",
+      "published": "Wed, 11 Nov 2026 12:00:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-11T13:24:39.442100+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Microsoft Stock Falls as Anthropic Takes Aim at Office Work With New Claude Tools",
+      "link": "https://finance.yahoo.com/technology/ai/articles/microsoft-stock-falls-anthropic-takes-111433184.html?.tsrc=rss",
+      "published": "Wed, 11 Nov 2026 11:14:33 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-11T13:24:39.442120+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Kai-Fu Lee Questions Soaring AI Valuations",
+      "link": "https://finance.yahoo.com/video/kai-fu-lee-questions-soaring-111005116.html?.tsrc=rss",
+      "published": "Wed, 11 Nov 2026 11:10:05 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-11T13:24:39.442133+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Anthropic is hiding its best AI: Fable 5.2 and the IPO",
+      "link": "https://finance.yahoo.com/video/anthropic-hiding-best-ai-fable-120000011.html?.tsrc=rss",
+      "published": "Wed, 11 Nov 2026 12:00:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-11T13:24:39.586578+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Alphabet or CoreWeave: Which AI Stock Is Better to Buy in a Market Crash?",
+      "link": "https://www.fool.com/investing/2026/11/11/alphabet-or-coreweave-which-ai-stock-is-better-to/?.tsrc=rss",
+      "published": "Wed, 11 Nov 2026 12:35:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-11T13:24:39.586631+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Why Alphabet and Amazon Will Always Need Nvidia",
+      "link": "https://247wallst.com/investing/2026/11/11/why-alphabet-and-amazon-will-always-need-nvidia/?.tsrc=rss",
+      "published": "Wed, 11 Nov 2026 12:15:53 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-11T13:24:39.586667+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Google targets America's medical bills with major AI launch",
+      "link": "https://finance.yahoo.com/technology/ai/articles/google-targets-americas-medical-bills-120642841.html?.tsrc=rss",
+      "published": "Wed, 11 Nov 2026 12:06:42 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-11T13:24:39.586684+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Cathie Wood Dumps $3 Million of This Magnificent Seven Stock",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-dumps-3-million-120959967.html?.tsrc=rss",
+      "published": "Wed, 11 Nov 2026 12:09:59 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-11T13:24:39.719735+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "YieldMax® ETFs Announces Weekly Distributions for Group 2 ETFs",
+      "link": "https://finance.yahoo.com/news/yieldmax-etfs-announces-weekly-distributions-115500125.html?.tsrc=rss",
+      "published": "Wed, 11 Nov 2026 11:55:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-11T13:24:39.719762+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Tesla wins major European approval with a surprising catch",
+      "link": "https://finance.yahoo.com/technology/ai/articles/tesla-wins-major-european-approval-121208613.html?.tsrc=rss",
+      "published": "Wed, 11 Nov 2026 12:12:08 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-11T13:24:40.033436+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Tesla Stock Thrives on Key-Man Drama. Nvidia Might Not Be So Lucky.",
+      "link": "https://finance.yahoo.com/m/b6ddaaa8-c76d-344b-8aef-46dcf15f3ce5/tesla-stock-thrives-on.html?.tsrc=rss",
+      "published": "Wed, 11 Nov 2026 11:47:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-11T13:24:40.033474+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Tesla (TSLA) Faces A Valuation Test Following Its Cybertruck Wind Down And Robotaxi Pivot",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-faces-valuation-test-111110357.html?.tsrc=rss",
+      "published": "Wed, 11 Nov 2026 11:11:10 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-11T13:24:40.033496+00:00"
+    },
+    {
+      "ticker": "AMD",
+      "title": "AMD sees $709 million reversal as major ETFs pile in",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/amd-sees-709-million-reversal-115710107.html?.tsrc=rss",
+      "published": "Wed, 11 Nov 2026 11:57:10 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-11T13:24:40.249037+00:00"
+    },
+    {
+      "ticker": "AMD",
+      "title": "Latest News In AI Chips - Advancing Data Centers with AMD's New EPYC Processors",
+      "link": "https://finance.yahoo.com/technology/ai/articles/latest-news-ai-chips-advancing-113735186.html?.tsrc=rss",
+      "published": "Wed, 11 Nov 2026 11:37:35 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-11T13:24:40.249064+00:00"
+    },
+    {
+      "ticker": "ORCL",
+      "title": "Utilities Achieve Record Peak Energy AI-Powered Demand Reduction with Oracle",
+      "link": "https://finance.yahoo.com/energy/articles/utilities-achieve-record-peak-energy-125500336.html?.tsrc=rss",
+      "published": "Wed, 11 Nov 2026 12:55:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-11T13:24:40.630285+00:00"
+    },
+    {
+      "ticker": "CRM",
+      "title": "CX vendor consolidation: A wake-up call for CX leaders",
+      "link": "https://www.customerexperiencedive.com/news/cx-vendor-consolidation-wake-up-call-cx-leaders/874304/?.tsrc=rss",
+      "published": "Wed, 11 Nov 2026 12:00:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-11T13:24:40.765820+00:00"
+    },
+    {
+      "ticker": "NFLX",
+      "title": "Netflix trades at under 18x earnings after a steep valuation reset",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/netflix-trades-under-18x-earnings-120649905.html?.tsrc=rss",
+      "published": "Wed, 11 Nov 2026 12:06:49 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-11T13:24:40.931525+00:00"
+    },
+    {
+      "ticker": "INTC",
+      "title": "ETFs Bought $360.9 Million of Intel (INTC) on Nov. 9",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/etfs-bought-360-9-million-110129710.html?.tsrc=rss",
+      "published": "Wed, 11 Nov 2026 11:01:29 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-11T13:24:41.091710+00:00"
+    },
+    {
+      "ticker": "QCOM",
+      "title": "ETFs Bought $293.8 Million of Qualcomm (QCOM) on Nov. 9",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/etfs-bought-293-8-million-110143068.html?.tsrc=rss",
+      "published": "Wed, 11 Nov 2026 11:01:43 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-11T13:24:41.268561+00:00"
+    },
+    {
+      "ticker": "PLTR",
+      "title": "Palantir stock falls 19% as Wall Street spots a warning",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-stock-falls-19-wall-121413791.html?.tsrc=rss",
+      "published": "Wed, 11 Nov 2026 12:14:13 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-11T13:24:41.430599+00:00"
+    },
+    {
+      "ticker": "PLTR",
+      "title": "Cathie Wood Trims Palantir Stake. The Bigger Concern Is Slowing Business Growth",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-trims-palantir-stake-111358938.html?.tsrc=rss",
+      "published": "Wed, 11 Nov 2026 11:13:58 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-11T13:24:41.430646+00:00"
+    },
+    {
+      "ticker": "IBM",
+      "title": "IBM Digital Sovereignty Index: In the AI Era, Control Is No Longer Enough. Enterprises Must Prove it.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/ibm-digital-sovereignty-index-ai-130000296.html?.tsrc=rss",
+      "published": "Wed, 11 Nov 2026 13:00:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-11T13:24:41.808117+00:00"
+    },
+    {
+      "ticker": "IBM",
+      "title": "IBM Quantum Nighthawk Demonstrates New Levels of Speed and Quality, with Plans to Scale Beyond 1,000 Qubits in 2027",
+      "link": "https://finance.yahoo.com/technology/ai/articles/ibm-quantum-nighthawk-demonstrates-levels-120000577.html?.tsrc=rss",
+      "published": "Wed, 11 Nov 2026 12:00:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-11T13:24:41.808149+00:00"
+    },
+    {
+      "ticker": "TSM",
+      "title": "How $300,000 in EWT Ends Up With $60,924 in a Single Chipmaker",
+      "link": "https://247wallst.com/investing/etf/2026/11/11/how-300000-in-ewt-ends-up-with-60924-in-a-single-chipmaker/?.tsrc=rss",
+      "published": "Wed, 11 Nov 2026 12:33:55 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-11T13:24:42.119814+00:00"
+    },
+    {
+      "ticker": "TSM",
+      "title": "TSMC’s Sales Jumped 15% in October. Nvidia’s Supplier Isn’t Seeing the AI Slowdown Yet",
+      "link": "https://www.tikr.com/blog/tsmcs-sales-jumped-15-in-october-nvidias-supplier-isnt-seeing-the-ai-slowdown-yet?ref=yahoofinance&tlnk=yf-261111-pm338m2j&.tsrc=rss",
+      "published": "Wed, 11 Nov 2026 11:54:17 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-11T13:24:42.119846+00:00"
+    },
+    {
+      "ticker": "TSM",
+      "title": "TSMC Approves Up to $1 Billion Investment in Anthropic and OpenAI as October Sales Rise 60%",
+      "link": "https://investorshub.advfn.com/market-news/article/39744/tsmc-approves-up-to-1-billion-investment-in-anthropic-and-openai-as-october-sales-rise-60?.tsrc=rss",
+      "published": "Wed, 11 Nov 2026 11:15:21 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-11T13:24:42.119876+00:00"
+    },
+    {
+      "ticker": "SNDK",
+      "title": "Sandisk Leads Memory Stock Rally. The AI Recovery Has Far to Go.",
+      "link": "https://finance.yahoo.com/m/0bde82d2-8807-3c45-be12-2524a5a41953/sandisk-leads-memory-stock.html?.tsrc=rss",
+      "published": "Wed, 11 Nov 2026 12:29:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-11T13:24:42.806460+00:00"
+    },
+    {
+      "ticker": "SNDK",
+      "title": "Sandisk (SNDK) Dropped, So What Is Behind Its Latest Move?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sandisk-sndk-dropped-behind-latest-111152442.html?.tsrc=rss",
+      "published": "Wed, 11 Nov 2026 11:11:52 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-11T13:24:42.806483+00:00"
     }
   ]
 }

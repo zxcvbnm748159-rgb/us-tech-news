@@ -1,14 +1,14 @@
 {
   "date": "2026-11-11",
-  "score": 75,
+  "score": 73,
   "label": "Bullish",
   "counts": {
-    "positive": 9,
-    "negative": 3,
-    "neutral": 29
+    "positive": 19,
+    "negative": 7,
+    "neutral": 51
   },
-  "total": 41,
-  "updated_at": "2026-11-11T11:28:35.530473+00:00",
+  "total": 77,
+  "updated_at": "2026-11-11T13:24:42.806833+00:00",
   "articles": [
     {
       "link": "https://finance.yahoo.com/technology/ai/articles/alibaba-makes-major-ai-chip-111454918.html?.tsrc=rss",
@@ -172,6 +172,150 @@
     },
     {
       "link": "https://www.fool.com/investing/2026/11/11/1-stock-split-ai-stock-buy-before-soar-328-wall-street/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/article/icarus-rise-and-fall-analyst-downgrades-nvidia-stock-amid-jensen-huang-woes-highlights-risks-131204555.html?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/video/why-open-source-ai-models-130000766.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-selloff-puts-china-exposed-130900790.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/premarket-movers-coreweave-nvidia-rally-130814151.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://stocktwits.com/news-articles/markets/equity/nvda-stock-set-for-best-day-in-over-2-months-baird-downgrades-shares-flags-slower-ai-spending-jensen-huang-risk/cNGDYR8R9Bm?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://247wallst.com/personal-finance/savings-accounts/2026/11/11/how-much-capital-gains-tax-does-a-61-year-old-owe-on-750000-of-inherited-apple-stock/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/11/11/buy-sell-or-hold-wednesdays-top-upgrades-and-downgrades-akamai-technologies-apple-bill-holdings-corning-form-factor-guidewire-software-nvidia-riot-platforms-toast-and-more/?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.ibtimes.com/microsoft-shares-fall-anthropic-office-ai-tools-3809631?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.ciodive.com/news/northern-trust-leans-microsoft-fde-agentic-buildout/874317/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/microsoft-stock-falls-anthropic-takes-111433184.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/video/kai-fu-lee-questions-soaring-111005116.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/video/anthropic-hiding-best-ai-fable-120000011.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/11/alphabet-or-coreweave-which-ai-stock-is-better-to/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/11/11/why-alphabet-and-amazon-will-always-need-nvidia/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/google-targets-americas-medical-bills-120642841.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-dumps-3-million-120959967.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/news/yieldmax-etfs-announces-weekly-distributions-115500125.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/tesla-wins-major-european-approval-121208613.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/b6ddaaa8-c76d-344b-8aef-46dcf15f3ce5/tesla-stock-thrives-on.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-faces-valuation-test-111110357.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/amd-sees-709-million-reversal-115710107.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/latest-news-ai-chips-advancing-113735186.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/energy/articles/utilities-achieve-record-peak-energy-125500336.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.customerexperiencedive.com/news/cx-vendor-consolidation-wake-up-call-cx-leaders/874304/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/netflix-trades-under-18x-earnings-120649905.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/etfs-bought-360-9-million-110129710.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/etfs-bought-293-8-million-110143068.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-stock-falls-19-wall-121413791.html?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-trims-palantir-stake-111358938.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/ibm-digital-sovereignty-index-ai-130000296.html?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/ibm-quantum-nighthawk-demonstrates-levels-120000577.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://247wallst.com/investing/etf/2026/11/11/how-300000-in-ewt-ends-up-with-60924-in-a-single-chipmaker/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.tikr.com/blog/tsmcs-sales-jumped-15-in-october-nvidias-supplier-isnt-seeing-the-ai-slowdown-yet?ref=yahoofinance&tlnk=yf-261111-pm338m2j&.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://investorshub.advfn.com/market-news/article/39744/tsmc-approves-up-to-1-billion-investment-in-anthropic-and-openai-as-october-sales-rise-60?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/0bde82d2-8807-3c45-be12-2524a5a41953/sandisk-leads-memory-stock.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sandisk-sndk-dropped-behind-latest-111152442.html?.tsrc=rss",
       "sentiment": "neutral"
     }
   ]
