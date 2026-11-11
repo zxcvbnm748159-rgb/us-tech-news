@@ -1,14 +1,14 @@
 {
   "date": "2026-11-10",
-  "score": 68,
+  "score": 67,
   "label": "Bullish",
   "counts": {
     "positive": 76,
-    "negative": 36,
-    "neutral": 138
+    "negative": 37,
+    "neutral": 141
   },
-  "total": 250,
-  "updated_at": "2026-11-11T03:45:08.384202+00:00",
+  "total": 254,
+  "updated_at": "2026-11-11T04:10:49.178032+00:00",
   "articles": [
     {
       "link": "https://finance.yahoo.com/markets/stocks/article/nvidia-is-worth-nearly-30-less-if-jensen-huang-is-no-longer-ceo-tech-analyst-114242269.html?.tsrc=rss",
@@ -1008,6 +1008,22 @@
     },
     {
       "link": "https://stocktwits.com/news-articles/markets/equity/onds-stock-rises-overnight-ondas-scores-new-digital-bat-drones-order-ahead-of-earnings/cNGDJKGR9JN?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://stocktwits.com/news-articles/markets/equity/dow-s-and-p-500-nasdaq-futures-edge-higher-after-red-hot-inflation-data-and-nvidia-losses-crwv-ttwo-nlst-nbis-in-focus/cNGDaIOR9J8?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/11/10/nvidia-shares-just-crashed-nearly-30-in-five-weeks-dan-ives-says-losing-jensen-huang-would-cost-up-to-30-more-heres-the-math/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.thestreet.com/investing/spacex-biggest-business-this-quarter-colossus-2-computing-contracts-not-rockets?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/articles/sqc-expands-executive-team-appointment-200200572.html?.tsrc=rss",
       "sentiment": "neutral"
     }
   ]

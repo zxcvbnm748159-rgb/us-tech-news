@@ -1,7 +1,7 @@
 {
   "date": "2026-11-10",
   "window_days": 7,
-  "source_count": 1305,
+  "source_count": 1309,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 197,
+      "count": 199,
       "kind": "ticker"
     },
     {
@@ -18,7 +18,7 @@
       "search_terms": [
         "GOOGL"
       ],
-      "count": 132,
+      "count": 133,
       "kind": "ticker"
     },
     {
@@ -116,7 +116,7 @@
       "kind": "ticker"
     }
   ],
-  "updated_at": "2026-11-11T03:45:08.411424+00:00",
+  "updated_at": "2026-11-11T04:10:49.204849+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -17725,6 +17725,62 @@
       "sentiment": "neutral",
       "sentiment_source": "headline_vader",
       "fetched_at": "2026-11-11T03:45:08.253342+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Dow, S&P 500, Nasdaq Futures Edge Higher After Red-Hot Inflation Data And Nvidia Losses: CRWV, TTWO, NLST, NBIS In Focus",
+      "link": "https://stocktwits.com/news-articles/markets/equity/dow-s-and-p-500-nasdaq-futures-edge-higher-after-red-hot-inflation-data-and-nvidia-losses-crwv-ttwo-nlst-nbis-in-focus/cNGDaIOR9J8?.tsrc=rss",
+      "published": "Wed, 11 Nov 2026 03:51:15 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-11T04:10:44.480748+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Nvidia Shares Just Crashed Nearly 30% in Five Weeks. Dan Ives Says Losing Jensen Huang Would Cost Up to 30% More. Here’s the Math",
+      "link": "https://247wallst.com/investing/2026/11/10/nvidia-shares-just-crashed-nearly-30-in-five-weeks-dan-ives-says-losing-jensen-huang-would-cost-up-to-30-more-heres-the-math/?.tsrc=rss",
+      "published": "Wed, 11 Nov 2026 03:41:13 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-11T04:10:44.480826+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "SpaceX's biggest business this quarter may not be rockets",
+      "link": "https://www.thestreet.com/investing/spacex-biggest-business-this-quarter-colossus-2-computing-contracts-not-rockets?.tsrc=rss",
+      "published": "Wed, 11 Nov 2026 04:07:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-11T04:10:45.094755+00:00"
+    },
+    {
+      "ticker": "SNDK",
+      "title": "SQC Expands Executive Team With Appointment of Chief Manufacturing Officer",
+      "link": "https://finance.yahoo.com/technology/articles/sqc-expands-executive-team-appointment-200200572.html?.tsrc=rss",
+      "published": "Tue, 10 Nov 2026 20:02:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-11T04:10:49.177527+00:00"
     }
   ]
 }
