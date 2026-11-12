@@ -1,7 +1,7 @@
 {
   "date": "2026-11-12",
   "window_days": 7,
-  "source_count": 1255,
+  "source_count": 1272,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 195,
+      "count": 200,
       "kind": "ticker"
     },
     {
@@ -18,7 +18,7 @@
       "search_terms": [
         "GOOGL"
       ],
-      "count": 128,
+      "count": 132,
       "kind": "ticker"
     },
     {
@@ -27,7 +27,7 @@
       "search_terms": [
         "TSLA"
       ],
-      "count": 93,
+      "count": 96,
       "kind": "ticker"
     },
     {
@@ -36,7 +36,7 @@
       "search_terms": [
         "MSFT"
       ],
-      "count": 87,
+      "count": 89,
       "kind": "ticker"
     },
     {
@@ -75,7 +75,7 @@
         "revenue guidance",
         "profit forecast"
       ],
-      "count": 67,
+      "count": 70,
       "kind": "topic"
     },
     {
@@ -84,7 +84,7 @@
       "search_terms": [
         "META"
       ],
-      "count": 63,
+      "count": 64,
       "kind": "ticker"
     },
     {
@@ -115,7 +115,7 @@
       "kind": "ticker"
     }
   ],
-  "updated_at": "2026-11-12T21:41:35.463848+00:00",
+  "updated_at": "2026-11-12T22:30:50.472705+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -17529,6 +17529,244 @@
       "sentiment": "neutral",
       "sentiment_source": "headline_vader",
       "fetched_at": "2026-11-12T21:41:35.431063+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "How Nvidia's stock decline might impact your 401(k) and portfolio",
+      "link": "https://finance.yahoo.com/video/how-nvidias-stock-decline-might-impact-your-401k-and-portfolio-221925275.html?.tsrc=rss",
+      "published": "Thu, 12 Nov 2026 22:19:25 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-12T22:30:47.168530+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Nvidia Stock Hammered As CEO Resigns In Disgrace",
+      "link": "https://finance.yahoo.com/m/bd774c13-5dc3-3d4c-ba55-5184f381438a/nvidia-stock-hammered-as-ceo.html?.tsrc=rss",
+      "published": "Thu, 12 Nov 2026 22:18:26 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-12T22:30:47.168620+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Twist Bioscience Corporation Q4 2026 Earnings Call Summary",
+      "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-twist-bioscience-corporation-q4-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+      "published": "Thu, 12 Nov 2026 22:15:26 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-12T22:30:47.168647+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Nvidia Without Jensen Huang? 'A Disaster,' Says Analyst",
+      "link": "https://finance.yahoo.com/m/073ba2c9-9737-36e5-ada3-b573d60eed3c/nvidia-without-jensen-huang%3F.html?.tsrc=rss",
+      "published": "Thu, 12 Nov 2026 22:10:59 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-12T22:30:47.168687+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Can Nvidia keep writing AI’s checks without Jensen Huang?",
+      "link": "https://pitchbook.com/news/articles/can-nvidia-keep-writing-ais-checks-without-jensen-huang?.tsrc=rss",
+      "published": "Thu, 12 Nov 2026 22:10:45 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-12T22:30:47.168714+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Why Bill Ackman sees value in Microsoft",
+      "link": "https://finance.yahoo.com/video/why-bill-ackman-sees-value-in-microsoft-221331615.html?.tsrc=rss",
+      "published": "Thu, 12 Nov 2026 22:13:31 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-12T22:30:47.478598+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Microsoft And Amazon Show AI Spending Can Pay Off",
+      "link": "https://cdn.jwplayer.com/previews/ROry4HT2?.tsrc=rss",
+      "published": "Thu, 12 Nov 2026 21:40:44 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-12T22:30:47.478664+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Vanguard CEO Salim Ramji warns bond market volatility could be a key 2027 risk",
+      "link": "https://finance.yahoo.com/markets/article/vanguard-ceo-salim-ramji-warns-bond-market-volatility-could-be-a-key-2027-risk-222157006.html?.tsrc=rss",
+      "published": "Thu, 12 Nov 2026 22:21:57 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-12T22:30:47.607707+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "NIQ Global Intelligence Plc Q3 2026 Earnings Call Summary",
+      "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-niq-global-intelligence-plc-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+      "published": "Thu, 12 Nov 2026 22:02:08 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-12T22:30:47.607755+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Anthropic’s IPO Price Isn’t So Outlandish. Here’s the Case for the Stock.",
+      "link": "https://finance.yahoo.com/m/b191fb08-44aa-3b9a-8661-c6bbc45c3098/anthropic%E2%80%99s-ipo-price-isn%E2%80%99t.html?.tsrc=rss",
+      "published": "Thu, 12 Nov 2026 22:01:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-12T22:30:47.607789+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "2 No-Brainer Warren Buffett Stocks to Buy in the Post-Election Market Sell-Off and Hold Forever",
+      "link": "https://www.fool.com/investing/2026/11/12/2-no-brainer-warren-buffett-stocks-to-buy-in-the-post-election-market-sell-off-and-hold-forever/?.tsrc=rss",
+      "published": "Thu, 12 Nov 2026 21:50:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-12T22:30:47.607819+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "What ERock (EROC) Said on Its Q3 Earnings Call",
+      "link": "https://www.marketbeat.com/instant-alerts/transcript-what-erock-eroc-said-on-its-q3-earnings-call-2026-11-12/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+      "published": "Thu, 12 Nov 2026 22:14:48 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-12T22:30:47.994434+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Dow Jones Futures: Market Weathers Nvidia CEO Huang's Exit, Surging Yields; SpaceX-Tesla Merger Deal Close",
+      "link": "https://finance.yahoo.com/m/4a3dff17-3e8e-33ca-823f-8ac12eff6a4a/dow-jones-futures%3A-market.html?.tsrc=rss",
+      "published": "Thu, 12 Nov 2026 22:10:45 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-12T22:30:48.139536+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "TSLA Stock Climbs Amid Reports Of SpaceX Tie-Up As Early As December",
+      "link": "https://stocktwits.com/news-articles/markets/equity/tsla-stock-climbs-amid-reports-of-space-x-tie-up-as-early-as-december/cNGCBV8R9O5?.tsrc=rss",
+      "published": "Thu, 12 Nov 2026 22:07:01 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-12T22:30:48.139572+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Elon Musk Could Announce Tesla-SpaceX Merger By December: Report",
+      "link": "https://finance.yahoo.com/m/023f62a1-bdcd-3121-9605-e32e8539b3c9/elon-musk-could-announce.html?.tsrc=rss",
+      "published": "Thu, 12 Nov 2026 21:35:32 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-12T22:30:48.139595+00:00"
+    },
+    {
+      "ticker": "SMCI",
+      "title": "Alleged spy at center of Nvidia CEO affair reportedly being probed over Super Micro smuggling effort",
+      "link": "https://finance.yahoo.com/technology/article/alleged-spy-at-center-of-nvidia-ceo-affair-reportedly-being-probed-over-super-micro-smuggling-effort-214712179.html?.tsrc=rss",
+      "published": "Thu, 12 Nov 2026 21:47:12 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-12T22:30:49.480686+00:00"
+    },
+    {
+      "ticker": "ONDS",
+      "title": "Ondas Stock Gains Attention After Record Revenue And Higher Guidance",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ondas-stock-gains-attention-record-221340896.html?.tsrc=rss",
+      "published": "Thu, 12 Nov 2026 22:13:40 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-12T22:30:50.319190+00:00"
     }
   ]
 }

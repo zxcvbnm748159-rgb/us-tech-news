@@ -1,14 +1,14 @@
 {
   "date": "2026-11-12",
-  "score": 69,
+  "score": 68,
   "label": "Bullish",
   "counts": {
-    "positive": 74,
-    "negative": 34,
-    "neutral": 110
+    "positive": 78,
+    "negative": 37,
+    "neutral": 120
   },
-  "total": 218,
-  "updated_at": "2026-11-12T21:41:35.431749+00:00",
+  "total": 235,
+  "updated_at": "2026-11-12T22:30:50.439616+00:00",
   "articles": [
     {
       "link": "https://www.fool.com/investing/2026/11/11/nvidia-s-jensen-huang-is-on-the-hot-seat-here-s-what-i-m-doing-with-my-nvidia-stock/?.tsrc=rss",
@@ -881,6 +881,74 @@
     {
       "link": "https://finance.yahoo.com/markets/stocks/articles/going-sandisk-stock-thursday-160056781.html?.tsrc=rss",
       "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/video/how-nvidias-stock-decline-might-impact-your-401k-and-portfolio-221925275.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/bd774c13-5dc3-3d4c-ba55-5184f381438a/nvidia-stock-hammered-as-ceo.html?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-twist-bioscience-corporation-q4-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/073ba2c9-9737-36e5-ada3-b573d60eed3c/nvidia-without-jensen-huang%3F.html?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://pitchbook.com/news/articles/can-nvidia-keep-writing-ais-checks-without-jensen-huang?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/video/why-bill-ackman-sees-value-in-microsoft-221331615.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://cdn.jwplayer.com/previews/ROry4HT2?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/article/vanguard-ceo-salim-ramji-warns-bond-market-volatility-could-be-a-key-2027-risk-222157006.html?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-niq-global-intelligence-plc-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/b191fb08-44aa-3b9a-8661-c6bbc45c3098/anthropic%E2%80%99s-ipo-price-isn%E2%80%99t.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/12/2-no-brainer-warren-buffett-stocks-to-buy-in-the-post-election-market-sell-off-and-hold-forever/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.marketbeat.com/instant-alerts/transcript-what-erock-eroc-said-on-its-q3-earnings-call-2026-11-12/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/4a3dff17-3e8e-33ca-823f-8ac12eff6a4a/dow-jones-futures%3A-market.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://stocktwits.com/news-articles/markets/equity/tsla-stock-climbs-amid-reports-of-space-x-tie-up-as-early-as-december/cNGCBV8R9O5?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/023f62a1-bdcd-3121-9605-e32e8539b3c9/elon-musk-could-announce.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/article/alleged-spy-at-center-of-nvidia-ceo-affair-reportedly-being-probed-over-super-micro-smuggling-effort-214712179.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ondas-stock-gains-attention-record-221340896.html?.tsrc=rss",
+      "sentiment": "positive"
     }
   ]
 }
