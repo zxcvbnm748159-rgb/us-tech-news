@@ -1,7 +1,7 @@
 {
   "date": "2026-11-11",
   "window_days": 7,
-  "source_count": 1245,
+  "source_count": 1273,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 193,
+      "count": 198,
       "kind": "ticker"
     },
     {
@@ -18,7 +18,7 @@
       "search_terms": [
         "GOOGL"
       ],
-      "count": 129,
+      "count": 134,
       "kind": "ticker"
     },
     {
@@ -27,7 +27,7 @@
       "search_terms": [
         "TSLA"
       ],
-      "count": 91,
+      "count": 92,
       "kind": "ticker"
     },
     {
@@ -36,7 +36,7 @@
       "search_terms": [
         "MSFT"
       ],
-      "count": 87,
+      "count": 89,
       "kind": "ticker"
     },
     {
@@ -45,7 +45,7 @@
       "search_terms": [
         "AMD"
       ],
-      "count": 82,
+      "count": 85,
       "kind": "ticker"
     },
     {
@@ -54,16 +54,7 @@
       "search_terms": [
         "AMZN"
       ],
-      "count": 79,
-      "kind": "ticker"
-    },
-    {
-      "label": "AAPL",
-      "query": "AAPL",
-      "search_terms": [
-        "AAPL"
-      ],
-      "count": 77,
+      "count": 80,
       "kind": "ticker"
     },
     {
@@ -75,8 +66,17 @@
         "revenue guidance",
         "profit forecast"
       ],
-      "count": 76,
+      "count": 79,
       "kind": "topic"
+    },
+    {
+      "label": "AAPL",
+      "query": "AAPL",
+      "search_terms": [
+        "AAPL"
+      ],
+      "count": 78,
+      "kind": "ticker"
     },
     {
       "label": "META",
@@ -84,7 +84,7 @@
       "search_terms": [
         "META"
       ],
-      "count": 61,
+      "count": 62,
       "kind": "ticker"
     },
     {
@@ -102,7 +102,7 @@
       "search_terms": [
         "ORCL"
       ],
-      "count": 54,
+      "count": 56,
       "kind": "ticker"
     },
     {
@@ -112,11 +112,11 @@
         "data center",
         "AI infrastructure"
       ],
-      "count": 51,
+      "count": 53,
       "kind": "topic"
     }
   ],
-  "updated_at": "2026-11-11T21:41:30.380479+00:00",
+  "updated_at": "2026-11-12T01:09:51.800809+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -17138,6 +17138,398 @@
       "sentiment": "neutral",
       "sentiment_source": "headline_vader",
       "fetched_at": "2026-11-11T21:41:30.355288+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Market Chatter: House Republicans Press Nvidia's Huang to Testify, Float Subpoena",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-house-republicans-press-010005071.html?.tsrc=rss",
+      "published": "Thu, 12 Nov 2026 01:00:05 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-12T01:09:47.094575+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Dow Jones Futures: Techs Tumble As Nvidia May Oust CEO Huang; AI Stocks Slide, But Not AMD",
+      "link": "https://finance.yahoo.com/m/672e6ef4-2ba3-319b-b948-a356a7f1fcbe/dow-jones-futures%3A-techs.html?.tsrc=rss",
+      "published": "Thu, 12 Nov 2026 00:49:22 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-12T01:09:47.094626+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Here's What a $10,000 Investment in Nvidia Could Be Worth if Jensen Huang Is Removed as CEO, According to Wall Street Analyst Dan Ives",
+      "link": "https://www.fool.com/investing/2026/11/11/here-s-what-a-usd10-000-investment-in-nvidia-could-be-worth-if-jensen-huang-is-removed-as-ceo-according-to-wall-street-analyst-dan-ives/?.tsrc=rss",
+      "published": "Thu, 12 Nov 2026 00:40:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-12T01:09:47.094707+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Nvidia prepares to oust Jensen Huang after ‘Chinese spy’ affair",
+      "link": "https://uk.finance.yahoo.com/news/nvidia-prepares-oust-jensen-huang-003311885.html?.tsrc=rss",
+      "published": "Thu, 12 Nov 2026 00:33:11 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-12T01:09:47.094731+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "CoreWeave Reportedly Plans $4B Investment-Grade Loan After Strong Earnings Beat — But Shares Fall After-Hours On Nvidia CEO Drama",
+      "link": "https://stocktwits.com/news-articles/markets/equity/core-weave-reportedly-plans-4-b-investment-grade-loan-after-strong-earnings-beat-but-shares-fall-after-hours-on-nvidia-ceo-drama/cNGzQDlR99J?.tsrc=rss",
+      "published": "Thu, 12 Nov 2026 00:26:40 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-12T01:09:47.094802+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Stock Market Today, Nov. 11: Stock Market Today, Nov. 11: Nasdaq Surges as CoreWeave's 25% Rally Reignites the AI Trade",
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/11/11/stock-market-today-nov-11-stock-market-today-nov-11-nasdaq-surges-as-coreweave-s-25-rally-reignites-the-ai-trade/?.tsrc=rss",
+      "published": "Wed, 11 Nov 2026 22:45:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-12T01:09:47.299332+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Is the AI boom hiding a jobs crisis for graduates?",
+      "link": "https://finance.yahoo.com/video/is-the-ai-boom-hiding-a-jobs-crisis-for-graduates-214503208.html?.tsrc=rss",
+      "published": "Wed, 11 Nov 2026 21:45:03 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-12T01:09:47.507803+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Market Chatter: Microsoft Wants to Power Data Centers Without Subsidies or Higher Costs for Others",
+      "link": "https://finance.yahoo.com/technology/articles/market-chatter-microsoft-wants-power-000818359.html?.tsrc=rss",
+      "published": "Thu, 12 Nov 2026 00:08:18 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-12T01:09:47.507843+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Q3 Earnings Results Reconfirm Broad-Based Strength as Outlook Improves",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/q3-earnings-results-reconfirm-broad-233700093.html?.tsrc=rss",
+      "published": "Wed, 11 Nov 2026 23:37:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-12T01:09:47.731719+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Zelda remake becomes fastest-selling Nintendo Switch 2 game ever",
+      "link": "https://finance.yahoo.com/video/zelda-remake-becomes-fastest-selling-nintendo-switch-2-game-ever-231730766.html?.tsrc=rss",
+      "published": "Wed, 11 Nov 2026 23:17:30 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-12T01:09:47.731753+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Nvidia and Alphabet Just Agreed to Buy $10 Billion Each of Anthropic Stock at Its IPO Price",
+      "link": "https://www.fool.com/investing/2026/11/11/nvidia-and-alphabet-just-agreed-to-buy-usd10-billion-each-of-anthropic-stock-at-its-ipo-price/?.tsrc=rss",
+      "published": "Wed, 11 Nov 2026 23:07:01 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-12T01:09:47.731799+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Fusion's Next Race Is Over Superconducting Tape, Not Plasma",
+      "link": "https://finance.yahoo.com/energy/articles/fusions-next-race-over-superconducting-230000192.html?.tsrc=rss",
+      "published": "Wed, 11 Nov 2026 23:00:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-12T01:09:47.731817+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Big Tech's expected big payday with Anthropic IPO, and Nintendo's big week with Zelda",
+      "link": "https://finance.yahoo.com/video/big-techs-expected-big-payday-with-anthropic-ipo-and-nintendos-big-week-with-zelda-222911332.html?.tsrc=rss",
+      "published": "Wed, 11 Nov 2026 22:29:11 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-12T01:09:47.731836+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Amazon (AMZN) Could Face Trial In Italy Over Unpaid Import VAT",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/amazon-amzn-could-face-trial-221016549.html?.tsrc=rss",
+      "published": "Wed, 11 Nov 2026 22:10:16 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-12T01:09:47.933274+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "Meta Platforms (META) Braces For EU Rules With 6% Revenue Penalty Risk",
+      "link": "https://finance.yahoo.com/technology/ai/articles/meta-platforms-meta-braces-eu-231720243.html?.tsrc=rss",
+      "published": "Wed, 11 Nov 2026 23:17:20 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-12T01:09:48.180434+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Nasdaq 100 Futures Drop As Reports Relating To Jensen Huang’s Ousting Outweigh CoreWeave’s Strong Outlook —  NVDA, TSLA, SNDK, CAPR, CRWV In Focus",
+      "link": "https://stocktwits.com/news-articles/markets/equity/nasdaq-100-futures-drop-as-reports-relating-to-jensen-huang-s-ousting/cNGzQslR997?.tsrc=rss",
+      "published": "Thu, 12 Nov 2026 00:22:06 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-12T01:09:48.402017+00:00"
+    },
+    {
+      "ticker": "AMD",
+      "title": "Anthropic's Mythos claim may put Nvidia’s CUDA moat in a vulnerable spot",
+      "link": "https://finance.yahoo.com/video/anthropics-mythos-claim-may-put-nvidias-cuda-moat-in-a-vulnerable-spot-214346380.html?.tsrc=rss",
+      "published": "Wed, 11 Nov 2026 21:43:46 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-12T01:09:48.601178+00:00"
+    },
+    {
+      "ticker": "AMD",
+      "title": "Stock Market Today, Nov. 11: Advanced Micro Devices Jumps -- and Not Only Because of CoreWeave's Results",
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/11/11/stock-market-today-nov-11-advanced-micro-devices-jumps-and-not-only-because-of-coreweave-s-results/?.tsrc=rss",
+      "published": "Wed, 11 Nov 2026 22:52:34 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-12T01:09:48.601241+00:00"
+    },
+    {
+      "ticker": "AMD",
+      "title": "Lisa Su Just Delivered Fantastic News for AMD Investors",
+      "link": "https://www.fool.com/investing/2026/11/11/lisa-su-just-delivered-fantastic-news-for-amd-inve/?.tsrc=rss",
+      "published": "Wed, 11 Nov 2026 21:46:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-12T01:09:48.601273+00:00"
+    },
+    {
+      "ticker": "ORCL",
+      "title": "How Much Tax Does a 66-Year-Old Owe Selling $600,000 in Micron and Oracle Gains?",
+      "link": "https://247wallst.com/investing/2026/11/11/how-much-tax-does-a-66-year-old-owe-selling-600000-in-micron-and-oracle-gains/?.tsrc=rss",
+      "published": "Wed, 11 Nov 2026 22:18:42 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-12T01:09:48.999429+00:00"
+    },
+    {
+      "ticker": "ORCL",
+      "title": "Oracle Stock Just Surged After CoreWeave Earnings. Here's Why One Analyst Says It's Built for the Data-Center Backlash",
+      "link": "https://www.fool.com/investing/2026/11/11/oracle-stock-just-surged-after-coreweave-earnings-here-s-why-one-analyst-says-it-s-built-for-the-data-center-backlash/?.tsrc=rss",
+      "published": "Wed, 11 Nov 2026 22:11:42 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-12T01:09:48.999470+00:00"
+    },
+    {
+      "ticker": "CRM",
+      "title": "Salesforce (CRM) Surpasses Market Returns: Some Facts Worth Knowing",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/salesforce-crm-surpasses-market-returns-214502634.html?.tsrc=rss",
+      "published": "Wed, 11 Nov 2026 21:45:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-12T01:09:49.220325+00:00"
+    },
+    {
+      "ticker": "NFLX",
+      "title": "Netflix (NFLX) Stock May Be a ‘Loser’ This Year, But You Can Still Scalp Profits From It",
+      "link": "https://www.barchart.com/story/news/8783928/netflix-nflx-stock-may-be-a-loser-this-year-but-you-can-still-scalp-profits-from-it?.tsrc=rss",
+      "published": "Wed, 11 Nov 2026 16:32:30 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-12T01:09:49.445922+00:00"
+    },
+    {
+      "ticker": "INTC",
+      "title": "Nvidia’s Board Is Reportedly Preparing to Oust Jensen Huang. When Intel and McDonald’s Pushed Out CEOs Over Workplace Relationships, Shareholders Got Opposite Results",
+      "link": "https://247wallst.com/investing/2026/11/11/nvidias-board-is-reportedly-preparing-to-oust-jensen-huang-when-intel-and-mcdonalds-pushed-out-ceos-over-workplace-relationships-shareholders-got-opposite-results/?.tsrc=rss",
+      "published": "Wed, 11 Nov 2026 23:34:19 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-12T01:09:49.657662+00:00"
+    },
+    {
+      "ticker": "INTC",
+      "title": "Stock Market Today, Nov. 11: Intel Climbs on Broader Chip Rally as AI Infrastructure Demand Lifts Semiconductor Stocks",
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/11/11/stock-market-today-nov-11-intel-climbs-on-broader-chip-rally-as-ai-infrastructure-demand-lifts-semiconductor-stocks/?.tsrc=rss",
+      "published": "Wed, 11 Nov 2026 23:04:34 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-12T01:09:49.657756+00:00"
+    },
+    {
+      "ticker": "TSM",
+      "title": "Dell Technologies vs. Taiwan Semiconductor: Which Technology Stock Is a Better Buy for 2027?",
+      "link": "https://www.fool.com/coverage/better-buy/2026/11/11/dell-technologies-vs-taiwan-semiconductor-which-technology-stock-is-a-better-buy-for-2027/?.tsrc=rss",
+      "published": "Wed, 11 Nov 2026 23:50:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-12T01:09:50.913939+00:00"
+    },
+    {
+      "ticker": "SNDK",
+      "title": "Analyst Says Sandisk Corp. (SNDK) Offers More Than 100% Upside. Should You Buy?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/analyst-says-sandisk-corp-sndk-232856312.html?.tsrc=rss",
+      "published": "Wed, 11 Nov 2026 23:28:56 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-12T01:09:51.775785+00:00"
+    },
+    {
+      "ticker": "SNDK",
+      "title": "Jim Cramer Says Micron Isn’t Going Away. Here’s Why He Picks It Over Sandisk",
+      "link": "https://247wallst.com/investing/2026/11/11/jim-cramer-says-micron-isnt-going-away-heres-why-he-picks-it-over-sandisk/?.tsrc=rss",
+      "published": "Wed, 11 Nov 2026 22:07:24 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-12T01:09:51.775828+00:00"
     }
   ]
 }
