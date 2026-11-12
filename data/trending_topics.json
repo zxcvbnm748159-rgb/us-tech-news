@@ -1,7 +1,7 @@
 {
   "date": "2026-11-12",
   "window_days": 7,
-  "source_count": 1037,
+  "source_count": 1052,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 175,
+      "count": 180,
       "kind": "ticker"
     },
     {
@@ -18,7 +18,7 @@
       "search_terms": [
         "GOOGL"
       ],
-      "count": 114,
+      "count": 115,
       "kind": "ticker"
     },
     {
@@ -27,7 +27,7 @@
       "search_terms": [
         "TSLA"
       ],
-      "count": 80,
+      "count": 81,
       "kind": "ticker"
     },
     {
@@ -36,7 +36,7 @@
       "search_terms": [
         "MSFT"
       ],
-      "count": 71,
+      "count": 73,
       "kind": "ticker"
     },
     {
@@ -49,15 +49,6 @@
       "kind": "ticker"
     },
     {
-      "label": "AMZN",
-      "query": "AMZN",
-      "search_terms": [
-        "AMZN"
-      ],
-      "count": 61,
-      "kind": "ticker"
-    },
-    {
       "label": "Earnings",
       "query": "Earnings",
       "search_terms": [
@@ -66,8 +57,17 @@
         "revenue guidance",
         "profit forecast"
       ],
-      "count": 61,
+      "count": 63,
       "kind": "topic"
+    },
+    {
+      "label": "AMZN",
+      "query": "AMZN",
+      "search_terms": [
+        "AMZN"
+      ],
+      "count": 61,
+      "kind": "ticker"
     },
     {
       "label": "AAPL",
@@ -118,7 +118,7 @@
       "kind": "topic"
     }
   ],
-  "updated_at": "2026-11-12T05:22:14.088774+00:00",
+  "updated_at": "2026-11-12T08:16:45.443076+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -14480,6 +14480,216 @@
       "sentiment": "positive",
       "sentiment_source": "headline_vader",
       "fetched_at": "2026-11-12T05:22:12.786562+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "INTC, BABA Shares Slide Over Links To Firm Tied To Suspected Chinese Spy",
+      "link": "https://stocktwits.com/news-articles/markets/equity/intc-baba-shares-slide-over-links-to-firm-tied-to-suspected-chinese-spy/cNGzod1R99H?.tsrc=rss",
+      "published": "Thu, 12 Nov 2026 08:04:46 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-12T08:16:41.198470+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Nvidia shares fall on reports board may oust CEO Jensen Huang",
+      "link": "https://www.euronews.com/2026/11/12/nvidia-shares-fall-on-reports-board-may-oust-ceo-jensen-huang?.tsrc=rss",
+      "published": "Thu, 12 Nov 2026 07:51:37 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-12T08:16:41.198533+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "CRWV Stock Eyes Best Week Since Nvidia’s Stake Reveal — Is Debt Scare Hiding A Bargain? Morningstar Thinks So",
+      "link": "https://stocktwits.com/news-articles/markets/equity/crwv-stock-best-week-nvidia-stake-reveal-debt-scare-hiding-bargain-morningstar/cNGzFYdR99u?.tsrc=rss",
+      "published": "Thu, 12 Nov 2026 07:49:06 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-12T08:16:41.198684+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Michael Burry Says Nvidia Earnings Will Be 'Great' — So Why Is He Telling NVDA Bulls To 'Get Out'?",
+      "link": "https://stocktwits.com/news-articles/markets/equity/michael-burry-nvidia-earnings-great-why-nvda-bulls-get-out/cNGznw4R99A?.tsrc=rss",
+      "published": "Thu, 12 Nov 2026 07:17:47 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-12T08:16:41.198758+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Nvidia Stock Concerns Are Sending Investors Toward More Resilient AI Infrastructure Names",
+      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-stock-concerns-sending-investors-071426442.html?.tsrc=rss",
+      "published": "Thu, 12 Nov 2026 07:14:26 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-12T08:16:41.198795+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "FPT Becomes the World’s First Microsoft Partner to Earn Frontier Advanced Specialization",
+      "link": "https://finance.yahoo.com/technology/ai/articles/fpt-becomes-world-first-microsoft-073000464.html?.tsrc=rss",
+      "published": "Thu, 12 Nov 2026 07:30:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-12T08:16:41.547174+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Top 3 Undervalued Stocks To Watch In November 2026",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/top-3-undervalued-stocks-watch-061056737.html?.tsrc=rss",
+      "published": "Thu, 12 Nov 2026 06:10:56 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-12T08:16:41.547234+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Key Modi Ally on India Youth Anger and AI Push",
+      "link": "https://finance.yahoo.com/video/key-modi-ally-india-youth-004416668.html?.tsrc=rss",
+      "published": "Thu, 12 Nov 2026 00:44:16 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-12T08:16:41.730062+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Tesla Robotaxi Now Works 24/7 While Elon Musk's Robots Head to Optimus Academy",
+      "link": "https://beincrypto.com/tesla-robotaxi-24-7-optimus-academy/?.tsrc=rss",
+      "published": "Thu, 12 Nov 2026 07:17:49 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-12T08:16:42.311895+00:00"
+    },
+    {
+      "ticker": "CRM",
+      "title": "Salesforce (CRM) Wins Awardable Status For Missionforce In Defense Recruiting Marketplace",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/salesforce-crm-wins-awardable-status-071511206.html?.tsrc=rss",
+      "published": "Thu, 12 Nov 2026 07:15:11 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-12T08:16:43.168272+00:00"
+    },
+    {
+      "ticker": "CRM",
+      "title": "Navatar Enhances Claude AI for Private Equity CRM With Context From Documents Across Connected Systems",
+      "link": "https://finance.yahoo.com/technology/ai/articles/navatar-enhances-claude-ai-private-054800719.html?.tsrc=rss",
+      "published": "Thu, 12 Nov 2026 05:48:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-12T08:16:43.168322+00:00"
+    },
+    {
+      "ticker": "INTC",
+      "title": "What Happens to Nvidia Stock if Jensen Huang Is Fired? History Has a Warning",
+      "link": "https://beincrypto.com/nvidia-stock-jensen-huang-fired-history/?.tsrc=rss",
+      "published": "Thu, 12 Nov 2026 06:15:48 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-12T08:16:43.504560+00:00"
+    },
+    {
+      "ticker": "IBM",
+      "title": "AI stocks are sinking: Why is smart money buying IBM instead?",
+      "link": "https://finance.yahoo.com/technology/ai/articles/ai-stocks-sinking-why-smart-071447257.html?.tsrc=rss",
+      "published": "Thu, 12 Nov 2026 07:14:47 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-12T08:16:44.258575+00:00"
+    },
+    {
+      "ticker": "ONDS",
+      "title": "ONDS Stock Eyes Green Week: Retail Awaits Ondas’ Defense Powerhouse Validation As Crucial Earnings Loom",
+      "link": "https://stocktwits.com/news-articles/markets/equity/onds-stock-q3-results-ondas-defense-contracts-revenue/cNGzNXDR998?.tsrc=rss",
+      "published": "Thu, 12 Nov 2026 06:21:19 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-12T08:16:45.254670+00:00"
+    },
+    {
+      "ticker": "SNDK",
+      "title": "Micron vs. Sandisk: The AI Memory Supercycle Is Big Enough for Both, but Here's the Better Buy.",
+      "link": "https://www.fool.com/investing/2026/11/12/micron-vs-sandisk-the-ai-memory-supercycle-is-big/?.tsrc=rss",
+      "published": "Thu, 12 Nov 2026 05:20:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-12T08:16:45.407973+00:00"
     }
   ]
 }

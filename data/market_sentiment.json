@@ -1,14 +1,14 @@
 {
   "date": "2026-11-12",
-  "score": 0,
-  "label": "Bearish",
+  "score": 70,
+  "label": "Bullish",
   "counts": {
-    "positive": 0,
-    "negative": 1,
-    "neutral": 1
+    "positive": 7,
+    "negative": 3,
+    "neutral": 6
   },
-  "total": 2,
-  "updated_at": "2026-11-12T05:22:14.052727+00:00",
+  "total": 16,
+  "updated_at": "2026-11-12T08:16:45.408332+00:00",
   "articles": [
     {
       "link": "https://www.fool.com/investing/2026/11/11/nvidia-s-jensen-huang-is-on-the-hot-seat-here-s-what-i-m-doing-with-my-nvidia-stock/?.tsrc=rss",
@@ -17,6 +17,62 @@
     {
       "link": "https://stocktwits.com/news-articles/markets/equity/nvda-fallout-pressures-tech-trade-as-investors-turn-to-cerebras-applied-materials-for-chip-demand-cues/cNGzlg3R99l?.tsrc=rss",
       "sentiment": "negative"
+    },
+    {
+      "link": "https://stocktwits.com/news-articles/markets/equity/intc-baba-shares-slide-over-links-to-firm-tied-to-suspected-chinese-spy/cNGzod1R99H?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.euronews.com/2026/11/12/nvidia-shares-fall-on-reports-board-may-oust-ceo-jensen-huang?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://stocktwits.com/news-articles/markets/equity/crwv-stock-best-week-nvidia-stake-reveal-debt-scare-hiding-bargain-morningstar/cNGzFYdR99u?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://stocktwits.com/news-articles/markets/equity/michael-burry-nvidia-earnings-great-why-nvda-bulls-get-out/cNGznw4R99A?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-stock-concerns-sending-investors-071426442.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/fpt-becomes-world-first-microsoft-073000464.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/top-3-undervalued-stocks-watch-061056737.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://beincrypto.com/tesla-robotaxi-24-7-optimus-academy/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/salesforce-crm-wins-awardable-status-071511206.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/navatar-enhances-claude-ai-private-054800719.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://beincrypto.com/nvidia-stock-jensen-huang-fired-history/?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/ai-stocks-sinking-why-smart-071447257.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://stocktwits.com/news-articles/markets/equity/onds-stock-q3-results-ondas-defense-contracts-revenue/cNGzNXDR998?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/12/micron-vs-sandisk-the-ai-memory-supercycle-is-big/?.tsrc=rss",
+      "sentiment": "positive"
     }
   ]
 }
