@@ -1,7 +1,7 @@
 {
   "date": "2026-11-12",
   "window_days": 7,
-  "source_count": 1313,
+  "source_count": 1320,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 205,
+      "count": 209,
       "kind": "ticker"
     },
     {
@@ -18,7 +18,7 @@
       "search_terms": [
         "GOOGL"
       ],
-      "count": 136,
+      "count": 137,
       "kind": "ticker"
     },
     {
@@ -36,7 +36,7 @@
       "search_terms": [
         "MSFT"
       ],
-      "count": 93,
+      "count": 94,
       "kind": "ticker"
     },
     {
@@ -54,7 +54,7 @@
       "search_terms": [
         "AAPL"
       ],
-      "count": 77,
+      "count": 78,
       "kind": "ticker"
     },
     {
@@ -115,7 +115,7 @@
       "kind": "ticker"
     }
   ],
-  "updated_at": "2026-11-13T02:54:05.477546+00:00",
+  "updated_at": "2026-11-13T04:37:40.041884+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -18341,6 +18341,104 @@
       "sentiment": "neutral",
       "sentiment_source": "headline_vader",
       "fetched_at": "2026-11-13T02:54:05.446590+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Asia stocks steady as chipmakers rebound after Nvidia leadership shock",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/asia-stocks-steady-chipmakers-rebound-042520486.html?.tsrc=rss",
+      "published": "Fri, 13 Nov 2026 04:25:20 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-13T04:37:36.684951+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "If an AI Bubble Triggers a Bear Market, History Says This Is the Best Move Investors Can Make",
+      "link": "https://www.fool.com/investing/2026/11/12/if-an-ai-bubble-triggers-a-bear-market-history-say/?.tsrc=rss",
+      "published": "Fri, 13 Nov 2026 04:20:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-13T04:37:36.685044+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Michael Burry Sees A ‘Mechanical Bid’ Under NVDA Stock – Even As He Questions Nvidia’s Succession Plan And Asia Sales",
+      "link": "https://stocktwits.com/news-articles/markets/equity/michael-burry-mechanical-bid-nvda-stock-questions-nvidia-succession-plan-asia-sales/cNbbpPXR9O1?.tsrc=rss",
+      "published": "Fri, 13 Nov 2026 04:13:14 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-13T04:37:36.685129+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "A timeline of the affair scandal that sank Nvidia’s Jensen Huang",
+      "link": "https://finance.yahoo.com/technology/ai/articles/timeline-affair-scandal-sank-nvidia-040008697.html?.tsrc=rss",
+      "published": "Fri, 13 Nov 2026 04:00:08 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-13T04:37:36.685185+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "3 Warren Buffett Stocks Just Closed at Record Highs. Here's the One I'd Still Buy Now.",
+      "link": "https://www.fool.com/investing/2026/11/12/3-warren-buffett-stocks-just-closed-at-record-highs-here-s-the-one-i-d-still-buy-now/?.tsrc=rss",
+      "published": "Fri, 13 Nov 2026 04:12:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-13T04:37:36.875174+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Microsoft hit by major global outage",
+      "link": "https://uk.finance.yahoo.com/news/microsoft-hit-major-global-outage-034535921.html?.tsrc=rss",
+      "published": "Fri, 13 Nov 2026 03:45:35 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-13T04:37:37.023375+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "American Electric Power Company (AEP) Stock Looks Above Fair Value On Dividends",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/american-electric-power-company-aep-032122538.html?.tsrc=rss",
+      "published": "Fri, 13 Nov 2026 03:21:22 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-13T04:37:37.176907+00:00"
     }
   ]
 }
