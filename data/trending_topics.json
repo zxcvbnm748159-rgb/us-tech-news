@@ -1,7 +1,7 @@
 {
   "date": "2026-11-14",
   "window_days": 7,
-  "source_count": 1318,
+  "source_count": 1338,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 197,
+      "count": 202,
       "kind": "ticker"
     },
     {
@@ -18,7 +18,7 @@
       "search_terms": [
         "GOOGL"
       ],
-      "count": 132,
+      "count": 134,
       "kind": "ticker"
     },
     {
@@ -36,7 +36,7 @@
       "search_terms": [
         "TSLA"
       ],
-      "count": 95,
+      "count": 98,
       "kind": "ticker"
     },
     {
@@ -72,7 +72,7 @@
       "search_terms": [
         "META"
       ],
-      "count": 64,
+      "count": 66,
       "kind": "ticker"
     },
     {
@@ -81,7 +81,7 @@
       "search_terms": [
         "AVGO"
       ],
-      "count": 56,
+      "count": 57,
       "kind": "ticker"
     },
     {
@@ -102,7 +102,7 @@
       "search_terms": [
         "ORCL"
       ],
-      "count": 53,
+      "count": 54,
       "kind": "ticker"
     },
     {
@@ -111,11 +111,11 @@
       "search_terms": [
         "INTC"
       ],
-      "count": 52,
+      "count": 53,
       "kind": "ticker"
     }
   ],
-  "updated_at": "2026-11-14T16:39:33.129200+00:00",
+  "updated_at": "2026-11-14T19:39:13.583291+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -18568,6 +18568,286 @@
       "sentiment": "neutral",
       "sentiment_source": "headline_vader",
       "fetched_at": "2026-11-14T16:39:32.002863+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "NVIDIA (NVDA): Can AI Demand Sustain Growth Through Leadership Uncertainty?",
+      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-ai-demand-sustain-192430760.html?.tsrc=rss",
+      "published": "Sat, 14 Nov 2026 19:24:30 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-14T19:39:09.615924+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Nvidia Shock Has Investors Rethinking AI Infrastructure Stocks",
+      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-shock-investors-rethinking-ai-190934918.html?.tsrc=rss",
+      "published": "Sat, 14 Nov 2026 19:09:34 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-14T19:39:09.615975+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Jim Cramer has a strong take on Nvidia's next chapter",
+      "link": "https://www.thestreet.com/investing/jim-cramer-strong-take-on-nvidia-next-chapter-colette-kress?.tsrc=rss",
+      "published": "Sat, 14 Nov 2026 18:33:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-14T19:39:09.616022+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "The Week Jensen Huang Fell: How a Spy Scandal Toppled Nvidia’s CEO",
+      "link": "https://decrypt.co/383280/the-week-jensen-huang-fell-how-spy-scandal-toppled-nvidia-ceo?.tsrc=rss",
+      "published": "Sat, 14 Nov 2026 18:01:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-14T19:39:09.616069+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Coca-Cola Has Paid a Growing Dividend for 64 Years. Here's the Income $5,000 Can Start You With.",
+      "link": "https://www.fool.com/investing/2026/11/14/coca-cola-has-paid-a-growing-dividend-for-64-years-heres-the-income-5000-can-start-you-with/?.tsrc=rss",
+      "published": "Sat, 14 Nov 2026 19:16:57 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-14T19:39:09.616120+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Planet Labs PBC vs. Red Cat: Which Industrials Stock Is a Better Buy for 2027?",
+      "link": "https://www.fool.com/coverage/better-buy/2026/11/14/planet-labs-pbc-vs-red-cat-which-industrials-stock-is-a-better-buy-for-2027/?.tsrc=rss",
+      "published": "Sat, 14 Nov 2026 18:20:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-14T19:39:10.165196+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Crocs And 2 Other Undervalued Cash Flow Stocks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/crocs-2-other-undervalued-cash-180928201.html?.tsrc=rss",
+      "published": "Sat, 14 Nov 2026 18:09:28 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-14T19:39:10.165236+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "Italy fines Meta $880 million over accessing users' photos",
+      "link": "https://www.cbsnews.com/news/italy-fines-meta-880-million-users-photos/?.tsrc=rss",
+      "published": "Sat, 14 Nov 2026 18:33:08 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-14T19:39:10.513791+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "A $13 Billion Hedge Fund Dumps These 3 Stocks",
+      "link": "https://www.tikr.com/blog/a-13-billion-hedge-fund-dumps-these-3-stocks?ref=yahoofinance&tlnk=yf-261114-5rhv7c2p&.tsrc=rss",
+      "published": "Sat, 14 Nov 2026 11:49:43 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-14T19:39:10.513864+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Tesla (TSLA) Breaks Ground On $10 Billion Texas Solar Factory As EU Approvals Advance",
+      "link": "https://finance.yahoo.com/energy/articles/tesla-tsla-breaks-ground-10-190728186.html?.tsrc=rss",
+      "published": "Sat, 14 Nov 2026 19:07:28 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-14T19:39:10.688946+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Tesla Just Started Taking Orders for a Car With No Steering Wheel",
+      "link": "https://247wallst.com/investing/2026/11/14/tesla-just-started-taking-orders-for-a-car-with-no-steering-wheel/?.tsrc=rss",
+      "published": "Sat, 14 Nov 2026 17:48:57 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-14T19:39:10.689027+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Texas’ Next Attorney General Vows “Tremendous Scrutiny” of a Tesla–SpaceX Merger",
+      "link": "https://247wallst.com/investing/2026/11/14/texas-next-attorney-general-vows-tremendous-scrutiny-of-a-tesla-spacex-merger/?.tsrc=rss",
+      "published": "Sat, 14 Nov 2026 16:44:50 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-14T19:39:10.689064+00:00"
+    },
+    {
+      "ticker": "AVGO",
+      "title": "HSBC Just Downgraded Nvidia and Cut Its Target to $170",
+      "link": "https://247wallst.com/investing/2026/11/14/hsbc-just-downgraded-nvidia-and-cut-its-target-to-170/?.tsrc=rss",
+      "published": "Sat, 14 Nov 2026 17:03:53 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-14T19:39:11.055563+00:00"
+    },
+    {
+      "ticker": "ORCL",
+      "title": "Oracle (ORCL): Can Surging Cloud Revenue Outpace Its Financing Burden?",
+      "link": "https://finance.yahoo.com/technology/articles/oracle-orcl-surging-cloud-revenue-192942521.html?.tsrc=rss",
+      "published": "Sat, 14 Nov 2026 19:29:42 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-14T19:39:11.238887+00:00"
+    },
+    {
+      "ticker": "NFLX",
+      "title": "Netflix (NFLX) Following Ad Outlook Cuts Still Looks Undervalued To Some Investors",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/netflix-nflx-following-ad-outlook-190805204.html?.tsrc=rss",
+      "published": "Sat, 14 Nov 2026 19:08:05 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-14T19:39:11.572202+00:00"
+    },
+    {
+      "ticker": "NFLX",
+      "title": "Netflix Engagement Growth Is Slowing. Here’s Why I Bought More Anyway.",
+      "link": "https://www.fool.com/investing/2026/11/14/netflix-engagement-growth-is-slowing-i-bought-more-anyway/?.tsrc=rss",
+      "published": "Sat, 14 Nov 2026 18:05:01 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-14T19:39:11.572257+00:00"
+    },
+    {
+      "ticker": "INTC",
+      "title": "Soros’ Fund Made Intel Its Biggest Stock Bet Right Before It Halved",
+      "link": "https://247wallst.com/investing/2026/11/14/soros-fund-made-intel-its-biggest-stock-bet-right-before-it-halved/?.tsrc=rss",
+      "published": "Sat, 14 Nov 2026 17:34:54 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-14T19:39:11.735406+00:00"
+    },
+    {
+      "ticker": "IBM",
+      "title": "Arista Networks vs. IBM: Which Technology Stock Is a Better Buy for 2027?",
+      "link": "https://www.fool.com/coverage/better-buy/2026/11/14/arista-networks-vs-ibm-which-technology-stock-is-a-better-buy-for-2027/?.tsrc=rss",
+      "published": "Sat, 14 Nov 2026 17:01:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-14T19:39:12.432031+00:00"
+    },
+    {
+      "ticker": "ADBE",
+      "title": "Accenture vs. Adobe: Which Technology Stock Is a Better Buy for 2027?",
+      "link": "https://www.fool.com/coverage/better-buy/2026/11/14/accenture-vs-adobe-which-technology-stock-is-a-better-buy-for-2027/?.tsrc=rss",
+      "published": "Sat, 14 Nov 2026 19:02:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-14T19:39:12.598023+00:00"
+    },
+    {
+      "ticker": "SNDK",
+      "title": "Sandisk’s Stock Split Takes Effect Nov. 19. Should You Buy It Now?",
+      "link": "https://www.fool.com/investing/2026/11/14/sandisks-stock-split-takes-effect-nov-19-should-you-buy-it-now/?.tsrc=rss",
+      "published": "Sat, 14 Nov 2026 19:05:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-14T19:39:13.550219+00:00"
     }
   ]
 }
