@@ -3,12 +3,12 @@
   "score": 46,
   "label": "Mixed",
   "counts": {
-    "positive": 16,
-    "negative": 19,
-    "neutral": 29
+    "positive": 17,
+    "negative": 20,
+    "neutral": 32
   },
-  "total": 64,
-  "updated_at": "2026-11-14T19:39:13.550616+00:00",
+  "total": 69,
+  "updated_at": "2026-11-14T20:55:41.890162+00:00",
   "articles": [
     {
       "link": "https://www.fool.com/investing/2026/11/14/buy-nvidia-stock-ceo-jensen-huang-exit-wall-street-answer/?.tsrc=rss",
@@ -265,6 +265,26 @@
     {
       "link": "https://www.fool.com/investing/2026/11/14/sandisks-stock-split-takes-effect-nov-19-should-you-buy-it-now/?.tsrc=rss",
       "sentiment": "neutral"
+    },
+    {
+      "link": "https://beincrypto.com/amd-stock-record-run-nvidia-earnings/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/14/apples-market-value-grew-from-350-billion-to-4-trillion-during-tim-cooks-15-years-as-ceo-heres-what-that-growth-curve-means-for-apples-next-chapter-under-john-ternus/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/articles/italy-fines-meta-880-mn-201258052.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/articles/tesla-opens-cybercab-pre-orders-200444578.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/palantir-ceo-alex-karp-says-185402032.html?.tsrc=rss",
+      "sentiment": "negative"
     }
   ]
 }
