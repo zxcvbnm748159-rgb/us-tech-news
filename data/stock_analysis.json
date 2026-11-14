@@ -1,10 +1,10 @@
 [
   {
     "ticker": "NVDA",
-    "last_updated": "2026-11-14T03:10:12.584831+00:00",
-    "summary": "NVDA มีข่าวที่เกี่ยวข้อง 40 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: Can the Anthropic IPO Save the AI Rally? ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
+    "last_updated": "2026-11-14T04:32:19.088764+00:00",
+    "summary": "NVDA มีข่าวที่เกี่ยวข้อง 41 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: Elon Musk, Tom Lee, Shopify CEO Sign ‘Stand With Jensen’ Petition To Reinstate Him As Nvidia CEO ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
     "analysis_points": [
-      "พาดหัวล่าสุด: Can the Anthropic IPO Save the AI Rally?",
+      "พาดหัวล่าสุด: Elon Musk, Tom Lee, Shopify CEO Sign ‘Stand With Jensen’ Petition To Reinstate Him As Nvidia CEO",
       "การเปลี่ยนแปลงจากราคาปิดก่อนหน้า -2.01%",
       "ควรอ่านเนื้อหาต้นฉบับและตรวจสอบตัวเลขก่อนสรุปผลกระทบ"
     ],
@@ -12,7 +12,7 @@
   },
   {
     "ticker": "AAPL",
-    "last_updated": "2026-11-14T03:10:12.584831+00:00",
+    "last_updated": "2026-11-14T04:32:19.088764+00:00",
     "summary": "AAPL มีข่าวที่เกี่ยวข้อง 18 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: Is Apple Stock a Buy Right Now? ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
     "analysis_points": [
       "พาดหัวล่าสุด: Is Apple Stock a Buy Right Now?",
@@ -23,7 +23,7 @@
   },
   {
     "ticker": "MSFT",
-    "last_updated": "2026-11-14T03:10:12.584831+00:00",
+    "last_updated": "2026-11-14T04:32:19.088764+00:00",
     "summary": "MSFT มีข่าวที่เกี่ยวข้อง 26 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: DAS Technology Gives Retailers a Competitive Advantage During Microsoft Outage ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
     "analysis_points": [
       "พาดหัวล่าสุด: DAS Technology Gives Retailers a Competitive Advantage During Microsoft Outage",
@@ -34,7 +34,7 @@
   },
   {
     "ticker": "GOOGL",
-    "last_updated": "2026-11-14T03:10:12.584831+00:00",
+    "last_updated": "2026-11-14T04:32:19.088764+00:00",
     "summary": "GOOGL มีข่าวที่เกี่ยวข้อง 29 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: Booking Holdings vs. GameStop: Which Consumer Stock Is a Better Buy for 2027? ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
     "analysis_points": [
       "พาดหัวล่าสุด: Booking Holdings vs. GameStop: Which Consumer Stock Is a Better Buy for 2027?",
@@ -45,7 +45,7 @@
   },
   {
     "ticker": "AMZN",
-    "last_updated": "2026-11-14T03:10:12.584831+00:00",
+    "last_updated": "2026-11-14T04:32:19.088764+00:00",
     "summary": "AMZN มีข่าวที่เกี่ยวข้อง 16 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: /U P D A T E - Unifor/ ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
     "analysis_points": [
       "พาดหัวล่าสุด: /U P D A T E - Unifor/",
@@ -56,10 +56,10 @@
   },
   {
     "ticker": "META",
-    "last_updated": "2026-11-14T03:10:12.584831+00:00",
-    "summary": "META มีข่าวที่เกี่ยวข้อง 10 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: Will ETF Buying Change Meta Stock Narrative ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
+    "last_updated": "2026-11-14T04:32:19.088764+00:00",
+    "summary": "META มีข่าวที่เกี่ยวข้อง 11 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: Centrus Energy (LEU) Has Fresh Attention, But What Is The Market Missing? ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
     "analysis_points": [
-      "พาดหัวล่าสุด: Will ETF Buying Change Meta Stock Narrative",
+      "พาดหัวล่าสุด: Centrus Energy (LEU) Has Fresh Attention, But What Is The Market Missing?",
       "การเปลี่ยนแปลงจากราคาปิดก่อนหน้า +2.90%",
       "ควรอ่านเนื้อหาต้นฉบับและตรวจสอบตัวเลขก่อนสรุปผลกระทบ"
     ],
@@ -67,7 +67,7 @@
   },
   {
     "ticker": "TSLA",
-    "last_updated": "2026-11-14T03:10:12.584831+00:00",
+    "last_updated": "2026-11-14T04:32:19.088764+00:00",
     "summary": "TSLA มีข่าวที่เกี่ยวข้อง 21 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: Zero To Sixty: Tesla Winds Down Cybertruck, Pulls Model Y Variant While Rivian, Lucid Chase Volumes ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
     "analysis_points": [
       "พาดหัวล่าสุด: Zero To Sixty: Tesla Winds Down Cybertruck, Pulls Model Y Variant While Rivian, Lucid Chase Volumes",
@@ -78,7 +78,7 @@
   },
   {
     "ticker": "AMD",
-    "last_updated": "2026-11-14T03:10:12.584831+00:00",
+    "last_updated": "2026-11-14T04:32:19.088764+00:00",
     "summary": "AMD มีข่าวที่เกี่ยวข้อง 22 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: Stock Market Today, Nov. 13: AMD Sinks 8.75% on Sector AI-Chip Sell-Off After Early Gains Reverse ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
     "analysis_points": [
       "พาดหัวล่าสุด: Stock Market Today, Nov. 13: AMD Sinks 8.75% on Sector AI-Chip Sell-Off After Early Gains Reverse",
@@ -89,7 +89,7 @@
   },
   {
     "ticker": "AVGO",
-    "last_updated": "2026-11-14T03:10:12.584831+00:00",
+    "last_updated": "2026-11-14T04:32:19.088764+00:00",
     "summary": "AVGO มีข่าวที่เกี่ยวข้อง 16 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: Can You Justify Buying Dynatrace Stock Today? ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
     "analysis_points": [
       "พาดหัวล่าสุด: Can You Justify Buying Dynatrace Stock Today?",
@@ -100,7 +100,7 @@
   },
   {
     "ticker": "ORCL",
-    "last_updated": "2026-11-14T03:10:12.584831+00:00",
+    "last_updated": "2026-11-14T04:32:19.088764+00:00",
     "summary": "ORCL มีข่าวที่เกี่ยวข้อง 9 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: Why Stephens Upgraded Oracle (ORCL) ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
     "analysis_points": [
       "พาดหัวล่าสุด: Why Stephens Upgraded Oracle (ORCL)",
@@ -111,7 +111,7 @@
   },
   {
     "ticker": "CRM",
-    "last_updated": "2026-11-14T03:10:12.584831+00:00",
+    "last_updated": "2026-11-14T04:32:19.088764+00:00",
     "summary": "CRM มีข่าวที่เกี่ยวข้อง 4 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: This Jim Cramer’s Trust Holding Saw AI Assistant Usage Jump 21-Fold ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
     "analysis_points": [
       "พาดหัวล่าสุด: This Jim Cramer’s Trust Holding Saw AI Assistant Usage Jump 21-Fold",
@@ -122,7 +122,7 @@
   },
   {
     "ticker": "NFLX",
-    "last_updated": "2026-11-14T03:10:12.584831+00:00",
+    "last_updated": "2026-11-14T04:32:19.088764+00:00",
     "summary": "NFLX มีข่าวที่เกี่ยวข้อง 6 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: Netflix Said To Eye 'Channel Store,' May Bundle With Fox One ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
     "analysis_points": [
       "พาดหัวล่าสุด: Netflix Said To Eye 'Channel Store,' May Bundle With Fox One",
@@ -133,7 +133,7 @@
   },
   {
     "ticker": "INTC",
-    "last_updated": "2026-11-14T03:10:12.584831+00:00",
+    "last_updated": "2026-11-14T04:32:19.088764+00:00",
     "summary": "INTC มีข่าวที่เกี่ยวข้อง 9 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: Why Intel Stock Slumped Today ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
     "analysis_points": [
       "พาดหัวล่าสุด: Why Intel Stock Slumped Today",
@@ -144,7 +144,7 @@
   },
   {
     "ticker": "QCOM",
-    "last_updated": "2026-11-14T03:10:12.584831+00:00",
+    "last_updated": "2026-11-14T04:32:19.088764+00:00",
     "summary": "QCOM มีข่าวที่เกี่ยวข้อง 9 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: Micron Technology vs. Qualcomm: Which Tech Stock Is the Better Buy for 2027? ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
     "analysis_points": [
       "พาดหัวล่าสุด: Micron Technology vs. Qualcomm: Which Tech Stock Is the Better Buy for 2027?",
@@ -155,7 +155,7 @@
   },
   {
     "ticker": "PLTR",
-    "last_updated": "2026-11-14T03:10:12.584831+00:00",
+    "last_updated": "2026-11-14T04:32:19.088764+00:00",
     "summary": "PLTR มีข่าวที่เกี่ยวข้อง 5 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: PLTR's Rule of 40 Hits 158%: Can This Momentum Continue? ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
     "analysis_points": [
       "พาดหัวล่าสุด: PLTR's Rule of 40 Hits 158%: Can This Momentum Continue?",
@@ -166,7 +166,7 @@
   },
   {
     "ticker": "SMCI",
-    "last_updated": "2026-11-14T03:10:12.584831+00:00",
+    "last_updated": "2026-11-14T04:32:19.088764+00:00",
     "summary": "SMCI มีข่าวที่เกี่ยวข้อง 13 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: Super Micro, run by Jensen Huang’s friend, says Megaspeed was ‘never’ its customer ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
     "analysis_points": [
       "พาดหัวล่าสุด: Super Micro, run by Jensen Huang’s friend, says Megaspeed was ‘never’ its customer",
@@ -177,7 +177,7 @@
   },
   {
     "ticker": "IBM",
-    "last_updated": "2026-11-14T03:10:12.584831+00:00",
+    "last_updated": "2026-11-14T04:32:19.088764+00:00",
     "summary": "IBM มีข่าวที่เกี่ยวข้อง 5 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: IBM’s cybersecurity move raises new questions for investors ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
     "analysis_points": [
       "พาดหัวล่าสุด: IBM’s cybersecurity move raises new questions for investors",
@@ -188,7 +188,7 @@
   },
   {
     "ticker": "ADBE",
-    "last_updated": "2026-11-14T03:10:12.584831+00:00",
+    "last_updated": "2026-11-14T04:32:19.088764+00:00",
     "summary": "ADBE มีข่าวที่เกี่ยวข้อง 6 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: Is Trending Stock Adobe Inc. (ADBE) a Buy Now? ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
     "analysis_points": [
       "พาดหัวล่าสุด: Is Trending Stock Adobe Inc. (ADBE) a Buy Now?",
@@ -199,7 +199,7 @@
   },
   {
     "ticker": "TSM",
-    "last_updated": "2026-11-14T03:10:12.584831+00:00",
+    "last_updated": "2026-11-14T04:32:19.088764+00:00",
     "summary": "TSM มีข่าวที่เกี่ยวข้อง 11 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: Taiwan Semiconductor Manufacturing (TSM) Takes A $1 Billion Step Further Into AI ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
     "analysis_points": [
       "พาดหัวล่าสุด: Taiwan Semiconductor Manufacturing (TSM) Takes A $1 Billion Step Further Into AI",
@@ -210,7 +210,7 @@
   },
   {
     "ticker": "GCTK",
-    "last_updated": "2026-11-14T03:10:12.584831+00:00",
+    "last_updated": "2026-11-14T04:32:19.088764+00:00",
     "summary": "GCTK: ยังไม่พบข่าวที่เกี่ยวข้องในช่วง 48 ชั่วโมงล่าสุด · การเปลี่ยนแปลงจากราคาปิดก่อนหน้า -9.58%",
     "analysis_points": [
       "การเปลี่ยนแปลงจากราคาปิดก่อนหน้า -9.58%",
@@ -220,7 +220,7 @@
   },
   {
     "ticker": "QUCY",
-    "last_updated": "2026-11-14T03:10:12.584831+00:00",
+    "last_updated": "2026-11-14T04:32:19.088764+00:00",
     "summary": "QUCY มีข่าวที่เกี่ยวข้อง 1 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: Quantum Cyber Reports First Revenue of ~$1.0 Million and Announces $8.0 Million Funding Commitment From Chief Executive Officer David Lazar ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
     "analysis_points": [
       "พาดหัวล่าสุด: Quantum Cyber Reports First Revenue of ~$1.0 Million and Announces $8.0 Million Funding Commitment From Chief Executive Officer David Lazar",
@@ -231,8 +231,8 @@
   },
   {
     "ticker": "ONDS",
-    "last_updated": "2026-11-14T03:10:12.584831+00:00",
-    "summary": "ONDS มีข่าวที่เกี่ยวข้อง 7 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: Ondas (ONDS) Stock Faces Q3 Results With Losses Clouding Revenue Surge ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
+    "last_updated": "2026-11-14T04:32:19.088764+00:00",
+    "summary": "ONDS มีข่าวที่เกี่ยวข้อง 5 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: Ondas (ONDS) Stock Faces Q3 Results With Losses Clouding Revenue Surge ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
     "analysis_points": [
       "พาดหัวล่าสุด: Ondas (ONDS) Stock Faces Q3 Results With Losses Clouding Revenue Surge",
       "การเปลี่ยนแปลงจากราคาปิดก่อนหน้า -3.01%",
@@ -242,8 +242,8 @@
   },
   {
     "ticker": "SNDK",
-    "last_updated": "2026-11-14T03:10:12.584831+00:00",
-    "summary": "SNDK มีข่าวที่เกี่ยวข้อง 9 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: Sandisk Stock Fell Back Under $900 on Friday. I'd Start With a Small Position. ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
+    "last_updated": "2026-11-14T04:32:19.088764+00:00",
+    "summary": "SNDK มีข่าวที่เกี่ยวข้อง 8 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: Sandisk Stock Fell Back Under $900 on Friday. I'd Start With a Small Position. ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
     "analysis_points": [
       "พาดหัวล่าสุด: Sandisk Stock Fell Back Under $900 on Friday. I'd Start With a Small Position.",
       "การเปลี่ยนแปลงจากราคาปิดก่อนหน้า -5.59%",

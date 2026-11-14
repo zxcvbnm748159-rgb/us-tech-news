@@ -1,7 +1,7 @@
 {
   "date": "2026-11-13",
   "window_days": 7,
-  "source_count": 1359,
+  "source_count": 1362,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 209,
+      "count": 211,
       "kind": "ticker"
     },
     {
@@ -72,7 +72,7 @@
       "search_terms": [
         "META"
       ],
-      "count": 65,
+      "count": 66,
       "kind": "ticker"
     },
     {
@@ -115,7 +115,7 @@
       "kind": "ticker"
     }
   ],
-  "updated_at": "2026-11-14T03:10:03.309567+00:00",
+  "updated_at": "2026-11-14T04:32:09.983375+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -19142,6 +19142,48 @@
       "sentiment": "neutral",
       "sentiment_source": "headline_vader",
       "fetched_at": "2026-11-14T03:10:03.276402+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Elon Musk, Tom Lee, Shopify CEO Sign ‘Stand With Jensen’ Petition To Reinstate Him As Nvidia CEO",
+      "link": "https://stocktwits.com/news-articles/markets/equity/elon-musk-tom-lee-stand-with-jensen-petition-reinstate-nvidia-ceo/cNb2xkrR9Qe?.tsrc=rss",
+      "published": "Sat, 14 Nov 2026 04:24:53 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-14T04:32:05.968440+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Nvidia CEO out — 10 stocks to buy before S&P 500 hits 8,000",
+      "link": "https://www.thestreet.com/video/nvidia-ceo-out-10-stock-to-buy-before-sp-500-hits-8000?.tsrc=rss",
+      "published": "Sat, 14 Nov 2026 03:33:08 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-14T04:32:05.968487+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "Centrus Energy (LEU) Has Fresh Attention, But What Is The Market Missing?",
+      "link": "https://finance.yahoo.com/energy/articles/centrus-energy-leu-fresh-attention-031235109.html?.tsrc=rss",
+      "published": "Sat, 14 Nov 2026 03:12:35 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-14T04:32:06.827207+00:00"
     }
   ]
 }

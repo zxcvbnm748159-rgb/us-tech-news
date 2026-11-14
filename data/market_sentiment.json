@@ -5,10 +5,10 @@
   "counts": {
     "positive": 71,
     "negative": 36,
-    "neutral": 121
+    "neutral": 124
   },
-  "total": 228,
-  "updated_at": "2026-11-14T03:10:03.276896+00:00",
+  "total": 231,
+  "updated_at": "2026-11-14T04:32:09.950360+00:00",
   "articles": [
     {
       "link": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-vindicated-nebius-stock-101500036.html?.tsrc=rss",
@@ -920,6 +920,18 @@
     },
     {
       "link": "https://www.fool.com/investing/2026/11/13/sandisk-stock-fell-back-under-usd900-on-friday-i-d-start-with-a-small-position/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://stocktwits.com/news-articles/markets/equity/elon-musk-tom-lee-stand-with-jensen-petition-reinstate-nvidia-ceo/cNb2xkrR9Qe?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.thestreet.com/video/nvidia-ceo-out-10-stock-to-buy-before-sp-500-hits-8000?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/energy/articles/centrus-energy-leu-fresh-attention-031235109.html?.tsrc=rss",
       "sentiment": "neutral"
     }
   ]
