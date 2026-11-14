@@ -1,14 +1,14 @@
 {
   "date": "2026-11-14",
-  "score": 64,
-  "label": "Bullish",
+  "score": 48,
+  "label": "Mixed",
   "counts": {
-    "positive": 7,
-    "negative": 4,
-    "neutral": 10
+    "positive": 11,
+    "negative": 12,
+    "neutral": 21
   },
-  "total": 21,
-  "updated_at": "2026-11-14T12:50:35.096350+00:00",
+  "total": 44,
+  "updated_at": "2026-11-14T16:39:33.096615+00:00",
   "articles": [
     {
       "link": "https://www.fool.com/investing/2026/11/14/buy-nvidia-stock-ceo-jensen-huang-exit-wall-street-answer/?.tsrc=rss",
@@ -92,6 +92,98 @@
     },
     {
       "link": "https://www.fool.com/investing/2026/11/14/qualcomm-is-cheap-enough-to-hold-through-2030/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/economy/article/why-the-biggest-risk-for-investors-in-2027-isnt-nvidia--its-inflation-160241059.html?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/11/14/super-micro-gets-swept-up-in-spreading-nvidia-scandal-says-megaspeed-was-never-a-customer/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://investorshub.advfn.com/market-news/article/39987/nvidia-leadership-crisis-raises-concerns-over-ai-semiconductor-earnings-and-us-export-restrictions?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/11/14/big-shareholders-and-3000-nvidia-employees-want-jensen-huang-back/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.thestreet.com/investing/apple-users-are-about-to-lose-something-theyve-had-for-28-years?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/d99d659c-8aca-30a4-b3b1-85b9d02c443d/apple-leads-five-stocks.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/14/bill-ackman-huge-disconnect-wall-street-expectations-for-hyperscalers/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/c3b17798-d74b-3497-bb15-94efbfc03af4/why-the-microsoft-outage-came.html?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.tikr.com/blog/coreweave-jumped-20-and-pulled-oracle-higher-is-it-time-to-sell-or-load-up?ref=yahoofinance&tlnk=yf-261114-cgmj34ph&.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/11/14/anthropics-1-4-trillion-ipo-is-nov-19-u-s-ai-giants-are-trouncing-china-10-to-1/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/11/14/amd-just-beat-nvidia-by-the-widest-margin-since-1999/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/11/14/harvard-cut-nvidia-by-a-third-and-bought-amd/?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/lawyers-could-pocket-100m-amazons-150000256.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.tikr.com/blog/a-2-8-billion-fund-dumps-these-3-stocks?ref=yahoofinance&tlnk=yf-261114-cf8fgp4v&.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/articles/italy-fines-meta-805-million-152955871.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/14/jamie-dimon-just-said-5-words-blocking-outside-ai/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-tesla-tsla-one-top-152951928.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/video/why-tesla-pulling-plug-cybertruck-150000385.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-p-500-bid-gets-140000560.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/11/14/amd-just-crushed-nvidia-by-32-points-after-scandal-heres-how-nvda-can-come-back/?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.fool.com/coverage/market-movers/2026/11/14/why-advanced-micro-devices-stock-surged-this-week/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.tikr.com/blog/arista-grew-58-5-last-quarter-does-nvidias-ceo-exit-make-it-a-buy-or-a-risk?ref=yahoofinance&tlnk=yf-261114-3pfj9g6c&.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.tikr.com/blog/salesforce-buys-cresta-13-days-after-braze-because-voice-is-hardest-to-get-right?ref=yahoofinance&tlnk=yf-261114-39gx5hqg&.tsrc=rss",
       "sentiment": "neutral"
     }
   ]

@@ -1,7 +1,7 @@
 {
   "date": "2026-11-14",
   "window_days": 7,
-  "source_count": 1295,
+  "source_count": 1318,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 193,
+      "count": 197,
       "kind": "ticker"
     },
     {
@@ -18,7 +18,7 @@
       "search_terms": [
         "GOOGL"
       ],
-      "count": 129,
+      "count": 132,
       "kind": "ticker"
     },
     {
@@ -27,7 +27,7 @@
       "search_terms": [
         "MSFT"
       ],
-      "count": 100,
+      "count": 103,
       "kind": "ticker"
     },
     {
@@ -36,7 +36,7 @@
       "search_terms": [
         "TSLA"
       ],
-      "count": 92,
+      "count": 95,
       "kind": "ticker"
     },
     {
@@ -45,7 +45,7 @@
       "search_terms": [
         "AMD"
       ],
-      "count": 86,
+      "count": 88,
       "kind": "ticker"
     },
     {
@@ -54,7 +54,7 @@
       "search_terms": [
         "AAPL"
       ],
-      "count": 75,
+      "count": 77,
       "kind": "ticker"
     },
     {
@@ -63,7 +63,7 @@
       "search_terms": [
         "AMZN"
       ],
-      "count": 73,
+      "count": 75,
       "kind": "ticker"
     },
     {
@@ -72,7 +72,7 @@
       "search_terms": [
         "META"
       ],
-      "count": 62,
+      "count": 64,
       "kind": "ticker"
     },
     {
@@ -81,7 +81,7 @@
       "search_terms": [
         "AVGO"
       ],
-      "count": 55,
+      "count": 56,
       "kind": "ticker"
     },
     {
@@ -93,7 +93,7 @@
         "revenue guidance",
         "profit forecast"
       ],
-      "count": 55,
+      "count": 56,
       "kind": "topic"
     },
     {
@@ -115,7 +115,7 @@
       "kind": "ticker"
     }
   ],
-  "updated_at": "2026-11-14T12:50:35.132607+00:00",
+  "updated_at": "2026-11-14T16:39:33.129200+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -18246,6 +18246,328 @@
       "sentiment": "neutral",
       "sentiment_source": "headline_vader",
       "fetched_at": "2026-11-14T12:50:33.561005+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Why the biggest risk for investors in 2027 isn't Nvidia — it's inflation",
+      "link": "https://finance.yahoo.com/economy/article/why-the-biggest-risk-for-investors-in-2027-isnt-nvidia--its-inflation-160241059.html?.tsrc=rss",
+      "published": "Sat, 14 Nov 2026 16:02:41 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-14T16:39:31.019223+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Super Micro Gets Swept Up in Spreading Nvidia Scandal. Says Megaspeed Was “Never a Customer”",
+      "link": "https://247wallst.com/investing/2026/11/14/super-micro-gets-swept-up-in-spreading-nvidia-scandal-says-megaspeed-was-never-a-customer/?.tsrc=rss",
+      "published": "Sat, 14 Nov 2026 16:32:49 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-14T16:39:31.019303+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Nvidia Leadership Crisis Raises Concerns Over AI Semiconductor Earnings and US Export Restrictions",
+      "link": "https://investorshub.advfn.com/market-news/article/39987/nvidia-leadership-crisis-raises-concerns-over-ai-semiconductor-earnings-and-us-export-restrictions?.tsrc=rss",
+      "published": "Sat, 14 Nov 2026 16:10:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-14T16:39:31.019348+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Big Shareholders and 3,000 Nvidia Employees Want Jensen Huang Back",
+      "link": "https://247wallst.com/investing/2026/11/14/big-shareholders-and-3000-nvidia-employees-want-jensen-huang-back/?.tsrc=rss",
+      "published": "Sat, 14 Nov 2026 15:49:58 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-14T16:39:31.019387+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Apple users are about to lose something they've had for 28 years",
+      "link": "https://www.thestreet.com/investing/apple-users-are-about-to-lose-something-theyve-had-for-28-years?.tsrc=rss",
+      "published": "Sat, 14 Nov 2026 16:07:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-14T16:39:31.113614+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Apple Leads Five Stocks Standing Tall Near Buy Points Despite Nvidia, Other Headwinds",
+      "link": "https://finance.yahoo.com/m/d99d659c-8aca-30a4-b3b1-85b9d02c443d/apple-leads-five-stocks.html?.tsrc=rss",
+      "published": "Sat, 14 Nov 2026 13:00:58 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-14T16:39:31.113657+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Billionaire Bill Ackman Says There’s a Huge Disconnect in Wall Street’s Expectations for Amazon, Microsoft, Meta, and Alphabet",
+      "link": "https://www.fool.com/investing/2026/11/14/bill-ackman-huge-disconnect-wall-street-expectations-for-hyperscalers/?.tsrc=rss",
+      "published": "Sat, 14 Nov 2026 15:05:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-14T16:39:31.264641+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Why the Microsoft Outage Came at the Worst Possible Time for the Stock",
+      "link": "https://finance.yahoo.com/m/c3b17798-d74b-3497-bb15-94efbfc03af4/why-the-microsoft-outage-came.html?.tsrc=rss",
+      "published": "Sat, 14 Nov 2026 15:05:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-14T16:39:31.264694+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "CoreWeave Jumped 20% and Pulled Oracle Higher. Is It Time to Sell, or Load Up?",
+      "link": "https://www.tikr.com/blog/coreweave-jumped-20-and-pulled-oracle-higher-is-it-time-to-sell-or-load-up?ref=yahoofinance&tlnk=yf-261114-cgmj34ph&.tsrc=rss",
+      "published": "Sat, 14 Nov 2026 05:33:57 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-14T16:39:31.264725+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Anthropic’s $1.4 Trillion IPO Is Nov. 19. U.S. AI Giants Are Trouncing China 10-to-1",
+      "link": "https://247wallst.com/investing/2026/11/14/anthropics-1-4-trillion-ipo-is-nov-19-u-s-ai-giants-are-trouncing-china-10-to-1/?.tsrc=rss",
+      "published": "Sat, 14 Nov 2026 15:50:31 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-14T16:39:31.375428+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "AMD Just Beat Nvidia by the Widest Margin Since 1999",
+      "link": "https://247wallst.com/investing/2026/11/14/amd-just-beat-nvidia-by-the-widest-margin-since-1999/?.tsrc=rss",
+      "published": "Sat, 14 Nov 2026 15:07:49 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-14T16:39:31.375462+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Harvard Cut Nvidia by a Third and Bought AMD",
+      "link": "https://247wallst.com/investing/2026/11/14/harvard-cut-nvidia-by-a-third-and-bought-amd/?.tsrc=rss",
+      "published": "Sat, 14 Nov 2026 14:38:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-14T16:39:31.375499+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Lawyers could pocket up to $100M of Amazon's $309.5M refund settlement — claims are due by Dec. 1",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/lawyers-could-pocket-100m-amazons-150000256.html?.tsrc=rss",
+      "published": "Sat, 14 Nov 2026 15:00:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-14T16:39:31.475159+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "A $2.8 Billion Fund Dumps These 3 Stocks",
+      "link": "https://www.tikr.com/blog/a-2-8-billion-fund-dumps-these-3-stocks?ref=yahoofinance&tlnk=yf-261114-cf8fgp4v&.tsrc=rss",
+      "published": "Sat, 14 Nov 2026 11:50:39 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-14T16:39:31.475220+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "Italy fines Meta €805 million over access to Android users’ photos",
+      "link": "https://finance.yahoo.com/technology/articles/italy-fines-meta-805-million-152955871.html?.tsrc=rss",
+      "published": "Sat, 14 Nov 2026 15:29:55 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-14T16:39:31.551793+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "Jamie Dimon Just Said 5 Words Blocking Outside AI Agents From JPMorgan Accounts: \"You Don't Want Rogue Agents.\" Here's Why That Security Stance Matters for JPM and Its Tech Rivals.",
+      "link": "https://www.fool.com/investing/2026/11/14/jamie-dimon-just-said-5-words-blocking-outside-ai/?.tsrc=rss",
+      "published": "Sat, 14 Nov 2026 12:54:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-14T16:39:31.551943+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Here’s Why Tesla (TSLA) Is One of the Top High P/E Stocks Under the 200-Day SMA",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-tesla-tsla-one-top-152951928.html?.tsrc=rss",
+      "published": "Sat, 14 Nov 2026 15:29:51 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-14T16:39:31.645446+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Why Tesla Is Pulling the Plug on Cybertruck",
+      "link": "https://finance.yahoo.com/video/why-tesla-pulling-plug-cybertruck-150000385.html?.tsrc=rss",
+      "published": "Sat, 14 Nov 2026 15:00:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-14T16:39:31.645476+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "SpaceX’s S&P 500 Bid Gets New Life as Musk Pitches Tesla Merger",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-p-500-bid-gets-140000560.html?.tsrc=rss",
+      "published": "Sat, 14 Nov 2026 14:00:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-14T16:39:31.645506+00:00"
+    },
+    {
+      "ticker": "AMD",
+      "title": "AMD Just Crushed Nvidia by 32 Points After Scandal. Here’s How NVDA Can Come Back",
+      "link": "https://247wallst.com/investing/2026/11/14/amd-just-crushed-nvidia-by-32-points-after-scandal-heres-how-nvda-can-come-back/?.tsrc=rss",
+      "published": "Sat, 14 Nov 2026 15:41:51 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-14T16:39:31.722281+00:00"
+    },
+    {
+      "ticker": "AMD",
+      "title": "Why Advanced Micro Devices Stock Surged This Week",
+      "link": "https://www.fool.com/coverage/market-movers/2026/11/14/why-advanced-micro-devices-stock-surged-this-week/?.tsrc=rss",
+      "published": "Sat, 14 Nov 2026 13:06:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-14T16:39:31.722319+00:00"
+    },
+    {
+      "ticker": "AVGO",
+      "title": "Arista Grew 58.5% Last Quarter: Does Nvidia’s CEO Exit Make It a Buy, or a Risk?",
+      "link": "https://www.tikr.com/blog/arista-grew-58-5-last-quarter-does-nvidias-ceo-exit-make-it-a-buy-or-a-risk?ref=yahoofinance&tlnk=yf-261114-3pfj9g6c&.tsrc=rss",
+      "published": "Sat, 14 Nov 2026 07:29:34 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-14T16:39:31.840805+00:00"
+    },
+    {
+      "ticker": "CRM",
+      "title": "Salesforce Buys Cresta 13 Days After Braze Because Voice Is “Hardest to Get Right”",
+      "link": "https://www.tikr.com/blog/salesforce-buys-cresta-13-days-after-braze-because-voice-is-hardest-to-get-right?ref=yahoofinance&tlnk=yf-261114-39gx5hqg&.tsrc=rss",
+      "published": "Sat, 14 Nov 2026 05:38:39 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-14T16:39:32.002863+00:00"
     }
   ]
 }
