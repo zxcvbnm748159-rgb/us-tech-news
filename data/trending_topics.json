@@ -1,7 +1,7 @@
 {
   "date": "2026-11-14",
   "window_days": 7,
-  "source_count": 1283,
+  "source_count": 1295,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 188,
+      "count": 193,
       "kind": "ticker"
     },
     {
@@ -18,7 +18,7 @@
       "search_terms": [
         "GOOGL"
       ],
-      "count": 127,
+      "count": 129,
       "kind": "ticker"
     },
     {
@@ -36,7 +36,7 @@
       "search_terms": [
         "TSLA"
       ],
-      "count": 90,
+      "count": 92,
       "kind": "ticker"
     },
     {
@@ -97,6 +97,15 @@
       "kind": "topic"
     },
     {
+      "label": "ORCL",
+      "query": "ORCL",
+      "search_terms": [
+        "ORCL"
+      ],
+      "count": 53,
+      "kind": "ticker"
+    },
+    {
       "label": "INTC",
       "query": "INTC",
       "search_terms": [
@@ -104,18 +113,9 @@
       ],
       "count": 52,
       "kind": "ticker"
-    },
-    {
-      "label": "ORCL",
-      "query": "ORCL",
-      "search_terms": [
-        "ORCL"
-      ],
-      "count": 52,
-      "kind": "ticker"
     }
   ],
-  "updated_at": "2026-11-14T10:15:39.872051+00:00",
+  "updated_at": "2026-11-14T12:50:35.132607+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -18078,6 +18078,174 @@
       "sentiment": "neutral",
       "sentiment_source": "headline_vader",
       "fetched_at": "2026-11-14T10:15:37.145935+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Nvidia and Jensen Huang fallout: Here's everything we know after a momentous week",
+      "link": "https://finance.yahoo.com/technology/article/nvidia-and-jensen-huang-fallout-heres-everything-we-know-after-a-momentous-week-110000323.html?.tsrc=rss",
+      "published": "Sat, 14 Nov 2026 11:00:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-14T12:50:31.463985+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Jim Cramer says Jensen Huang betrayed shareholders as Nvidia sinks up to 13%. Is your 401(k) too tied to one stock?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-jensen-huang-123000332.html?.tsrc=rss",
+      "published": "Sat, 14 Nov 2026 12:30:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-14T12:50:31.464099+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Elon Musk, Trump, Kress, Nvidia’s Board On Jensen Huang’s Exit: Mag 7 Voices This Week",
+      "link": "https://stocktwits.com/news-articles/markets/equity/elon-musk-trump-kress-nvidia-board-on-jensen-huang-exit/cNbPJ1xR9Qk?.tsrc=rss",
+      "published": "Sat, 14 Nov 2026 12:30:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-14T12:50:31.464145+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "3 Broker Stocks Retail Investors Are Watching After Nvidia Volatility",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-broker-stocks-retail-investors-120953070.html?.tsrc=rss",
+      "published": "Sat, 14 Nov 2026 12:09:53 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-14T12:50:31.464174+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Why a Rising TSMC Challenger Could Reshape the Chip Foundry Landscape",
+      "link": "https://www.fool.com/investing/2026/11/14/why-a-rising-tsmc-challenger-could-reshape-the-chi/?.tsrc=rss",
+      "published": "Sat, 14 Nov 2026 12:04:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-14T12:50:31.464229+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Sundar Pichai Reported Alphabet's Cloud Revenue Grew 103% Last Quarter While the Gemini App Reached 1 Billion Monthly Users. Is Google Cloud Becoming a Bigger Growth Driver Than Search?",
+      "link": "https://www.fool.com/investing/2026/11/14/sundar-pichai-alphabet-cloud-revenue-gemini-search/?.tsrc=rss",
+      "published": "Sat, 14 Nov 2026 10:53:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-14T12:50:31.934535+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Nvidia, Alphabet, Microsoft, and Micron Are All Buying Anthropic’s IPO. Should You Buy Too?",
+      "link": "https://www.fool.com/investing/2026/11/14/nvidia-alphabet-microsoft-and-micron-are-buying-anthropic-ipo/?.tsrc=rss",
+      "published": "Sat, 14 Nov 2026 10:22:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-14T12:50:31.934591+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Forget Elon Musk’s Tesla Roadster ‘Rocket’ — a Chinese rival has 7,000+ orders for its nearly $300K flying car, due 2027",
+      "link": "https://finance.yahoo.com/technology/articles/forget-elon-musk-tesla-roadster-120500645.html?.tsrc=rss",
+      "published": "Sat, 14 Nov 2026 12:05:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-14T12:50:32.401279+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Tesla Cybercab’s Monthly Subscription Is ‘Too High,’ Elon Musk Admits To MKBHD: ‘Should Match The Cost Of…’",
+      "link": "https://stocktwits.com/news-articles/markets/equity/tesla-cybercab-monthly-subscription-too-high-elon-musk-mkbhd/cNbPER1R9Q1?.tsrc=rss",
+      "published": "Sat, 14 Nov 2026 10:20:18 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-14T12:50:32.401364+00:00"
+    },
+    {
+      "ticker": "ORCL",
+      "title": "Nvidia’s Interim CEO Pushed Back on a “$250 Billion Credit Backstop” for OpenAI. Oracle Has the Most at Stake",
+      "link": "https://www.tikr.com/blog/nvidias-interim-ceo-pushed-back-on-a-250-billion-credit-backstop-for-openai-oracle-has-the-most-at-stake?ref=yahoofinance&tlnk=yf-261114-v5cmv78g&.tsrc=rss",
+      "published": "Sat, 14 Nov 2026 11:42:12 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-14T12:50:32.915266+00:00"
+    },
+    {
+      "ticker": "NFLX",
+      "title": "Netflix Stock Has Been Cut in Half Since Its 2025 Peak. History Says What Came After Its Last 5 Drops Like This.",
+      "link": "https://www.fool.com/investing/2026/11/14/netflix-stock-has-been-cut-in-half-since-its-2025-peak-history-says-what-came-after-its-last-5-drops-like-this/?.tsrc=rss",
+      "published": "Sat, 14 Nov 2026 10:33:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-14T12:50:33.255032+00:00"
+    },
+    {
+      "ticker": "QCOM",
+      "title": "Qualcomm Is Cheap Enough to Hold Through 2030",
+      "link": "https://www.fool.com/investing/2026/11/14/qualcomm-is-cheap-enough-to-hold-through-2030/?.tsrc=rss",
+      "published": "Sat, 14 Nov 2026 11:40:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-14T12:50:33.561005+00:00"
     }
   ]
 }
