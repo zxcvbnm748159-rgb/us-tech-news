@@ -30,6 +30,10 @@ class FrontendContractTests(unittest.TestCase):
     def test_original_dashboard_feature_hooks_remain_present(self):
         for expected in (
             'id="stockChart"',
+            'id="marketRadar"',
+            'id="radarList"',
+            'id="radarSignalCount"',
+            'data-radar-filter="price"',
             'id="watchlistList"',
             'id="portfolioHoldings"',
             'id="comparisonGrid"',
@@ -76,7 +80,7 @@ class FrontendContractTests(unittest.TestCase):
         self.assertIn('<nav class="mobile-dock"', self.html)
         self.assertIn('class="skip-link"', self.html)
         self.assertIn('aria-label="เมนูทางลัดบนมือถือ"', self.html)
-        for target in ("marketOverview", "stock-workspace", "newsDashboard", "watchlistTitle"):
+        for target in ("marketOverview", "marketRadar", "stock-workspace", "newsDashboard", "watchlistTitle"):
             with self.subTest(target=target):
                 self.assertIn(f'href="#{target}"', self.html)
 
