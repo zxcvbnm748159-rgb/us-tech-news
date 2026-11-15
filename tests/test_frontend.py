@@ -30,6 +30,10 @@ class FrontendContractTests(unittest.TestCase):
     def test_original_dashboard_feature_hooks_remain_present(self):
         for expected in (
             'id="stockChart"',
+            'id="marketRadar"',
+            'id="radarList"',
+            'id="radarSignalCount"',
+            'data-radar-filter="price"',
             'id="watchlistList"',
             'id="portfolioHoldings"',
             'id="comparisonGrid"',
@@ -62,6 +66,17 @@ class FrontendContractTests(unittest.TestCase):
 
         self.assertEqual(result.returncode, 0, result.stderr)
 
+    def test_market_radar_module_is_loaded_and_passes_node_syntax_check(self):
+        self.assertIn('<script src="scripts/market-radar.js"></script>', self.html)
+        node = shutil.which("node")
+        if not node:
+            self.skipTest("Node.js is not installed in this environment")
+        result = subprocess.run(
+            [node, "--check", str(ROOT / "scripts" / "market-radar.js")],
+            capture_output=True, text=True, check=False,
+        )
+        self.assertEqual(result.returncode, 0, result.stderr)
+
     def test_navigation_targets_exist_and_ids_are_unique(self):
         ids = re.findall(r"""\bid=["']([^"']+)["']""", self.html)
         self.assertEqual(len(ids), len(set(ids)), "HTML contains duplicate id attributes")
@@ -76,7 +91,7 @@ class FrontendContractTests(unittest.TestCase):
         self.assertIn('<nav class="mobile-dock"', self.html)
         self.assertIn('class="skip-link"', self.html)
         self.assertIn('aria-label="เมนูทางลัดบนมือถือ"', self.html)
-        for target in ("marketOverview", "stock-workspace", "newsDashboard", "watchlistTitle"):
+        for target in ("marketOverview", "marketRadar", "stock-workspace", "newsDashboard", "watchlistTitle"):
             with self.subTest(target=target):
                 self.assertIn(f'href="#{target}"', self.html)
 

@@ -8,6 +8,7 @@
 
 * **🤖 AI-Powered Stock Analysis:** สรุปข่าว แปลภาษาไทย และวิเคราะห์ผลกระทบเชิงลึกรายหุ้น 3 ประเด็นด้วย Gemini AI โดยประมวลผลล่วงหน้าลงไฟล์ JSON
 * **⏱️ 48-Hour News Window:** คัดกรองและแสดงเฉพาะข่าวสดใหม่ในรอบ 48 ชั่วโมงล่าสุด พร้อมจัดหมวดหมู่ (`AI`, `Hardware`, `Financial`, `General`)
+* **🛰️ Explainable Market Radar:** ตรวจจับการเปลี่ยนแปลงราคา ≥2.5%, ปริมาณซื้อขายแท่ง 5 นาทีล่าสุดเทียบค่ากลาง 12 แท่งก่อนหน้า ≥2 เท่า และข่าวผลกระทบสูง/กลางใน 48 ชั่วโมง พร้อมแสดงเหตุผลและปิดสัญญาณราคาเมื่อข้อมูลเก่ากว่า 2 ชั่วโมง
 * **📊 Stock Detail & Watchlist Dashboard:**
 * แดชบอร์ดแสดงข้อมูลราคาหุ้น realtime / after-hours
 * Sparkline chart และกราฟจาก TradingView Widget
@@ -180,3 +181,8 @@ Workflow อัปเดตข่าวและราคาเรียกช�
 ### Stock analysis freshness
 
 When the market-price workflow updates quotes, it also regenerates the 23-stock analysis using the newly fetched prices and the latest news file before publishing both datasets together. This keeps daily percentage changes and AI analysis aligned to the same data cycle.
+
+
+### Market Radar (Phase 1)
+
+The browser-side radar is deterministic and explainable. It flags daily price moves of at least 2.5%, the latest 5-minute volume bar at least 2x the median of the previous 12 valid bars, and high/medium AI-assessed news published within 48 hours. Price and volume signals are suppressed when market-price data is older than two hours. Combined signal strength is capped at 100 and is not a probability, forecast, or investment recommendation. The original source headline and assessment origin remain visible.
