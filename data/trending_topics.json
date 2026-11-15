@@ -1,7 +1,7 @@
 {
   "date": "2026-11-15",
   "window_days": 7,
-  "source_count": 1316,
+  "source_count": 1323,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 201,
+      "count": 206,
       "kind": "ticker"
     },
     {
@@ -81,7 +81,7 @@
       "search_terms": [
         "AVGO"
       ],
-      "count": 58,
+      "count": 59,
       "kind": "ticker"
     },
     {
@@ -93,8 +93,17 @@
         "revenue guidance",
         "profit forecast"
       ],
-      "count": 58,
+      "count": 59,
       "kind": "topic"
+    },
+    {
+      "label": "TSM",
+      "query": "TSM",
+      "search_terms": [
+        "TSM"
+      ],
+      "count": 53,
+      "kind": "ticker"
     },
     {
       "label": "ORCL",
@@ -104,18 +113,9 @@
       ],
       "count": 52,
       "kind": "ticker"
-    },
-    {
-      "label": "TSM",
-      "query": "TSM",
-      "search_terms": [
-        "TSM"
-      ],
-      "count": 52,
-      "kind": "ticker"
     }
   ],
-  "updated_at": "2026-11-15T19:57:50.565236+00:00",
+  "updated_at": "2026-11-15T23:44:57.069484+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -18540,6 +18540,104 @@
       "sentiment": "neutral",
       "sentiment_source": "headline_vader",
       "fetched_at": "2026-11-15T19:57:50.528272+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Dow Jones Futures Rise; How Will Nvidia React As Jensen Huang Mulls Return?",
+      "link": "https://finance.yahoo.com/m/53e50dc8-f137-3f6c-bfd6-912334fef9f1/dow-jones-futures-rise%3B-how.html?.tsrc=rss",
+      "published": "Sun, 15 Nov 2026 23:36:46 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-15T23:44:54.087881+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Musk, Uber co-founder join call for Jensen Huang's return to Nvidia",
+      "link": "https://finance.yahoo.com/technology/ai/articles/musk-uber-co-founder-join-231643816.html?.tsrc=rss",
+      "published": "Sun, 15 Nov 2026 23:16:43 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-15T23:44:54.087975+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Stock Futures Are Rising Ahead of Nvidia’s Earnings, Anthropic’s IPO",
+      "link": "https://finance.yahoo.com/m/8cef83a6-f4cb-350b-abaf-a876bb42c992/stock-futures-are-rising.html?.tsrc=rss",
+      "published": "Sun, 15 Nov 2026 23:05:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-15T23:44:54.088017+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Jensen Huang Considers Returning To Nvidia: FT",
+      "link": "https://finance.yahoo.com/m/694d3941-721c-31d4-aff5-d306f1116454/jensen-huang-considers.html?.tsrc=rss",
+      "published": "Sun, 15 Nov 2026 22:42:38 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-15T23:44:54.088044+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Alibaba (NYSE:BABA) Caught In New US AI Chip Clampdown After Espionage Uproar",
+      "link": "https://finance.yahoo.com/technology/ai/articles/alibaba-nyse-baba-caught-us-220650183.html?.tsrc=rss",
+      "published": "Sun, 15 Nov 2026 22:06:50 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-15T23:44:54.088080+00:00"
+    },
+    {
+      "ticker": "AVGO",
+      "title": "Broadcom Stock Jumps as Nvidia’s Leadership Crisis Raises a Billion-Dollar Opportunity for Its AI Chip Business",
+      "link": "https://www.barchart.com/story/news/8844179/broadcom-stock-jumps-as-nvidias-leadership-crisis-raises-a-billion-dollar-opportunity-for-its-ai-chip-business?.tsrc=rss",
+      "published": "Sun, 15 Nov 2026 14:25:25 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-15T23:44:55.154391+00:00"
+    },
+    {
+      "ticker": "TSM",
+      "title": "What TSMC Doubters Got Wrong",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tsmc-doubters-got-wrong-200527158.html?.tsrc=rss",
+      "published": "Sun, 15 Nov 2026 20:05:27 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-15T23:44:56.462887+00:00"
     }
   ]
 }

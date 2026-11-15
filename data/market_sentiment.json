@@ -1,14 +1,14 @@
 {
   "date": "2026-11-15",
-  "score": 52,
+  "score": 50,
   "label": "Mixed",
   "counts": {
-    "positive": 14,
-    "negative": 13,
-    "neutral": 25
+    "positive": 15,
+    "negative": 15,
+    "neutral": 29
   },
-  "total": 52,
-  "updated_at": "2026-11-15T19:57:50.528684+00:00",
+  "total": 59,
+  "updated_at": "2026-11-15T23:44:57.030098+00:00",
   "articles": [
     {
       "link": "https://stocktwits.com/news-articles/markets/equity/nvidia-jensen-huang-worth-1-trillion-dan-ives-elon-musk-support/cNbEIBvR9QY?.tsrc=rss",
@@ -217,6 +217,34 @@
     {
       "link": "https://www.fool.com/investing/2026/11/15/should-you-buy-sandisk-before-its-8-for-1-stock-split-on-nov-19/?.tsrc=rss",
       "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/53e50dc8-f137-3f6c-bfd6-912334fef9f1/dow-jones-futures-rise%3B-how.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/musk-uber-co-founder-join-231643816.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/8cef83a6-f4cb-350b-abaf-a876bb42c992/stock-futures-are-rising.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/694d3941-721c-31d4-aff5-d306f1116454/jensen-huang-considers.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/alibaba-nyse-baba-caught-us-220650183.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.barchart.com/story/news/8844179/broadcom-stock-jumps-as-nvidias-leadership-crisis-raises-a-billion-dollar-opportunity-for-its-ai-chip-business?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tsmc-doubters-got-wrong-200527158.html?.tsrc=rss",
+      "sentiment": "negative"
     }
   ]
 }
