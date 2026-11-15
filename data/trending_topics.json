@@ -1,7 +1,7 @@
 {
   "date": "2026-11-15",
   "window_days": 7,
-  "source_count": 1291,
+  "source_count": 1307,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 192,
+      "count": 197,
       "kind": "ticker"
     },
     {
@@ -18,7 +18,7 @@
       "search_terms": [
         "GOOGL"
       ],
-      "count": 123,
+      "count": 126,
       "kind": "ticker"
     },
     {
@@ -27,7 +27,7 @@
       "search_terms": [
         "MSFT"
       ],
-      "count": 101,
+      "count": 102,
       "kind": "ticker"
     },
     {
@@ -45,7 +45,7 @@
       "search_terms": [
         "AMD"
       ],
-      "count": 88,
+      "count": 89,
       "kind": "ticker"
     },
     {
@@ -54,7 +54,7 @@
       "search_terms": [
         "AAPL"
       ],
-      "count": 74,
+      "count": 76,
       "kind": "ticker"
     },
     {
@@ -63,7 +63,7 @@
       "search_terms": [
         "AMZN"
       ],
-      "count": 73,
+      "count": 74,
       "kind": "ticker"
     },
     {
@@ -72,16 +72,7 @@
       "search_terms": [
         "META"
       ],
-      "count": 63,
-      "kind": "ticker"
-    },
-    {
-      "label": "AVGO",
-      "query": "AVGO",
-      "search_terms": [
-        "AVGO"
-      ],
-      "count": 57,
+      "count": 64,
       "kind": "ticker"
     },
     {
@@ -93,8 +84,26 @@
         "revenue guidance",
         "profit forecast"
       ],
-      "count": 56,
+      "count": 58,
       "kind": "topic"
+    },
+    {
+      "label": "AVGO",
+      "query": "AVGO",
+      "search_terms": [
+        "AVGO"
+      ],
+      "count": 57,
+      "kind": "ticker"
+    },
+    {
+      "label": "ORCL",
+      "query": "ORCL",
+      "search_terms": [
+        "ORCL"
+      ],
+      "count": 52,
+      "kind": "ticker"
     },
     {
       "label": "TSM",
@@ -104,18 +113,9 @@
       ],
       "count": 52,
       "kind": "ticker"
-    },
-    {
-      "label": "ORCL",
-      "query": "ORCL",
-      "search_terms": [
-        "ORCL"
-      ],
-      "count": 51,
-      "kind": "ticker"
     }
   ],
-  "updated_at": "2026-11-15T14:43:39.262361+00:00",
+  "updated_at": "2026-11-15T18:22:31.995774+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -18190,6 +18190,230 @@
       "sentiment": "positive",
       "sentiment_source": "headline_vader",
       "fetched_at": "2026-11-15T14:43:39.223094+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Nvidia Rival’s CEO on TSMC: “I Would Buy That Stock Every Day of the Week”",
+      "link": "https://www.tikr.com/blog/nvidia-rivals-ceo-on-tsmc-i-would-buy-that-stock-every-day-of-the-week?ref=yahoofinance&tlnk=yf-261115-r3492722&.tsrc=rss",
+      "published": "Sun, 15 Nov 2026 17:59:56 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-15T18:22:28.169377+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Nvidia Reports Earnings on Nov. 17. Here's What Investors Should Be Watching.",
+      "link": "https://www.fool.com/investing/2026/11/15/nvidia-reports-earnings-on-nov-17-2026-heres-what-investors-should-be-watching/?.tsrc=rss",
+      "published": "Sun, 15 Nov 2026 17:50:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-15T18:22:28.169418+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Bessent questions did Nvidia \"goose\" earnings with suspect China chip sales",
+      "link": "https://www.axios.com/2026/11/15/bessent-nvidia-earnings-china-chip-sales-ceo#utm_source=yahoo_finance&utm_medium=partner&utm_campaign=subs-partner-yahoo-finance-AI?.tsrc=rss",
+      "published": "Sun, 15 Nov 2026 17:29:21 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-15T18:22:28.169473+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Neoclouds Are “Nearly Half of Nvidia’s Own Revenue.” Its New CEO May Stop Funding Them",
+      "link": "https://www.tikr.com/blog/neoclouds-are-nearly-half-of-nvidias-own-revenue-its-new-ceo-may-stop-funding-them?ref=yahoofinance&tlnk=yf-261115-fqfvgw85&.tsrc=rss",
+      "published": "Sun, 15 Nov 2026 17:21:24 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-15T18:22:28.169520+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "3 Beaten-Down Stocks Under $10 to Buy in November",
+      "link": "https://www.fool.com/investing/2026/11/15/3-stocks-under-10-to-buy-in-november/?.tsrc=rss",
+      "published": "Sun, 15 Nov 2026 17:20:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-15T18:22:28.169539+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "‘Bond King’ Jeffrey Gundlach Is “Not Interested in Buying Stocks.” His Warning Points to 10 Years of Losses",
+      "link": "https://247wallst.com/investing/2026/11/15/bond-king-jeffrey-gundlach-is-not-interested-in-buying-stocks-his-warning-points-to-10-years-of-losses/?.tsrc=rss",
+      "published": "Sun, 15 Nov 2026 17:12:51 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-15T18:22:28.321932+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Bernstein Says Qualcomm’s “Margin Outlook Is Lousy.” Is the 6% Slide a Buying Chance?",
+      "link": "https://www.tikr.com/blog/bernstein-says-qualcomms-margin-outlook-is-lousy-is-the-6-slide-a-buying-chance?ref=yahoofinance&tlnk=yf-261115-cq572qhj&.tsrc=rss",
+      "published": "Sun, 15 Nov 2026 04:33:21 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-15T18:22:28.321997+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Morgan Stanley doubles down on Microsoft stock with bold outlook",
+      "link": "https://www.thestreet.com/investing/stocks/morgan-stanley-doubles-down-on-microsoft-stock-with-bold-outlook?.tsrc=rss",
+      "published": "Sun, 15 Nov 2026 17:33:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-15T18:22:28.514914+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Google to launch drone deliveries in UK",
+      "link": "https://uk.finance.yahoo.com/news/google-launch-drone-deliveries-uk-160000950.html?.tsrc=rss",
+      "published": "Sun, 15 Nov 2026 16:00:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-15T18:22:28.738061+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "SpaceX caught Starship from orbit with ‘robot chopsticks’ in a world 1st — but lost its booster in the Gulf of Mexico",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-caught-starship-orbit-robot-180500736.html?.tsrc=rss",
+      "published": "Sun, 15 Nov 2026 18:05:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-15T18:22:28.738149+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Elon Musk Warns Nvidia Will Lose ‘Critical Deals’ Without Jensen Huang",
+      "link": "https://247wallst.com/investing/2026/11/15/elon-musk-warns-nvidia-will-lose-critical-deals-without-jensen-huang/?.tsrc=rss",
+      "published": "Sun, 15 Nov 2026 16:59:06 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-15T18:22:28.738192+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "MacKenzie Scott gave Jeff Bezos 75% of their Amazon shares, Blue Origin, and the Washington Post in 2019 divorce",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/mackenzie-scott-gave-jeff-bezos-163000988.html?.tsrc=rss",
+      "published": "Sun, 15 Nov 2026 16:30:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-15T18:22:28.906008+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "By The Way: Headlines You May Have Missed",
+      "link": "https://finance.yahoo.com/video/way-headlines-may-missed-155039548.html?.tsrc=rss",
+      "published": "Sun, 15 Nov 2026 15:50:39 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-15T18:22:29.033929+00:00"
+    },
+    {
+      "ticker": "AMD",
+      "title": "Forget Jensen Huang’s Resignation. AMD May Be Nvidia’s Biggest Threat in 2027",
+      "link": "https://247wallst.com/investing/2026/11/15/forget-jensen-huangs-resignation-amd-may-be-nvidias-biggest-threat-in-2027/?.tsrc=rss",
+      "published": "Sun, 15 Nov 2026 17:09:23 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-15T18:22:29.335892+00:00"
+    },
+    {
+      "ticker": "ORCL",
+      "title": "Why Is Oracle (ORCL) Expanding Its Health Data Network With Federal Agencies?",
+      "link": "https://finance.yahoo.com/healthcare/articles/why-oracle-orcl-expanding-health-160716472.html?.tsrc=rss",
+      "published": "Sun, 15 Nov 2026 16:07:16 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-15T18:22:29.647708+00:00"
+    },
+    {
+      "ticker": "NFLX",
+      "title": "Netflix, Disney, HBO, and Peacock keep raising streaming prices",
+      "link": "https://www.thestreet.com/entertainment/peacock-espn-netflix-apple-tv-and-disney-streaming-service-test-loyalty-with-price-hikes?.tsrc=rss",
+      "published": "Sun, 15 Nov 2026 16:33:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-15T18:22:29.996789+00:00"
     }
   ]
 }
