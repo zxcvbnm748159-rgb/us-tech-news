@@ -1,7 +1,7 @@
 {
   "date": "2026-11-14",
   "window_days": 7,
-  "source_count": 1343,
+  "source_count": 1358,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 203,
+      "count": 208,
       "kind": "ticker"
     },
     {
@@ -18,7 +18,7 @@
       "search_terms": [
         "GOOGL"
       ],
-      "count": 134,
+      "count": 135,
       "kind": "ticker"
     },
     {
@@ -27,7 +27,7 @@
       "search_terms": [
         "MSFT"
       ],
-      "count": 103,
+      "count": 104,
       "kind": "ticker"
     },
     {
@@ -36,7 +36,7 @@
       "search_terms": [
         "TSLA"
       ],
-      "count": 99,
+      "count": 100,
       "kind": "ticker"
     },
     {
@@ -45,7 +45,7 @@
       "search_terms": [
         "AMD"
       ],
-      "count": 88,
+      "count": 90,
       "kind": "ticker"
     },
     {
@@ -63,7 +63,7 @@
       "search_terms": [
         "AMZN"
       ],
-      "count": 75,
+      "count": 76,
       "kind": "ticker"
     },
     {
@@ -97,6 +97,15 @@
       "kind": "topic"
     },
     {
+      "label": "INTC",
+      "query": "INTC",
+      "search_terms": [
+        "INTC"
+      ],
+      "count": 54,
+      "kind": "ticker"
+    },
+    {
       "label": "ORCL",
       "query": "ORCL",
       "search_terms": [
@@ -104,18 +113,9 @@
       ],
       "count": 54,
       "kind": "ticker"
-    },
-    {
-      "label": "INTC",
-      "query": "INTC",
-      "search_terms": [
-        "INTC"
-      ],
-      "count": 53,
-      "kind": "ticker"
     }
   ],
-  "updated_at": "2026-11-14T20:55:41.923394+00:00",
+  "updated_at": "2026-11-15T00:32:35.492761+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -18918,6 +18918,216 @@
       "sentiment": "negative",
       "sentiment_source": "headline_vader",
       "fetched_at": "2026-11-14T20:55:41.243746+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Nvidia's Ousted CEO Said a 1-Gigawatt Data Center Delay Costs $10 Billion a Quarter. Here's Why That Matters for Power Stocks.",
+      "link": "https://www.fool.com/investing/2026/11/14/nvidias-ousted-ceo-said-a-1-gigawatt-data-center/?.tsrc=rss",
+      "published": "Sun, 15 Nov 2026 00:05:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-15T00:32:32.810561+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Warren Buffett’s Berkshire Just Hit a Record High as Nvidia Sank. A 67-Year-Old Who Bought 1,000 Shares in 2016 Can Sell $106,000 of It This Year and Pay 0% on the Gain",
+      "link": "https://247wallst.com/investing/2026/11/14/warren-buffetts-berkshire-just-hit-a-record-high-as-nvidia-sank-a-67-year-old-who-bought-1000-shares-in-2016-can-sell-106000-of-it-this-year-and-pay-0-on-the-gain/?.tsrc=rss",
+      "published": "Sat, 14 Nov 2026 23:53:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-15T00:32:32.810676+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Dan Ives Valued Nvidia at “$225 Without Jensen.” Now the Stock Trades Below It",
+      "link": "https://www.tikr.com/blog/dan-ives-valued-nvidia-at-225-without-jensen-now-the-stock-trades-below-it?ref=yahoofinance&tlnk=yf-261114-wfxc34j3&.tsrc=rss",
+      "published": "Sat, 14 Nov 2026 23:11:42 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-15T00:32:32.810715+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "ASML vs. NVIDIA: Which Technology Stock Is a Better Buy for 2027?",
+      "link": "https://www.fool.com/coverage/better-buy/2026/11/14/asml-vs-nvidia-which-technology-stock-is-a-better-buy-for-2027/?.tsrc=rss",
+      "published": "Sat, 14 Nov 2026 22:14:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-15T00:32:32.810753+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "3 AI Chip Stocks Retail Investors May Be Missing Beyond Nvidia",
+      "link": "https://finance.yahoo.com/technology/ai/articles/3-ai-chip-stocks-retail-220906408.html?.tsrc=rss",
+      "published": "Sat, 14 Nov 2026 22:09:06 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-15T00:32:32.810788+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Big Tech Will Spend “Well Over $1 Trillion” in 2027, Says Applied Materials CFO",
+      "link": "https://www.tikr.com/blog/big-tech-will-spend-well-over-1-trillion-in-2027-says-applied-materials-cfo?ref=yahoofinance&tlnk=yf-261114-qqm26385&.tsrc=rss",
+      "published": "Sat, 14 Nov 2026 03:55:55 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-15T00:32:33.094119+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "He Thinks His $200,000 S&P 500 401(k) Spreads His AI Risk. Two Alphabet Share Classes Put $10,380 in One Company. A 20% Drop Could Cost Him $2,076",
+      "link": "https://247wallst.com/personal-finance/2026/11/14/he-thinks-his-200000-sp-500-401k-spreads-his-ai-risk-two-alphabet-share-classes-put-10380-in-one-company-a-20-drop-could-cost-him-2076/?.tsrc=rss",
+      "published": "Sat, 14 Nov 2026 23:03:46 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-15T00:32:33.195162+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Amazon (AMZN) Has Its First Binding Union Contract In North America",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/amazon-amzn-first-binding-union-230857139.html?.tsrc=rss",
+      "published": "Sat, 14 Nov 2026 23:08:57 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-15T00:32:33.294021+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Elon Musk's Tesla and SpaceX Lost More Than $420 Billion in Combined Market Value in Two Days After Democrats Swept the Midterms, With Investors Fearing New Congressional Probes. Here's Why That Political Risk Matters for Shareholders",
+      "link": "https://www.fool.com/investing/2026/11/14/elon-musks-tesla-and-spacex-lost-more-than-420-billion-in-combined-market-value-in-two-days-after-democrats-swept-the-midterms-with-investors-fearing-new-congressional-probes-heres-why-that-political-risk-matters-for-shareholders/?.tsrc=rss",
+      "published": "Sat, 14 Nov 2026 22:48:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-15T00:32:33.502205+00:00"
+    },
+    {
+      "ticker": "AMD",
+      "title": "Nvidia Fell While AMD and Broadcom Jumped. Here’s What History Says Happens Next to All 3  Stocks.",
+      "link": "https://www.fool.com/investing/2026/11/14/nvidia-fell-while-amd-and-broadcom-jumped-here-s-what-history-says-happens-next-to-all-3-stocks/?.tsrc=rss",
+      "published": "Sat, 14 Nov 2026 21:55:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-15T00:32:33.626711+00:00"
+    },
+    {
+      "ticker": "AMD",
+      "title": "Why Analysts Think AMD Could Emerge as the Biggest Winner From Nvidia’s Turmoil",
+      "link": "https://www.barchart.com/story/news/8837690/why-analysts-think-amd-could-emerge-as-the-biggest-winner-from-nvidias-turmoil?.tsrc=rss",
+      "published": "Sat, 14 Nov 2026 15:00:03 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-15T00:32:33.626791+00:00"
+    },
+    {
+      "ticker": "INTC",
+      "title": "Why Intel CEO Lip-Bu Tan has 22 meetings a day — and what you can learn from it",
+      "link": "https://finance.yahoo.com/markets/article/why-intel-ceo-lip-bu-tan-has-22-meetings-a-day--and-what-you-can-learn-from-it-210301452.html?.tsrc=rss",
+      "published": "Sat, 14 Nov 2026 21:03:01 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-15T00:32:34.314190+00:00"
+    },
+    {
+      "ticker": "QCOM",
+      "title": "Qualcomm or Texas Instruments: The One Dividend Stock I’d Hold for the Next 10 Years",
+      "link": "https://www.tikr.com/blog/qualcomm-or-texas-instruments-the-one-dividend-stock-id-hold-for-the-next-10-years?ref=yahoofinancedividend&tlnk=yf-261114-xpp9wg7j&.tsrc=rss",
+      "published": "Fri, 13 Nov 2026 17:40:13 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-15T00:32:34.449823+00:00"
+    },
+    {
+      "ticker": "PLTR",
+      "title": "Peter Thiel’s Longtime Business Partner Says AI Is Absolutely in a Bubble: ‘This Will Correct’",
+      "link": "https://finance.yahoo.com/technology/ai/articles/peter-thiel-longtime-business-partner-213007111.html?.tsrc=rss",
+      "published": "Sat, 14 Nov 2026 21:30:07 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-15T00:32:34.598435+00:00"
+    },
+    {
+      "ticker": "TSM",
+      "title": "“Being Prudent”: TSMC Stock Has Surged 41% in a Year. Is It Too Late to Buy?",
+      "link": "https://www.tikr.com/blog/being-prudent-tsmc-stock-has-surged-41-in-a-year-is-it-too-late-to-buy?ref=yahoofinance&tlnk=yf-261114-6285hcp3&.tsrc=rss",
+      "published": "Sat, 14 Nov 2026 22:30:54 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-15T00:32:35.007709+00:00"
     }
   ]
 }

@@ -1,14 +1,14 @@
 {
   "date": "2026-11-14",
-  "score": 46,
+  "score": 47,
   "label": "Mixed",
   "counts": {
-    "positive": 17,
-    "negative": 20,
-    "neutral": 32
+    "positive": 21,
+    "negative": 24,
+    "neutral": 37
   },
-  "total": 69,
-  "updated_at": "2026-11-14T20:55:41.890162+00:00",
+  "total": 82,
+  "updated_at": "2026-11-15T00:32:35.463139+00:00",
   "articles": [
     {
       "link": "https://www.fool.com/investing/2026/11/14/buy-nvidia-stock-ceo-jensen-huang-exit-wall-street-answer/?.tsrc=rss",
@@ -285,6 +285,58 @@
     {
       "link": "https://finance.yahoo.com/technology/ai/articles/palantir-ceo-alex-karp-says-185402032.html?.tsrc=rss",
       "sentiment": "negative"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/14/nvidias-ousted-ceo-said-a-1-gigawatt-data-center/?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/11/14/warren-buffetts-berkshire-just-hit-a-record-high-as-nvidia-sank-a-67-year-old-who-bought-1000-shares-in-2016-can-sell-106000-of-it-this-year-and-pay-0-on-the-gain/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.tikr.com/blog/dan-ives-valued-nvidia-at-225-without-jensen-now-the-stock-trades-below-it?ref=yahoofinance&tlnk=yf-261114-wfxc34j3&.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/coverage/better-buy/2026/11/14/asml-vs-nvidia-which-technology-stock-is-a-better-buy-for-2027/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/3-ai-chip-stocks-retail-220906408.html?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://247wallst.com/personal-finance/2026/11/14/he-thinks-his-200000-sp-500-401k-spreads-his-ai-risk-two-alphabet-share-classes-put-10380-in-one-company-a-20-drop-could-cost-him-2076/?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/amazon-amzn-first-binding-union-230857139.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/14/elon-musks-tesla-and-spacex-lost-more-than-420-billion-in-combined-market-value-in-two-days-after-democrats-swept-the-midterms-with-investors-fearing-new-congressional-probes-heres-why-that-political-risk-matters-for-shareholders/?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/14/nvidia-fell-while-amd-and-broadcom-jumped-here-s-what-history-says-happens-next-to-all-3-stocks/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.barchart.com/story/news/8837690/why-analysts-think-amd-could-emerge-as-the-biggest-winner-from-nvidias-turmoil?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/article/why-intel-ceo-lip-bu-tan-has-22-meetings-a-day--and-what-you-can-learn-from-it-210301452.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/peter-thiel-longtime-business-partner-213007111.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.tikr.com/blog/being-prudent-tsmc-stock-has-surged-41-in-a-year-is-it-too-late-to-buy?ref=yahoofinance&tlnk=yf-261114-6285hcp3&.tsrc=rss",
+      "sentiment": "neutral"
     }
   ]
 }
