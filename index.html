@@ -84,6 +84,7 @@ main.app-shell{
   grid-template-areas:
     "header header header"
     "sidebar market trend"
+    "sidebar radar trend"
     "sidebar stock trend"
     "sidebar feed trend"
     "footer footer footer";
@@ -289,6 +290,55 @@ header.app-header::after{display:none}
 .stock-related button{border:1px solid #354957;border-radius:99px;background:#192833;color:#b9d9f6;padding:5px 8px;font-size:.63rem}
 .stock-disclaimer{margin:10px 0 0;color:#718291;font-size:.6rem}
 
+
+/* Market Radar — explainable signals, never a price prediction */
+.radar-panel{
+  grid-area:radar;min-width:0;padding:16px;border:1px solid #34433c;border-radius:18px;
+  background:radial-gradient(ellipse at 100% 0%,rgba(200,241,105,.09),transparent 34%),linear-gradient(145deg,#121a1d,#10171b);
+  box-shadow:var(--shadow);
+}
+.radar-heading{display:flex;align-items:flex-start;justify-content:space-between;gap:12px;margin-bottom:12px}
+.radar-heading h2{margin:2px 0 3px;color:#f0f5ef;font-size:.96rem;font-weight:950;letter-spacing:-.03em}
+.radar-heading p{margin:0;color:#8c9d98;font-size:.64rem;line-height:1.55}
+.radar-kicker{color:var(--lime);font-size:.57rem;font-weight:950;letter-spacing:.15em}
+.radar-meta{flex:none;color:#8b9a91;font-size:.58rem;text-align:right}
+.radar-stats{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:7px;margin-bottom:11px}
+.radar-stat{padding:8px 10px;border:1px solid #2c3b36;border-radius:9px;background:#151f1e}
+.radar-stat span{display:block;color:#8b9a91;font-size:.57rem}
+.radar-stat strong{display:block;margin-top:2px;color:#e9f0e8;font-size:1.05rem;font-weight:950;font-variant-numeric:tabular-nums}
+.radar-filters{display:flex;flex-wrap:wrap;gap:5px;margin-bottom:10px}
+.radar-filters button{min-height:29px;padding:5px 9px;border:1px solid #33443b;border-radius:8px;background:#17211c;color:#a6b6a9;font-size:.61rem;font-weight:850}
+.radar-filters button.active{border-color:#a7d75c;background:rgba(200,241,105,.12);color:#ddf4b1}
+.radar-list{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:8px}
+.radar-card{min-width:0;padding:11px;border:1px solid #2d3d37;border-radius:11px;background:linear-gradient(145deg,#17221e,#131c1b)}
+.radar-card-head{display:flex;align-items:center;justify-content:space-between;gap:8px}
+.radar-symbol{border:0;background:none;color:#f0f6ed;padding:0;font-size:.82rem;font-weight:1000;letter-spacing:.02em}
+.radar-symbol:hover{color:var(--lime)}
+.radar-score{color:#d9e7d2;font-size:.61rem;font-weight:900;font-variant-numeric:tabular-nums}
+.radar-level{display:inline-flex;align-items:center;gap:4px;border-radius:6px;padding:3px 6px;font-size:.55rem;font-weight:950}
+.radar-level.high{border:1px solid rgba(255,113,135,.3);background:rgba(255,113,135,.09);color:#ff9cab}
+.radar-level.medium{border:1px solid rgba(239,197,120,.28);background:rgba(239,197,120,.08);color:#f0d39a}
+.radar-level.watch{border:1px solid rgba(200,241,105,.24);background:rgba(200,241,105,.07);color:#cce69b}
+.radar-score-track{height:4px;margin:7px 0 8px;overflow:hidden;border-radius:99px;background:#2a3932}
+.radar-score-fill{height:100%;border-radius:inherit;background:linear-gradient(90deg,#8fbf4e,#d2f27d)}
+.radar-events{display:flex;flex-wrap:wrap;gap:5px}
+.radar-chip{display:inline-flex;align-items:center;gap:4px;border:1px solid #34483c;border-radius:6px;background:#1a2920;color:#c8d9bf;padding:4px 6px;font-size:.56rem}
+.radar-chip.price{border-color:#40516b;background:#1a2735;color:#b6d2f1}
+.radar-chip.volume{border-color:#685338;background:#2a2418;color:#e9cb91}
+.radar-chip.news{border-color:#5b4a68;background:#261e2d;color:#d6b7e8}
+.radar-story{display:block;margin-top:8px;padding-top:7px;border-top:1px solid #2b3933;color:#b9c9be;font-size:.61rem;line-height:1.5;text-decoration:none}
+.radar-story:hover{color:#e2f4c4}
+.radar-story small{display:block;margin-top:3px;color:#87988b;font-size:.55rem}
+.radar-empty{grid-column:1/-1;padding:20px 12px;border:1px dashed #35463e;border-radius:10px;color:#8b9b91;text-align:center;font-size:.65rem}
+.radar-disclaimer{margin:10px 0 0;color:#77877d;font-size:.56rem;line-height:1.6}
+@media(max-width:760px){
+  .radar-panel{padding:12px}
+  .radar-list{grid-template-columns:minmax(0,1fr)}
+  .radar-heading{flex-direction:column}
+  .radar-meta{text-align:left}
+}
+@media(max-width:420px){.radar-stats{gap:5px}.radar-stat{padding:7px}.radar-stat strong{font-size:.93rem}}
+
 /* Data freshness, refresh action, and scalable editorial feed */
 .feed-title-stack{min-width:0}
 .feed-meta-line{display:flex;flex-wrap:wrap;align-items:center;gap:9px;margin-top:3px}
@@ -424,7 +474,7 @@ footer{grid-area:footer;margin-top:1px;padding:14px 2px 0;border-top:1px solid #
   #newsSort{grid-column:1/-1}
 }
 @media(max-width:1100px){
-  main.app-shell{grid-template-columns:minmax(205px,230px) minmax(0,1fr);grid-template-areas:"header header" "market market" "stock stock" "sidebar feed" "trend trend" "footer footer"}
+  main.app-shell{grid-template-columns:minmax(205px,230px) minmax(0,1fr);grid-template-areas:"header header" "market market" "radar radar" "stock stock" "sidebar feed" "trend trend" "footer footer"}
   .sidebar,.trending-panel{position:static;max-height:none}
   .trending-panel #trendingList{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:7px}
   .search-row{grid-template-columns:minmax(0,1fr) minmax(120px,145px)}
@@ -435,7 +485,7 @@ footer{grid-area:footer;margin-top:1px;padding:14px 2px 0;border-top:1px solid #
   body{padding-bottom:calc(96px + env(safe-area-inset-bottom,0px))}
   .mobile-dock{
     position:fixed;z-index:80;left:50%;bottom:calc(10px + env(safe-area-inset-bottom,0px));
-    display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:4px;
+    display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:4px;
     width:min(calc(100% - 22px),470px);padding:7px;
     transform:translateX(-50%);border:1px solid rgba(161,183,199,.2);
     border-radius:16px;background:rgba(13,18,23,.93);
@@ -456,7 +506,7 @@ footer{grid-area:footer;margin-top:1px;padding:14px 2px 0;border-top:1px solid #
   .mobile-dock a:active{background:rgba(200,241,105,.15)}
   .ticker-bar{padding:6px 12px;gap:8px}
   #tickerUpdated{display:none}
-  main.app-shell{grid-template-columns:minmax(0,1fr);grid-template-areas:"header" "market" "stock" "sidebar" "feed" "trend" "footer";width:calc(100% - 22px);padding:11px 0 28px;gap:10px}
+  main.app-shell{grid-template-columns:minmax(0,1fr);grid-template-areas:"header" "market" "radar" "stock" "sidebar" "feed" "trend" "footer";width:calc(100% - 22px);padding:11px 0 28px;gap:10px}
   header.app-header{grid-template-columns:minmax(0,1fr);grid-template-areas:"brand" "title" "intro" "status" "nav";row-gap:5px;padding:4px 0 11px}
   .update-note{justify-self:start}
   .market-nav{justify-content:flex-start;gap:4px;margin-top:3px}
@@ -522,6 +572,7 @@ footer{grid-area:footer;margin-top:1px;padding:14px 2px 0;border-top:1px solid #
     <span class="update-note">อัปเดตข้อมูลตามรอบของระบบ</span>
     <nav class="market-nav" aria-label="เมนูหลัก">
       <a href="#marketOverview">ภาพรวมตลาด</a>
+      <a href="#marketRadar">Market Radar</a>
       <a href="#stock-workspace">วิเคราะห์หุ้น</a>
       <a href="#newsDashboard">ข่าวล่าสุด</a>
       <a href="#watchlistTitle">Watchlist</a>
@@ -620,6 +671,32 @@ footer{grid-area:footer;margin-top:1px;padding:14px 2px 0;border-top:1px solid #
       <p id="marketSummaryText">กำลังโหลดสรุปตลาด...</p>
       <small id="marketSummaryMeta"></small>
     </section>
+  </section>
+
+  <section class="radar-panel" id="marketRadar" aria-labelledby="marketRadarTitle">
+    <div class="radar-heading">
+      <div>
+        <span class="radar-kicker">SIGNAL DETECTOR · EXPLAINABLE RULES</span>
+        <h2 id="marketRadarTitle">MARKET RADAR / เรดาร์จับสัญญาณตลาด</h2>
+        <p>คัดกรองหุ้นที่ราคา ปริมาณซื้อขาย หรือข่าวมีความเคลื่อนไหวเด่น พร้อมแสดงหลักฐานของแต่ละสัญญาณ</p>
+      </div>
+      <span class="radar-meta" id="radarMeta">กำลังตรวจสอบข้อมูล...</span>
+    </div>
+    <div class="radar-stats" aria-label="สถิติสัญญาณตลาด">
+      <div class="radar-stat"><span>สัญญาณทั้งหมด</span><strong id="radarSignalCount">—</strong></div>
+      <div class="radar-stat"><span>ระดับสูง</span><strong id="radarHighCount">—</strong></div>
+      <div class="radar-stat"><span>ราคา / Volume</span><strong id="radarMoverCount">—</strong></div>
+    </div>
+    <div class="radar-filters" id="radarFilters" aria-label="กรองประเภทสัญญาณ">
+      <button type="button" data-radar-filter="all" class="active" aria-pressed="true">ทั้งหมด</button>
+      <button type="button" data-radar-filter="price" aria-pressed="false">ราคา</button>
+      <button type="button" data-radar-filter="volume" aria-pressed="false">Volume</button>
+      <button type="button" data-radar-filter="news" aria-pressed="false">ข่าว AI</button>
+    </div>
+    <div class="radar-list" id="radarList" aria-live="polite">
+      <div class="radar-empty">กำลังประมวลผลสัญญาณตลาด...</div>
+    </div>
+    <p class="radar-disclaimer">เกณฑ์: ราคาเปลี่ยนแปลงอย่างน้อย 2.5% · Volume แท่ง 5 นาทีล่าสุดเทียบค่ากลาง 12 แท่งก่อนหน้าอย่างน้อย 2 เท่า · ข่าวผลกระทบสูง/กลางใน 48 ชั่วโมง คะแนนเป็นเพียงระดับความโดดเด่นของสัญญาณ ไม่ใช่โอกาสทำกำไรหรือคำแนะนำลงทุน</p>
   </section>
 
   <section class="stock-workspace" id="stock-workspace" aria-labelledby="stockDetailSymbol">
@@ -740,6 +817,10 @@ footer{grid-area:footer;margin-top:1px;padding:14px 2px 0;border-top:1px solid #
     <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 19V5M4 19h16"/><path d="m7 14 4-4 3 2 5-7"/></svg>
     <span>ตลาด</span>
   </a>
+  <a href="#marketRadar">
+    <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="8"/><path d="M12 4v8l5 3M4 12h3M17 12h3"/></svg>
+    <span>Radar</span>
+  </a>
   <a href="#stock-workspace">
     <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 19V5M4 19h16"/><path d="m7 15 3-4 3 2 4-6"/></svg>
     <span>หุ้น</span>
@@ -793,6 +874,7 @@ footer{grid-area:footer;margin-top:1px;padding:14px 2px 0;border-top:1px solid #
   </div>
 </dialog>
 
+<script src="scripts/market-radar.js"></script>
 <script>
 const SENT = { positive:"▲ เชิงบวก", negative:"▼ เชิงลบ", neutral:"● เป็นกลาง" };
 const STOCK_OPTIONS = ["NVDA", "AAPL", "MSFT", "GOOGL", "AMZN", "META", "TSLA", "AMD", "AVGO", "ORCL", "CRM", "NFLX", "INTC", "QCOM", "PLTR", "SMCI", "IBM", "ADBE", "TSM", "GCTK", "QUCY", "ONDS", "SNDK"];
@@ -827,6 +909,7 @@ let newsLoaded = false;
 let marketData = { stocks: {}, quotes: [], updated_at: null };
 let visibleNewsLimit = 24, lastNewsFilterSignature = "", refreshingDashboard = false, lastDashboardRefreshAt = 0;
 let stockAnalyses = {};
+let activeRadarFilter = "all";
 let selectedStock = "NVDA";
 let selectedTimeframe = "1D";
 let activeStockTab = "overview";
@@ -887,6 +970,17 @@ document.getElementById("sentimentFilter").addEventListener("change", e => { sen
 document.getElementById("viewMode").addEventListener("change", e => { viewMode = e.target.value; render(); });
 let newsSort = "recent";
 document.getElementById("newsSort").addEventListener("change", e => { newsSort = e.target.value; render(); });
+document.querySelectorAll("[data-radar-filter]").forEach(button => {
+  button.onclick = () => {
+    activeRadarFilter = button.dataset.radarFilter;
+    document.querySelectorAll("[data-radar-filter]").forEach(item => {
+      const active = item.dataset.radarFilter === activeRadarFilter;
+      item.classList.toggle("active", active);
+      item.setAttribute("aria-pressed", String(active));
+    });
+    renderMarketRadar();
+  };
+});
 
 document.querySelectorAll(".cat-btn").forEach(btn => {
   btn.onclick = (e) => {
@@ -1020,6 +1114,67 @@ async function refreshDashboardData(options = {}) {
   }
 }
 
+
+function renderMarketRadar() {
+  const container = document.getElementById("radarList");
+  if (!container || !window.MarketRadar) return;
+  const signals = window.MarketRadar.calculateRadarSignals(marketData, news, Date.now());
+  const filtered = activeRadarFilter === "all"
+    ? signals
+    : signals.filter(signal => signal.events.some(event => event.type === activeRadarFilter));
+  const highCount = signals.filter(signal => signal.severity === "high").length;
+  const moverCount = signals.filter(signal =>
+    signal.events.some(event => event.type === "price" || event.type === "volume")
+  ).length;
+  document.getElementById("radarSignalCount").textContent = String(signals.length);
+  document.getElementById("radarHighCount").textContent = String(highCount);
+  document.getElementById("radarMoverCount").textContent = String(moverCount);
+  const updatedAt = marketData.updated_at ? new Date(marketData.updated_at) : null;
+  const ageMinutes = updatedAt && !Number.isNaN(updatedAt.getTime())
+    ? Math.max(0, Math.round((Date.now() - updatedAt.getTime()) / 60000))
+    : null;
+  document.getElementById("radarMeta").textContent = ageMinutes === null
+    ? "ยังไม่มีเวลาอัปเดตราคา"
+    : ageMinutes > 120 ? "ราคาเก่ากว่า 2 ชั่วโมง · ปิดการแจ้งสัญญาณราคา"
+    : "ข้อมูลราคาประมาณ " + ageMinutes + " นาทีที่แล้ว";
+  if (!filtered.length) {
+    container.innerHTML = '<div class="radar-empty">' +
+      (signals.length ? "ไม่มีสัญญาณในหมวดที่เลือก" : "ยังไม่พบสัญญาณตามเกณฑ์ในรอบนี้") +
+      "</div>";
+    return;
+  }
+  const severityLabel = { high: "สูง", medium: "กลาง", watch: "ติดตาม" };
+  container.innerHTML = filtered.slice(0, 8).map(signal => {
+    const events = signal.events.map(event =>
+      '<span class="radar-chip ' + esc(event.type) + '">' +
+      esc(event.label) + " · " + esc(event.detail) + "</span>"
+    ).join("");
+    const story = signal.news
+      ? '<a class="radar-story" href="' + esc(safeHttpUrl(signal.news.link) || "#") +
+        '" target="_blank" rel="noopener noreferrer">' + esc(signal.news.title || "ข่าวที่เกี่ยวข้อง") +
+        '<small>' + esc(signal.news.impact_source === "gemini" ? "AI ประเมินผลกระทบ" : "การประเมินสำรอง") +
+        " · " + esc(formatNewsDate(signal.news.published || signal.news.fetched_at)) + "</small></a>"
+      : "";
+    return '<article class="radar-card">' +
+      '<div class="radar-card-head"><button type="button" class="radar-symbol" data-radar-select="' +
+      esc(signal.ticker) + '">' + esc(signal.ticker) + '</button>' +
+      '<span class="radar-level ' + esc(signal.severity) + '">' +
+      esc(severityLabel[signal.severity] || "ติดตาม") + "</span></div>" +
+      '<div class="radar-card-head"><span class="radar-score">Signal strength · ' +
+      signal.score + "/100</span><span class="radar-score">' + signal.events.length +
+      " สัญญาณ</span></div>" +
+      '<div class="radar-score-track"><div class="radar-score-fill" style="width:' +
+      signal.score + '%"></div></div>' +
+      '<div class="radar-events">' + events + "</div>" + story + "</article>";
+  }).join("");
+  container.querySelectorAll("[data-radar-select]").forEach(button => {
+    button.onclick = () => {
+      selectStock(button.dataset.radarSelect);
+      document.getElementById("stock-workspace").scrollIntoView({ behavior: "smooth", block: "start" });
+    };
+  });
+}
+
 async function loadNews() {
   try {
     const response = await fetch("data/news.json?t=" + Date.now());
@@ -1035,6 +1190,7 @@ async function loadNews() {
     renderPortfolioHoldings();
     render();
     renderStockWorkspace();
+    renderMarketRadar();
   } catch (error) {
     console.error("โหลดข่าวไม่สำเร็จ:", error);
     if (!newsLoaded) {
@@ -1056,6 +1212,7 @@ async function loadMarketData() {
       buildWatchlistPicker();
       renderWatchlist();
       renderStockWorkspace();
+      renderMarketRadar();
       updateDataFreshness();
       return;
     }
@@ -1088,6 +1245,7 @@ async function loadMarketData() {
     buildWatchlistPicker();
     renderWatchlist();
     renderStockWorkspace();
+    renderMarketRadar();
     updateDataFreshness();
     if (data.updated_at) {
       const updated = new Date(data.updated_at);
@@ -1951,7 +2109,7 @@ document.getElementById("newsDialog").addEventListener("click", event => {
   };
   links.forEach(link => link.addEventListener("click", () => setCurrent(link.hash.slice(1))));
   if ("IntersectionObserver" in window) {
-    const sectionIds = ["marketOverview", "stock-workspace", "newsDashboard"];
+    const sectionIds = ["marketOverview", "marketRadar", "stock-workspace", "newsDashboard"];
     const sections = sectionIds.map(id => document.getElementById(id)).filter(Boolean);
     const observer = new IntersectionObserver(entries => {
       const visible = entries.filter(entry => entry.isIntersecting);
