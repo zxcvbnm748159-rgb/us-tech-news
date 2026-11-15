@@ -1,7 +1,7 @@
 {
   "date": "2026-11-15",
   "window_days": 7,
-  "source_count": 1265,
+  "source_count": 1272,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 182,
+      "count": 187,
       "kind": "ticker"
     },
     {
@@ -27,7 +27,7 @@
       "search_terms": [
         "MSFT"
       ],
-      "count": 99,
+      "count": 100,
       "kind": "ticker"
     },
     {
@@ -45,7 +45,7 @@
       "search_terms": [
         "AMD"
       ],
-      "count": 84,
+      "count": 85,
       "kind": "ticker"
     },
     {
@@ -115,7 +115,7 @@
       "kind": "ticker"
     }
   ],
-  "updated_at": "2026-11-15T07:10:51.496299+00:00",
+  "updated_at": "2026-11-15T10:16:21.773976+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -17826,6 +17826,104 @@
       "sentiment": "positive",
       "sentiment_source": "headline_vader",
       "fetched_at": "2026-11-15T07:10:50.627642+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "What’s Next for Nvidia After Jensen Huang’s Resignation?",
+      "link": "https://www.fool.com/investing/2026/11/15/what-s-next-for-nvidia-after-jensen-huang-s-resignation/?.tsrc=rss",
+      "published": "Sun, 15 Nov 2026 09:30:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-15T10:16:18.126120+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "5 big analyst AI moves: Nvidia hit with downgrades after Huang’s exit",
+      "link": "https://finance.yahoo.com/technology/ai/articles/5-big-analyst-ai-moves-093002830.html?.tsrc=rss",
+      "published": "Sun, 15 Nov 2026 09:30:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-15T10:16:18.126166+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "3 Key Events in the Coming Week That Could Move AI Stocks and Crypto",
+      "link": "https://beincrypto.com/nvidia-anthropic-ipo-fed-minutes-ai-selloff/?.tsrc=rss",
+      "published": "Sun, 15 Nov 2026 09:12:29 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-15T10:16:18.126196+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Nvidia Stock Could Have Its First Losing Year Since 2022. Here's What It Did After Its Last 7.",
+      "link": "https://www.fool.com/investing/2026/11/15/nvidia-stock-could-have-its-first-losing-year-since-2022-here-s-what-it-did-after-its-last-7/?.tsrc=rss",
+      "published": "Sun, 15 Nov 2026 09:12:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-15T10:16:18.126250+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Forget Former Nvidia CEO Jensen Huang -- This Is the Real Question Investors Need to Ask About Nvidia Stock",
+      "link": "https://www.fool.com/investing/2026/11/15/forget-former-nvidia-ceo-jensen-huang-this-is-the-real-question-investors-need-to-ask-about-nvidia-stock/?.tsrc=rss",
+      "published": "Sun, 15 Nov 2026 07:30:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-15T10:16:18.126284+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Founderz AI Wins 2026 Microsoft Partner of the Year Award in Training Services Category",
+      "link": "https://finance.yahoo.com/technology/ai/articles/founderz-ai-wins-2026-microsoft-083600708.html?.tsrc=rss",
+      "published": "Sun, 15 Nov 2026 08:36:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-15T10:16:18.486157+00:00"
+    },
+    {
+      "ticker": "AMD",
+      "title": "AMD Soars 19% in a Week on Oppenheimer’s Upgrade and Nvidia’s Turmoil: “Demand Is Higher Than Supply”",
+      "link": "https://www.tikr.com/blog/amd-soars-19-in-a-week-on-oppenheimers-upgrade-and-nvidias-turmoil-demand-is-higher-than-supply?ref=yahoofinance&tlnk=yf-261115-c7c62rvw&.tsrc=rss",
+      "published": "Sun, 15 Nov 2026 02:31:34 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-15T10:16:19.281512+00:00"
     }
   ]
 }

@@ -1,14 +1,14 @@
 {
   "date": "2026-11-15",
-  "score": 100,
-  "label": "Bullish",
+  "score": 50,
+  "label": "Mixed",
   "counts": {
-    "positive": 2,
-    "negative": 0,
-    "neutral": 2
+    "positive": 3,
+    "negative": 3,
+    "neutral": 4
   },
-  "total": 4,
-  "updated_at": "2026-11-15T07:10:51.455415+00:00",
+  "total": 10,
+  "updated_at": "2026-11-15T10:16:21.744282+00:00",
   "articles": [
     {
       "link": "https://stocktwits.com/news-articles/markets/equity/nvidia-jensen-huang-worth-1-trillion-dan-ives-elon-musk-support/cNbEIBvR9QY?.tsrc=rss",
@@ -25,6 +25,30 @@
     {
       "link": "https://uk.finance.yahoo.com/news/tesla-china-could-cars-britain-070000350.html?.tsrc=rss",
       "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/15/what-s-next-for-nvidia-after-jensen-huang-s-resignation/?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/5-big-analyst-ai-moves-093002830.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://beincrypto.com/nvidia-anthropic-ipo-fed-minutes-ai-selloff/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/15/nvidia-stock-could-have-its-first-losing-year-since-2022-here-s-what-it-did-after-its-last-7/?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/15/forget-former-nvidia-ceo-jensen-huang-this-is-the-real-question-investors-need-to-ask-about-nvidia-stock/?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/founderz-ai-wins-2026-microsoft-083600708.html?.tsrc=rss",
+      "sentiment": "positive"
     }
   ]
 }
