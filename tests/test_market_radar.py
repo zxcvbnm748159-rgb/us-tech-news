@@ -33,7 +33,7 @@ process.stdout.write(JSON.stringify(radar.calculateRadarSignals(market, news, no
         return json.loads(result.stdout)
 
     def test_large_price_move_creates_transparent_price_signal(self):
-        now = 1_800_000_000_000
+        now = 1_800_007_200_000
         market = {
             "updated_at": "2027-01-15T10:00:00Z",
             "quotes": [{"symbol": "NVDA", "change_percent": -5.4}],
@@ -47,7 +47,7 @@ process.stdout.write(JSON.stringify(radar.calculateRadarSignals(market, news, no
         self.assertEqual(signals[0]["severity"], "medium")
 
     def test_high_volume_and_high_impact_news_combine_and_cap_score(self):
-        now = 1_800_000_000_000
+        now = 1_800_007_200_000
         bars = [{"time": i, "volume": 100} for i in range(13)]
         bars.append({"time": 14, "volume": 400})
         market = {
@@ -69,7 +69,7 @@ process.stdout.write(JSON.stringify(radar.calculateRadarSignals(market, news, no
         self.assertIn("Gemini", signals[0]["events"][-1]["detail"])
 
     def test_stale_market_data_suppresses_price_and_volume_but_keeps_news(self):
-        now = 1_800_000_000_000
+        now = 1_800_007_200_000
         market = {
             "updated_at": "2027-01-15T06:00:00Z",
             "quotes": [{"symbol": "AAPL", "change_percent": 8.0}],
@@ -87,7 +87,7 @@ process.stdout.write(JSON.stringify(radar.calculateRadarSignals(market, news, no
         self.assertEqual([event["type"] for event in signals[0]["events"]], ["news"])
 
     def test_old_or_undated_news_does_not_create_a_signal(self):
-        now = 1_800_000_000_000
+        now = 1_800_007_200_000
         market = {"updated_at": "2027-01-15T10:00:00Z", "quotes": [], "stocks": {}}
         news = [
             {"ticker": "MSFT", "impact_level": "high", "published": "2027-01-10T10:00:00Z"},
@@ -96,7 +96,7 @@ process.stdout.write(JSON.stringify(radar.calculateRadarSignals(market, news, no
         self.assertEqual(self.run_radar(market, news, now), [])
 
     def test_volume_baseline_uses_median_of_previous_twelve_bars(self):
-        now = 1_800_000_000_000
+        now = 1_800_007_200_000
         bars = [{"time": i, "volume": 100} for i in range(12)]
         bars += [{"time": 13, "volume": 10000}, {"time": 14, "volume": 250}]
         market = {
