@@ -1,7 +1,7 @@
 {
   "date": "2026-11-15",
   "window_days": 7,
-  "source_count": 1307,
+  "source_count": 1316,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 197,
+      "count": 201,
       "kind": "ticker"
     },
     {
@@ -18,7 +18,7 @@
       "search_terms": [
         "GOOGL"
       ],
-      "count": 126,
+      "count": 128,
       "kind": "ticker"
     },
     {
@@ -36,7 +36,7 @@
       "search_terms": [
         "TSLA"
       ],
-      "count": 95,
+      "count": 96,
       "kind": "ticker"
     },
     {
@@ -76,6 +76,15 @@
       "kind": "ticker"
     },
     {
+      "label": "AVGO",
+      "query": "AVGO",
+      "search_terms": [
+        "AVGO"
+      ],
+      "count": 58,
+      "kind": "ticker"
+    },
+    {
       "label": "Earnings",
       "query": "Earnings",
       "search_terms": [
@@ -86,15 +95,6 @@
       ],
       "count": 58,
       "kind": "topic"
-    },
-    {
-      "label": "AVGO",
-      "query": "AVGO",
-      "search_terms": [
-        "AVGO"
-      ],
-      "count": 57,
-      "kind": "ticker"
     },
     {
       "label": "ORCL",
@@ -115,7 +115,7 @@
       "kind": "ticker"
     }
   ],
-  "updated_at": "2026-11-15T18:22:31.995774+00:00",
+  "updated_at": "2026-11-15T19:57:50.565236+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -18414,6 +18414,132 @@
       "sentiment": "neutral",
       "sentiment_source": "headline_vader",
       "fetched_at": "2026-11-15T18:22:29.996789+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Jensen Huang Reportedly Wants Back In As Nvidia CEO. How Will Stock React?",
+      "link": "https://beincrypto.com/jensen-huang-nvidia-ceo-comeback-stock/?.tsrc=rss",
+      "published": "Sun, 15 Nov 2026 19:23:49 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-15T19:57:48.326220+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Nvidia Volatility Puts Nasdaq Stock And Trading Platforms In Focus",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-volatility-puts-nasdaq-stock-190836991.html?.tsrc=rss",
+      "published": "Sun, 15 Nov 2026 19:08:36 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-15T19:57:48.326268+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Vanguard Economists Say: Inflation Might Be Better Than It Looks. Here's Why That's Good News for Stocks.",
+      "link": "https://www.fool.com/investing/2026/11/15/vanguard-economists-say-inflation-might-be-better-than-it-looks-here-s-why-that-s-good-news-for-stocks/?.tsrc=rss",
+      "published": "Sun, 15 Nov 2026 18:35:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-15T19:57:48.326376+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "US Treasury chief wants answers soon from Nvidia",
+      "link": "https://finance.yahoo.com/technology/ai/articles/us-treasury-chief-wants-answers-183327447.html?.tsrc=rss",
+      "published": "Sun, 15 Nov 2026 18:33:27 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-15T19:57:48.326408+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Why Fervo Energy Stock Surged This Week",
+      "link": "https://www.fool.com/coverage/market-movers/2026/11/15/why-fervo-energy-stock-surged-this-week/?.tsrc=rss",
+      "published": "Sun, 15 Nov 2026 19:02:04 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-15T19:57:48.593634+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Nvidia’s Problem: OpenAI Is “90 Plus Percent Nvidia,” and It’s the Lab Burning Cash",
+      "link": "https://www.tikr.com/blog/nvidias-problem-openai-is-90-plus-percent-nvidia-and-its-the-lab-burning-cash?ref=yahoofinance&tlnk=yf-261115-6qwrm2q7&.tsrc=rss",
+      "published": "Sun, 15 Nov 2026 18:09:50 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-15T19:57:48.593701+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "A Tesla-SpaceX Merger Could Create the World’s Biggest Company, Fulfilling Musk’s Old Fascination",
+      "link": "https://www.barchart.com/story/news/8843976/a-tesla-spacex-merger-could-create-the-worlds-biggest-company-fulfilling-musks-old-fascination?.tsrc=rss",
+      "published": "Sun, 15 Nov 2026 13:42:06 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-15T19:57:48.855008+00:00"
+    },
+    {
+      "ticker": "AVGO",
+      "title": "Broadcom Heads 3 Top Growth Stocks To Watch",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/broadcom-heads-3-top-growth-180757072.html?.tsrc=rss",
+      "published": "Sun, 15 Nov 2026 18:07:57 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-15T19:57:49.071899+00:00"
+    },
+    {
+      "ticker": "SNDK",
+      "title": "Should You Buy Sandisk Before Its 8-for-1 Stock Split on Nov. 19?",
+      "link": "https://www.fool.com/investing/2026/11/15/should-you-buy-sandisk-before-its-8-for-1-stock-split-on-nov-19/?.tsrc=rss",
+      "published": "Sun, 15 Nov 2026 19:49:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-15T19:57:50.528272+00:00"
     }
   ]
 }

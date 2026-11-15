@@ -1,14 +1,14 @@
 {
   "date": "2026-11-15",
-  "score": 43,
+  "score": 52,
   "label": "Mixed",
   "counts": {
-    "positive": 9,
-    "negative": 12,
-    "neutral": 22
+    "positive": 14,
+    "negative": 13,
+    "neutral": 25
   },
-  "total": 43,
-  "updated_at": "2026-11-15T18:22:31.966913+00:00",
+  "total": 52,
+  "updated_at": "2026-11-15T19:57:50.528684+00:00",
   "articles": [
     {
       "link": "https://stocktwits.com/news-articles/markets/equity/nvidia-jensen-huang-worth-1-trillion-dan-ives-elon-musk-support/cNbEIBvR9QY?.tsrc=rss",
@@ -180,6 +180,42 @@
     },
     {
       "link": "https://www.thestreet.com/entertainment/peacock-espn-netflix-apple-tv-and-disney-streaming-service-test-loyalty-with-price-hikes?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://beincrypto.com/jensen-huang-nvidia-ceo-comeback-stock/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-volatility-puts-nasdaq-stock-190836991.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/15/vanguard-economists-say-inflation-might-be-better-than-it-looks-here-s-why-that-s-good-news-for-stocks/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/us-treasury-chief-wants-answers-183327447.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/coverage/market-movers/2026/11/15/why-fervo-energy-stock-surged-this-week/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.tikr.com/blog/nvidias-problem-openai-is-90-plus-percent-nvidia-and-its-the-lab-burning-cash?ref=yahoofinance&tlnk=yf-261115-6qwrm2q7&.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.barchart.com/story/news/8843976/a-tesla-spacex-merger-could-create-the-worlds-biggest-company-fulfilling-musks-old-fascination?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/broadcom-heads-3-top-growth-180757072.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/15/should-you-buy-sandisk-before-its-8-for-1-stock-split-on-nov-19/?.tsrc=rss",
       "sentiment": "neutral"
     }
   ]
