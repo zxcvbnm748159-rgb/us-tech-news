@@ -16,7 +16,7 @@
     const bars = history.filter(point =>
       point && Number.isFinite(point.time) &&
       Number.isFinite(point.volume) && point.volume > 0
-    );
+    ).sort((a, b) => a.time - b.time);
     if (bars.length < 6) return null;
     const latest = bars[bars.length - 1].volume;
     const baseline = median(bars.slice(-13, -1).map(point => point.volume));
@@ -27,8 +27,9 @@
     return items.filter(item => {
       if (!item || typeof item.ticker !== "string") return false;
       if (item.impact_level !== "high" && item.impact_level !== "medium") return false;
-      const rawDate = item.published || item.fetched_at;
-      const timestamp = rawDate ? Date.parse(rawDate) : NaN;
+      const publishedAt = item.published ? Date.parse(item.published) : NaN;
+      const fetchedAt = item.fetched_at ? Date.parse(item.fetched_at) : NaN;
+      const timestamp = Number.isFinite(publishedAt) ? publishedAt : fetchedAt;
       return Number.isFinite(timestamp) &&
         timestamp <= nowMs + 5 * 60 * 1000 &&
         nowMs - timestamp <= NEWS_WINDOW_MS;
