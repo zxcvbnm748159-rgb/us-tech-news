@@ -66,6 +66,17 @@ class FrontendContractTests(unittest.TestCase):
 
         self.assertEqual(result.returncode, 0, result.stderr)
 
+    def test_market_radar_module_is_loaded_and_passes_node_syntax_check(self):
+        self.assertIn('<script src="scripts/market-radar.js"></script>', self.html)
+        node = shutil.which("node")
+        if not node:
+            self.skipTest("Node.js is not installed in this environment")
+        result = subprocess.run(
+            [node, "--check", str(ROOT / "scripts" / "market-radar.js")],
+            capture_output=True, text=True, check=False,
+        )
+        self.assertEqual(result.returncode, 0, result.stderr)
+
     def test_navigation_targets_exist_and_ids_are_unique(self):
         ids = re.findall(r"""\bid=["']([^"']+)["']""", self.html)
         self.assertEqual(len(ids), len(set(ids)), "HTML contains duplicate id attributes")
