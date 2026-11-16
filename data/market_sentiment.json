@@ -1,14 +1,14 @@
 {
   "date": "2026-11-16",
-  "score": 59,
+  "score": 56,
   "label": "Mixed",
   "counts": {
-    "positive": 35,
-    "negative": 24,
-    "neutral": 67
+    "positive": 38,
+    "negative": 30,
+    "neutral": 68
   },
-  "total": 126,
-  "updated_at": "2026-11-16T20:59:08.234966+00:00",
+  "total": 136,
+  "updated_at": "2026-11-16T21:30:44.794265+00:00",
   "articles": [
     {
       "link": "https://finance.yahoo.com/economy/article/trump-is-headed-to-china-this-week-jensen-huang-wont-be-on-the-trip-but-elon-musk-will-100000732.html?.tsrc=rss",
@@ -512,6 +512,46 @@
     },
     {
       "link": "https://finance.yahoo.com/markets/stocks/articles/sandisk-sndk-stock-fair-value-160922935.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/article/nvidia-to-report-q3-earnings-amid-huang-scandal-211859827.html?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/f2e212f6-7cad-3029-80bb-f9b3ab7d4841/nvidia-probe-focus-shifts-to.html?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.americanbanker.com/payments/news/how-the-nvidia-scandal-threatens-financial-services-ai-boom?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-earnings-scenarios-guidance-cut-210303183.html?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/3550bffb-77d4-3b23-b91e-3aaa0b12b846/the-tech-resale-market-is.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/8966c28b-5797-3a88-8c32-01d28a7b29a1/a-third-outage-strikes%2C-this.html?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/16/anthropic-launches-claude-sheets-is-microsoft-s-stock-in-trouble/?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/options/articles/direxion-anthony-pomplianos-silvia-join-210300213.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/ibm-fermilab-nvidia-announce-plans-160000961.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.barchart.com/story/news/8856377/ibms-software-segment-remains-value-creator-as-arr-swells?.tsrc=rss",
       "sentiment": "positive"
     }
   ]
