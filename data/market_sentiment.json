@@ -1,14 +1,14 @@
 {
   "date": "2026-11-15",
-  "score": 50,
+  "score": 52,
   "label": "Mixed",
   "counts": {
-    "positive": 15,
+    "positive": 16,
     "negative": 15,
-    "neutral": 29
+    "neutral": 30
   },
-  "total": 59,
-  "updated_at": "2026-11-15T23:44:57.030098+00:00",
+  "total": 61,
+  "updated_at": "2026-11-16T00:37:30.928341+00:00",
   "articles": [
     {
       "link": "https://stocktwits.com/news-articles/markets/equity/nvidia-jensen-huang-worth-1-trillion-dan-ives-elon-musk-support/cNbEIBvR9QY?.tsrc=rss",
@@ -245,6 +245,14 @@
     {
       "link": "https://finance.yahoo.com/markets/stocks/articles/tsmc-doubters-got-wrong-200527158.html?.tsrc=rss",
       "sentiment": "negative"
+    },
+    {
+      "link": "https://www.fool.com/coverage/better-buy/2026/11/15/rigetti-computing-vs-soundhound-ai-which-technology-stock-is-a-better-buy-for-2027/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/15/is-meta-stock-still-a-buy-after-borrowing-about-usd25-billion-this-month/?.tsrc=rss",
+      "sentiment": "neutral"
     }
   ]
 }

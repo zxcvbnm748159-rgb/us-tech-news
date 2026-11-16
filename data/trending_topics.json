@@ -1,7 +1,7 @@
 {
   "date": "2026-11-15",
   "window_days": 7,
-  "source_count": 1323,
+  "source_count": 1325,
   "topics": [
     {
       "label": "NVDA",
@@ -63,7 +63,7 @@
       "search_terms": [
         "AMZN"
       ],
-      "count": 74,
+      "count": 75,
       "kind": "ticker"
     },
     {
@@ -72,7 +72,7 @@
       "search_terms": [
         "META"
       ],
-      "count": 64,
+      "count": 65,
       "kind": "ticker"
     },
     {
@@ -115,7 +115,7 @@
       "kind": "ticker"
     }
   ],
-  "updated_at": "2026-11-15T23:44:57.069484+00:00",
+  "updated_at": "2026-11-16T00:37:30.969885+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -18638,6 +18638,34 @@
       "sentiment": "negative",
       "sentiment_source": "headline_vader",
       "fetched_at": "2026-11-15T23:44:56.462887+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Rigetti Computing vs. SoundHound AI: Which Technology Stock Is a Better Buy for 2027?",
+      "link": "https://www.fool.com/coverage/better-buy/2026/11/15/rigetti-computing-vs-soundhound-ai-which-technology-stock-is-a-better-buy-for-2027/?.tsrc=rss",
+      "published": "Sun, 15 Nov 2026 19:25:05 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-16T00:37:28.371377+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "Is Meta Stock Still a Buy After Borrowing About $25 Billion This Month?",
+      "link": "https://www.fool.com/investing/2026/11/15/is-meta-stock-still-a-buy-after-borrowing-about-usd25-billion-this-month/?.tsrc=rss",
+      "published": "Mon, 16 Nov 2026 00:07:01 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-16T00:37:28.510868+00:00"
     }
   ]
 }
