@@ -1,7 +1,7 @@
 {
   "date": "2026-11-16",
   "window_days": 7,
-  "source_count": 1214,
+  "source_count": 1223,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 192,
+      "count": 196,
       "kind": "ticker"
     },
     {
@@ -18,7 +18,7 @@
       "search_terms": [
         "GOOGL"
       ],
-      "count": 118,
+      "count": 119,
       "kind": "ticker"
     },
     {
@@ -27,7 +27,7 @@
       "search_terms": [
         "MSFT"
       ],
-      "count": 100,
+      "count": 101,
       "kind": "ticker"
     },
     {
@@ -36,7 +36,7 @@
       "search_terms": [
         "TSLA"
       ],
-      "count": 89,
+      "count": 90,
       "kind": "ticker"
     },
     {
@@ -45,7 +45,7 @@
       "search_terms": [
         "AMD"
       ],
-      "count": 79,
+      "count": 80,
       "kind": "ticker"
     },
     {
@@ -63,7 +63,7 @@
       "search_terms": [
         "AMZN"
       ],
-      "count": 70,
+      "count": 71,
       "kind": "ticker"
     },
     {
@@ -115,7 +115,7 @@
       "kind": "ticker"
     }
   ],
-  "updated_at": "2026-11-16T10:30:40.563192+00:00",
+  "updated_at": "2026-11-16T11:05:03.947841+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -17112,6 +17112,132 @@
       "sentiment": "positive",
       "sentiment_source": "headline_vader",
       "fetched_at": "2026-11-16T10:30:40.524001+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Nvidia Just Fell 32% From Its Record. Here’s Warren Buffett’s Rule for a 67-Year-Old With $1.6 Million in Nvidia Stock and $2,900 a Month in Social Security",
+      "link": "https://247wallst.com/investing/2026/11/16/nvidia-just-fell-32-from-its-record-heres-warren-buffetts-rule-for-a-67-year-old-with-1-6-million-in-nvidia-stock-and-2900-a-month-in-social-security/?.tsrc=rss",
+      "published": "Mon, 16 Nov 2026 10:47:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-16T11:05:00.187932+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Market Chatter: Nvidia Exposed to Potential Lawsuits After Jensen Huang's Resignation",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-nvidia-exposed-potential-103507717.html?.tsrc=rss",
+      "published": "Mon, 16 Nov 2026 10:35:07 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-16T11:05:00.188006+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "The Fed Flags AI Debt “Up Five-Fold” as One Lender Weighs Quitting Nvidia’s $500 Billion Club",
+      "link": "https://www.tikr.com/blog/the-fed-flags-ai-debt-up-five-fold-as-one-lender-weighs-quitting-nvidias-500-billion-club?ref=yahoofinance&tlnk=yf-261116-c4w8vr39&.tsrc=rss",
+      "published": "Mon, 16 Nov 2026 10:25:03 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-16T11:05:00.188050+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "\"No sane person questions whether AI works\" — but an AI bubble appears ready to pop.",
+      "link": "https://www.axios.com/2026/11/16/nvidia-jensen-huang-ai-bubble#utm_source=yahoo_finance&utm_medium=partner&utm_campaign=subs-partner-yahoo-finance-AI?.tsrc=rss",
+      "published": "Mon, 16 Nov 2026 10:15:08 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-16T11:05:00.188091+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "What caused the global Microsoft outage? Why Outlook went down – and how the issue had been hiding for months",
+      "link": "https://www.independent.co.uk/tech/microsoft-outage-why-what-caused-global-outlook-down-b3085576.html?.tsrc=rss",
+      "published": "Mon, 16 Nov 2026 10:33:44 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-16T11:05:00.513549+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Warren Buffett's Successor, Greg Abel, Just Dropped a $426 Million Bombshell on Wall Street",
+      "link": "https://www.fool.com/investing/2026/11/16/warren-buffett-successor-greg-abel-just-dropped-a-426-million-bombshell-on-wall-street/?.tsrc=rss",
+      "published": "Mon, 16 Nov 2026 10:26:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-16T11:05:00.677602+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Africa Tech Festival 2026 announces additional high-profile speakers as global business leaders head to Cape Town",
+      "link": "https://finance.yahoo.com/technology/articles/africa-tech-festival-2026-announces-103200513.html?.tsrc=rss",
+      "published": "Mon, 16 Nov 2026 10:32:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-16T11:05:00.856068+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Will All Your Electricity Come From the Sun? Elon Musk Calls It “Obvious”",
+      "link": "https://beincrypto.com/elon-musk-solar-energy-power-everything/?.tsrc=rss",
+      "published": "Mon, 16 Nov 2026 10:00:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-16T11:05:01.170472+00:00"
+    },
+    {
+      "ticker": "AMD",
+      "title": "Advanced Micro Devices vs. Broadcom: One Stock Has a $27 Billion Advantage Investors Shouldn't Ignore",
+      "link": "https://www.fool.com/coverage/better-buy/2026/11/16/advanced-micro-devices-vs-broadcom-one-stock-has-a-usd27-billion-advantage-investors-shouldn-t-ignore/?.tsrc=rss",
+      "published": "Mon, 16 Nov 2026 10:35:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-16T11:05:01.334044+00:00"
     }
   ]
 }

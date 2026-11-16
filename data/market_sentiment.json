@@ -1,14 +1,14 @@
 {
   "date": "2026-11-16",
-  "score": 71,
+  "score": 68,
   "label": "Bullish",
   "counts": {
-    "positive": 12,
-    "negative": 5,
-    "neutral": 11
+    "positive": 17,
+    "negative": 8,
+    "neutral": 12
   },
-  "total": 28,
-  "updated_at": "2026-11-16T10:30:40.524518+00:00",
+  "total": 37,
+  "updated_at": "2026-11-16T11:05:03.928100+00:00",
   "articles": [
     {
       "link": "https://finance.yahoo.com/economy/article/trump-is-headed-to-china-this-week-jensen-huang-wont-be-on-the-trip-but-elon-musk-will-100000732.html?.tsrc=rss",
@@ -120,6 +120,42 @@
     },
     {
       "link": "https://www.fool.com/investing/2026/11/16/sandisk-splits-its-stock-8-for-1-on-nov-19-flash-memory-prices-still-matter-more-than-the-share-count/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/11/16/nvidia-just-fell-32-from-its-record-heres-warren-buffetts-rule-for-a-67-year-old-with-1-6-million-in-nvidia-stock-and-2900-a-month-in-social-security/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-nvidia-exposed-potential-103507717.html?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.tikr.com/blog/the-fed-flags-ai-debt-up-five-fold-as-one-lender-weighs-quitting-nvidias-500-billion-club?ref=yahoofinance&tlnk=yf-261116-c4w8vr39&.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.axios.com/2026/11/16/nvidia-jensen-huang-ai-bubble#utm_source=yahoo_finance&utm_medium=partner&utm_campaign=subs-partner-yahoo-finance-AI?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.independent.co.uk/tech/microsoft-outage-why-what-caused-global-outlook-down-b3085576.html?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/16/warren-buffett-successor-greg-abel-just-dropped-a-426-million-bombshell-on-wall-street/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/articles/africa-tech-festival-2026-announces-103200513.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://beincrypto.com/elon-musk-solar-energy-power-everything/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/coverage/better-buy/2026/11/16/advanced-micro-devices-vs-broadcom-one-stock-has-a-usd27-billion-advantage-investors-shouldn-t-ignore/?.tsrc=rss",
       "sentiment": "positive"
     }
   ]
