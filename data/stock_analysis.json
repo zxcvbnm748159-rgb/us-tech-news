@@ -1,253 +1,255 @@
 [
   {
     "ticker": "NVDA",
-    "last_updated": "2026-11-16T20:59:12.197429+00:00",
-    "summary": "NVDA มีข่าวที่เกี่ยวข้อง 53 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: Tom Lee Blames Nvidia and Anthropic IPO for Ethereum Plunge as Bitmine Buys the Dip ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
+    "last_updated": "2026-11-16T21:09:20.756448+00:00",
+    "summary": "Tom Lee Blames Nvidia and Anthropic IPO for Ethereum Plunge as Bitmine Buys the Dip, TSMC Slumps Nearly 6% as Jensen Huang’s Exit and AI Debt Fears Rattle Investors Ahead of Nvidia Earnings, Trump Heads To The Philippines And China. This Is What He Wants.",
     "analysis_points": [
-      "พาดหัวล่าสุด: Tom Lee Blames Nvidia and Anthropic IPO for Ethereum Plunge as Bitmine Buys the Dip",
-      "การเปลี่ยนแปลงจากราคาปิดก่อนหน้า -2.01%",
-      "ควรอ่านเนื้อหาต้นฉบับและตรวจสอบตัวเลขก่อนสรุปผลกระทบ"
+      "มีความกังวลของนักลงทุนต่อประเด็นการออกจากตำแหน่งของ Jensen Huang และความกังวลเรื่องหนี้ในภาคส่วน AI",
+      "ความเชื่อมโยงของบริษัทกับเหตุการณ์การเสนอขายหุ้น IPO ของ Anthropic และผลกระทบต่อตลาดวงกว้าง",
+      "ประเด็นที่ต้องติดตามคือผลประกอบการที่กำลังจะประกาศและความชัดเจนเกี่ยวกับการบริหารงานในอนาคต"
     ],
-    "analysis_source": "rules"
+    "analysis_source": "gemini"
   },
   {
     "ticker": "AAPL",
-    "last_updated": "2026-11-16T20:59:12.197429+00:00",
-    "summary": "AAPL มีข่าวที่เกี่ยวข้อง 13 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: Elon Musk Warns Against Pushing Founders Out — Steve Jobs and Travis Kalanick Lessons Resurface as Jensen Huang Exits Nvidia ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
+    "last_updated": "2026-11-16T21:09:20.756448+00:00",
+    "summary": "Elon Musk Warns Against Pushing Founders Out — Steve Jobs and Travis Kalanick Lessons Resurface as Jensen Huang Exits Nvidia, Apple adds facial recognition unlock to iPhone Duo, Eli Lilly is trouncing Nvidia — and the weight-loss drug trade is beating AI again",
     "analysis_points": [
-      "พาดหัวล่าสุด: Elon Musk Warns Against Pushing Founders Out — Steve Jobs and Travis Kalanick Lessons Resurface as Jensen Huang Exits Nvidia",
-      "การเปลี่ยนแปลงจากราคาปิดก่อนหน้า +0.39%",
-      "ควรอ่านเนื้อหาต้นฉบับและตรวจสอบตัวเลขก่อนสรุปผลกระทบ"
+      "มีการเพิ่มฟีเจอร์การจดจำใบหน้าเพื่อปลดล็อกใน iPhone Duo เพื่อเสริมความสามารถด้านผลิตภัณฑ์",
+      "การเปรียบเทียบความสนใจของตลาดระหว่างหุ้นกลุ่มเทคโนโลยี AI และกลุ่มธุรกิจยารักษาโรค",
+      "ประเด็นที่ต้องติดตามคือการแข่งขันในตลาดสมาร์ทโฟนและการปรับตัวของกลุ่มเทคโนโลยีท่ามกลางกระแสความสนใจที่เปลี่ยนไป"
     ],
-    "analysis_source": "rules"
+    "analysis_source": "gemini"
   },
   {
     "ticker": "MSFT",
-    "last_updated": "2026-11-16T20:59:12.197429+00:00",
-    "summary": "MSFT มีข่าวที่เกี่ยวข้อง 15 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: FAA, Microsoft outages show the perils of system upgrades ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
+    "last_updated": "2026-11-16T21:09:20.756448+00:00",
+    "summary": "FAA, Microsoft outages show the perils of system upgrades, Customers of at least 4 major US banks report outages days after Microsoft issues, OpenAI Hit With Lawsuit by California AG Over Alleged Inadequate Safeguards, Monitoring of AI Models",
     "analysis_points": [
-      "พาดหัวล่าสุด: FAA, Microsoft outages show the perils of system upgrades",
-      "การเปลี่ยนแปลงจากราคาปิดก่อนหน้า +0.17%",
-      "ควรอ่านเนื้อหาต้นฉบับและตรวจสอบตัวเลขก่อนสรุปผลกระทบ"
+      "ความท้าทายด้านเสถียรภาพของระบบไอเดนติฟายด์จากปัญหาการอัปเกรดระบบที่กระทบต่อลูกค้าสถาบันการเงินและหน่วยงานอื่น",
+      "ความเสี่ยงด้านกฎระเบียบและข้อกฎหมายของพันธมิตรอย่าง OpenAI จากกรณีการฟ้องร้องเกี่ยวกับการควบคุมความปลอดภัยของโมเดล AI",
+      "ประเด็นที่ต้องติดตามคือมาตรการแก้ไขปัญหาความเสถียรของระบบคลาวด์และการรับมือกับข้อพิพาททางกฎหมายของ OpenAI"
     ],
-    "analysis_source": "rules"
+    "analysis_source": "gemini"
   },
   {
     "ticker": "GOOGL",
-    "last_updated": "2026-11-16T20:59:12.197429+00:00",
-    "summary": "GOOGL มีข่าวที่เกี่ยวข้อง 20 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: Stock Market Today: Dow Dives As Nvidia Makes Huang Decision; These AI Plays Plunge (Live Coverage) ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
+    "last_updated": "2026-11-16T21:09:20.756448+00:00",
+    "summary": "Stock Market Today: Dow Dives As Nvidia Makes Huang Decision; These AI Plays Plunge (Live Coverage), ServiceNow vs. Palantir Technologies: Comparing Steady Sales Scale Against Rapid Revenue Acceleration, Alphabet Stocks Decline 3.1% as $10 Billion Anthropic Buy Lifts Stake Before IPO",
     "analysis_points": [
-      "พาดหัวล่าสุด: Stock Market Today: Dow Dives As Nvidia Makes Huang Decision; These AI Plays Plunge (Live Coverage)",
-      "การเปลี่ยนแปลงจากราคาปิดก่อนหน้า -0.98%",
-      "ควรอ่านเนื้อหาต้นฉบับและตรวจสอบตัวเลขก่อนสรุปผลกระทบ"
+      "การลงทุนและการเพิ่มสัดส่วนการถือหุ้นใน Anthropic มูลค่า 10,000 ล้านดอลลาร์ก่อนการเสนอขายหุ้น IPO",
+      "แรงกดดันจากภาพรวมตลาดและความกังวลต่อกลุ่มธุรกิจ AI",
+      "ประเด็นที่ต้องติดตามคือความคืบหน้าของการลงทุนใน Anthropic และผลประโยชน์เชิงกลยุทธ์ที่จะได้รับ"
     ],
-    "analysis_source": "rules"
+    "analysis_source": "gemini"
   },
   {
     "ticker": "AMZN",
-    "last_updated": "2026-11-16T20:59:12.197429+00:00",
-    "summary": "AMZN มีข่าวที่เกี่ยวข้อง 13 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: AI Changed the Agency Game. Avenue7Media® Rebrands as Ave7® and Introduces ave7LIFT® to Lead What's Next. ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
+    "last_updated": "2026-11-16T21:09:20.756448+00:00",
+    "summary": "AI Changed the Agency Game. Avenue7Media® Rebrands as Ave7® and Introduces ave7LIFT® to Lead What's Next., Amazon Stocks Fall 2.56% as AWS Sells Data Control in $5 Billion Deal, Soros’s Fund Sold a Quarter of Its Berkshire Shares. Today Berkshire Reveals Its Own Trades",
     "analysis_points": [
-      "พาดหัวล่าสุด: AI Changed the Agency Game. Avenue7Media® Rebrands as Ave7® and Introduces ave7LIFT® to Lead What's Next.",
-      "การเปลี่ยนแปลงจากราคาปิดก่อนหน้า -0.29%",
-      "ควรอ่านเนื้อหาต้นฉบับและตรวจสอบตัวเลขก่อนสรุปผลกระทบ"
+      "การปรับโครงสร้างธุรกิจของ AWS ด้วยการขายการควบคุมศูนย์ข้อมูลในมูลค่า 5,000 ล้านดอลลาร์",
+      "การปรับตัวของระบบนิเวศและพันธมิตรที่ใช้เทคโนโลยี AI เพื่อขับเคลื่อนบริการการตลาด",
+      "ประเด็นที่ต้องติดตามคือกลยุทธ์การบริหารจัดการโครงสร้างพื้นฐานคลาวด์ของ AWS หลังการทำธุรกรรมดังกล่าว"
     ],
-    "analysis_source": "rules"
+    "analysis_source": "gemini"
   },
   {
     "ticker": "META",
-    "last_updated": "2026-11-16T20:59:12.197429+00:00",
-    "summary": "META มีข่าวที่เกี่ยวข้อง 10 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: Meta’s Prepayment Is Buying Oklo’s Nuclear Fuel for Up to Five Reactors ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
+    "last_updated": "2026-11-16T21:09:20.756448+00:00",
+    "summary": "Meta’s Prepayment Is Buying Oklo’s Nuclear Fuel for Up to Five Reactors, Trump Media Sinks 12% Ahead of Convertible-Note Deadline and TAE Merger Vote; Rumble Tumbles 11%, Meta Declines 2%, Mapbox Powers Hands-free Cycling Navigation on Meta Ray-Bans",
     "analysis_points": [
-      "พาดหัวล่าสุด: Meta’s Prepayment Is Buying Oklo’s Nuclear Fuel for Up to Five Reactors",
-      "การเปลี่ยนแปลงจากราคาปิดก่อนหน้า +2.90%",
-      "ควรอ่านเนื้อหาต้นฉบับและตรวจสอบตัวเลขก่อนสรุปผลกระทบ"
+      "กลยุทธ์การลงทุนล่วงหน้าในพลังงานนิวเคลียร์จาก Oklo เพื่อรองรับความต้องการพลังงานของศูนย์ข้อมูล",
+      "การพัฒนาผลิตภัณฑ์ฮาร์ดแวร์แว่นตาอัจฉริยะร่วมกับพันธมิตรเพื่อเพิ่มฟังก์ชันการใช้งาน",
+      "ประเด็นที่ต้องติดตามคือความคืบหน้าในการจัดหาพลังงานสะอาดสำหรับรองรับการเติบโตของโครงสร้างพื้นฐาน AI"
     ],
-    "analysis_source": "rules"
+    "analysis_source": "gemini"
   },
   {
     "ticker": "TSLA",
-    "last_updated": "2026-11-16T20:59:12.197429+00:00",
-    "summary": "TSLA มีข่าวที่เกี่ยวข้อง 16 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: Sector Update: Consumer Stocks Mixed Late Afternoon ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
+    "last_updated": "2026-11-16T21:09:20.756448+00:00",
+    "summary": "Sector Update: Consumer Stocks Mixed Late Afternoon, Tesla's Cybercab Comes With a Monthly Catch, Tesla Sells Cybercabs To The Public. It Might Be Because Of A Bet With A YouTuber.",
     "analysis_points": [
-      "พาดหัวล่าสุด: Sector Update: Consumer Stocks Mixed Late Afternoon",
-      "การเปลี่ยนแปลงจากราคาปิดก่อนหน้า -1.82%",
-      "ควรอ่านเนื้อหาต้นฉบับและตรวจสอบตัวเลขก่อนสรุปผลกระทบ"
+      "กลยุทธ์การทำตลาดรถยนต์ไร้คนขับ Cybercab และเงื่อนไขการจำหน่ายให้กับสาธารณชน",
+      "ความสนใจของตลาดต่อรูปแบบการให้บริการและโมเดลธุรกิจใหม่ของยานยนต์อัตโนมัติ",
+      "ประเด็นที่ต้องติดตามคือการตอบรับของผู้บริโภคต่อเงื่อนไขการใช้งานและกฎระเบียบที่เกี่ยวข้องกับยานยนต์ไร้คนขับ"
     ],
-    "analysis_source": "rules"
+    "analysis_source": "gemini"
   },
   {
     "ticker": "AMD",
-    "last_updated": "2026-11-16T20:59:12.197429+00:00",
-    "summary": "AMD มีข่าวที่เกี่ยวข้อง 15 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: NVDL 2X NVIDIA ETF Sinks 9% as NVIDIA Falls 4% on Jensen Huang Fallout Ahead of Earnings; AMD Drops 5% ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
+    "last_updated": "2026-11-16T21:09:20.756448+00:00",
+    "summary": "NVDL 2X NVIDIA ETF Sinks 9% as NVIDIA Falls 4% on Jensen Huang Fallout Ahead of Earnings; AMD Drops 5%, AMD-Powered Lux Supercomputer Opens to Scientific Users at Oak Ridge, Becoming First AI Factory for DOE’s Genesis Mission, HPE-Built \"Lux\" AI Cluster Debuts at No. 14 on the TOP500",
     "analysis_points": [
-      "พาดหัวล่าสุด: NVDL 2X NVIDIA ETF Sinks 9% as NVIDIA Falls 4% on Jensen Huang Fallout Ahead of Earnings; AMD Drops 5%",
-      "การเปลี่ยนแปลงจากราคาปิดก่อนหน้า -8.75%",
-      "ควรอ่านเนื้อหาต้นฉบับและตรวจสอบตัวเลขก่อนสรุปผลกระทบ"
+      "ความสำเร็จในการเปิดใช้งานซูเปอร์คอมพิวเตอร์ Lux ที่ขับเคลื่อนด้วยเทคโนโลยี AMD สำหรับงานวิจัยทางวิทยาศาสตร์",
+      "โอกาสในการขยายส่วนแบ่งตลาดในกลุ่มโครงสร้างพื้นฐาน AI และระบบประมวลผลประสิทธิภาพสูง",
+      "ประเด็นที่ต้องติดตามคือการนำฮาร์ดแวร์ไปใช้งานจริงในระดับองค์กรและหน่วยงานรัฐ"
     ],
-    "analysis_source": "rules"
+    "analysis_source": "gemini"
   },
   {
     "ticker": "AVGO",
-    "last_updated": "2026-11-16T20:59:12.197429+00:00",
-    "summary": "AVGO มีข่าวที่เกี่ยวข้อง 10 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: ACC Granted Leave to Intervene Before EU General Court in Broadcom Legal Privilege Case ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
+    "last_updated": "2026-11-16T21:09:20.756448+00:00",
+    "summary": "ACC Granted Leave to Intervene Before EU General Court in Broadcom Legal Privilege Case, Broadcom Stocks Slide 4.76% as Downgrade Keeps AI Financing Fears in Focus, AMD Will Capture More Market Share Than Broadcom to End November as Nvidia’s Leadership Vacuum Persists",
     "analysis_points": [
-      "พาดหัวล่าสุด: ACC Granted Leave to Intervene Before EU General Court in Broadcom Legal Privilege Case",
-      "การเปลี่ยนแปลงจากราคาปิดก่อนหน้า -4.76%",
-      "ควรอ่านเนื้อหาต้นฉบับและตรวจสอบตัวเลขก่อนสรุปผลกระทบ"
+      "ความกังวลของตลาดเกี่ยวกับการจัดหาเงินทุนในอุตสาหกรรม AI และการถูกปรับลดมุมมองการลงทุน",
+      "ความท้าทายด้านการแข่งขันในตลาดชิป AI จากคู่แข่ง",
+      "ประเด็นที่ต้องติดตามคือข้อพิพาททางกฎหมายในศาลสหภาพยุโรปและการรักษาความสามารถในการแข่งขัน"
     ],
-    "analysis_source": "rules"
+    "analysis_source": "gemini"
   },
   {
     "ticker": "ORCL",
-    "last_updated": "2026-11-16T20:59:12.197429+00:00",
-    "summary": "ORCL มีข่าวที่เกี่ยวข้อง 6 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: CoreWeave, Oracle and Nebius Plunge as Nvidia Fallout Rattles AI Stocks ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
+    "last_updated": "2026-11-16T21:09:20.756448+00:00",
+    "summary": "CoreWeave, Oracle and Nebius Plunge as Nvidia Fallout Rattles AI Stocks, Is Oracle (ORCL) Undervalued Following Its Expanded Federal Health Data Exchange Deal?, E-Clinical Trial Technologies - Global Strategic Business Report 2026: Capitalize on 16.6% CAGR to US$32.8 Billion by 2032 as Oracle, Medidata, BioClinica and PAREXEL Disrupt Digital Trials",
     "analysis_points": [
-      "พาดหัวล่าสุด: CoreWeave, Oracle and Nebius Plunge as Nvidia Fallout Rattles AI Stocks",
-      "การเปลี่ยนแปลงจากราคาปิดก่อนหน้า -1.38%",
-      "ควรอ่านเนื้อหาต้นฉบับและตรวจสอบตัวเลขก่อนสรุปผลกระทบ"
+      "การขยายขอบเขตข้อตกลงการแลกเปลี่ยนข้อมูลสุขภาพระดับรัฐบาลกลางเพื่อเพิ่มโอกาสทางธุรกิจ",
+      "การเติบโตในตลาดเทคโนโลยีการทดลองทางคลินิกดิจิทัลที่มีแนวโน้มขยายตัวในระยะยาว",
+      "ประเด็นที่ต้องติดตามคือผลกระทบจากความผันผวนของกลุ่มหุ้น AI โดยรวมต่อความเชื่อมั่นของนักลงทุน"
     ],
-    "analysis_source": "rules"
+    "analysis_source": "gemini"
   },
   {
     "ticker": "CRM",
-    "last_updated": "2026-11-16T20:59:12.197429+00:00",
-    "summary": "CRM มีข่าวที่เกี่ยวข้อง 5 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: Model N Appoints Koti Reddy Nandyala as Chief Technology Officer to Accelerate Platform Innovation ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
+    "last_updated": "2026-11-16T21:09:20.756448+00:00",
+    "summary": "Model N Appoints Koti Reddy Nandyala as Chief Technology Officer to Accelerate Platform Innovation, Salesforce Spent $32 Billion on Buybacks in 5 Years. Somehow, Its Share Count Still Rose, Trifecta Technologies Expands Product Data Capabilities with Salsify and Salesforce B2B Commerce Integration",
     "analysis_points": [
-      "พาดหัวล่าสุด: Model N Appoints Koti Reddy Nandyala as Chief Technology Officer to Accelerate Platform Innovation",
-      "การเปลี่ยนแปลงจากราคาปิดก่อนหน้า +0.12%",
-      "ควรอ่านเนื้อหาต้นฉบับและตรวจสอบตัวเลขก่อนสรุปผลกระทบ"
+      "การแต่งตั้งผู้บริหารฝ่ายเทคโนโลยีระดับสูงเพื่อเร่งนวัตกรรมแพลตฟอร์มของบริษัทในเครือ",
+      "การบูรณาการความสามารถด้านข้อมูลผลิตภัณฑ์ร่วมกับพันธมิตรเพื่อเสริมแกร่งแพลตฟอร์ม B2B Commerce",
+      "ประเด็นที่ต้องติดตามคือประสิทธิภาพในการดำเนินงานและการบริหารจัดการโครงสร้างทุนของบริษัท"
     ],
-    "analysis_source": "rules"
+    "analysis_source": "gemini"
   },
   {
     "ticker": "NFLX",
-    "last_updated": "2026-11-16T20:59:12.197429+00:00",
-    "summary": "NFLX มีข่าวที่เกี่ยวข้อง 6 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: Netflix Stock Now Trades at a 70% Discount to Its Peak Valuation, and One Number Is to Blame ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
+    "last_updated": "2026-11-16T21:09:20.756448+00:00",
+    "summary": "Netflix Stock Now Trades at a 70% Discount to Its Peak Valuation, and One Number Is to Blame, Netflix Lowers 2026 Ad Revenue Forecast: Time to Hold the Stock?",
     "analysis_points": [
-      "พาดหัวล่าสุด: Netflix Stock Now Trades at a 70% Discount to Its Peak Valuation, and One Number Is to Blame",
-      "การเปลี่ยนแปลงจากราคาปิดก่อนหน้า -0.86%",
-      "ควรอ่านเนื้อหาต้นฉบับและตรวจสอบตัวเลขก่อนสรุปผลกระทบ"
+      "การปรับลดคาดการณ์รายได้จากธุรกิจโฆษณาสำหรับปี 2026",
+      "ความท้าทายในการสร้างการเติบโตของรายได้จากโมเดลธุรกิจใหม่",
+      "ประเด็นที่ต้องติดตามคือความสำเร็จในการขยายฐานรายได้จากโฆษณาและความคุ้มค่าในการประเมินมูลค่า"
     ],
-    "analysis_source": "rules"
+    "analysis_source": "gemini"
   },
   {
     "ticker": "INTC",
-    "last_updated": "2026-11-16T20:59:12.197429+00:00",
-    "summary": "INTC มีข่าวที่เกี่ยวข้อง 8 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: INTW 2X Intel ETF Tumbles 13% as Intel Drops Amid Shareholder Lawsuit and AI Chip Selloff; Taiwan Semiconductor Falls 5% ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
+    "last_updated": "2026-11-16T21:09:20.756448+00:00",
+    "summary": "INTW 2X Intel ETF Tumbles 13% as Intel Drops Amid Shareholder Lawsuit and AI Chip Selloff; Taiwan Semiconductor Falls 5%, Intel “Trades at 34x PE for Just 11%” Growth, Says Dan Niles. Now Shareholders Are Suing, Why Intel's turnaround will take years",
     "analysis_points": [
-      "พาดหัวล่าสุด: INTW 2X Intel ETF Tumbles 13% as Intel Drops Amid Shareholder Lawsuit and AI Chip Selloff; Taiwan Semiconductor Falls 5%",
-      "การเปลี่ยนแปลงจากราคาปิดก่อนหน้า -2.52%",
-      "ควรอ่านเนื้อหาต้นฉบับและตรวจสอบตัวเลขก่อนสรุปผลกระทบ"
+      "ความท้าทายจากการถูกฟ้องร้องโดยผู้ถือหุ้นท่ามกลางกระแสการขายหุ้นกลุ่มชิป AI",
+      "ความกังวลเกี่ยวกับอัตราการเติบโตที่ไม่สอดคล้องกับระดับมูลค่าหุ้นในมุมมองของนักวิเคราะห์",
+      "ประเด็นที่ต้องติดตามคือแผนการฟื้นฟูกิจจยการและผลลัพธ์จากการปรับโครงสร้างธุรกิจซึ่งต้องใช้ระยะเวลานาน"
     ],
-    "analysis_source": "rules"
+    "analysis_source": "gemini"
   },
   {
     "ticker": "QCOM",
-    "last_updated": "2026-11-16T20:59:12.197429+00:00",
-    "summary": "QCOM มีข่าวที่เกี่ยวข้อง 4 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: Signals of Opportunity (SoOp) Market 2026: Global Forecast to 2030 | Capitalize on 17.2% CAGR and GPS-Denied Navigation with Qualcomm, BAE Systems, Safran and L3Harris ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
+    "last_updated": "2026-11-16T21:09:20.756448+00:00",
+    "summary": "Signals of Opportunity (SoOp) Market 2026: Global Forecast to 2030 | Capitalize on 17.2% CAGR and GPS-Denied Navigation with Qualcomm, BAE Systems, Safran and L3Harris, China Automotive Intelligent Cockpit SoC Market Research Report, 2026-2030 | AI and Cockpit-Driving Integration Unlock Growth in the RMB100,000-200,000 Segment, If Phone Sales Keep Shrinking, What Happens To Your Qualcomm Stock?",
     "analysis_points": [
-      "พาดหัวล่าสุด: Signals of Opportunity (SoOp) Market 2026: Global Forecast to 2030 | Capitalize on 17.2% CAGR and GPS-Denied Navigation with Qualcomm, BAE Systems, Safran and L3Harris",
-      "การเปลี่ยนแปลงจากราคาปิดก่อนหน้า -2.64%",
-      "ควรอ่านเนื้อหาต้นฉบับและตรวจสอบตัวเลขก่อนสรุปผลกระทบ"
+      "โอกาสการเติบโตจากตลาดชิปประมวลผลห้องโดยสารอัจฉริยะในยานยนต์และการผสานรวมระบบ AI",
+      "ความเสี่ยงจากแนวโน้มยอดขายสมาร์ทโฟนที่อาจชะลอตัวซึ่งส่งผลกระทบต่อธุรกิจหลัก",
+      "ประเด็นที่ต้องติดตามคือการขยายตลาดไปสู่เทคโนโลยีการนำทางทางเลือกและอุตสาหกรรมยานยนต์"
     ],
-    "analysis_source": "rules"
+    "analysis_source": "gemini"
   },
   {
     "ticker": "PLTR",
-    "last_updated": "2026-11-16T20:59:12.197429+00:00",
-    "summary": "PLTR มีข่าวที่เกี่ยวข้อง 5 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: Cathie Wood Just Sold $11.8 Million of Palantir Stock ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
+    "last_updated": "2026-11-16T21:09:20.756448+00:00",
+    "summary": "Cathie Wood Just Sold $11.8 Million of Palantir Stock, Why Does Palantir Stock Keep Going Down?, Cathie Wood Adds Nvidia Stock Before Earnings While Selling Palantir",
     "analysis_points": [
-      "พาดหัวล่าสุด: Cathie Wood Just Sold $11.8 Million of Palantir Stock",
-      "การเปลี่ยนแปลงจากราคาปิดก่อนหน้า -2.09%",
-      "ควรอ่านเนื้อหาต้นฉบับและตรวจสอบตัวเลขก่อนสรุปผลกระทบ"
+      "การปรับลดสัดส่วนการถือหุ้นของกองทุนเด่นอย่าง Ark Invest",
+      "แรงกดดันด้านราคาจากมุมมองของตลาดต่อการเติบโตและมูลค่าหุ้น",
+      "ประเด็นที่ต้องติดตามคือความสามารถในการรักษาอัตราการเติบโตของรายได้ท่ามกลางความผันผวนของความเชื่อมั่นนักลงทุน"
     ],
-    "analysis_source": "rules"
+    "analysis_source": "gemini"
   },
   {
     "ticker": "SMCI",
-    "last_updated": "2026-11-16T20:59:12.197429+00:00",
-    "summary": "SMCI มีข่าวที่เกี่ยวข้อง 3 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: Super Micro Falls 5% as Reported DOJ Smuggling Probe Weighs for a Third Session; Dell and Hewlett Packard Enterprise Drop 4% ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
+    "last_updated": "2026-11-16T21:09:20.756448+00:00",
+    "summary": "Super Micro Falls 5% as Reported DOJ Smuggling Probe Weighs for a Third Session; Dell and Hewlett Packard Enterprise Drop 4%, Super Micro Computer Stock Faces a New Problem Despite Explosive AI Sales, Super Micro Is Priced Like It “Goes Bankrupt Next Quarter” Despite $16B of Equity",
     "analysis_points": [
-      "พาดหัวล่าสุด: Super Micro Falls 5% as Reported DOJ Smuggling Probe Weighs for a Third Session; Dell and Hewlett Packard Enterprise Drop 4%",
-      "การเปลี่ยนแปลงจากราคาปิดก่อนหน้า -0.46%",
-      "ควรอ่านเนื้อหาต้นฉบับและตรวจสอบตัวเลขก่อนสรุปผลกระทบ"
+      "ความเสี่ยงด้านกฎหมายและคดีความจากการสอบสวนของกระทรวงยุติธรรม (DOJ)",
+      "ความขัดแย้งระหว่างยอดขายในตลาด AI ที่ยังคงเติบโตอย่างแข็งแกร่งกับความกังวลด้านธรรมาภิบาลและความเชื่อมั่น",
+      "ประเด็นที่ต้องติดตามคือความชัดเจนทางกฎหมายและการพิสูจน์เสถียรภาพทางการเงินของบริษัท"
     ],
-    "analysis_source": "rules"
+    "analysis_source": "gemini"
   },
   {
     "ticker": "IBM",
-    "last_updated": "2026-11-16T20:59:12.197429+00:00",
-    "summary": "IBM มีข่าวที่เกี่ยวข้อง 5 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: IBM, Fermilab, and NVIDIA Announce Plans for New Co-Design Platform to Accelerate the Development of Next-Generation, Modular Quantum Computers ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
+    "last_updated": "2026-11-16T21:09:20.756448+00:00",
+    "summary": "IBM, Fermilab, and NVIDIA Announce Plans for New Co-Design Platform to Accelerate the Development of Next-Generation, Modular Quantum Computers, NVIDIA Announces Collaboration With IBM and Fermi National Accelerator Laboratory to Launch Quantum-Classical Codesign Platform, Plus Error-Correction Breakthrough to Advance Practical Quantum Computing, IBM vs. Jabil: Which Stock is Better Positioned for AI Growth Now?",
     "analysis_points": [
-      "พาดหัวล่าสุด: IBM, Fermilab, and NVIDIA Announce Plans for New Co-Design Platform to Accelerate the Development of Next-Generation, Modular Quantum Computers",
-      "การเปลี่ยนแปลงจากราคาปิดก่อนหน้า +1.01%",
-      "ควรอ่านเนื้อหาต้นฉบับและตรวจสอบตัวเลขก่อนสรุปผลกระทบ"
+      "ความร่วมมือกับ NVIDIA และ Fermilab ในการพัฒนาแพลตฟอร์มคอมพิวเตอร์ควอนตัมแบบモดูลาร์",
+      "ความก้าวหน้าทางเทคโนโลยีการแก้ไขข้อผิดพลาดเพื่อเร่งการใช้งานคอมพิวเตอร์ควอนตัมในเชิงปฏิบัติ",
+      "ประเด็นที่ต้องติดตามคือความคืบหน้าในการพัฒนาเทคโนโลยีควอนตัมและการนำไปใช้จริงในภาคอุตสาหกรรม"
     ],
-    "analysis_source": "rules"
+    "analysis_source": "gemini"
   },
   {
     "ticker": "ADBE",
-    "last_updated": "2026-11-16T20:59:12.197429+00:00",
-    "summary": "ADBE มีข่าวที่เกี่ยวข้อง 3 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: BTIG sends blunt message on Adobe stock after MAX event ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
+    "last_updated": "2026-11-16T21:09:20.756448+00:00",
+    "summary": "BTIG sends blunt message on Adobe stock after MAX event, Holiday Shipping Tests Where AI Should Hand Off to Human Support, Adobe’s Sam Garfield: AI has Sped Up Creative, But Organizations Haven’t Kept Pace",
     "analysis_points": [
-      "พาดหัวล่าสุด: BTIG sends blunt message on Adobe stock after MAX event",
-      "การเปลี่ยนแปลงจากราคาปิดก่อนหน้า +1.90%",
-      "ควรอ่านเนื้อหาต้นฉบับและตรวจสอบตัวเลขก่อนสรุปผลกระทบ"
+      "ความท้าทายในการปรับตัวขององค์กรธุรกิจให้ทันกับความเร็วของเครื่องมือสร้างสรรค์ที่ขับเคลื่อนด้วย AI",
+      "การประเมินมุมมองของนักวิเคราะห์หลังงานอีเวนต์ประจำปี MAX",
+      "ประเด็นที่ต้องติดตามคืออัตราการยอมรับและการสร้างรายได้จากฟีเจอร์ AI ในกลุ่มลูกค้าองค์กร"
     ],
-    "analysis_source": "rules"
+    "analysis_source": "gemini"
   },
   {
     "ticker": "TSM",
-    "last_updated": "2026-11-16T20:59:12.197429+00:00",
-    "summary": "TSM มีข่าวที่เกี่ยวข้อง 7 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: TSMC Stocks Slide 5.7% Despite October Sales Jumping 59.7% to a 2026 High ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
+    "last_updated": "2026-11-16T21:09:20.756448+00:00",
+    "summary": "TSMC Stocks Slide 5.7% Despite October Sales Jumping 59.7% to a 2026 High, TSM's $2 Billion Packaging Deal Could Ease a Critical AI Bottleneck, Is TSM Still a Buy as AI Growth Faces Heavy Spending and Valuation?",
     "analysis_points": [
-      "พาดหัวล่าสุด: TSMC Stocks Slide 5.7% Despite October Sales Jumping 59.7% to a 2026 High",
-      "การเปลี่ยนแปลงจากราคาปิดก่อนหน้า -1.67%",
-      "ควรอ่านเนื้อหาต้นฉบับและตรวจสอบตัวเลขก่อนสรุปผลกระทบ"
+      "ยอดขายเดือนตุลาคมที่เติบโตสูงมากท่ามกลางความกังวลเรื่องการใช้จ่ายและมูลค่าในอุตสาหกรรม AI",
+      "การลงทุนดีลบรรจุภัณฑ์ชิปมูลค่า 2,000 ล้านดอลลาร์เพื่อช่วยบรรเทาปัญหาคอขวดในการผลิตชิป AI",
+      "ประเด็นที่ต้องติดตามคือความสามารถในการรักษาอัตรากำไรและความต้องการคำสั่งซื้อชิประดับสูงอย่างต่อเนื่อง"
     ],
-    "analysis_source": "rules"
+    "analysis_source": "gemini"
   },
   {
     "ticker": "GCTK",
-    "last_updated": "2026-11-16T20:59:12.197429+00:00",
-    "summary": "GCTK: ยังไม่พบข่าวที่เกี่ยวข้องในช่วง 48 ชั่วโมงล่าสุด · การเปลี่ยนแปลงจากราคาปิดก่อนหน้า -9.58%",
+    "last_updated": "2026-11-16T21:09:20.756448+00:00",
+    "summary": "ยังไม่มีหลักฐานข่าวเพียงพอ",
     "analysis_points": [
-      "การเปลี่ยนแปลงจากราคาปิดก่อนหน้า -9.58%",
-      "ยังไม่มีหลักฐานข่าวเพียงพอสำหรับอธิบายการเคลื่อนไหว"
+      "ยังไม่มีรายงานข่าวหรือเหตุการณ์สำคัญที่เกี่ยวข้องกับบริษัทในรอบวัน",
+      "นักลงทุนควรติดตามประกาศอย่างเป็นทางการจากบริษัทต่อไป",
+      "ไม่มีข้อมูลเชิงวิเคราะห์เพิ่มเติมเนื่องจากขาดข้อมูลข่าวรองรับ"
     ],
-    "analysis_source": "rules"
+    "analysis_source": "gemini"
   },
   {
     "ticker": "QUCY",
-    "last_updated": "2026-11-16T20:59:12.197429+00:00",
-    "summary": "QUCY: ยังไม่พบข่าวที่เกี่ยวข้องในช่วง 48 ชั่วโมงล่าสุด · การเปลี่ยนแปลงจากราคาปิดก่อนหน้า +12.15%",
+    "last_updated": "2026-11-16T21:09:20.756448+00:00",
+    "summary": "ยังไม่มีหลักฐานข่าวเพียงพอ",
     "analysis_points": [
-      "การเปลี่ยนแปลงจากราคาปิดก่อนหน้า +12.15%",
-      "ยังไม่มีหลักฐานข่าวเพียงพอสำหรับอธิบายการเคลื่อนไหว"
+      "ยังไม่มีรายงานข่าวหรือเหตุการณ์สำคัญที่เกี่ยวข้องกับบริษัทในรอบวัน",
+      "นักลงทุนควรติดตามประกาศอย่างเป็นทางการจากบริษัทต่อไป",
+      "ไม่มีข้อมูลเชิงวิเคราะห์เพิ่มเติมเนื่องจากขาดข้อมูลข่าวรองรับ"
     ],
-    "analysis_source": "rules"
+    "analysis_source": "gemini"
   },
   {
     "ticker": "ONDS",
-    "last_updated": "2026-11-16T20:59:12.197429+00:00",
-    "summary": "ONDS มีข่าวที่เกี่ยวข้อง 1 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: Ondas Falls 8% Despite $1.1 Billion 2027 Revenue Target as Drone Stocks Extend Losses; Red Cat Drops 5%, Unusual Machines Slides 4% ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
+    "last_updated": "2026-11-16T21:09:20.756448+00:00",
+    "summary": "Ondas Falls 8% Despite $1.1 Billion 2027 Revenue Target as Drone Stocks Extend Losses; Red Cat Drops 5%, Unusual Machines Slides 4%",
     "analysis_points": [
-      "พาดหัวล่าสุด: Ondas Falls 8% Despite $1.1 Billion 2027 Revenue Target as Drone Stocks Extend Losses; Red Cat Drops 5%, Unusual Machines Slides 4%",
-      "การเปลี่ยนแปลงจากราคาปิดก่อนหน้า -3.01%",
-      "ควรอ่านเนื้อหาต้นฉบับและตรวจสอบตัวเลขก่อนสรุปผลกระทบ"
+      "การตั้งเป้าหมายรายได้ในอนาคตท่ามกลางแรงกดดันเชิงลบในกลุ่มหุ้นโดรนและเทคโนโลยีอากาศยานไร้คนขับ",
+      "ความท้าทายในการสร้างความเชื่อมั่นให้กับนักลงทุนในกลุ่มอุตสาหกรรมเฉพาะกลุ่ม",
+      "ประเด็นที่ต้องติดตามคือความคืบหน้าในการบรรลุเป้าหมายรายได้ตามแผนงานที่วางไว้"
     ],
-    "analysis_source": "rules"
+    "analysis_source": "gemini"
   },
   {
     "ticker": "SNDK",
-    "last_updated": "2026-11-16T20:59:12.197429+00:00",
-    "summary": "SNDK มีข่าวที่เกี่ยวข้อง 7 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: Sandisk’s Stock Split Is Coming on Nov. 19. Should You Buy Before It Happens? ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
+    "last_updated": "2026-11-16T21:09:20.756448+00:00",
+    "summary": "Sandisk’s Stock Split Is Coming on Nov. 19. Should You Buy Before It Happens?, Sandisk Is Splitting Its Stock 8-for-1. Here’s the Number I’d Check Before Buying., Why Sandisk Stock Keeps Going Down",
     "analysis_points": [
-      "พาดหัวล่าสุด: Sandisk’s Stock Split Is Coming on Nov. 19. Should You Buy Before It Happens?",
-      "การเปลี่ยนแปลงจากราคาปิดก่อนหน้า -5.59%",
-      "ควรอ่านเนื้อหาต้นฉบับและตรวจสอบตัวเลขก่อนสรุปผลกระทบ"
+      "การเตรียมตัวสำหรับการแตกพาร์หุ้นในอัตราส่วน 8 ต่อ 1",
+      "แรงกดดันด้านราคาหุ้นที่มีความผันผวนก่อนวันที่มีผลแตกหุ้น",
+      "ประเด็นที่ต้องติดตามคือตัวชี้วัดพื้นฐานทางการเงินและสภาพคล่องหลังจากการแตกพาร์เสร็จสิ้น"
     ],
-    "analysis_source": "rules"
+    "analysis_source": "gemini"
   }
 ]
