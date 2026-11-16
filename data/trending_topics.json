@@ -1,7 +1,7 @@
 {
   "date": "2026-11-15",
   "window_days": 7,
-  "source_count": 1325,
+  "source_count": 1336,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 206,
+      "count": 211,
       "kind": "ticker"
     },
     {
@@ -18,7 +18,7 @@
       "search_terms": [
         "GOOGL"
       ],
-      "count": 128,
+      "count": 130,
       "kind": "ticker"
     },
     {
@@ -27,7 +27,7 @@
       "search_terms": [
         "MSFT"
       ],
-      "count": 102,
+      "count": 103,
       "kind": "ticker"
     },
     {
@@ -36,7 +36,7 @@
       "search_terms": [
         "TSLA"
       ],
-      "count": 96,
+      "count": 97,
       "kind": "ticker"
     },
     {
@@ -45,7 +45,7 @@
       "search_terms": [
         "AMD"
       ],
-      "count": 89,
+      "count": 90,
       "kind": "ticker"
     },
     {
@@ -54,7 +54,7 @@
       "search_terms": [
         "AAPL"
       ],
-      "count": 76,
+      "count": 77,
       "kind": "ticker"
     },
     {
@@ -115,7 +115,7 @@
       "kind": "ticker"
     }
   ],
-  "updated_at": "2026-11-16T00:37:30.969885+00:00",
+  "updated_at": "2026-11-16T03:10:46.944058+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -18666,6 +18666,160 @@
       "sentiment": "neutral",
       "sentiment_source": "headline_vader",
       "fetched_at": "2026-11-16T00:37:28.510868+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Nvidia stock steady as Jensen Huang reportedly weighs CEO comeback, Musk backs return",
+      "link": "https://finance.yahoo.com/markets/article/nvidia-stock-steady-as-jensen-huang-reportedly-weighs-ceo-comeback-musk-backs-return-015644730.html?.tsrc=rss",
+      "published": "Mon, 16 Nov 2026 01:56:44 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-16T03:10:43.236499+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Stocks extend losses as traders digest Nvidia fallout",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-extend-losses-traders-digest-030006305.html?.tsrc=rss",
+      "published": "Mon, 16 Nov 2026 03:00:06 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-16T03:10:43.236544+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Dow Jones Futures Waver As Jensen Huang Mulls Nvidia Return",
+      "link": "https://finance.yahoo.com/m/53e50dc8-f137-3f6c-bfd6-912334fef9f1/dow-jones-futures-waver-as.html?.tsrc=rss",
+      "published": "Mon, 16 Nov 2026 02:49:49 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-16T03:10:43.236566+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Nvidia Stock Is Down About a Third From Its October Peak. Here's My Estimate for 2030.",
+      "link": "https://www.fool.com/investing/2026/11/15/nvidia-stock-is-down-about-a-third-from-its-october-peak-here-s-my-estimate-for-2030/?.tsrc=rss",
+      "published": "Mon, 16 Nov 2026 02:43:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-16T03:10:43.236590+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Jensen Huang Reportedly Considers Returning To Nvidia: FT",
+      "link": "https://finance.yahoo.com/m/694d3941-721c-31d4-aff5-d306f1116454/jensen-huang-reportedly.html?.tsrc=rss",
+      "published": "Mon, 16 Nov 2026 02:35:46 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-16T03:10:43.236606+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Why Did AAPL, ZETA, FROG Stocks Jump To 52-Week Highs Last Week?c",
+      "link": "https://stocktwits.com/news-articles/markets/equity/why-did-aapl-zeta-frog-stocks-jump-to-52-week-highs-last-week-c/cNb77TzR9X5?.tsrc=rss",
+      "published": "Mon, 16 Nov 2026 02:41:09 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-16T03:10:43.392179+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Americans fear the worst after Pentagon doomsday prepping, ‘Black October’ cyberattacks, stock crash, spy scandal, Microsoft outage, and airport chaos",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/americans-fear-worst-pentagon-doomsday-232109128.html?.tsrc=rss",
+      "published": "Sun, 15 Nov 2026 23:21:09 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-16T03:10:43.600658+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Morgan Stanley’s Q3 filing reveals $5.6 billion SpaceX stock surprise",
+      "link": "https://www.thestreet.com/investing/stocks/morgan-stanley-spacex-13f?.tsrc=rss",
+      "published": "Mon, 16 Nov 2026 02:03:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-16T03:10:43.789353+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Anthropic's record IPO faces some big questions",
+      "link": "https://finance.yahoo.com/technology/ai/articles/anthropics-record-ipo-faces-big-012430589.html?.tsrc=rss",
+      "published": "Mon, 16 Nov 2026 01:24:30 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-16T03:10:43.789377+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Consumer Defensive Stocks Extend Winning Streak To 6 Weeks As SPY, QQQ Rebound: TTD, CHTR, TSLA Lead Gains",
+      "link": "https://stocktwits.com/news-articles/markets/equity/consumer-defensive-stocks-extend-winning-streak-to-6-weeks-as-spy-qqq-rebound-ttd-chtr-tsla-lead-gains/cNb7EqoR9QC?.tsrc=rss",
+      "published": "Mon, 16 Nov 2026 01:13:20 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-16T03:10:44.258816+00:00"
+    },
+    {
+      "ticker": "AMD",
+      "title": "Advanced Micro Devices (AMD) Deepens Quantum Push With New Research And Commercial Ties",
+      "link": "https://finance.yahoo.com/technology/ai/articles/advanced-micro-devices-amd-deepens-001906359.html?.tsrc=rss",
+      "published": "Mon, 16 Nov 2026 00:19:06 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-16T03:10:44.491542+00:00"
     }
   ]
 }
