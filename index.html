@@ -550,6 +550,44 @@ footer{grid-area:footer;margin-top:1px;padding:14px 2px 0;border-top:1px solid #
   *,*::before,*::after{scroll-behavior:auto!important;animation-duration:.01ms!important;animation-iteration-count:1!important;transition-duration:.01ms!important}
 }
 
+
+/* Readability and optional distraction-free workspace */
+.market-nav .focus-mode-toggle{
+  display:inline-flex;align-items:center;justify-content:center;min-height:32px;
+  padding:6px 10px;border:1px solid #46583b;border-radius:8px;
+  background:rgba(200,241,105,.09);color:#d7edae;font-size:.7rem;font-weight:900;
+}
+.market-nav .focus-mode-toggle:hover,
+.market-nav .focus-mode-toggle[aria-pressed="true"]{
+  border-color:#b7e66b;background:rgba(200,241,105,.18);color:#eaffc6;
+}
+body.focus-mode main.app-shell{
+  grid-template-columns:minmax(0,1fr);
+  grid-template-areas:"header" "market" "radar" "stock" "feed" "footer";
+  width:min(calc(100% - 48px),1480px);
+}
+body.focus-mode .sidebar,
+body.focus-mode .trending-panel{display:none}
+body.focus-mode .hero-grid{grid-template-columns:minmax(0,1.05fr) minmax(280px,.95fr)}
+body.focus-mode .radar-list{grid-template-columns:repeat(3,minmax(0,1fr))}
+body.focus-mode .feed-panel{max-width:none}
+.market-nav .focus-mode-toggle:focus-visible{outline:2px solid var(--lime);outline-offset:3px}
+@media(max-width:760px){
+  .market-nav .focus-mode-toggle{min-height:30px;padding:5px 8px;font-size:.65rem}
+  body.focus-mode main.app-shell{width:calc(100% - 22px)}
+  body.focus-mode .hero-grid{grid-template-columns:minmax(0,1fr)}
+  body.focus-mode .radar-list{grid-template-columns:minmax(0,1fr)}
+}
+/* Slightly larger secondary text improves scanability at laptop widths. */
+.ticker-quote{font-size:.73rem}
+.ticker-change{font-size:.69rem}
+.market-nav a{font-size:.7rem}
+.rail-title h2,.sidebar h2{font-size:.82rem}
+.filters button,.group-filters button,.theme-filters button,.cat-btn,.watchlist-categories button{font-size:.66rem}
+.radar-heading p,.radar-disclaimer{font-size:.68rem;line-height:1.65}
+.radar-card{padding:12px}
+.radar-story{font-size:.66rem;line-height:1.6}
+
 </style>
 </head>
 <body>
@@ -576,6 +614,7 @@ footer{grid-area:footer;margin-top:1px;padding:14px 2px 0;border-top:1px solid #
       <a href="#stock-workspace">วิเคราะห์หุ้น</a>
       <a href="#newsDashboard">ข่าวล่าสุด</a>
       <a href="#watchlistTitle">Watchlist</a>
+      <button class="focus-mode-toggle" id="focusModeToggle" type="button" aria-pressed="false" aria-label="เปิดโหมดโฟกัส">โหมดโฟกัส</button>
     </nav>
   </header>
 
@@ -2097,6 +2136,28 @@ document.getElementById("newsDialog").addEventListener("click", event => {
   if (event.target === event.currentTarget) event.currentTarget.close();
 });
 
+
+
+/* Optional focus workspace: hides side rails without changing saved market data. */
+(function initFocusMode(){
+  const button = document.getElementById("focusModeToggle");
+  if (!button) return;
+  const storageKey = "usTechIntelligenceFocusMode";
+  const apply = enabled => {
+    document.body.classList.toggle("focus-mode", enabled);
+    button.setAttribute("aria-pressed", String(enabled));
+    button.textContent = enabled ? "ออกจากโหมดโฟกัส" : "โหมดโฟกัส";
+    button.setAttribute("aria-label", enabled ? "ปิดโหมดโฟกัส" : "เปิดโหมดโฟกัส");
+  };
+  let enabled = false;
+  try { enabled = localStorage.getItem(storageKey) === "true"; } catch (_) {}
+  apply(enabled);
+  button.addEventListener("click", () => {
+    enabled = !document.body.classList.contains("focus-mode");
+    apply(enabled);
+    try { localStorage.setItem(storageKey, String(enabled)); } catch (_) {}
+  });
+})();
 
 // Keep the desktop navigation and mobile dock in sync with the visible section.
 (function initSectionNavigation(){

@@ -114,6 +114,13 @@ class FrontendContractTests(unittest.TestCase):
         self.assertIn("analysis_source === \"fallback\"", self.html)
         self.assertIn("อ้างอิงจากพาดหัว · ไม่ใช่คำแปล", self.html)
 
+    def test_focus_mode_toggle_is_accessible_and_persisted(self):
+        self.assertIn('id="focusModeToggle"', self.html)
+        self.assertIn('aria-pressed="false"', self.html)
+        self.assertIn('usTechIntelligenceFocusMode', self.html)
+        self.assertIn('body.focus-mode .sidebar', self.html)
+        self.assertIn('body.focus-mode .trending-panel', self.html)
+
     def test_responsive_and_accessibility_styles_are_present(self):
         compact_html = self.html.replace(" ", "")
         for breakpoint in ("1100px", "760px", "560px"):
