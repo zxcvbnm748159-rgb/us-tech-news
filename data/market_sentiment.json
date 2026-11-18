@@ -5,10 +5,10 @@
   "counts": {
     "positive": 59,
     "negative": 38,
-    "neutral": 143
+    "neutral": 144
   },
-  "total": 240,
-  "updated_at": "2026-11-18T02:41:06.228388+00:00",
+  "total": 241,
+  "updated_at": "2026-11-18T02:41:54.740097+00:00",
   "articles": [
     {
       "link": "https://finance.yahoo.com/technology/ai/articles/u-commerce-dept-doj-investigated-051834040.html?.tsrc=rss",
@@ -968,6 +968,10 @@
     },
     {
       "link": "https://finance.yahoo.com/markets/stocks/articles/could-not-says-investor-sandisk-215607193.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/3b22ed8c-00c3-32f8-89f5-91bc21ccb366/dow-jones-futures-rise-after.html?.tsrc=rss",
       "sentiment": "neutral"
     }
   ]
