@@ -1,7 +1,7 @@
 {
   "date": "2026-11-18",
   "window_days": 7,
-  "source_count": 1160,
+  "source_count": 1164,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 179,
+      "count": 182,
       "kind": "ticker"
     },
     {
@@ -75,7 +75,7 @@
         "revenue guidance",
         "profit forecast"
       ],
-      "count": 54,
+      "count": 55,
       "kind": "topic"
     },
     {
@@ -115,7 +115,7 @@
       "kind": "ticker"
     }
   ],
-  "updated_at": "2026-11-18T10:43:59.231205+00:00",
+  "updated_at": "2026-11-18T10:58:11.662792+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -16356,6 +16356,62 @@
       "sentiment": "neutral",
       "sentiment_source": "headline_vader",
       "fetched_at": "2026-11-18T10:43:59.206275+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "3 numbers explains why Nvidia stock is rising despite no Jensen Huang on the earnings call",
+      "link": "https://finance.yahoo.com/markets/stocks/article/3-numbers-explains-why-nvidia-stock-is-rising-despite-no-jensen-huang-on-the-earnings-call-105004324.html?.tsrc=rss",
+      "published": "Wed, 18 Nov 2026 10:50:04 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-18T10:58:08.789552+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Market Chatter: Nvidia Sales Team Introduced Alibaba to Megaspeed Founder Before US Chip Export Restrictions",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-nvidia-sales-team-104122362.html?.tsrc=rss",
+      "published": "Wed, 18 Nov 2026 10:41:22 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-18T10:58:08.789635+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "How Jensen Huang stayed ahead for 10 years",
+      "link": "https://myfirstmillion.videonest.co/videos/2426096/how-jensen-huang-stayed-ahead-for-10-years-bNro6iw7h9?.tsrc=rss",
+      "published": "Wed, 18 Nov 2026 10:34:31 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-18T10:58:08.789667+00:00"
+    },
+    {
+      "ticker": "SMCI",
+      "title": "Zacks.com featured highlights include Super Micro Computer, General Dynamics and Consolidated Edison",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-com-featured-highlights-super-094700918.html?.tsrc=rss",
+      "published": "Wed, 18 Nov 2026 09:47:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-18T10:58:10.693978+00:00"
     }
   ]
 }

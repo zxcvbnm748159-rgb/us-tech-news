@@ -1,14 +1,14 @@
 {
   "date": "2026-11-18",
-  "score": 80,
+  "score": 82,
   "label": "Bullish",
   "counts": {
-    "positive": 12,
+    "positive": 14,
     "negative": 3,
-    "neutral": 10
+    "neutral": 12
   },
-  "total": 25,
-  "updated_at": "2026-11-18T10:43:59.206800+00:00",
+  "total": 29,
+  "updated_at": "2026-11-18T10:58:11.627299+00:00",
   "articles": [
     {
       "link": "https://www.fool.com/investing/2026/11/18/how-much-jensen-huang-worth-to-nvidia-more-than-6-trillion-wall-street-analyst/?.tsrc=rss",
@@ -109,6 +109,22 @@
     {
       "link": "https://www.fool.com/investing/2026/11/18/stock-market-correction-2-ai-stocks-160-upside-wall-street/?.tsrc=rss",
       "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/article/3-numbers-explains-why-nvidia-stock-is-rising-despite-no-jensen-huang-on-the-earnings-call-105004324.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-nvidia-sales-team-104122362.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://myfirstmillion.videonest.co/videos/2426096/how-jensen-huang-stayed-ahead-for-10-years-bNro6iw7h9?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-com-featured-highlights-super-094700918.html?.tsrc=rss",
+      "sentiment": "positive"
     }
   ]
 }
