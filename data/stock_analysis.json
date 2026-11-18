@@ -1,10 +1,10 @@
 [
   {
     "ticker": "NVDA",
-    "last_updated": "2026-11-18T19:36:19.160557+00:00",
-    "summary": "NVDA มีข่าวที่เกี่ยวข้อง 28 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: Update: US Equity Indexes Mixed as Nvidia Hits Risk Sentiment While Investors Await Fed Minutes, Anthropic's IPO Pricing ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
+    "last_updated": "2026-11-18T19:51:08.685023+00:00",
+    "summary": "NVDA มีข่าวที่เกี่ยวข้อง 33 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: Nvidia reportedly approaches Arm CEO Rene Haas for top job after Jensen Huang exit ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
     "analysis_points": [
-      "พาดหัวล่าสุด: Update: US Equity Indexes Mixed as Nvidia Hits Risk Sentiment While Investors Await Fed Minutes, Anthropic's IPO Pricing",
+      "พาดหัวล่าสุด: Nvidia reportedly approaches Arm CEO Rene Haas for top job after Jensen Huang exit",
       "การเปลี่ยนแปลงจากราคาปิดก่อนหน้า -2.90%",
       "ควรอ่านเนื้อหาต้นฉบับและตรวจสอบตัวเลขก่อนสรุปผลกระทบ"
     ],
@@ -12,7 +12,7 @@
   },
   {
     "ticker": "AAPL",
-    "last_updated": "2026-11-18T19:36:19.160557+00:00",
+    "last_updated": "2026-11-18T19:51:08.685023+00:00",
     "summary": "AAPL มีข่าวที่เกี่ยวข้อง 19 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: Apple Stock Polishes Breakout As Nvidia-Led AI Boom Gets Wake-Up Call ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
     "analysis_points": [
       "พาดหัวล่าสุด: Apple Stock Polishes Breakout As Nvidia-Led AI Boom Gets Wake-Up Call",
@@ -23,10 +23,10 @@
   },
   {
     "ticker": "MSFT",
-    "last_updated": "2026-11-18T19:36:19.160557+00:00",
-    "summary": "MSFT มีข่าวที่เกี่ยวข้อง 21 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: Microsoft Stocks Fall 2.27% on Day Ignite Unveils Maia 300 and Copilot Workspaces ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
+    "last_updated": "2026-11-18T19:51:08.685023+00:00",
+    "summary": "MSFT มีข่าวที่เกี่ยวข้อง 24 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: Elastic Makes High-Accuracy, Cost-Efficient Jina AI Models Available on Microsoft Foundry ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
     "analysis_points": [
-      "พาดหัวล่าสุด: Microsoft Stocks Fall 2.27% on Day Ignite Unveils Maia 300 and Copilot Workspaces",
+      "พาดหัวล่าสุด: Elastic Makes High-Accuracy, Cost-Efficient Jina AI Models Available on Microsoft Foundry",
       "การเปลี่ยนแปลงจากราคาปิดก่อนหน้า +0.23%",
       "ควรอ่านเนื้อหาต้นฉบับและตรวจสอบตัวเลขก่อนสรุปผลกระทบ"
     ],
@@ -34,7 +34,7 @@
   },
   {
     "ticker": "GOOGL",
-    "last_updated": "2026-11-18T19:36:19.160557+00:00",
+    "last_updated": "2026-11-18T19:51:08.685023+00:00",
     "summary": "GOOGL มีข่าวที่เกี่ยวข้อง 20 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: Who Really Pays For Nvidia's $1.2 Trillion? ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
     "analysis_points": [
       "พาดหัวล่าสุด: Who Really Pays For Nvidia's $1.2 Trillion?",
@@ -45,7 +45,7 @@
   },
   {
     "ticker": "AMZN",
-    "last_updated": "2026-11-18T19:36:19.160557+00:00",
+    "last_updated": "2026-11-18T19:51:08.685023+00:00",
     "summary": "AMZN มีข่าวที่เกี่ยวข้อง 19 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: Amazon Stocks Rise 0.89% Premarket After UBS Trims Target to $340 but Keeps Buy ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
     "analysis_points": [
       "พาดหัวล่าสุด: Amazon Stocks Rise 0.89% Premarket After UBS Trims Target to $340 but Keeps Buy",
@@ -56,7 +56,7 @@
   },
   {
     "ticker": "META",
-    "last_updated": "2026-11-18T19:36:19.160557+00:00",
+    "last_updated": "2026-11-18T19:51:08.685023+00:00",
     "summary": "META มีข่าวที่เกี่ยวข้อง 14 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: Warning for Meta Investors: Muse “Has to Be 20x” What It Is Now to Make an Impact, Says Dan Nathan ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
     "analysis_points": [
       "พาดหัวล่าสุด: Warning for Meta Investors: Muse “Has to Be 20x” What It Is Now to Make an Impact, Says Dan Nathan",
@@ -67,7 +67,7 @@
   },
   {
     "ticker": "TSLA",
-    "last_updated": "2026-11-18T19:36:19.160557+00:00",
+    "last_updated": "2026-11-18T19:51:08.685023+00:00",
     "summary": "TSLA มีข่าวที่เกี่ยวข้อง 20 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: Egan-Jones Examines What the Tesla Roadster Demo Signals for Automakers ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
     "analysis_points": [
       "พาดหัวล่าสุด: Egan-Jones Examines What the Tesla Roadster Demo Signals for Automakers",
@@ -78,10 +78,10 @@
   },
   {
     "ticker": "AMD",
-    "last_updated": "2026-11-18T19:36:19.160557+00:00",
-    "summary": "AMD มีข่าวที่เกี่ยวข้อง 21 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: AMD Stocks Rise 1.95% Premarket After Closing Taalas Deal for AI Inference Chips ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
+    "last_updated": "2026-11-18T19:51:08.685023+00:00",
+    "summary": "AMD มีข่าวที่เกี่ยวข้อง 22 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: Supermicro Has an AI Bottleneck and Is Turning to AMD ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
     "analysis_points": [
-      "พาดหัวล่าสุด: AMD Stocks Rise 1.95% Premarket After Closing Taalas Deal for AI Inference Chips",
+      "พาดหัวล่าสุด: Supermicro Has an AI Bottleneck and Is Turning to AMD",
       "การเปลี่ยนแปลงจากราคาปิดก่อนหน้า +3.44%",
       "ควรอ่านเนื้อหาต้นฉบับและตรวจสอบตัวเลขก่อนสรุปผลกระทบ"
     ],
@@ -89,8 +89,8 @@
   },
   {
     "ticker": "AVGO",
-    "last_updated": "2026-11-18T19:36:19.160557+00:00",
-    "summary": "AVGO มีข่าวที่เกี่ยวข้อง 11 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: Broadcom's Cash Holds Up Better Than Nvidia's ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
+    "last_updated": "2026-11-18T19:51:08.685023+00:00",
+    "summary": "AVGO มีข่าวที่เกี่ยวข้อง 12 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: Broadcom's Cash Holds Up Better Than Nvidia's ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
     "analysis_points": [
       "พาดหัวล่าสุด: Broadcom's Cash Holds Up Better Than Nvidia's",
       "การเปลี่ยนแปลงจากราคาปิดก่อนหน้า +4.12%",
@@ -100,7 +100,7 @@
   },
   {
     "ticker": "ORCL",
-    "last_updated": "2026-11-18T19:36:19.160557+00:00",
+    "last_updated": "2026-11-18T19:51:08.685023+00:00",
     "summary": "ORCL มีข่าวที่เกี่ยวข้อง 12 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: Sector Update: Healthcare Stocks Decline in Afternoon Trading ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
     "analysis_points": [
       "พาดหัวล่าสุด: Sector Update: Healthcare Stocks Decline in Afternoon Trading",
@@ -111,7 +111,7 @@
   },
   {
     "ticker": "CRM",
-    "last_updated": "2026-11-18T19:36:19.160557+00:00",
+    "last_updated": "2026-11-18T19:51:08.685023+00:00",
     "summary": "CRM มีข่าวที่เกี่ยวข้อง 19 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: Salesforce Makes Major Workforce Move After Stock Crashes 9% ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
     "analysis_points": [
       "พาดหัวล่าสุด: Salesforce Makes Major Workforce Move After Stock Crashes 9%",
@@ -122,8 +122,8 @@
   },
   {
     "ticker": "NFLX",
-    "last_updated": "2026-11-18T19:36:19.160557+00:00",
-    "summary": "NFLX มีข่าวที่เกี่ยวข้อง 11 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: Netflix Stock Just Closed Below $60 for the First Time Since August 2024. I'd Buy It Now. ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
+    "last_updated": "2026-11-18T19:51:08.685023+00:00",
+    "summary": "NFLX มีข่าวที่เกี่ยวข้อง 8 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: Netflix Stock Just Closed Below $60 for the First Time Since August 2024. I'd Buy It Now. ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
     "analysis_points": [
       "พาดหัวล่าสุด: Netflix Stock Just Closed Below $60 for the First Time Since August 2024. I'd Buy It Now.",
       "การเปลี่ยนแปลงจากราคาปิดก่อนหน้า +0.32%",
@@ -133,8 +133,8 @@
   },
   {
     "ticker": "INTC",
-    "last_updated": "2026-11-18T19:36:19.160557+00:00",
-    "summary": "INTC มีข่าวที่เกี่ยวข้อง 15 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: Microsoft and Intel Deepen Collaboration to Deliver Differentiated Azure Infrastructure ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
+    "last_updated": "2026-11-18T19:51:08.685023+00:00",
+    "summary": "INTC มีข่าวที่เกี่ยวข้อง 12 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: Microsoft and Intel Deepen Collaboration to Deliver Differentiated Azure Infrastructure ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
     "analysis_points": [
       "พาดหัวล่าสุด: Microsoft and Intel Deepen Collaboration to Deliver Differentiated Azure Infrastructure",
       "การเปลี่ยนแปลงจากราคาปิดก่อนหน้า -1.74%",
@@ -144,8 +144,8 @@
   },
   {
     "ticker": "QCOM",
-    "last_updated": "2026-11-18T19:36:19.160557+00:00",
-    "summary": "QCOM มีข่าวที่เกี่ยวข้อง 9 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: Baird cuts Qualcomm estimates over potential loss of ByteDance chip business ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
+    "last_updated": "2026-11-18T19:51:08.685023+00:00",
+    "summary": "QCOM มีข่าวที่เกี่ยวข้อง 7 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: Baird cuts Qualcomm estimates over potential loss of ByteDance chip business ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
     "analysis_points": [
       "พาดหัวล่าสุด: Baird cuts Qualcomm estimates over potential loss of ByteDance chip business",
       "การเปลี่ยนแปลงจากราคาปิดก่อนหน้า -4.57%",
@@ -155,8 +155,8 @@
   },
   {
     "ticker": "PLTR",
-    "last_updated": "2026-11-18T19:36:19.160557+00:00",
-    "summary": "PLTR มีข่าวที่เกี่ยวข้อง 11 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: Here’s Why Palantir Cracked the Best Blue Chip Stocks to Buy and Hold for Three Years List ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
+    "last_updated": "2026-11-18T19:51:08.685023+00:00",
+    "summary": "PLTR มีข่าวที่เกี่ยวข้อง 7 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: Here’s Why Palantir Cracked the Best Blue Chip Stocks to Buy and Hold for Three Years List ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
     "analysis_points": [
       "พาดหัวล่าสุด: Here’s Why Palantir Cracked the Best Blue Chip Stocks to Buy and Hold for Three Years List",
       "การเปลี่ยนแปลงจากราคาปิดก่อนหน้า -0.47%",
@@ -166,8 +166,8 @@
   },
   {
     "ticker": "SMCI",
-    "last_updated": "2026-11-18T19:36:19.160557+00:00",
-    "summary": "SMCI มีข่าวที่เกี่ยวข้อง 10 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: Wife of senior Nvidia executive embroiled in chip smuggling scandal ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
+    "last_updated": "2026-11-18T19:51:08.685023+00:00",
+    "summary": "SMCI มีข่าวที่เกี่ยวข้อง 7 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: Wife of senior Nvidia executive embroiled in chip smuggling scandal ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
     "analysis_points": [
       "พาดหัวล่าสุด: Wife of senior Nvidia executive embroiled in chip smuggling scandal",
       "การเปลี่ยนแปลงจากราคาปิดก่อนหน้า +1.68%",
@@ -177,7 +177,7 @@
   },
   {
     "ticker": "IBM",
-    "last_updated": "2026-11-18T19:36:19.160557+00:00",
+    "last_updated": "2026-11-18T19:51:08.685023+00:00",
     "summary": "IBM มีข่าวที่เกี่ยวข้อง 9 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: What Makes International Business Machines (IBM) One of the Top IT Services Stocks to Buy Now? ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
     "analysis_points": [
       "พาดหัวล่าสุด: What Makes International Business Machines (IBM) One of the Top IT Services Stocks to Buy Now?",
@@ -188,7 +188,7 @@
   },
   {
     "ticker": "ADBE",
-    "last_updated": "2026-11-18T19:36:19.160557+00:00",
+    "last_updated": "2026-11-18T19:51:08.685023+00:00",
     "summary": "ADBE มีข่าวที่เกี่ยวข้อง 4 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: ETFs Are Net Sellers of Adobe (ADBE) on Monday ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
     "analysis_points": [
       "พาดหัวล่าสุด: ETFs Are Net Sellers of Adobe (ADBE) on Monday",
@@ -199,7 +199,7 @@
   },
   {
     "ticker": "TSM",
-    "last_updated": "2026-11-18T19:36:19.160557+00:00",
+    "last_updated": "2026-11-18T19:51:08.685023+00:00",
     "summary": "TSM มีข่าวที่เกี่ยวข้อง 9 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: A $2.8 Billion Fund Dumps These 3 Stocks ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
     "analysis_points": [
       "พาดหัวล่าสุด: A $2.8 Billion Fund Dumps These 3 Stocks",
@@ -210,7 +210,7 @@
   },
   {
     "ticker": "GCTK",
-    "last_updated": "2026-11-18T19:36:19.160557+00:00",
+    "last_updated": "2026-11-18T19:51:08.685023+00:00",
     "summary": "GCTK: ยังไม่พบข่าวที่เกี่ยวข้องในช่วง 48 ชั่วโมงล่าสุด · การเปลี่ยนแปลงจากราคาปิดก่อนหน้า +0.00%",
     "analysis_points": [
       "การเปลี่ยนแปลงจากราคาปิดก่อนหน้า +0.00%",
@@ -220,7 +220,7 @@
   },
   {
     "ticker": "QUCY",
-    "last_updated": "2026-11-18T19:36:19.160557+00:00",
+    "last_updated": "2026-11-18T19:51:08.685023+00:00",
     "summary": "QUCY: ยังไม่พบข่าวที่เกี่ยวข้องในช่วง 48 ชั่วโมงล่าสุด · การเปลี่ยนแปลงจากราคาปิดก่อนหน้า -5.37%",
     "analysis_points": [
       "การเปลี่ยนแปลงจากราคาปิดก่อนหน้า -5.37%",
@@ -230,8 +230,8 @@
   },
   {
     "ticker": "ONDS",
-    "last_updated": "2026-11-18T19:36:19.160557+00:00",
-    "summary": "ONDS มีข่าวที่เกี่ยวข้อง 1 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: Ondas and Aston Martin Aramco Formula One Team Launch Multi-Year Partnership Built for \"Speed to Decision\" ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
+    "last_updated": "2026-11-18T19:51:08.685023+00:00",
+    "summary": "ONDS มีข่าวที่เกี่ยวข้อง 5 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: Ondas and Aston Martin Aramco Formula One Team Launch Multi-Year Partnership Built for \"Speed to Decision\" ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
     "analysis_points": [
       "พาดหัวล่าสุด: Ondas and Aston Martin Aramco Formula One Team Launch Multi-Year Partnership Built for \"Speed to Decision\"",
       "การเปลี่ยนแปลงจากราคาปิดก่อนหน้า +0.64%",
@@ -241,10 +241,10 @@
   },
   {
     "ticker": "SNDK",
-    "last_updated": "2026-11-18T19:36:19.160557+00:00",
-    "summary": "SNDK มีข่าวที่เกี่ยวข้อง 7 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: Why Sandisk Stock Dropped Again ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
+    "last_updated": "2026-11-18T19:51:08.685023+00:00",
+    "summary": "SNDK มีข่าวที่เกี่ยวข้อง 8 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: Not Micron, Not Sandisk. This Is My Top Memory Stock for 2027. ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
     "analysis_points": [
-      "พาดหัวล่าสุด: Why Sandisk Stock Dropped Again",
+      "พาดหัวล่าสุด: Not Micron, Not Sandisk. This Is My Top Memory Stock for 2027.",
       "การเปลี่ยนแปลงจากราคาปิดก่อนหน้า -4.14%",
       "ควรอ่านเนื้อหาต้นฉบับและตรวจสอบตัวเลขก่อนสรุปผลกระทบ"
     ],
