@@ -1,14 +1,14 @@
 {
   "date": "2026-11-18",
-  "score": 67,
+  "score": 65,
   "label": "Bullish",
   "counts": {
     "positive": 58,
-    "negative": 29,
-    "neutral": 92
+    "negative": 31,
+    "neutral": 95
   },
-  "total": 179,
-  "updated_at": "2026-11-19T01:10:11.414475+00:00",
+  "total": 184,
+  "updated_at": "2026-11-19T02:11:18.444306+00:00",
   "articles": [
     {
       "link": "https://www.fool.com/investing/2026/11/18/how-much-jensen-huang-worth-to-nvidia-more-than-6-trillion-wall-street-analyst/?.tsrc=rss",
@@ -725,6 +725,26 @@
     {
       "link": "https://www.fool.com/investing/2026/11/18/prediction-this-will-be-sandisks-stock-price-by-the-end-of-2027/?.tsrc=rss",
       "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/economy/policy/articles/trump-hails-great-ties-xi-014442789.html?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/trump-suggests-us-sell-blackwell-013901504.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/microsoft-ceo-satya-nadella-explains-004256847.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://stocktwits.com/news-articles/markets/equity/tesla-spacex-better-together-musk-performance-tsla-pay/cNbLsa5R9iJ?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.barchart.com/story/news/8902864/this-company-10-yield-has-a-giant-presence-but-it-carries-giant-risks-stay-away-from-the-value-trap?.tsrc=rss",
+      "sentiment": "negative"
     }
   ]
 }

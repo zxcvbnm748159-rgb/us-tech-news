@@ -1,7 +1,7 @@
 {
   "date": "2026-11-18",
   "window_days": 7,
-  "source_count": 1314,
+  "source_count": 1319,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 197,
+      "count": 199,
       "kind": "ticker"
     },
     {
@@ -27,7 +27,7 @@
       "search_terms": [
         "MSFT"
       ],
-      "count": 101,
+      "count": 102,
       "kind": "ticker"
     },
     {
@@ -36,7 +36,7 @@
       "search_terms": [
         "TSLA"
       ],
-      "count": 95,
+      "count": 96,
       "kind": "ticker"
     },
     {
@@ -115,7 +115,7 @@
       "kind": "ticker"
     }
   ],
-  "updated_at": "2026-11-19T01:10:11.452802+00:00",
+  "updated_at": "2026-11-19T02:11:18.483284+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -18512,6 +18512,76 @@
       "sentiment": "neutral",
       "sentiment_source": "headline_vader",
       "fetched_at": "2026-11-19T01:10:11.413762+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Trump Hails ‘Great’ Ties With Xi, Downplays Nvidia Spy Scandal",
+      "link": "https://finance.yahoo.com/economy/policy/articles/trump-hails-great-ties-xi-014442789.html?.tsrc=rss",
+      "published": "Thu, 19 Nov 2026 01:44:42 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-19T02:11:15.703517+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Trump Suggests US Can Sell Blackwell Chips to China in Future",
+      "link": "https://finance.yahoo.com/technology/ai/articles/trump-suggests-us-sell-blackwell-013901504.html?.tsrc=rss",
+      "published": "Thu, 19 Nov 2026 01:39:01 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-19T02:11:15.703574+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+      "link": "https://finance.yahoo.com/technology/ai/articles/microsoft-ceo-satya-nadella-explains-004256847.html?.tsrc=rss",
+      "published": "Thu, 19 Nov 2026 00:42:56 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-19T02:11:15.993005+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Tesla And SpaceX ‘Better Together’? Musk Leans Yes — But Says Performance Must Drive His TSLA Pay",
+      "link": "https://stocktwits.com/news-articles/markets/equity/tesla-spacex-better-together-musk-performance-tsla-pay/cNbLsa5R9iJ?.tsrc=rss",
+      "published": "Thu, 19 Nov 2026 01:56:19 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-19T02:11:16.486767+00:00"
+    },
+    {
+      "ticker": "CRM",
+      "title": "This Company (10%+ Yield) Has a Giant Presence, But It Carries Giant Risks. Stay Away from the Value Trap.",
+      "link": "https://www.barchart.com/story/news/8902864/this-company-10-yield-has-a-giant-presence-but-it-carries-giant-risks-stay-away-from-the-value-trap?.tsrc=rss",
+      "published": "Wed, 18 Nov 2026 19:15:23 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-19T02:11:16.941385+00:00"
     }
   ]
 }
