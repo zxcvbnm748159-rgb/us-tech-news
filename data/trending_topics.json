@@ -1,7 +1,7 @@
 {
   "date": "2026-11-19",
   "window_days": 7,
-  "source_count": 1056,
+  "source_count": 1077,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 168,
+      "count": 173,
       "kind": "ticker"
     },
     {
@@ -18,7 +18,7 @@
       "search_terms": [
         "GOOGL"
       ],
-      "count": 91,
+      "count": 94,
       "kind": "ticker"
     },
     {
@@ -27,7 +27,7 @@
       "search_terms": [
         "MSFT"
       ],
-      "count": 81,
+      "count": 84,
       "kind": "ticker"
     },
     {
@@ -36,7 +36,7 @@
       "search_terms": [
         "TSLA"
       ],
-      "count": 81,
+      "count": 83,
       "kind": "ticker"
     },
     {
@@ -54,7 +54,7 @@
       "search_terms": [
         "AMZN"
       ],
-      "count": 67,
+      "count": 69,
       "kind": "ticker"
     },
     {
@@ -63,7 +63,7 @@
       "search_terms": [
         "AAPL"
       ],
-      "count": 60,
+      "count": 61,
       "kind": "ticker"
     },
     {
@@ -75,7 +75,7 @@
         "revenue guidance",
         "profit forecast"
       ],
-      "count": 49,
+      "count": 51,
       "kind": "topic"
     },
     {
@@ -84,7 +84,7 @@
       "search_terms": [
         "META"
       ],
-      "count": 46,
+      "count": 47,
       "kind": "ticker"
     },
     {
@@ -93,7 +93,7 @@
       "search_terms": [
         "AVGO"
       ],
-      "count": 42,
+      "count": 43,
       "kind": "ticker"
     },
     {
@@ -102,7 +102,7 @@
       "search_terms": [
         "INTC"
       ],
-      "count": 42,
+      "count": 43,
       "kind": "ticker"
     },
     {
@@ -111,11 +111,11 @@
       "search_terms": [
         "SNDK"
       ],
-      "count": 35,
+      "count": 36,
       "kind": "ticker"
     }
   ],
-  "updated_at": "2026-11-19T08:43:44.702811+00:00",
+  "updated_at": "2026-11-19T11:00:10.807513+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -14900,6 +14900,300 @@
       "sentiment": "positive",
       "sentiment_source": "headline_vader",
       "fetched_at": "2026-11-19T08:43:44.669750+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "2 Monster Stocks to Hold for the Next 10 Years",
+      "link": "https://www.fool.com/investing/2026/11/19/2-monster-stocks-to-hold-for-the-next-10-years/?.tsrc=rss",
+      "published": "Thu, 19 Nov 2026 10:05:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-19T11:00:07.823513+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Anthropic's record IPO lands as Nvidia suffers its worst run since 2008",
+      "link": "https://www.euronews.com/2026/11/19/anthropics-record-ipo-lands-as-nvidia-suffers-its-worst-run-since-2008?.tsrc=rss",
+      "published": "Thu, 19 Nov 2026 09:44:16 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-19T11:00:07.823656+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "A philandering chief is not Nvidia’s worst problem. It’s the legal chip smuggling mess that comes next.",
+      "link": "https://www.digitaltrends.com/computing/a-philandering-chief-is-not-nvidias-worst-problem-its-the-legal-chip-smuggling-mess-that-comes-next/?.tsrc=rss",
+      "published": "Thu, 19 Nov 2026 09:37:41 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-19T11:00:07.823803+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "2 Words From Nvidia’s Colette Kress That Should Reassure Investors",
+      "link": "https://www.fool.com/investing/2026/11/19/2-words-from-nvidia-s-colette-kress-that-should-reassure-investors/?.tsrc=rss",
+      "published": "Thu, 19 Nov 2026 09:15:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-19T11:00:07.823866+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Dow Jones Futures Rise, Techs Jump: Anthropic IPO To Debut After Pricing High; Palo Alto, Everpure Rally On Earnings",
+      "link": "https://finance.yahoo.com/m/107e5a2c-4fba-3df3-b2fd-5d1160e65516/dow-jones-futures-rise%2C-techs.html?.tsrc=rss",
+      "published": "Thu, 19 Nov 2026 10:53:34 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-19T11:00:07.823916+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Josh Brown: “No Greater Beneficiary Than Apple” if Nvidia Stops Hoarding Memory. Nvidia Just Did the Opposite",
+      "link": "https://www.tikr.com/blog/josh-brown-no-greater-beneficiary-than-apple-if-nvidia-stops-hoarding-memory-nvidia-just-did-the-opposite?ref=yahoofinance&tlnk=yf-261119-fjp489cx&.tsrc=rss",
+      "published": "Thu, 19 Nov 2026 06:58:54 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-19T11:00:07.981164+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Intel and Microsoft agree long-term deal on Azure cloud hardware",
+      "link": "https://www.verdict.co.uk/intel-microsoft-deal-azure-cloud/?.tsrc=rss",
+      "published": "Thu, 19 Nov 2026 10:19:08 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-19T11:00:08.098427+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "GTA VI Sales Top $1.6B — Take-Two, Console Partners Microsoft And Sony Shares Rise",
+      "link": "https://stocktwits.com/news-articles/markets/equity/gta-vi-sales-top-1-6-b-take-two-console-partners-microsoft-and-sony-shares-rise/cNbiPZlR9is?.tsrc=rss",
+      "published": "Thu, 19 Nov 2026 09:36:42 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-19T11:00:08.098548+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "John Moolenaar Calls Out Microsoft for ‘Playing Both Sides’ of US-China AI Race",
+      "link": "https://finance.yahoo.com/technology/ai/articles/john-moolenaar-calls-microsoft-playing-073740994.html?.tsrc=rss",
+      "published": "Thu, 19 Nov 2026 07:37:40 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-19T11:00:08.098597+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "AlumiFuel Power And 2 More Hydrogen Fuel Cell Stocks To Watch",
+      "link": "https://finance.yahoo.com/energy/articles/alumifuel-power-2-more-hydrogen-101627261.html?.tsrc=rss",
+      "published": "Thu, 19 Nov 2026 10:16:27 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-19T11:00:08.237058+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Democrats Just Won Congress. Here's Why Alphabet Could Be a Surprise Winner.",
+      "link": "https://www.fool.com/investing/2026/11/19/democrats-just-won-congress-heres-why-alphabet-cou/?.tsrc=rss",
+      "published": "Thu, 19 Nov 2026 09:05:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-19T11:00:08.237172+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Nvidia Guides 75% Growth. Gil Luria: “Maybe We Grow 25% to 50%.” Here’s What 10x Earnings Prices In",
+      "link": "https://www.tikr.com/blog/nvidia-guides-75-growth-gil-luria-maybe-we-grow-25-to-50-heres-what-10x-earnings-prices-in?ref=yahoofinance&tlnk=yf-261119-v73p6jp2&.tsrc=rss",
+      "published": "Thu, 19 Nov 2026 07:33:37 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-19T11:00:08.237257+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Amazon (AMZN) Stock Trades Below Fair Value As Its 82% Run Continues",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/amazon-amzn-stock-trades-below-090928160.html?.tsrc=rss",
+      "published": "Thu, 19 Nov 2026 09:09:28 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-19T11:00:08.353413+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "$55 billion EA cofounder compared interview questions with Amazon CEO Andy Jassy—and if you can’t answer Jassy’s on the spot, he ends the interview",
+      "link": "https://finance.yahoo.com/small-business/articles/ea-cofounder-once-compared-interview-080200120.html?.tsrc=rss",
+      "published": "Thu, 19 Nov 2026 08:02:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-19T11:00:08.353514+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "Market Chatter: Meta Platforms Suspends Plan to Issue Non-Voting Shares",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-meta-platforms-suspends-103305579.html?.tsrc=rss",
+      "published": "Thu, 19 Nov 2026 10:33:05 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-19T11:00:08.510079+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Market Chatter: Tesla to Continue Boosting Production at China Factory",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-tesla-continue-boosting-094949764.html?.tsrc=rss",
+      "published": "Thu, 19 Nov 2026 09:49:49 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-19T11:00:08.670059+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Campaign Urges Ripple to Burn $30B in XRP as Analyst Cites Tesla in $70 XRP Call",
+      "link": "https://www.ccn.com/news/crypto/campaign-urges-ripple-to-burn-30b-in-xrp-as-analyst-cites-tesla-in-70-xrp-call/?.tsrc=rss",
+      "published": "Thu, 19 Nov 2026 09:19:34 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-19T11:00:08.670113+00:00"
+    },
+    {
+      "ticker": "AVGO",
+      "title": "Broadcom “Foolishly Guaranteed” Anthropic’s TPU Deals, Says Ed Zitron. Its IPO Could Prove Him Wrong",
+      "link": "https://www.tikr.com/blog/broadcom-foolishly-guaranteed-anthropics-tpu-deals-says-ed-zitron-its-ipo-could-prove-him-wrong?ref=yahoofinance&tlnk=yf-261119-vxp44g3p&.tsrc=rss",
+      "published": "Thu, 19 Nov 2026 07:25:53 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-19T11:00:08.898189+00:00"
+    },
+    {
+      "ticker": "INTC",
+      "title": "NVDA, INTC Stocks Ease Post 5-Day Rout: After Meeting Xi Jinping, Trump Says Nvidia Blackwell Chips Could Reach China Within 2-3 Years",
+      "link": "https://stocktwits.com/news-articles/markets/equity/nvda-intc-stocks-ease-post-5-day-rout-after-meeting-xi-jinping-trump-says-nvidia-blackwell-chips-could-reach-china-within-2-3-years/cNbiTxFR9io?.tsrc=rss",
+      "published": "Thu, 19 Nov 2026 08:33:56 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-19T11:00:09.393785+00:00"
+    },
+    {
+      "ticker": "PLTR",
+      "title": "Palantir just posted a record quarter—so why did the stock sink?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-just-posted-record-quarter-092745487.html?.tsrc=rss",
+      "published": "Thu, 19 Nov 2026 09:27:45 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-19T11:00:09.646436+00:00"
+    },
+    {
+      "ticker": "SNDK",
+      "title": "Wall Street's Next Blockbuster Stock Split Arrives Later Today -- and This Industry Titan Has Skyrocketed Nearly 2,400% in Less Than 2 Years",
+      "link": "https://www.fool.com/investing/2026/11/19/wall-street-next-blockbuster-stock-split-arrives-today-skyrocketed-nearly-2400-in-less-than-2-years/?.tsrc=rss",
+      "published": "Thu, 19 Nov 2026 10:26:01 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-19T11:00:10.770887+00:00"
     }
   ]
 }
