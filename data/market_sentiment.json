@@ -1,14 +1,14 @@
 {
   "date": "2026-11-18",
-  "score": 69,
+  "score": 67,
   "label": "Bullish",
   "counts": {
-    "positive": 40,
-    "negative": 18,
-    "neutral": 64
+    "positive": 58,
+    "negative": 29,
+    "neutral": 92
   },
-  "total": 122,
-  "updated_at": "2026-11-18T19:50:59.919461+00:00",
+  "total": 179,
+  "updated_at": "2026-11-19T01:10:11.414475+00:00",
   "articles": [
     {
       "link": "https://www.fool.com/investing/2026/11/18/how-much-jensen-huang-worth-to-nvidia-more-than-6-trillion-wall-street-analyst/?.tsrc=rss",
@@ -497,6 +497,234 @@
     {
       "link": "https://www.fool.com/investing/2026/11/18/not-micron-not-sandisk-this-is-my-top-memory-stock-for-2027/?.tsrc=rss",
       "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/anthropic-set-price-ipo-key-030309911.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.thestreet.com/investing/why-nvidia-and-asml-still-fit-an-underweight-tech-strategy?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/18/after-nvidia-s-earnings-here-s-my-prediction-for-the-stock-price-by-the-end-of-the-year/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://stocktwits.com/news-articles/markets/equity/elon-musk-says-nvidia-ousting-jensen-huang-is-like-kicking-michael-jordan-off-a-winning-team/cNbLpuMR9ie?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/video/corning-ceo-working-steve-jobs-010013740.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/18/alphabet-vs-apple-which-warren-buffett-stock-is-the-better-buy/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.barchart.com/story/news/8900400/apple-stock-shows-strength-now-and-a-key-catalyst-is-brewing-in-june-2027?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/articles/microsoft-ceo-satya-nadella-remains-231728146.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/satya-nadella-predicts-ai-agents-225811295.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/18/billionaire-bill-ackman-sold-2-million-shares-of-microsoft-stock-but-here-s-why-he-says-he-s-still-bullish/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/arrow-electronics-arw-launches-arrowsphere-221407018.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/38cd716d-6613-3fb9-ab86-538527b7d22b/want-to-play-defense-with.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/q3-earnings-strong-q4-estimates-235100192.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://pitchbook.com/news/articles/anthropics-81-3b-haul-makes-it-the-second-largest-tech-ipo-ever?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/energy/articles/google-signs-landmark-superhot-geothermal-000000944.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/18/is-alphabet-stock-a-buy-right-now/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/18/3-investments-to-give-a-child-this-holiday-season-and-leave-alone-until-2040/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/media-advertising/articles/brookie-beauty-llc-announces-trestyler-234900589.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/earnings/takeaways/2026/11/18/blackstone-digital-infrastructure-3-key-takeaways-for-long-term-investors/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ken-griffin-dumps-spacex-amazon-223005217.html?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://wwd.com/sourcing-journal/logistics/amazon-widens-fuel-logistics-surcharge-bulk-inventory-services-1239425935/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/meta-225-billion-ai-spending-234645050.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/meta-pauses-zuckerberg-share-plan-204515945.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.barchart.com/story/news/8900135/how-to-play-meta-stock-as-meta-platforms-tests-a-new-prediction-markets-app?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/media-advertising/article/skydances-david-ellison-calls-elon-musk-the-greatest-entrepreneur-of-our-time-205405607.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://stocktwits.com/news-articles/markets/equity/tesla-wins-manitoba-court-order-on-ev-rebate-ban-as-canadian-pm-carney-notes-brand-s-fading-cachet/cNbLpgeR9i4?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://stocktwits.com/news-articles/markets/equity/skydance-s-ellison-welcomes-musk-investment-while-committing-to-airing-documentary-critical-of-tesla-ceo/cNbghalR9iP?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/super-micro-computer-smci-ships-201020693.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.trefis.com/stock/ntra/articles/625786/what-explains-natera-stocks-nearly-10-drop/2026-11-18?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ai-data-center-expansion-impact-232434949.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/video/the-data-center-bottlenecks-that-mavria-aims-to-solve-221600157.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/11/18/stock-market-today-nov-18-nvidia-slips-on-strong-results-as-succession-and-china-business-risks-weigh/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/18/thinking-about-buying-anthropic-s-ipo-on-nov-19-here-s-an-ai-stock-i-d-consider-first-hint-it-s-not-nvidia-or-broadcom/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/cfcce45f-4a68-3ff6-8052-435a6b38ed55/the-%241-trillion-spending.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/why-oracle-features-morgan-stanley-234741005.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/salesforce-stocks-fall-9-45-194046758.html?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/11/18/josh-brown-says-netflix-trades-at-16-times-next-years-earnings-after-a-50-drop-is-it-a-buy/?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.barchart.com/story/news/8898467/as-netflix-stock-hovers-near-its-52-week-low-analyst-sentiment-remains-mixed-here-s-why?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.trefis.com/stock/mrvl/articles/626099/marvell-and-intel-halved-how-long-until-they-recover/2026-11-18?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.trefis.com/stock/intc/articles/626180/what-sent-intel-stock-lower-since-may/2026-11-18?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/18/spacex-is-now-nvidia-s-biggest-stock-holding-ahead-of-intel-here-s-what-that-says-about-spacex/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/articles/tech-layoffs-flare-san-diego-204523059.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://nypost.com/2026/11/18/tech/chipmaker-qualcomm-announces-517-layoffs-in-california/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.tikr.com/blog/could-qualcomm-actually-climb-85-or-is-baird-totally-wrong?ref=yahoofinance&tlnk=yf-261118-fj25pvqf&.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/18/where-will-palantir-stock-be-in-1-year/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/healthcare/articles/edison-scientific-hires-former-palantir-210000234.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/small-business/articles/alex-karp-put-palantir-early-173050319.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/18/stock-market-correction-1-investing-move-im-avoidi/?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/11/18/forget-market-crashes-these-dow-jones-giants-have-recession-proof-dividends/?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.hrdive.com/news/will-more-companies-need-to-end-their-h-1b-visa-programs/875067/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/adobe-adbe-printing-cash-while-212000862.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.barchart.com/story/news/8902524/michael-burry-is-doubling-down-on-adobe-stock-here-s-why?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.tikr.com/blog/the-5-best-stocks-in-brad-gerstners-portfolio?ref=yahoofinance&tlnk=yf-261118-4869989x&.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-stock-tsm-looks-210800765.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nvidias-leadership-woes-buy-tsmc-190000738.html?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/18/prediction-this-will-be-sandisks-stock-price-by-the-end-of-2027/?.tsrc=rss",
+      "sentiment": "neutral"
     }
   ]
 }
