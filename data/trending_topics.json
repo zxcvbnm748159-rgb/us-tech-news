@@ -1,7 +1,7 @@
 {
   "date": "2026-11-20",
   "window_days": 7,
-  "source_count": 1214,
+  "source_count": 1233,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 181,
+      "count": 186,
       "kind": "ticker"
     },
     {
@@ -18,7 +18,7 @@
       "search_terms": [
         "GOOGL"
       ],
-      "count": 99,
+      "count": 102,
       "kind": "ticker"
     },
     {
@@ -27,7 +27,7 @@
       "search_terms": [
         "TSLA"
       ],
-      "count": 91,
+      "count": 93,
       "kind": "ticker"
     },
     {
@@ -36,7 +36,7 @@
       "search_terms": [
         "MSFT"
       ],
-      "count": 90,
+      "count": 92,
       "kind": "ticker"
     },
     {
@@ -45,7 +45,7 @@
       "search_terms": [
         "AMD"
       ],
-      "count": 84,
+      "count": 87,
       "kind": "ticker"
     },
     {
@@ -63,7 +63,7 @@
       "search_terms": [
         "AAPL"
       ],
-      "count": 76,
+      "count": 77,
       "kind": "ticker"
     },
     {
@@ -72,7 +72,7 @@
       "search_terms": [
         "META"
       ],
-      "count": 57,
+      "count": 58,
       "kind": "ticker"
     },
     {
@@ -93,7 +93,7 @@
       "search_terms": [
         "INTC"
       ],
-      "count": 49,
+      "count": 50,
       "kind": "ticker"
     },
     {
@@ -115,7 +115,7 @@
       "kind": "ticker"
     }
   ],
-  "updated_at": "2026-11-20T19:30:26.762158+00:00",
+  "updated_at": "2026-11-20T21:32:56.095044+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -17112,6 +17112,272 @@
       "sentiment": "positive",
       "sentiment_source": "headline_vader",
       "fetched_at": "2026-11-20T19:30:26.724837+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Trump critiques Jensen Huang's replacement as he wades deeper into Nvidia turmoil",
+      "link": "https://finance.yahoo.com/markets/article/trump-critiques-jensen-huangs-replacement-as-he-wades-deeper-into-nvidia-turmoil-210729338.html?.tsrc=rss",
+      "published": "Fri, 20 Nov 2026 21:07:29 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-20T21:32:51.521733+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Nvidia Stock Plunge Wipes Out Nearly $500 Billion in One Day as SEC Reportedly Probes Its Accounting",
+      "link": "https://www.fool.com/investing/2026/11/20/nvidia-stock-plunge-wipes-out-nearly-usd500-billion-in-one-day-as-sec-reportedly-probes-its-accounting/?.tsrc=rss",
+      "published": "Fri, 20 Nov 2026 21:27:22 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-20T21:32:51.521771+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "US Equity Indexes Slump as Clouds Hovering Over Chipmakers, Hawkish Fed Outweigh Anthropic's Nasdaq Debut This Week",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-slump-clouds-212255820.html?.tsrc=rss",
+      "published": "Fri, 20 Nov 2026 21:22:55 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-20T21:32:51.521795+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "US Equity Markets Fall Amid Sharp Sell-off in Technology, AI-Related Stocks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-markets-fall-amid-211419997.html?.tsrc=rss",
+      "published": "Fri, 20 Nov 2026 21:14:19 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-20T21:32:51.521811+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Nvidia’s (NVDA) AI Demand Visibility into 2029 Keeps Me Bullish",
+      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-ai-demand-visibility-210400433.html?.tsrc=rss",
+      "published": "Fri, 20 Nov 2026 21:04:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-20T21:32:51.521859+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Is Apple Stock Increasing Your Market Risk?",
+      "link": "https://www.trefis.com/stock/aapl/articles/627248/is-apple-stock-increasing-your-market-risk/2026-11-20?.tsrc=rss",
+      "published": "Fri, 20 Nov 2026 20:53:45 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-20T21:32:51.716708+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "“Pretty Bizarre”: Microsoft Is Worth More Than Alphabet. Which Makes No Sense",
+      "link": "https://www.tikr.com/blog/pretty-bizarre-microsoft-is-worth-more-than-alphabet-which-makes-no-sense?ref=yahoofinance&tlnk=yf-261120-cgch722v&.tsrc=rss",
+      "published": "Fri, 20 Nov 2026 20:38:43 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-20T21:32:51.918616+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Cerebras Stock Looks Like a Buy as Customer Base Expands",
+      "link": "https://www.fool.com/investing/2026/11/20/cerebras-stock-looks-like-a-buy-as-customer-base-expands/?.tsrc=rss",
+      "published": "Fri, 20 Nov 2026 19:50:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-20T21:32:51.918665+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "$1,000 in Anthropic or Bitcoin: Which Could Be Worth More by 2030?",
+      "link": "https://247wallst.com/investing/cryptocurrency/2026/11/20/1000-in-anthropic-or-bitcoin-which-could-be-worth-more-by-2030/?.tsrc=rss",
+      "published": "Fri, 20 Nov 2026 21:12:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-20T21:32:52.147547+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Amazon Provides Options To Buy Ads Across Entire Ecosystem",
+      "link": "https://www.mediapost.com/publications/article/419599/amazon-provides-options-to-buy-ads-across-entire-e.html?.tsrc=rss",
+      "published": "Fri, 20 Nov 2026 21:07:56 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-20T21:32:52.147571+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Nvidia, Nasdaq Slide Deepens After Report of SEC Accounting Probe",
+      "link": "https://finance.yahoo.com/m/cff37c7c-0ca9-37b0-a414-8f2a8d6939e4/nvidia%2C-nasdaq-slide-deepens.html?.tsrc=rss",
+      "published": "Fri, 20 Nov 2026 19:57:50 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-20T21:32:52.147590+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "Anthropic Stock Came Within 5 Cents of Its $83 IPO Price on Day 2, Then Bounced 6% to Close at $88.30. Facebook Closed Its Day 2 10% Below Its IPO Price",
+      "link": "https://247wallst.com/investing/2026/11/20/anthropic-stock-came-within-5-cents-of-its-83-ipo-price-on-day-2-then-bounced-6-to-close-at-88-30-facebook-closed-its-day-2-10-below-its-ipo-price/?.tsrc=rss",
+      "published": "Fri, 20 Nov 2026 21:17:10 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-20T21:32:52.539475+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Tesla Sinks 8%, SpaceX Down 7%, Rivian Down 8% as AI Sell-Off Swamps HSBC Upgrade",
+      "link": "https://www.tikr.com/blog/tesla-sinks-8-spacex-down-7-rivian-down-8-as-ai-sell-off-swamps-hsbc-upgrade?ref=yahoofinance&tlnk=yf-261120-49fmfcrf&.tsrc=rss",
+      "published": "Fri, 20 Nov 2026 20:45:55 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-20T21:32:52.742087+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "$17B Tesla manufacturing plant led October’s construction starts rebound",
+      "link": "https://www.constructiondive.com/news/tesla-manufacturing-plant-october-construction-starts-rebound/875377/?.tsrc=rss",
+      "published": "Fri, 20 Nov 2026 19:42:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-20T21:32:52.742111+00:00"
+    },
+    {
+      "ticker": "AMD",
+      "title": "AMD Is Down 26% and Intel Is Down 42%. Which AI Stock Is Worth Buying on the Dip?",
+      "link": "https://www.fool.com/coverage/better-buy/2026/11/20/amd-is-down-26-and-intel-is-down-42-which-ai-stock-is-worth-buying-on-the-dip/?.tsrc=rss",
+      "published": "Fri, 20 Nov 2026 20:50:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-20T21:32:52.943472+00:00"
+    },
+    {
+      "ticker": "AMD",
+      "title": "AMD Stock Just Crashed Nearly 8%: Here's Why and What to Do Now",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-just-crashed-nearly-190000127.html?.tsrc=rss",
+      "published": "Fri, 20 Nov 2026 19:00:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-20T21:32:52.943496+00:00"
+    },
+    {
+      "ticker": "AMD",
+      "title": "AMD Stock Gets Crushed by Anthropic’s Drop and a Short Report. It’s No Time to Panic.",
+      "link": "https://finance.yahoo.com/m/f7918816-1d56-3219-b7b0-56c411582527/amd-stock-gets-crushed-by.html?.tsrc=rss",
+      "published": "Fri, 20 Nov 2026 18:42:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-20T21:32:52.943564+00:00"
+    },
+    {
+      "ticker": "INTC",
+      "title": "Could Jensen Huang Land At Nvidia Rival Intel?",
+      "link": "https://finance.yahoo.com/m/0f796a98-f9a0-3610-b88d-21a75faa2e7b/could-jensen-huang-land-at.html?.tsrc=rss",
+      "published": "Fri, 20 Nov 2026 20:04:52 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-20T21:32:53.975135+00:00"
+    },
+    {
+      "ticker": "QCOM",
+      "title": "Why Are Investors Ignoring Qualcomm Stock's High Cash Yield?",
+      "link": "https://www.trefis.com/stock/qcom/articles/627180/why-are-investors-ignoring-qualcomm-stocks-high-cash-yield/2026-11-20?.tsrc=rss",
+      "published": "Fri, 20 Nov 2026 19:22:44 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-20T21:32:54.188571+00:00"
     }
   ]
 }
