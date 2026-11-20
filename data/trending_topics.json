@@ -1,7 +1,7 @@
 {
   "date": "2026-11-19",
   "window_days": 7,
-  "source_count": 1254,
+  "source_count": 1275,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 188,
+      "count": 193,
       "kind": "ticker"
     },
     {
@@ -18,7 +18,7 @@
       "search_terms": [
         "GOOGL"
       ],
-      "count": 107,
+      "count": 110,
       "kind": "ticker"
     },
     {
@@ -36,7 +36,7 @@
       "search_terms": [
         "TSLA"
       ],
-      "count": 95,
+      "count": 96,
       "kind": "ticker"
     },
     {
@@ -45,7 +45,7 @@
       "search_terms": [
         "AMD"
       ],
-      "count": 88,
+      "count": 89,
       "kind": "ticker"
     },
     {
@@ -54,7 +54,7 @@
       "search_terms": [
         "AMZN"
       ],
-      "count": 83,
+      "count": 85,
       "kind": "ticker"
     },
     {
@@ -63,7 +63,7 @@
       "search_terms": [
         "AAPL"
       ],
-      "count": 72,
+      "count": 74,
       "kind": "ticker"
     },
     {
@@ -72,7 +72,7 @@
       "search_terms": [
         "META"
       ],
-      "count": 59,
+      "count": 60,
       "kind": "ticker"
     },
     {
@@ -111,11 +111,11 @@
       "search_terms": [
         "SNDK"
       ],
-      "count": 44,
+      "count": 45,
       "kind": "ticker"
     }
   ],
-  "updated_at": "2026-11-19T23:48:20.554423+00:00",
+  "updated_at": "2026-11-20T01:58:45.759793+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -17672,6 +17672,300 @@
       "sentiment": "positive",
       "sentiment_source": "headline_vader",
       "fetched_at": "2026-11-19T23:48:20.517056+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "History Says This Brilliant ETF Could Help You Turn $500 Per Month Into $784,100 While Barely Lifting a Finger.",
+      "link": "https://www.fool.com/investing/2026/11/19/history-says-this-brilliant-etf-could-help-you-turn-usd500-per-month-into-usd784-100-while-barely-lifting-a-finger/?.tsrc=rss",
+      "published": "Fri, 20 Nov 2026 01:48:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-20T01:58:42.193328+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "California attorney general subpoenas Nvidia over chips, former CEO's affair",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/california-attorney-general-subpoenas-nvidia-013306809.html?.tsrc=rss",
+      "published": "Fri, 20 Nov 2026 01:33:06 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-20T01:58:42.193380+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Why Nvidia's sell-off could be a buying opportunity (with a catch)",
+      "link": "https://www.thestreet.com/investing/stocks/why-nvidias-sell-off-could-be-a-buying-opportunity-with-a-catch?.tsrc=rss",
+      "published": "Fri, 20 Nov 2026 01:25:30 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-20T01:58:42.193438+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Alibaba Group Holding Accused of Hiding Ties to Suspected Spy in Nvidia Scandal, Lawsuit Says",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/alibaba-group-holding-accused-hiding-010413571.html?.tsrc=rss",
+      "published": "Fri, 20 Nov 2026 01:04:13 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-20T01:58:42.193568+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Michael Burry Says He Tried to Warn You About Nvidia, CoreWeave and Nebius. Here's What the 'Big Short' Investor Saw",
+      "link": "https://www.fool.com/investing/2026/11/19/michael-burry-says-he-tried-to-warn-you-about-nvidia-coreweave-and-nebius-stocks-here-s-what-the-big-short-investor-saw/?.tsrc=rss",
+      "published": "Fri, 20 Nov 2026 01:03:36 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-20T01:58:42.193629+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "1 Unstoppable Stock to Buy Before It Joins NVDA and AAPL in the $1 Trillion Club",
+      "link": "https://www.fool.com/investing/2026/11/19/1-unstoppable-stock-to-buy-before-it-joins-hot-tickers-in-the-1-3-trillion-club/?.tsrc=rss",
+      "published": "Fri, 20 Nov 2026 00:52:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-20T01:58:42.335448+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Apple May Try to Challenge Meta for Personal Agent Supremacy",
+      "link": "https://finance.yahoo.com/m/218adf20-fceb-3955-ab5b-5c4bc9cf9107/apple-may-try-to-challenge.html?.tsrc=rss",
+      "published": "Thu, 19 Nov 2026 23:51:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-20T01:58:42.335551+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Is Your VOO Fund Secretly An AI Bet?",
+      "link": "https://www.trefis.com/stock/voo/articles/626646/is-your-voo-fund-secretly-an-ai-bet/2026-11-19?.tsrc=rss",
+      "published": "Fri, 20 Nov 2026 00:58:20 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-20T01:58:42.701171+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Anthropic’s Margins Will Be “Probably Better Than a Hyperscaler,” Says Its Most Bullish Analyst. Here’s What That Takes",
+      "link": "https://www.tikr.com/blog/anthropics-margins-will-be-probably-better-than-a-hyperscaler-says-its-most-bullish-analyst-heres-what-that-takes?ref=yahoofinance&tlnk=yf-261119-7x5g2cff&.tsrc=rss",
+      "published": "Fri, 20 Nov 2026 00:05:16 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-20T01:58:42.701269+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Anthropic Just Went Public at $1.5 Trillion. VOO Won’t Own a Share Until Late 2027 at the Earliest",
+      "link": "https://247wallst.com/investing/etf/2026/11/19/anthropic-just-went-public-at-1-5-trillion-voo-wont-own-a-share-until-late-2027-at-the-earliest/?.tsrc=rss",
+      "published": "Thu, 19 Nov 2026 23:52:41 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-20T01:58:42.701335+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Peter Thiel Now Has as Much Money in an Argentine Oil Stock as in Amazon. It’s Down 23% Since September 30",
+      "link": "https://247wallst.com/investing/2026/11/19/peter-thiel-now-has-as-much-money-in-an-argentine-oil-stock-as-in-amazon-its-down-23-since-september-30/?.tsrc=rss",
+      "published": "Fri, 20 Nov 2026 01:17:06 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-20T01:58:42.855730+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "NYC lawmakers weigh compromise on Amazon delivery worker bill, Bloomberg reports",
+      "link": "https://finance.yahoo.com/economy/policy/articles/nyc-lawmakers-weigh-compromise-amazon-234713116.html?.tsrc=rss",
+      "published": "Thu, 19 Nov 2026 23:47:13 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-20T01:58:42.855796+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "Meta Platforms 'Reevaluating' 2030 Net Zero Goal as AI Buildout Strains Clean Energy Supply",
+      "link": "https://finance.yahoo.com/energy/articles/meta-platforms-apos-reevaluating-apos-004314275.html?.tsrc=rss",
+      "published": "Fri, 20 Nov 2026 00:43:14 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-20T01:58:43.005901+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Musk Says Optimus Will Do the Dishes “Within 12-18 Months.” Here’s Where Tesla’s Robot Stands",
+      "link": "https://www.tikr.com/blog/musk-says-optimus-will-do-the-dishes-within-12-18-months-heres-where-teslas-robot-stands?ref=yahoofinance&tlnk=yf-261119-6gjh8j3r&.tsrc=rss",
+      "published": "Thu, 19 Nov 2026 22:37:52 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-20T01:58:43.171821+00:00"
+    },
+    {
+      "ticker": "AMD",
+      "title": "Shots Fired: Hunterbrook Shorts AMD Over China. Its China and Hong Kong Billing Share Is Nearly 2.5x Nvidia’s",
+      "link": "https://www.tikr.com/blog/shots-fired-hunterbrook-shorts-amd-over-china-its-china-and-hong-kong-billing-share-is-nearly-2-5x-nvidias?ref=yahoofinance&tlnk=yf-261119-fh8ffhc8&.tsrc=rss",
+      "published": "Thu, 19 Nov 2026 22:37:49 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-20T01:58:43.339870+00:00"
+    },
+    {
+      "ticker": "ORCL",
+      "title": "Oracle (ORCL) Stock May Be 39% Undervalued As Nashville Buildout Starts",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/oracle-orcl-stock-may-39-002103750.html?.tsrc=rss",
+      "published": "Fri, 20 Nov 2026 00:21:03 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-20T01:58:43.659574+00:00"
+    },
+    {
+      "ticker": "SMCI",
+      "title": "Who is Cenly Chen? Inside the Alleged Family Ties Between Nvidia, Supermicro, and Illicit GPU Sales",
+      "link": "https://www.barchart.com/story/news/8921952/who-is-cenly-chen-inside-the-alleged-family-ties-between-nvidia-supermicro-and-illicit-gpu-sales?.tsrc=rss",
+      "published": "Thu, 19 Nov 2026 17:51:12 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-20T01:58:44.584760+00:00"
+    },
+    {
+      "ticker": "IBM",
+      "title": "IBM (IBM) Stock May Be 27% Below Fair Value On Quantum Platform News",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ibm-ibm-stock-may-27-002028644.html?.tsrc=rss",
+      "published": "Fri, 20 Nov 2026 00:20:28 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-20T01:58:44.740172+00:00"
+    },
+    {
+      "ticker": "IBM",
+      "title": "How Many Shares of IBM or Broadridge Financial Solutions Pay $1,000 a Month in Dividends?",
+      "link": "https://www.tikr.com/blog/how-many-shares-of-ibm-or-broadridge-financial-solutions-pay-1000-a-month-in-dividends?ref=yahoofinancedividend&tlnk=yf-261119-crwc83v6&.tsrc=rss",
+      "published": "Thu, 19 Nov 2026 23:50:20 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-20T01:58:44.740275+00:00"
+    },
+    {
+      "ticker": "TSM",
+      "title": "TSMC halts advanced chip orders from Chinese designers in Taiwan",
+      "link": "http://www.intellinews.com/tsmc-halts-advanced-chip-orders-from-chinese-designers-in-taiwan-486911/?.tsrc=rss",
+      "published": "Fri, 20 Nov 2026 00:06:31 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-20T01:58:45.046674+00:00"
+    },
+    {
+      "ticker": "SNDK",
+      "title": "Down More Than 40% in the Past Month, Here’s How You Should Play Sandisk Stock",
+      "link": "https://www.barchart.com/story/news/8923559/down-more-than-40-in-the-past-month-heres-how-you-should-play-sandisk-stock?.tsrc=rss",
+      "published": "Thu, 19 Nov 2026 19:45:33 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-20T01:58:45.726268+00:00"
     }
   ]
 }
