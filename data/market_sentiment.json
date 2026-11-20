@@ -1,14 +1,14 @@
 {
   "date": "2026-11-20",
-  "score": 75,
-  "label": "Bullish",
+  "score": 59,
+  "label": "Mixed",
   "counts": {
-    "positive": 27,
-    "negative": 9,
-    "neutral": 42
+    "positive": 44,
+    "negative": 30,
+    "neutral": 76
   },
-  "total": 78,
-  "updated_at": "2026-11-20T13:43:38.681907+00:00",
+  "total": 150,
+  "updated_at": "2026-11-20T19:30:26.725587+00:00",
   "articles": [
     {
       "link": "https://www.fool.com/investing/2026/11/20/should-you-forget-nvidia-2-artificial-intelligence-ai-stocks-with-more-room-to-10x/?.tsrc=rss",
@@ -320,6 +320,294 @@
     },
     {
       "link": "https://finance.yahoo.com/m/83e6f25c-45b8-3b90-ab21-ee8d7bebe056/sandisk-stock-looked-like-it.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/video/is-todays-market-showing-warning-signs-of-a-2000-bubble-185443509.html?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.trefis.com/stock/nvda/articles/627205/is-nvidia-s-81-billion-receivables-pile-a-risk/2026-11-20?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://247wallst.com/videos/semianalysis-just-slashed-its-ai-compute-forecast-by-608-billion/?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/20/dan-ives-just-delivered-great-news-for-ai-stocks-here-s-the-part-that-matters/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-drop-friday-183703547.html?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/article/apples-secret-ai-agent-shows-john-ternus-is-done-sitting-out-the-ai-race-164226953.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/video/apples-ai-agent-push-why-the-pressure-is-mounting-151336671.html?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.tikr.com/blog/apple-has-no-idea-what-its-doing-in-ai-oh-and-its-building-its-own-ai-agent-too?ref=yahoofinance&tlnk=yf-261120-jcvh6wc4&.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.tikr.com/blog/microns-president-says-we-cant-support-every-customer-apple-just-locked-in-samsungs-dram?ref=yahoofinance&tlnk=yf-261120-2c7wfx6r&.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/apple-plans-ai-agent-rival-181309227.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/video/could-a-handful-of-tech-giants-control-the-future-of-ai-180645576.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/microsoft-msft-valuation-crashed-75x-185012363.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/microsoft-msft-rivals-making-huge-180640023.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/wedbush-microsoft-may-intel-crucial-180407908.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.trefis.com/stock/msft/articles/627236/what-could-stall-microsoft-stocks-run/2026-11-20?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/11/20/broadcom-stock-plunges-12-and-loses-191-billion-after-a-report-that-google-cut-its-plans-for-broadcom-ai-chips/?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/economy/policy/articles/trump-vows-tax-u-firms-190429074.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.trefis.com/stock/ant/articles/627186/anthropic-at-97-big-ipos-rewarded-patient-buyers/2026-11-20?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://wwd.com/sourcing-journal/industry-news/report-walmart-target-amazon-backsliding-chemical-plastic-cuts-1239460454/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/amazon-amzn-big-tech-spending-180258975.html?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.trefis.com/stock/nvda/articles/627083/the-ai-boom-math-in-five-lines/2026-11-20?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/shopify-drops-11-buy-sell-174100619.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/11/20/amazon-stock-what-wall-streets-latest-forecasts-say-about-its-next-move/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/meta-meta-stock-looks-discounted-181051560.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/meta-meta-ai-spending-spree-180436289.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/articles/meta-microsoft-arent-cutting-server-165207063.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.tikr.com/blog/an-11-billion-fund-just-bought-these-3-stocks?ref=yahoofinance&tlnk=yf-261120-jpfcw8j4&.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/11/20/tesla-falls-4-despite-hsbc-upgrade-and-359-target-tied-to-spacex-merger-talk-rivian-drops-5-lucid-slides-4/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-avoiding-tesla-tsla-boosted-165030350.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.manufacturingdive.com/news/LiMiK-Capital-328-million-manufacturing-plant-south-carolina/875286/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-down-0-1-153011735.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/video/sozzi-anthropics-ipo-surges-is-amds-pullback-a-buy-181915349.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/11/20/stock-market-midday-nov-20-nasdaq-plunges-nearly-3-as-amd-and-micron-lead-a-brutal-semiconductor-sell-off/?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/f7918816-1d56-3219-b7b0-56c411582527/amd-stock-is-getting-crushed.html?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/video/amd-falls-china-risk-ross-161925499.html?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/broadcom-overvalued-17-73x-p-175200037.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/58ca2b41-e0b5-372b-8d66-d7952e940cf1/broadcom-stock-falls-on.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.tikr.com/blog/goldman-sachs-cut-its-broadcom-target-to-460-and-the-reason-has-nothing-to-do-with-broadcoms-earnings?ref=yahoofinance&tlnk=yf-261120-qgp5f5w5&.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/broadcom-stocks-move-lower-anthropic-171930686.html?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.benzinga.com/markets/prediction-markets/26/11/63494496/oracle-ai-downside?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/oracle-stocks-fall-2-92-172342961.html?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/oracle-orcl-664b-backlog-fund-152315398.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/global-multimodal-invoice-reconciliation-platform-145200615.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/salesforce-set-exceed-earnings-estimates-171139323.html?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/qualified-upgrades-zoominfo-integration-gtm-144000407.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/articles/global-channel-marketing-software-market-143800579.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/11/20/salesforce-cuts-costs-as-stock-slides-is-the-turnaround-case-real/?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/articles/cloud-good-appoints-former-salesforce-140700475.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/20/netflix-stock-is-down-36-and-wall-street-keeps-dow/?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/a2b405c0-93e0-3125-87d9-0d3775897710/intel-stock%3A-bounceback.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/intel-corporation-intc-faces-high-172212578.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/articles/intel-wins-microsoft-ai-chip-171706213.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/know-beyond-why-qualcomm-incorporated-130004895.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/11/20/if-you-invest-500-in-palantir-each-month-starting-now-this-is-what-youd-have-in-5-years/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/20/cathie-wood-s-ark-has-been-selling-palantir-stock-under-usd160-i-d-buy-it-now/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/articles/ex-super-micro-executive-married-152004969.html?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-industry-outlook-highlights-western-131900064.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/super-micro-computer-inc-smci-130005275.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-ibm-ibm-down-11-153006748.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/articles/purpose-built-backup-appliance-pbba-150900215.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/articles/financial-process-management-market-2026-145100629.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/articles/global-data-protection-replication-solutions-144900894.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/global-bias-monitors-targeting-market-143600536.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/snowflake-vs-adobe-enterprise-ai-155800527.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tsmc-stocks-fall-4-76-173926383.html?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/2b9b2e76-5522-34df-b265-ec18f3dc350c/asia-offers-explosive.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.tikr.com/blog/anthropic-sinks-9-on-day-two-as-ai-selloff-deepens-strategist-warns-against-chasing-the-ipo?ref=yahoofinance&tlnk=yf-261120-87w53p5r&.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-fall-premarket-140915827.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/article/sandisk-shares-begin-trading-at-8-for-1-split-stock-sinks-as-chip-sector-sells-off-142041917.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.marketbeat.com/instant-alerts/event-sandisks-data-center-portfolio-soars-1700-as-ai-demand-reshapes-nand-business-2026-11-20/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/11/20/micron-stock-plunges-13-as-barrons-calls-memory-stocks-agonizingly-cheap-western-digital-sandisk-and-seagate-sink-in-ai-chip-selloff/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/11/20/sandisk-stock-has-pulled-back-heres-where-shares-could-be-headed-next/?.tsrc=rss",
       "sentiment": "positive"
     }
   ]
