@@ -1,14 +1,14 @@
 {
   "date": "2026-11-21",
-  "score": 100,
+  "score": 76,
   "label": "Bullish",
   "counts": {
-    "positive": 6,
-    "negative": 0,
-    "neutral": 8
+    "positive": 16,
+    "negative": 5,
+    "neutral": 32
   },
-  "total": 14,
-  "updated_at": "2026-11-21T10:32:55.738378+00:00",
+  "total": 53,
+  "updated_at": "2026-11-21T17:42:35.861379+00:00",
   "articles": [
     {
       "link": "https://www.fool.com/investing/2026/11/21/nvidia-stock-is-down-35-from-its-high-history-suggests-a-usd5-000-investment-now-will-be-worth-this-much-by-2028/?.tsrc=rss",
@@ -65,6 +65,162 @@
     {
       "link": "https://www.tikr.com/blog/super-micro-just-dropped-33-in-a-month-after-a-record-quarter-is-it-time-to-sell-or-load-up?ref=yahoofinance&tlnk=yf-261121-xjw76j5j&.tsrc=rss",
       "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/article/what-just-happened-to-tech-stocks-162354774.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.tikr.com/blog/sk-hynix-sinks-21-in-a-week-with-micron-and-sandisk-its-u-s-premium-is-an-extra-special-case?ref=yahoofinance&tlnk=yf-261121-947vrx38&.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/21/1-growth-etf-i-m-buying-even-when-the-market-is-expensive/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/9ef9da98-bccf-3565-9a30-9bc3e57ad4b9/dow-jones-futures%3A-after.html?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/11/21/feds-lisa-cook-warns-of-larger-rate-hikes-ahead/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/11/21/mark-gurman-says-apple-is-not-set-up-to-move-at-the-pace-of-these-ai-companies/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.tikr.com/blog/a-1-3-billion-fund-just-bought-these-3-stocks?ref=yahoofinance&tlnk=yf-261121-5m5mfwj7&.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://moneylion.com/trending/money/tech-outages-drive-costco-surge-emergency-prep?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://moneylion.com/trending/money/money-moves-hear-about-company-layoffs?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.tikr.com/blog/a-12-billion-fund-just-bought-these-3-stocks-2?ref=yahoofinance&tlnk=yf-261121-99975xff&.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/11/21/ai-may-have-just-broken-metas-climate-promise/?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/11/21/google-is-paying-elon-musks-spacex-30-billion-jim-cramer-just-revealed-why/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.tikr.com/blog/anthropic-owes-71-billion-for-compute-within-a-year-87-of-current-run-rate-revenue-per-scott-galloway?ref=yahoofinance&tlnk=yf-261121-97jx5h99&.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-top-10-stock-161330448.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.tikr.com/blog/buy-microsoft-and-amazon-at-more-than-70x-2028-free-cash-flow-heres-what-their-capex-must-return?ref=yahoofinance&tlnk=yf-261121-crqwjg7c&.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.thestreet.com/investing/stocks/bank-of-america-doubles-down-on-amazon-stock-ahead-of-2027?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.tikr.com/blog/jim-cramer-amazon-could-sell-its-anthropic-stake-and-say-our-capex-is-paid-for-does-the-math-work?ref=yahoofinance&tlnk=yf-261121-jx78vhmx&.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/amazon-com-amzn-warns-could-140724430.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.tikr.com/blog/hank-paulson-has-never-seen-so-much-money-chasing-one-opportunity-thats-a-problem-for-microsoft-amazon-and-alphabet?ref=yahoofinance&tlnk=yf-261121-2ch8r4jc&.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.tikr.com/blog/if-the-ai-trade-blows-up-metas-saving-grace-is-that-its-social-media-business-still-generates-a-ton-of-cash?ref=yahoofinance&tlnk=yf-261121-c9qw4982&.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/meta-platforms-meta-rethinks-2030-150951042.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.tikr.com/blog/musk-wont-take-stock-awards-simply-for-merging-with-spacex-tesla-shareholders-still-have-to-vote?ref=yahoofinance&tlnk=yf-261121-76hc4w3h&.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.usatoday.com/story/news/state/texas/2026/11/21/heb-leads-southwest-dell-tesla-in-texas-company-ranking/92879701007/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/21/amd-s-data-center-sales-jumped-97-is-the-stock-a-buy/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/21/is-amd-the-stock-to-buy-with-nvidia-in-limbo/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.tikr.com/blog/amd-is-a-direct-stakeholder-in-anthropic-thats-up-to-5-billion-riding-on-its-ipo?ref=yahoofinance&tlnk=yf-261121-5x6px635&.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/21/nvidia-just-issued-a-major-warning-to-amd-and-intel-stock-investors/?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/supermicro-stock-focus-ai-revenue-121208287.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/coverage/better-buy/2026/11/21/asml-vs-broadcom-which-tech-stock-is-a-better-buy-for-2027/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/11/21/3-ai-infrastructure-stocks-to-watch-before-broadcom-reports-on-dec-9/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/21/the-1-thing-i-ll-be-watching-when-broadcom-reports-on-dec-9/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.tikr.com/blog/broadcom-backstops-up-to-29-billion-of-anthropics-leases-anthropic-just-gave-back-its-ipo-pop?ref=yahoofinance&tlnk=yf-261121-8x38gpvg&.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/11/21/oracle-stock-is-now-down-almost-70-from-its-peak/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/article/jensen-huangs-next-move-wall-street-floats-intel-and-spacex-but-bettors-are-banking-on-a-surprise-second-act-123015670.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/21/billionaire-investor-philippe-laffont-just-highlighted-2-companies-he-expects-to-be-big-winners-of-the-agentic-ai-era/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/21/after-plummeting-62-this-year-could-buying-intel-stock-today-set-you-up-for-life/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.tikr.com/blog/a-3-8-billion-fund-just-bought-these-3-stocks?ref=yahoofinance&tlnk=yf-261121-g555pj6m&.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.tikr.com/blog/palantir-just-dropped-25-in-a-month-is-it-time-to-sell-or-load-up?ref=yahoofinance&tlnk=yf-261121-gwq24w5f&.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/11/21/alex-karp-wants-to-sell-100-million-of-palantir-stock-as-it-slides/?.tsrc=rss",
+      "sentiment": "neutral"
     }
   ]
 }

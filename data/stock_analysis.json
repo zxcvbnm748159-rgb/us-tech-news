@@ -1,253 +1,255 @@
 [
   {
     "ticker": "NVDA",
-    "last_updated": "2026-11-21T12:02:23.873022+00:00",
-    "summary": "NVDA มีข่าวที่เกี่ยวข้อง 44 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: Nvidia Stock Is Down 35% From Its High. History Suggests a $5,000 Investment Now Will Be Worth This Much by 2028. ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
+    "last_updated": "2026-11-21T17:42:44.782007+00:00",
+    "summary": "หุ้น SK hynix รวมถึง Micron ร่วงลงอย่างหนักในรอบสัปดาห์ สะท้อนแรงกดดันในกลุ่มชิ้นส่วนฮาร์ดแวร์ นักลงทุนแนะนำกองทุน Growth ETF น่าซื้อแม้ตลาดอยู่ในภาวะราคาสูง หุ้นกลุ่มเทคโนโลยีเผชิญแรงขายอย่างหนักท่ามกลางความกังวลในตลาด",
     "analysis_points": [
-      "พาดหัวล่าสุด: Nvidia Stock Is Down 35% From Its High. History Suggests a $5,000 Investment Now Will Be Worth This Much by 2028.",
-      "การเปลี่ยนแปลงจากราคาปิดก่อนหน้า -14.01%",
-      "ควรอ่านเนื้อหาต้นฉบับและตรวจสอบตัวเลขก่อนสรุปผลกระทบ"
+      "บริบทธุรกิจ: เผชิญแรงกดดันร่วมกับกลุ่มฮาร์ดแวร์และเซมิคอนดักเตอร์จากความผันผวนในตลาด",
+      "โอกาส: ความสนใจในกองทุน Growth ETF สะท้อนมุมมองเชิงบวกระยะยาวต่อหุ้นเติบโตสูง",
+      "ความเสี่ยง: ความกังวลในตลาดวงกว้างและแรงขายในกลุ่มชิ้นส่วนฮาร์ดแวร์"
     ],
-    "analysis_source": "rules"
+    "analysis_source": "gemini"
   },
   {
     "ticker": "AAPL",
-    "last_updated": "2026-11-21T12:02:23.873022+00:00",
-    "summary": "AAPL มีข่าวที่เกี่ยวข้อง 24 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: Startup sues Apple in India over tap-to-share contacts feature ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
+    "last_updated": "2026-11-21T17:42:44.782007+00:00",
+    "summary": "Mark Gurman เผย Apple ยังไม่พร้อมเคลื่อนไหวตามความเร็วของบริษัท AI อื่นๆ สตาร์ทอัพยื่นฟ้อง Apple ในอินเดียกรณีฟีเจอร์แชร์รายชื่อติดต่อแบบแตะเครื่อง Meta เตรียมขายอุปกรณ์ Muse Charm พร้อม Verizon 5G แข่งกับ Apple AI Agent",
     "analysis_points": [
-      "พาดหัวล่าสุด: Startup sues Apple in India over tap-to-share contacts feature",
-      "การเปลี่ยนแปลงจากราคาปิดก่อนหน้า -1.90%",
-      "ควรอ่านเนื้อหาต้นฉบับและตรวจสอบตัวเลขก่อนสรุปผลกระทบ"
+      "บริบทธุรกิจ: เผชิญความท้าทายด้านความเร็วในการพัฒนาและแข่งขันในเทคโนโลยี AI",
+      "โอกาส: การพัฒนา Apple AI Agent เพื่อสร้างบริการและผลิตภัณฑ์ใหม่แข่งขันในตลาด",
+      "ความเสี่ยง: การแข่งขันด้านฮาร์ดแวร์และบริการ AI จากคู่แข่ง รวมถึงคดีความทางกฎหมาย"
     ],
-    "analysis_source": "rules"
+    "analysis_source": "gemini"
   },
   {
     "ticker": "MSFT",
-    "last_updated": "2026-11-21T12:02:23.873022+00:00",
-    "summary": "MSFT มีข่าวที่เกี่ยวข้อง 24 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: Did Microsoft AI Partnership Just Shift Danaher's (DHR) Investment Narrative? ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
+    "last_updated": "2026-11-21T17:42:44.782007+00:00",
+    "summary": "กองทุนขนาด 1.3 พันล้านดอลลาร์เข้าซื้อหุ้นเด่น 3 ตัว รวมถึง MSFT เหตุการณ์ระบบเทคโนโลยีขัดข้องส่งผลให้ Costco ได้รับอานิสงส์ยอดขายพุ่ง คำแนะนำการจัดการการเงินส่วนบุคคลเมื่อบริษัทประกาศปลดพนักงาน",
     "analysis_points": [
-      "พาดหัวล่าสุด: Did Microsoft AI Partnership Just Shift Danaher's (DHR) Investment Narrative?",
-      "การเปลี่ยนแปลงจากราคาปิดก่อนหน้า -2.77%",
-      "ควรอ่านเนื้อหาต้นฉบับและตรวจสอบตัวเลขก่อนสรุปผลกระทบ"
+      "บริบทธุรกิจ: ได้รับความสนใจจากกองทุนขนาดใหญ่สะท้อนความเชื่อมั่นในพื้นฐาน",
+      "โอกาส: การเข้าถือหุ้นจากสถาบันการเงินช่วยเสริมความแข็งแกร่งด้านความเชื่อมั่น",
+      "ความเสี่ยง: ความท้าทายจากเหตุการณ์ระบบเทคโนโลยีขัดข้องในอุตสาหกรรมวงกว้าง"
     ],
-    "analysis_source": "rules"
+    "analysis_source": "gemini"
   },
   {
     "ticker": "GOOGL",
-    "last_updated": "2026-11-21T12:02:23.873022+00:00",
-    "summary": "GOOGL มีข่าวที่เกี่ยวข้อง 27 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: 3 Data Center Power Stocks Down More Than a Third From Their Records to Buy Now and Hold Through 2030 ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
+    "last_updated": "2026-11-21T17:42:44.782007+00:00",
+    "summary": "การพัฒนา AI อาจทำให้เป้าหมายด้านสภาพภูมิอากาศของ Meta ต้องสะดุดลง Google ทุ่มงบ 3 หมื่นล้านดอลลาร์ให้ SpaceX ตามการเปิดเผยของ Jim Cramer Anthropic เผชิญภาระต้นทุนค่าประมวลผลสูงถึง 71 พันล้านดอลลาร์ในหนึ่งปี",
     "analysis_points": [
-      "พาดหัวล่าสุด: 3 Data Center Power Stocks Down More Than a Third From Their Records to Buy Now and Hold Through 2030",
-      "การเปลี่ยนแปลงจากราคาปิดก่อนหน้า -2.70%",
-      "ควรอ่านเนื้อหาต้นฉบับและตรวจสอบตัวเลขก่อนสรุปผลกระทบ"
+      "บริบทธุรกิจ: การลงทุนและการร่วมมือเชิงกลยุทธ์ในโครงสร้างพื้นฐานและเทคโนโลยีอนาคต",
+      "โอกาส: การลงทุนขยายขีดความสามารถด้านเทคโนโลยีและเครือข่าย",
+      "ความเสี่ยง: ต้นทุนการประมวลผลและข้อจำกัดด้านสิ่งแวดล้อมจากการเติบโตของ AI"
     ],
-    "analysis_source": "rules"
+    "analysis_source": "gemini"
   },
   {
     "ticker": "AMZN",
-    "last_updated": "2026-11-21T12:02:23.873022+00:00",
-    "summary": "AMZN มีข่าวที่เกี่ยวข้อง 17 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: Amazon's re:Invent Conference Starts Nov. 30. Here's What the Stock Did in the Month After the Last 10. ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
+    "last_updated": "2026-11-21T17:42:44.782007+00:00",
+    "summary": "วิเคราะห์การลงทุนใน Microsoft และ Amazon ที่ระดับ P/FCF ปี 2028 สูงกว่า 70 เท่า พร้อมผลตอบแทน Capex Bank of America doubles down on Amazon stock ahead of 2027 Jim Cramer: Amazon Could Sell Its Anthropic Stake and Say “Our CapEx Is Paid For.” Does the Math Work?",
     "analysis_points": [
-      "พาดหัวล่าสุด: Amazon's re:Invent Conference Starts Nov. 30. Here's What the Stock Did in the Month After the Last 10.",
-      "การเปลี่ยนแปลงจากราคาปิดก่อนหน้า -4.10%",
-      "ควรอ่านเนื้อหาต้นฉบับและตรวจสอบตัวเลขก่อนสรุปผลกระทบ"
+      "บริบทธุรกิจ: การลงทุนในโครงสร้างพื้นฐานและผลตอบแทนจากการใช้จ่ายลงทุน (CapEx)",
+      "โอกาส: มุมมองเชิงบวกจากสถาบันการเงินและการประเมินมูลค่าสินทรัพย์ลงทุน",
+      "ความเสี่ยง: ความคุ้มค่าและภาระต้นทุนจากการลงทุนในโครงสร้างพื้นฐาน AI"
     ],
-    "analysis_source": "rules"
+    "analysis_source": "gemini"
   },
   {
     "ticker": "META",
-    "last_updated": "2026-11-21T12:02:23.873022+00:00",
-    "summary": "META มีข่าวที่เกี่ยวข้อง 10 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: George Soros Raised His Meta (META) Stake by 596%. Then the Stock Fell ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
+    "last_updated": "2026-11-21T17:42:44.782007+00:00",
+    "summary": "If the AI Trade Blows Up, Meta’s Saving Grace Is That Its Social Media Business Still “Generates a Ton of Cash” Meta Platforms (META) Rethinks 2030 Climate Goals After 45% AI Emissions Jump George Soros Raised His Meta (META) Stake by 596%. Then the Stock Fell",
     "analysis_points": [
-      "พาดหัวล่าสุด: George Soros Raised His Meta (META) Stake by 596%. Then the Stock Fell",
-      "การเปลี่ยนแปลงจากราคาปิดก่อนหน้า -5.93%",
-      "ควรอ่านเนื้อหาต้นฉบับและตรวจสอบตัวเลขก่อนสรุปผลกระทบ"
+      "บริบทธุรกิจ: กระแสเงินสดจากธุรกิจโซเชียลมีเดียหลักช่วยรองรับความเสี่ยงจากการลงทุน AI",
+      "โอกาส: การเข้าสะสมหุ้นจากนักลงทุนรายใหญ่สะท้อนมุมมองเชิงบวกต่อธุรกิจหลัก",
+      "ความเสี่ยง: การปล่อยก๊าซเรือนกระจกที่เพิ่มขึ้นจากการใช้งาน AI ส่งผลให้ต้องทบทวนเป้าหมายสิ่งแวดล้อม"
     ],
-    "analysis_source": "rules"
+    "analysis_source": "gemini"
   },
   {
     "ticker": "TSLA",
-    "last_updated": "2026-11-21T12:02:23.873022+00:00",
-    "summary": "TSLA มีข่าวที่เกี่ยวข้อง 19 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: MKBHD Says He Will Honor Tesla Cybercab’s 2024 Bet, Elon Musk Says ‘Fair Enough’: ‘I Will Accept Delivery…’ ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
+    "last_updated": "2026-11-21T17:42:44.782007+00:00",
+    "summary": "Musk Won’t Take Stock Awards “Simply for Merging With SpaceX.” Tesla Shareholders Still Have to Vote H-E-B, Southwest, Dell lead Forbes' best Texas companies list MKBHD Says He Will Honor Tesla Cybercab’s 2024 Bet, Elon Musk Says ‘Fair Enough’: ‘I Will Accept Delivery…‘",
     "analysis_points": [
-      "พาดหัวล่าสุด: MKBHD Says He Will Honor Tesla Cybercab’s 2024 Bet, Elon Musk Says ‘Fair Enough’: ‘I Will Accept Delivery…’",
-      "การเปลี่ยนแปลงจากราคาปิดก่อนหน้า -7.64%",
-      "ควรอ่านเนื้อหาต้นฉบับและตรวจสอบตัวเลขก่อนสรุปผลกระทบ"
+      "บริบทธุรกิจ: การบริหารจัดการโครงสร้างองค์กรและการลงมติของผู้ถือหุ้น",
+      "โอกาส: ความคืบหน้าและการส่งมอบผลิตภัณฑ์นวัตกรรมใหม่เช่น Cybercab",
+      "ความเสี่ยง: ความไม่แน่นอนจากการอนุมัติของแผนงานและโครงสร้างผลตอบแทน"
     ],
-    "analysis_source": "rules"
+    "analysis_source": "gemini"
   },
   {
     "ticker": "AMD",
-    "last_updated": "2026-11-21T12:02:23.873022+00:00",
-    "summary": "AMD มีข่าวที่เกี่ยวข้อง 23 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: How Biden’s former aide sparked a $100bn stock market sell-off ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
+    "last_updated": "2026-11-21T17:42:44.782007+00:00",
+    "summary": "AMD’s Data Center Sales Jumped 97%. Is the Stock a Buy? Is AMD the Stock to Buy With Nvidia in Limbo? AMD Is “A Direct Stakeholder in Anthropic.” That’s Up to $5 Billion Riding on Its IPO",
     "analysis_points": [
-      "พาดหัวล่าสุด: How Biden’s former aide sparked a $100bn stock market sell-off",
-      "การเปลี่ยนแปลงจากราคาปิดก่อนหน้า -13.25%",
-      "ควรอ่านเนื้อหาต้นฉบับและตรวจสอบตัวเลขก่อนสรุปผลกระทบ"
+      "บริบทธุรกิจ: การเติบโตแข็งแกร่งของยอดขายในส่วนของ Data Center",
+      "โอกาส: ศักยภาพในการแย่งส่วนแบ่งตลาดฮาร์ดแวร์ AI และการลงทุนในบริษัทเทคโนโลยี",
+      "ความเสี่ยง: การแข่งขันที่รุนแรงในตลาดชิปประมวลผล AI"
     ],
-    "analysis_source": "rules"
+    "analysis_source": "gemini"
   },
   {
     "ticker": "AVGO",
-    "last_updated": "2026-11-21T12:02:23.873022+00:00",
-    "summary": "AVGO มีข่าวที่เกี่ยวข้อง 11 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: Data Center AI Chips Could Change the Winners: Broadcom and Marvell ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
+    "last_updated": "2026-11-21T17:42:44.782007+00:00",
+    "summary": "ASML vs. Broadcom: Which Tech Stock Is a Better Buy for 2027? 3 AI Infrastructure Stocks to Watch Before Broadcom Reports on Dec. 9 The 1 Thing I'll Be Watching When Broadcom Reports on Dec. 9",
     "analysis_points": [
-      "พาดหัวล่าสุด: Data Center AI Chips Could Change the Winners: Broadcom and Marvell",
-      "การเปลี่ยนแปลงจากราคาปิดก่อนหน้า -12.19%",
-      "ควรอ่านเนื้อหาต้นฉบับและตรวจสอบตัวเลขก่อนสรุปผลกระทบ"
+      "บริบทธุรกิจ: การเป็นผู้เล่นสำคัญในโครงสร้างพื้นฐาน AI รอการรายงานผลประกอบการ",
+      "โอกาส: ความต้องการโครงสร้างพื้นฐาน AI ที่ยังคงเติบโตต่อเนื่อง",
+      "ความเสี่ยง: ความคาดหวังของตลาดต่อผลประกอบการที่จะประกาศ"
     ],
-    "analysis_source": "rules"
+    "analysis_source": "gemini"
   },
   {
     "ticker": "ORCL",
-    "last_updated": "2026-11-21T12:02:23.873022+00:00",
-    "summary": "ORCL มีข่าวที่เกี่ยวข้อง 8 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: Oracle says OpenAI contract is fully funded, addresses market financing scrutiny ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
+    "last_updated": "2026-11-21T17:42:44.782007+00:00",
+    "summary": "Oracle Stock Is Now Down Almost 70% From its Peak Oracle says OpenAI contract is fully funded, addresses market financing scrutiny Oracle Stock Slides 6%, but Bernstein Says It’s Worth $133 Even if Its AI Data-Center Business Fails",
     "analysis_points": [
-      "พาดหัวล่าสุด: Oracle says OpenAI contract is fully funded, addresses market financing scrutiny",
-      "การเปลี่ยนแปลงจากราคาปิดก่อนหน้า -8.48%",
-      "ควรอ่านเนื้อหาต้นฉบับและตรวจสอบตัวเลขก่อนสรุปผลกระทบ"
+      "บริบทธุรกิจ: ความกังวลของตลาดเกี่ยวกับการจัดหาเงินทุนสำหรับสัญญา AI",
+      "โอกาส: การยืนยันความพร้อมด้านเงินทุนจากคู่ค้าสำคัญช่วยลดความกังวล",
+      "ความเสี่ยง: ความผันผวนของราคาหุ้นและความกังวลต่อธุรกิจ Data Center"
     ],
-    "analysis_source": "rules"
+    "analysis_source": "gemini"
   },
   {
     "ticker": "CRM",
-    "last_updated": "2026-11-21T12:02:23.873022+00:00",
-    "summary": "CRM มีข่าวที่เกี่ยวข้อง 11 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: Salesforce vs. ServiceNow: Which Technology Stock Is a Better Buy for 2027? ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
+    "last_updated": "2026-11-21T17:42:44.782007+00:00",
+    "summary": "Salesforce vs. ServiceNow: Which Technology Stock Is a Better Buy for 2027? Coatue Management Just Bought 8 Million Shares of Salesforce Stock. Why Investors Should Care. Salesforce Set to Exceed Earnings Estimates Amid Low Bar, Agentforce Demand, Oppenheimer Says",
     "analysis_points": [
-      "พาดหัวล่าสุด: Salesforce vs. ServiceNow: Which Technology Stock Is a Better Buy for 2027?",
-      "การเปลี่ยนแปลงจากราคาปิดก่อนหน้า -1.47%",
-      "ควรอ่านเนื้อหาต้นฉบับและตรวจสอบตัวเลขก่อนสรุปผลกระทบ"
+      "บริบทธุรกิจ: ความต้องการผลิตภัณฑ์ Agentforce และคาดการณ์ผลประกอบการ",
+      "โอกาส: การเข้าซื้อหุ้นเพิ่มจากกองทุนใหญ่สะท้อนความเชื่อมั่น",
+      "ความเสี่ยง: การแข่งขันสูงในกลุ่มซอฟต์แวร์องค์กร"
     ],
-    "analysis_source": "rules"
+    "analysis_source": "gemini"
   },
   {
     "ticker": "NFLX",
-    "last_updated": "2026-11-21T12:02:23.873022+00:00",
-    "summary": "NFLX มีข่าวที่เกี่ยวข้อง 7 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: Prediction: Netflix and Disney Will “Blame Grand Theft Auto” for Falling Viewership, per Scott Galloway ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
+    "last_updated": "2026-11-21T17:42:44.782007+00:00",
+    "summary": "Prediction: Netflix and Disney Will “Blame Grand Theft Auto” for Falling Viewership, per Scott Galloway Disney (DIS) Is Catching Up to Netflix (NFLX), but the Upside May Be Shrinking Walt Disney (DIS) Says Its In House AI Cuts Film Compute Costs 30%",
     "analysis_points": [
-      "พาดหัวล่าสุด: Prediction: Netflix and Disney Will “Blame Grand Theft Auto” for Falling Viewership, per Scott Galloway",
-      "การเปลี่ยนแปลงจากราคาปิดก่อนหน้า -2.96%",
-      "ควรอ่านเนื้อหาต้นฉบับและตรวจสอบตัวเลขก่อนสรุปผลกระทบ"
+      "บริบทธุรกิจ: การแข่งขันในอุตสาหกรรมสตรีมมิ่งและความบันเทิง",
+      "โอกาส: การนำเทคโนโลยี AI มาช่วยลดต้นทุนการผลิตคอนเทนต์ในอุตสาหกรรม",
+      "ความเสี่ยง: การแย่งชิงเวลาผู้บริโภคจากสื่อและความบันเทิงรูปแบบอื่น"
     ],
-    "analysis_source": "rules"
+    "analysis_source": "gemini"
   },
   {
     "ticker": "INTC",
-    "last_updated": "2026-11-21T12:02:23.873022+00:00",
-    "summary": "INTC มีข่าวที่เกี่ยวข้อง 8 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: Could Jensen Huang Land At Nvidia Rival Intel? ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
+    "last_updated": "2026-11-21T17:42:44.782007+00:00",
+    "summary": "Billionaire Investor Philippe Laffont Just Highlighted 2 Companies He Expects to Be Big Winners of the Agentic AI Era After Plummeting 62% This Year, Could Buying Intel Stock Today Set You Up for Life? A $3.8 Billion Fund Just Bought These 3 Stocks",
     "analysis_points": [
-      "พาดหัวล่าสุด: Could Jensen Huang Land At Nvidia Rival Intel?",
-      "การเปลี่ยนแปลงจากราคาปิดก่อนหน้า -7.97%",
-      "ควรอ่านเนื้อหาต้นฉบับและตรวจสอบตัวเลขก่อนสรุปผลกระทบ"
+      "บริบทธุรกิจ: การปรับตัวในยุค Agentic AI และความสนใจจากกองทุนลงทุน",
+      "โอกาส: มุมมองจากนักลงทุนรายใหญ่ที่มองเห็นศักยภาพการฟื้นตัวระยะยาว",
+      "ความเสี่ยง: ความท้าทายในการพลิกฟื้นธุรกิจหลังความผันผวนที่ผ่านมา"
     ],
-    "analysis_source": "rules"
+    "analysis_source": "gemini"
   },
   {
     "ticker": "QCOM",
-    "last_updated": "2026-11-21T12:02:23.873022+00:00",
-    "summary": "QCOM มีข่าวที่เกี่ยวข้อง 5 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: George Soros and 20 Other Big Funds Bought Qualcomm Last Quarter. David Tepper and 14 Others Sold. Who’s Right? ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
+    "last_updated": "2026-11-21T17:42:44.782007+00:00",
+    "summary": "George Soros and 20 Other Big Funds Bought Qualcomm Last Quarter. David Tepper and 14 Others Sold. Who’s Right? Why Are Investors Ignoring Qualcomm Stock's High Cash Yield? Here is What to Know Beyond Why QUALCOMM Incorporated (QCOM) is a Trending Stock",
     "analysis_points": [
-      "พาดหัวล่าสุด: George Soros and 20 Other Big Funds Bought Qualcomm Last Quarter. David Tepper and 14 Others Sold. Who’s Right?",
-      "การเปลี่ยนแปลงจากราคาปิดก่อนหน้า -7.45%",
-      "ควรอ่านเนื้อหาต้นฉบับและตรวจสอบตัวเลขก่อนสรุปผลกระทบ"
+      "บริบทธุรกิจ: กระแสเงินสดและผลตอบแทนที่สูงแต่ยังมีความเห็นที่แตกต่างกันของนักลงทุนสถาบัน",
+      "โอกาส: ความน่าสนใจจากอัตราผลตอบแทนเงินสดสูง",
+      "ความเสี่ยง: ความไม่แน่นอนจากการปรับพอร์ตของนักลงทุนรายใหญ่"
     ],
-    "analysis_source": "rules"
+    "analysis_source": "gemini"
   },
   {
     "ticker": "PLTR",
-    "last_updated": "2026-11-21T12:02:23.873022+00:00",
-    "summary": "PLTR มีข่าวที่เกี่ยวข้อง 5 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: If You Invest $500 in Palantir Each Month Starting Now, This is What You’d Have in 5 Years ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
+    "last_updated": "2026-11-21T17:42:44.782007+00:00",
+    "summary": "Palantir Just Dropped 25% in a Month. Is It Time to Sell, or Load Up? Alex Karp Wants to Sell $100 Million of Palantir Stock as It Slides If You Invest $500 in Palantir Each Month Starting Now, This is What You’d Have in 5 Years",
     "analysis_points": [
-      "พาดหัวล่าสุด: If You Invest $500 in Palantir Each Month Starting Now, This is What You’d Have in 5 Years",
-      "การเปลี่ยนแปลงจากราคาปิดก่อนหน้า -6.63%",
-      "ควรอ่านเนื้อหาต้นฉบับและตรวจสอบตัวเลขก่อนสรุปผลกระทบ"
+      "บริบทธุรกิจ: การเคลื่อนไหวของราคาหุ้นและการขายหุ้นของผู้บริหาร",
+      "โอกาส: ความนิยมในฐานะตัวเลือกการลงทุนระยะยาวผ่านแผนการสะสม",
+      "ความเสี่ยง: แรงกดดันจากการขายหุ้นของผู้บริหารในช่วงที่ราคาปรับฐาน"
     ],
-    "analysis_source": "rules"
+    "analysis_source": "gemini"
   },
   {
     "ticker": "SMCI",
-    "last_updated": "2026-11-21T12:02:23.873022+00:00",
-    "summary": "SMCI มีข่าวที่เกี่ยวข้อง 7 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: Super Micro Just Dropped 33% in a Month After a Record Quarter. Is It Time to Sell, or Load Up? ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
+    "last_updated": "2026-11-21T17:42:44.782007+00:00",
+    "summary": "Super Micro Just Dropped 33% in a Month After a Record Quarter. Is It Time to Sell, or Load Up? Ex-Super Micro executive, married to Jensen Huang’s ex-sales chief, says she took a CEO job at an Nvidia customer days before a $2.5 billion China smuggling scandal broke Zacks Industry Outlook Highlights Western Digital, Super Micro Computer and Quantum",
     "analysis_points": [
-      "พาดหัวล่าสุด: Super Micro Just Dropped 33% in a Month After a Record Quarter. Is It Time to Sell, or Load Up?",
-      "การเปลี่ยนแปลงจากราคาปิดก่อนหน้า -9.19%",
-      "ควรอ่านเนื้อหาต้นฉบับและตรวจสอบตัวเลขก่อนสรุปผลกระทบ"
+      "บริบทธุรกิจ: ความท้าทายด้านธรรมาภิบาลและข่าวสารที่เกี่ยวข้องกับห่วงโซ่อุปทาน",
+      "โอกาส: ความต้องการในอุตสาหกรรมฮาร์ดแวร์เซิร์ฟเวอร์ AI",
+      "ความเสี่ยง: ความกังวลด้านข่าวสารและการตรวจสอบที่อาจส่งผลกระทบต่อความเชื่อมั่น"
     ],
-    "analysis_source": "rules"
+    "analysis_source": "gemini"
   },
   {
     "ticker": "IBM",
-    "last_updated": "2026-11-21T12:02:23.873022+00:00",
-    "summary": "IBM มีข่าวที่เกี่ยวข้อง 10 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: Why Is IBM (IBM) Down 11.2% Since Last Earnings Report? ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
+    "last_updated": "2026-11-21T17:42:44.782007+00:00",
+    "summary": "Why Is IBM (IBM) Down 11.2% Since Last Earnings Report? Purpose-Built Backup Appliance (PBBA) - Global Strategic Business Report 2026: Capitalize on 8.4% CAGR and $15.9B by 2032 with Key Players Financial Process Management Market 2026: Size, Share, Trends, and Forecast to 2030",
     "analysis_points": [
-      "พาดหัวล่าสุด: Why Is IBM (IBM) Down 11.2% Since Last Earnings Report?",
-      "การเปลี่ยนแปลงจากราคาปิดก่อนหน้า +0.25%",
-      "ควรอ่านเนื้อหาต้นฉบับและตรวจสอบตัวเลขก่อนสรุปผลกระทบ"
+      "บริบทธุรกิจ: การเติบโตในตลาดคลาวด์ การจัดการกระบวนการทางการเงิน และระบบสำรองข้อมูล",
+      "โอกาส: การเติบโตของตลาดซอฟต์แวร์องค์กรและระบบอัตโนมัติ",
+      "ความเสี่ยง: แรงกดดันต่อเนื่องจากผลประกอบการที่ผ่านมา"
     ],
-    "analysis_source": "rules"
+    "analysis_source": "gemini"
   },
   {
     "ticker": "ADBE",
-    "last_updated": "2026-11-21T12:02:23.873022+00:00",
-    "summary": "ADBE มีข่าวที่เกี่ยวข้อง 4 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: Snowflake vs. Adobe: Which Enterprise AI Stock Is a Better Buy? ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
+    "last_updated": "2026-11-21T17:42:44.782007+00:00",
+    "summary": "Snowflake vs. Adobe: Which Enterprise AI Stock Is a Better Buy? Adobe Systems (ADBE) Stock Moves -2.00%: What You Should Know Adobe vs. Synopsys: Which Technology Stock Is a Better Buy for 2027?",
     "analysis_points": [
-      "พาดหัวล่าสุด: Snowflake vs. Adobe: Which Enterprise AI Stock Is a Better Buy?",
-      "การเปลี่ยนแปลงจากราคาปิดก่อนหน้า -1.79%",
-      "ควรอ่านเนื้อหาต้นฉบับและตรวจสอบตัวเลขก่อนสรุปผลกระทบ"
+      "บริบทธุรกิจ: การแข่งขันในตลาดซอฟต์แวร์และเครื่องมือปัญญาประดิษฐ์สำหรับองค์กร",
+      "โอกาส: การพัฒนาโซลูชัน AI เพื่อตอบสนองความต้องการใช้งานระดับองค์กร",
+      "ความเสี่ยง: การแข่งขันที่รุนแรงกับแพลตฟอร์มซอฟต์แวร์อื่นๆ"
     ],
-    "analysis_source": "rules"
+    "analysis_source": "gemini"
   },
   {
     "ticker": "TSM",
-    "last_updated": "2026-11-21T12:02:23.873022+00:00",
-    "summary": "TSM มีข่าวที่เกี่ยวข้อง 12 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: Taiwan Semiconductor Manufacturing (NYSE:TSM) Pauses Advanced Chip Shipments To China ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
+    "last_updated": "2026-11-21T17:42:44.782007+00:00",
+    "summary": "Taiwan Semiconductor Manufacturing (NYSE:TSM) Pauses Advanced Chip Shipments To China TSMC Stocks Fall 4.76% as Taiwan Logs Worst Week Since 1991 Asia Offers Explosive Innovation at Bargain Prices. 16 Stock Picks From Our Roundtable Experts.",
     "analysis_points": [
-      "พาดหัวล่าสุด: Taiwan Semiconductor Manufacturing (NYSE:TSM) Pauses Advanced Chip Shipments To China",
-      "การเปลี่ยนแปลงจากราคาปิดก่อนหน้า -9.48%",
-      "ควรอ่านเนื้อหาต้นฉบับและตรวจสอบตัวเลขก่อนสรุปผลกระทบ"
+      "บริบทธุรกิจ: การปฏิบัติตามกฎระเบียบด้วยการระงับการจัดส่งชิปขั้นสูงไปยังบางตลาด",
+      "โอกาส: ความต้องการเทคโนโลยีการผลิตชิประดับสูงในระยะยาว",
+      "ความเสี่ยง: ผลกระทบจากมาตรการควบคุมการส่งออกและความตึงเครียดภูมิรัฐศาสตร์"
     ],
-    "analysis_source": "rules"
+    "analysis_source": "gemini"
   },
   {
     "ticker": "GCTK",
-    "last_updated": "2026-11-21T12:02:23.873022+00:00",
-    "summary": "GCTK: ยังไม่พบข่าวที่เกี่ยวข้องในช่วง 48 ชั่วโมงล่าสุด · การเปลี่ยนแปลงจากราคาปิดก่อนหน้า -2.14%",
+    "last_updated": "2026-11-21T17:42:44.782007+00:00",
+    "summary": "ยังไม่มีหลักฐานข่าวเพียงพอ",
     "analysis_points": [
-      "การเปลี่ยนแปลงจากราคาปิดก่อนหน้า -2.14%",
-      "ยังไม่มีหลักฐานข่าวเพียงพอสำหรับอธิบายการเคลื่อนไหว"
+      "บริบทธุรกิจ: ไม่มีข้อมูลข่าวสารเพียงพอสำหรับการวิเคราะห์",
+      "โอกาส: -",
+      "ความเสี่ยง: -"
     ],
-    "analysis_source": "rules"
+    "analysis_source": "gemini"
   },
   {
     "ticker": "QUCY",
-    "last_updated": "2026-11-21T12:02:23.873022+00:00",
-    "summary": "QUCY: ยังไม่พบข่าวที่เกี่ยวข้องในช่วง 48 ชั่วโมงล่าสุด · การเปลี่ยนแปลงจากราคาปิดก่อนหน้า -7.25%",
+    "last_updated": "2026-11-21T17:42:44.782007+00:00",
+    "summary": "ยังไม่มีหลักฐานข่าวเพียงพอ",
     "analysis_points": [
-      "การเปลี่ยนแปลงจากราคาปิดก่อนหน้า -7.25%",
-      "ยังไม่มีหลักฐานข่าวเพียงพอสำหรับอธิบายการเคลื่อนไหว"
+      "บริบทธุรกิจ: ไม่มีข้อมูลข่าวสารเพียงพอสำหรับการวิเคราะห์",
+      "โอกาส: -",
+      "ความเสี่ยง: -"
     ],
-    "analysis_source": "rules"
+    "analysis_source": "gemini"
   },
   {
     "ticker": "ONDS",
-    "last_updated": "2026-11-21T12:02:23.873022+00:00",
-    "summary": "ONDS มีข่าวที่เกี่ยวข้อง 1 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: Unusual Machines Rallies 7% on Oppenheimer’s $30 Target; Red Cat Falls 7% in Extended Post-Earnings Rout, Ondas Holds Steady ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
+    "last_updated": "2026-11-21T17:42:44.782007+00:00",
+    "summary": "ยังไม่มีหลักฐานข่าวเพียงพอ",
     "analysis_points": [
-      "พาดหัวล่าสุด: Unusual Machines Rallies 7% on Oppenheimer’s $30 Target; Red Cat Falls 7% in Extended Post-Earnings Rout, Ondas Holds Steady",
-      "การเปลี่ยนแปลงจากราคาปิดก่อนหน้า -11.11%",
-      "ควรอ่านเนื้อหาต้นฉบับและตรวจสอบตัวเลขก่อนสรุปผลกระทบ"
+      "บริบทธุรกิจ: ไม่มีข้อมูลข่าวสารเพียงพอสำหรับการวิเคราะห์",
+      "โอกาส: -",
+      "ความเสี่ยง: -"
     ],
-    "analysis_source": "rules"
+    "analysis_source": "gemini"
   },
   {
     "ticker": "SNDK",
-    "last_updated": "2026-11-21T12:02:23.873022+00:00",
-    "summary": "SNDK มีข่าวที่เกี่ยวข้อง 9 รายการในช่วง 48 ชั่วโมงล่าสุด พาดหัวล่าสุด: Sandisk (SNDK) Implements 8 For 1 Stock Split ข้อมูลนี้ยังไม่ยืนยันผลต่อราคาหุ้น",
+    "last_updated": "2026-11-21T17:42:44.782007+00:00",
+    "summary": "Sandisk (SNDK) Implements 8 For 1 Stock Split Sandisk’s Data Center Portfolio Soars 1,700% as AI Demand Reshapes NAND Business Micron Stock Plunges 13% as Barron’s Calls Memory Stocks ‘Agonizingly Cheap’; Western Digital, SanDisk and Seagate Sink in AI Chip Selloff",
     "analysis_points": [
-      "พาดหัวล่าสุด: Sandisk (SNDK) Implements 8 For 1 Stock Split",
-      "การเปลี่ยนแปลงจากราคาปิดก่อนหน้า -16.05%",
-      "ควรอ่านเนื้อหาต้นฉบับและตรวจสอบตัวเลขก่อนสรุปผลกระทบ"
+      "บริบทธุรกิจ: การเติบโตสูงของพอร์ตโฟลิโอ Data Center จากความต้องการหน่วยความจำ NAND สำหรับ AI",
+      "โอกาส: การแตกพาร์เพื่อเพิ่มสภาพคล่องและกระแสความต้องการชิ้นส่วนหน่วยความจำ",
+      "ความเสี่ยง: ความผันผวนรุนแรงในกลุ่มหุ้นชิปหน่วยความจำตามภาวะตลาด"
     ],
-    "analysis_source": "rules"
+    "analysis_source": "gemini"
   }
 ]
