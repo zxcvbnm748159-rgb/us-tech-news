@@ -1,7 +1,7 @@
 {
   "date": "2026-11-21",
   "window_days": 7,
-  "source_count": 1242,
+  "source_count": 1261,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 176,
+      "count": 181,
       "kind": "ticker"
     },
     {
@@ -18,7 +18,7 @@
       "search_terms": [
         "GOOGL"
       ],
-      "count": 103,
+      "count": 106,
       "kind": "ticker"
     },
     {
@@ -27,7 +27,7 @@
       "search_terms": [
         "MSFT"
       ],
-      "count": 100,
+      "count": 101,
       "kind": "ticker"
     },
     {
@@ -45,7 +45,7 @@
       "search_terms": [
         "TSLA"
       ],
-      "count": 86,
+      "count": 89,
       "kind": "ticker"
     },
     {
@@ -54,7 +54,7 @@
       "search_terms": [
         "AMZN"
       ],
-      "count": 85,
+      "count": 88,
       "kind": "ticker"
     },
     {
@@ -63,7 +63,7 @@
       "search_terms": [
         "AAPL"
       ],
-      "count": 78,
+      "count": 79,
       "kind": "ticker"
     },
     {
@@ -72,7 +72,7 @@
       "search_terms": [
         "META"
       ],
-      "count": 57,
+      "count": 58,
       "kind": "ticker"
     },
     {
@@ -102,20 +102,23 @@
       "search_terms": [
         "AVGO"
       ],
-      "count": 49,
+      "count": 50,
       "kind": "ticker"
     },
     {
-      "label": "CRM",
-      "query": "CRM",
+      "label": "AI Chip",
+      "query": "AI Chip",
       "search_terms": [
-        "CRM"
+        "AI chip",
+        "GPU",
+        "accelerator",
+        "semiconductor"
       ],
       "count": 48,
-      "kind": "ticker"
+      "kind": "topic"
     }
   ],
-  "updated_at": "2026-11-21T18:34:47.775148+00:00",
+  "updated_at": "2026-11-21T22:24:33.376898+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -17504,6 +17507,272 @@
       "sentiment": "neutral",
       "sentiment_source": "headline_vader",
       "fetched_at": "2026-11-21T18:34:46.401983+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Prediction: This Will Be Nvidia’s Stock Price in 2027 After Its Phenomenal Q3 Results",
+      "link": "https://www.fool.com/investing/2026/11/21/prediction-this-will-be-nvidia-s-stock-price-in-2027-after-its-phenomenal-q3-results/?.tsrc=rss",
+      "published": "Sat, 21 Nov 2026 22:07:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-21T22:24:29.843368+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Nvidia faces US accounting probe amid deepening turmoil: media",
+      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-faces-us-accounting-probe-215354861.html?.tsrc=rss",
+      "published": "Sat, 21 Nov 2026 21:53:54 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-21T22:24:29.843471+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "AI Selloff Has Opened New Ways To Play Semiconductor Short Exposure",
+      "link": "https://finance.yahoo.com/technology/ai/articles/ai-selloff-opened-ways-play-211024484.html?.tsrc=rss",
+      "published": "Sat, 21 Nov 2026 21:10:24 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-21T22:24:29.843541+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "A tale of two Nvidias",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tale-two-nvidias-210742550.html?.tsrc=rss",
+      "published": "Sat, 21 Nov 2026 21:07:42 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-21T22:24:29.843566+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Is USA Rare Earth Stock a Buy Now?",
+      "link": "https://www.fool.com/investing/2026/11/21/is-usa-rare-earth-stock-a-buy-now/?.tsrc=rss",
+      "published": "Sat, 21 Nov 2026 21:05:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-21T22:24:29.843595+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Apple Is Now Worth Over $5 Trillion Without Betting Big on AI Data Centers. AAPL Stock Now Trades Near Wall Street’s Targets.",
+      "link": "https://www.barchart.com/story/news/8950358/apple-is-now-worth-over-5-trillion-without-betting-big-on-ai-data-centers-aapl-stock-now-trades-near-wall-streets-targets?.tsrc=rss",
+      "published": "Sat, 21 Nov 2026 15:00:03 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-21T22:24:29.986690+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Microsoft Was The Only Big AI Buyer Paying Down Debt. How Much More Can It Spend?",
+      "link": "https://www.trefis.com/stock/msft/articles/627454/microsoft-was-the-only-big-ai-buyer-paying-down-debt-how-much-more-can-it-spend/2026-11-21?.tsrc=rss",
+      "published": "Sat, 21 Nov 2026 18:32:03 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-21T22:24:30.128965+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "$1,000 in Anthropic Stock or XRP: Which Could Be Worth More in 5 Years?",
+      "link": "https://247wallst.com/investing/cryptocurrency/2026/11/21/1000-in-anthropic-stock-or-xrp-which-could-be-worth-more-in-5-years/?.tsrc=rss",
+      "published": "Sat, 21 Nov 2026 20:11:31 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-21T22:24:30.272698+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Musk Says Cybercab “Covers About 90%” of Passenger Miles. Tesla’s Next Robotaxi Is a Wheel-Less Model Y",
+      "link": "https://www.tikr.com/blog/musk-says-cybercab-covers-about-90-of-passenger-miles-teslas-next-robotaxi-is-a-wheel-less-model-y?ref=yahoofinance&tlnk=yf-261121-466h9wgx&.tsrc=rss",
+      "published": "Sat, 21 Nov 2026 19:52:03 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-21T22:24:30.272766+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Meta Stopped Its Buybacks To Build AI. How Much More Can It Spend?",
+      "link": "https://www.trefis.com/stock/meta/articles/627455/meta-stopped-its-buybacks-to-build-ai-how-much-more-can-it-spend/2026-11-21?.tsrc=rss",
+      "published": "Sat, 21 Nov 2026 18:32:03 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-21T22:24:30.272813+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "A $2.2 Billion Fund Just Bought These 3 Stocks",
+      "link": "https://www.tikr.com/blog/a-2-2-billion-fund-just-bought-these-3-stocks-2?ref=yahoofinance&tlnk=yf-261121-75qm98f6&.tsrc=rss",
+      "published": "Sat, 21 Nov 2026 19:35:35 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-21T22:24:30.435353+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Amazon tells NYC shoppers a Mamdani-backed delivery bill could cost them up to $664 a year per household",
+      "link": "https://finance.yahoo.com/economy/policy/articles/amazon-tells-nyc-shoppers-mamdani-193000343.html?.tsrc=rss",
+      "published": "Sat, 21 Nov 2026 19:30:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-21T22:24:30.435420+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Cathie Wood Just Sold $9 Million of Amazon",
+      "link": "https://www.tikr.com/blog/cathie-wood-just-sold-9-million-of-amazon?ref=yahoofinance&tlnk=yf-261121-44jm86mg&.tsrc=rss",
+      "published": "Sat, 21 Nov 2026 19:05:34 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-21T22:24:30.435477+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "A $3.2 Billion Fund Just Bought These 3 Stocks",
+      "link": "https://www.tikr.com/blog/a-3-2-billion-fund-just-bought-these-3-stocks?ref=yahoofinance&tlnk=yf-261121-5m8xrrcc&.tsrc=rss",
+      "published": "Sat, 21 Nov 2026 19:52:12 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-21T22:24:30.617181+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Tesla (TSLA) Stock Looks Richly Priced After Its 47% Three Year Run",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-stock-looks-richly-210854263.html?.tsrc=rss",
+      "published": "Sat, 21 Nov 2026 21:08:54 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-21T22:24:30.774893+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Tesla FSD V15 Rolling Out, Goes 'Wide' Next Month. Elon Musk Says It's 'Something Special.'",
+      "link": "https://finance.yahoo.com/m/b31af40e-5144-3249-9033-82521507fe84/tesla-fsd-v15-rolling-out%2C.html?.tsrc=rss",
+      "published": "Sat, 21 Nov 2026 20:46:52 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-21T22:24:30.774974+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Cathie Wood Doubles Down On ‘Highest Conviction Names’ Nvidia, Tesla and AMD As Cyclical Tech Stocks Get ‘Slaughtered’ Amid Market Pullback",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-doubles-down-highest-193008245.html?.tsrc=rss",
+      "published": "Sat, 21 Nov 2026 19:30:08 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-21T22:24:30.775054+00:00"
+    },
+    {
+      "ticker": "AVGO",
+      "title": "Cathie Wood Just Sold $6 Million of Broadcom",
+      "link": "https://www.tikr.com/blog/cathie-wood-just-sold-6-million-of-broadcom?ref=yahoofinance&tlnk=yf-261121-qvvvjxvh&.tsrc=rss",
+      "published": "Sat, 21 Nov 2026 18:51:32 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-21T22:24:31.057740+00:00"
+    },
+    {
+      "ticker": "SNDK",
+      "title": "Renaissance Technologies Grew Its SanDisk Stake More Than 55-Fold to $481 Million",
+      "link": "https://247wallst.com/investing/2026/11/21/renaissance-technologies-grew-its-sandisk-stake-more-than-55-fold-to-481-million/?.tsrc=rss",
+      "published": "Sat, 21 Nov 2026 21:43:03 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-21T22:24:33.324496+00:00"
     }
   ]
 }
