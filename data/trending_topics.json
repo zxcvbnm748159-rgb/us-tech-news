@@ -1,7 +1,7 @@
 {
   "date": "2026-11-20",
   "window_days": 7,
-  "source_count": 1273,
+  "source_count": 1276,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 191,
+      "count": 192,
       "kind": "ticker"
     },
     {
@@ -54,7 +54,7 @@
       "search_terms": [
         "AMZN"
       ],
-      "count": 83,
+      "count": 84,
       "kind": "ticker"
     },
     {
@@ -63,7 +63,7 @@
       "search_terms": [
         "AAPL"
       ],
-      "count": 80,
+      "count": 81,
       "kind": "ticker"
     },
     {
@@ -115,7 +115,7 @@
       "kind": "ticker"
     }
   ],
-  "updated_at": "2026-11-21T01:55:37.599092+00:00",
+  "updated_at": "2026-11-21T02:49:35.864681+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -17938,6 +17938,48 @@
       "sentiment": "neutral",
       "sentiment_source": "headline_vader",
       "fetched_at": "2026-11-21T01:55:36.452753+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Here's Why Nvidia Stock Crashed on Friday",
+      "link": "https://www.fool.com/investing/2026/11/20/here-is-why-nvidia-stock-crashed-on-friday/?.tsrc=rss",
+      "published": "Sat, 21 Nov 2026 01:45:33 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-21T02:49:32.653234+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "AAPL Stock Alert: What to Know as Apple Develops AI Agent to Compete With Muse",
+      "link": "https://www.barchart.com/story/news/8941997/aapl-stock-alert-what-to-know-as-apple-develops-ai-agent-to-compete-with-muse?.tsrc=rss",
+      "published": "Fri, 20 Nov 2026 20:32:49 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-21T02:49:32.774035+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Amazon's re:Invent Conference Starts Nov. 30. Here's What the Stock Did in the Month After the Last 10.",
+      "link": "https://www.fool.com/investing/2026/11/20/amazon-s-re-invent-conference-starts-nov-30-here-s-what-the-stock-did-in-the-month-after-the-last-10/?.tsrc=rss",
+      "published": "Sat, 21 Nov 2026 02:12:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-21T02:49:33.146587+00:00"
     }
   ]
 }

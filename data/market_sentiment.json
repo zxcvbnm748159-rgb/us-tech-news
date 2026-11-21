@@ -1,14 +1,14 @@
 {
   "date": "2026-11-20",
-  "score": 62,
+  "score": 63,
   "label": "Bullish",
   "counts": {
-    "positive": 66,
+    "positive": 67,
     "negative": 40,
-    "neutral": 103
+    "neutral": 105
   },
-  "total": 209,
-  "updated_at": "2026-11-21T01:55:37.562411+00:00",
+  "total": 212,
+  "updated_at": "2026-11-21T02:49:35.826546+00:00",
   "articles": [
     {
       "link": "https://www.fool.com/investing/2026/11/20/should-you-forget-nvidia-2-artificial-intelligence-ai-stocks-with-more-room-to-10x/?.tsrc=rss",
@@ -844,6 +844,18 @@
     },
     {
       "link": "https://www.tikr.com/blog/george-soros-and-20-other-big-funds-bought-qualcomm-last-quarter-david-tepper-and-14-others-sold-whos-right?ref=yahoofinance&tlnk=yf-261120-7fxgch3m&.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/20/here-is-why-nvidia-stock-crashed-on-friday/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.barchart.com/story/news/8941997/aapl-stock-alert-what-to-know-as-apple-develops-ai-agent-to-compete-with-muse?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/20/amazon-s-re-invent-conference-starts-nov-30-here-s-what-the-stock-did-in-the-month-after-the-last-10/?.tsrc=rss",
       "sentiment": "neutral"
     }
   ]
