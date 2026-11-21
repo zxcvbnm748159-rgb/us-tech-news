@@ -5,10 +5,10 @@
   "counts": {
     "positive": 16,
     "negative": 5,
-    "neutral": 32
+    "neutral": 34
   },
-  "total": 53,
-  "updated_at": "2026-11-21T17:42:35.861379+00:00",
+  "total": 55,
+  "updated_at": "2026-11-21T18:34:47.751214+00:00",
   "articles": [
     {
       "link": "https://www.fool.com/investing/2026/11/21/nvidia-stock-is-down-35-from-its-high-history-suggests-a-usd5-000-investment-now-will-be-worth-this-much-by-2028/?.tsrc=rss",
@@ -220,6 +220,14 @@
     },
     {
       "link": "https://247wallst.com/investing/2026/11/21/alex-karp-wants-to-sell-100-million-of-palantir-stock-as-it-slides/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/3-ai-chip-stocks-retail-180806204.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/healthcare/articles/oracle-orcl-hospital-java-patching-180644592.html?.tsrc=rss",
       "sentiment": "neutral"
     }
   ]

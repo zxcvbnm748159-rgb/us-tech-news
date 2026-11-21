@@ -1,7 +1,7 @@
 {
   "date": "2026-11-21",
   "window_days": 7,
-  "source_count": 1240,
+  "source_count": 1242,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 175,
+      "count": 176,
       "kind": "ticker"
     },
     {
@@ -115,7 +115,7 @@
       "kind": "ticker"
     }
   ],
-  "updated_at": "2026-11-21T17:42:35.886715+00:00",
+  "updated_at": "2026-11-21T18:34:47.775148+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -17476,6 +17476,34 @@
       "sentiment": "neutral",
       "sentiment_source": "headline_vader",
       "fetched_at": "2026-11-21T17:42:34.954508+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "3 AI Chip Stocks Retail Investors Are Watching After The Nvidia Selloff",
+      "link": "https://finance.yahoo.com/technology/ai/articles/3-ai-chip-stocks-retail-180806204.html?.tsrc=rss",
+      "published": "Sat, 21 Nov 2026 18:08:06 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-21T18:34:45.471180+00:00"
+    },
+    {
+      "ticker": "ORCL",
+      "title": "Oracle (ORCL) Hospital Java Patching Rush Meets New AI Product Push",
+      "link": "https://finance.yahoo.com/healthcare/articles/oracle-orcl-hospital-java-patching-180644592.html?.tsrc=rss",
+      "published": "Sat, 21 Nov 2026 18:06:44 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-21T18:34:46.401983+00:00"
     }
   ]
 }
