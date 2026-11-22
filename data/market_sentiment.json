@@ -1,14 +1,14 @@
 {
   "date": "2026-11-21",
-  "score": 72,
+  "score": 70,
   "label": "Bullish",
   "counts": {
-    "positive": 21,
-    "negative": 8,
-    "neutral": 45
+    "positive": 26,
+    "negative": 11,
+    "neutral": 47
   },
-  "total": 74,
-  "updated_at": "2026-11-21T22:24:33.325074+00:00",
+  "total": 84,
+  "updated_at": "2026-11-22T00:51:40.566623+00:00",
   "articles": [
     {
       "link": "https://www.fool.com/investing/2026/11/21/nvidia-stock-is-down-35-from-its-high-history-suggests-a-usd5-000-investment-now-will-be-worth-this-much-by-2028/?.tsrc=rss",
@@ -305,6 +305,46 @@
     {
       "link": "https://247wallst.com/investing/2026/11/21/renaissance-technologies-grew-its-sandisk-stake-more-than-55-fold-to-481-million/?.tsrc=rss",
       "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/21/nvidia-without-jensen-huang-3-things-that-could-go-right-and-3-that-could-go-wrong/?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/21/alphabet-stock-just-hit-a-1-year-low-why-is-google-s-parent-borrowing-so-much-money/?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.cryptoprowl.com/releases/nvidia-falls-48-from-peak-as-ai-selloff-spreads-to-bitcoin-and-crypto-8017?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.thestreet.com/retirement/nvidias-new-china-threat-could-reach-your-401k?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.fool.com/coverage/better-buy/2026/11/21/intuit-vs-oracle-which-technology-stock-is-a-better-buy-for-2027/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/alphabet-googl-stock-gets-fair-001209637.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/coverage/better-buy/2026/11/21/applovin-vs-reddit-which-technology-stock-is-a-better-buy-for-2027/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/21/the-ultimate-growth-stock-to-buy-with-usd1-000-before-the-end-of-november/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.tikr.com/blog/cathie-wood-brad-gerstner-and-16-other-big-funds-bought-tesla-last-quarter-while-15-sold-whos-right?ref=yahoofinance&tlnk=yf-261121-3rm42fg9&.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/21/michael-burry-says-he-s-looking-at-netflix-stock-in-the-high-usd30s-i-d-consider-it-now-well-above-that/?.tsrc=rss",
+      "sentiment": "positive"
     }
   ]
 }
