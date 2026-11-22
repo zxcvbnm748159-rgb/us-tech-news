@@ -1,14 +1,14 @@
 {
   "date": "2026-11-22",
-  "score": 62,
+  "score": 73,
   "label": "Bullish",
   "counts": {
-    "positive": 5,
+    "positive": 8,
     "negative": 3,
-    "neutral": 3
+    "neutral": 4
   },
-  "total": 11,
-  "updated_at": "2026-11-22T10:00:24.832230+00:00",
+  "total": 15,
+  "updated_at": "2026-11-22T10:37:03.717770+00:00",
   "articles": [
     {
       "link": "https://www.fool.com/investing/2026/11/22/nvidia-just-delivered-incredible-results-buy-this-artificial-intelligence-ai-stock-instead-if-you-re-still-worried-about-the-semiconductor-giant-s-future/?.tsrc=rss",
@@ -52,6 +52,22 @@
     },
     {
       "link": "https://www.fool.com/earnings/takeaways/2026/11/22/super-micro-3-key-takeaways-for-long-term-investors/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/22/this-pipeline-partnership-raised-its-payout-by-125-for-the-third-straight-year-heres-how-much-longer-it-can-keep-that-up/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.tikr.com/blog/jason-calacanis-will-catch-every-knife-with-spacex-tesla-and-google-only-some-are-cheap?ref=yahoofinance&tlnk=yf-261122-4rm83mgv&.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/22/elon-musks-tesla-and-spacex-committee-merger/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.tikr.com/blog/stanley-druckenmiller-david-tepper-and-33-other-big-funds-sold-advanced-micro-devices-last-quarter-while-21-bought-whos-right?ref=yahoofinance&tlnk=yf-261122-4w2438x8&.tsrc=rss",
       "sentiment": "positive"
     }
   ]

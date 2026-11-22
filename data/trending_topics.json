@@ -1,7 +1,7 @@
 {
   "date": "2026-11-22",
   "window_days": 7,
-  "source_count": 1218,
+  "source_count": 1222,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 163,
+      "count": 164,
       "kind": "ticker"
     },
     {
@@ -18,7 +18,7 @@
       "search_terms": [
         "GOOGL"
       ],
-      "count": 101,
+      "count": 102,
       "kind": "ticker"
     },
     {
@@ -36,16 +36,7 @@
       "search_terms": [
         "AMD"
       ],
-      "count": 88,
-      "kind": "ticker"
-    },
-    {
-      "label": "AMZN",
-      "query": "AMZN",
-      "search_terms": [
-        "AMZN"
-      ],
-      "count": 86,
+      "count": 89,
       "kind": "ticker"
     },
     {
@@ -53,6 +44,15 @@
       "query": "TSLA",
       "search_terms": [
         "TSLA"
+      ],
+      "count": 87,
+      "kind": "ticker"
+    },
+    {
+      "label": "AMZN",
+      "query": "AMZN",
+      "search_terms": [
+        "AMZN"
       ],
       "count": 86,
       "kind": "ticker"
@@ -115,7 +115,7 @@
       "kind": "ticker"
     }
   ],
-  "updated_at": "2026-11-22T10:00:24.868269+00:00",
+  "updated_at": "2026-11-22T10:37:03.737369+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -17168,6 +17168,62 @@
       "sentiment": "positive",
       "sentiment_source": "headline_vader",
       "fetched_at": "2026-11-22T10:00:23.893232+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "This Pipeline Partnership Raised Its Payout by 12.5% for the Third Straight Year. Here’s How Much Longer It Can Keep That Up.",
+      "link": "https://www.fool.com/investing/2026/11/22/this-pipeline-partnership-raised-its-payout-by-125-for-the-third-straight-year-heres-how-much-longer-it-can-keep-that-up/?.tsrc=rss",
+      "published": "Sun, 22 Nov 2026 10:27:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-22T10:37:00.093235+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Jason Calacanis Will “Catch Every Knife” With SpaceX, Tesla and Google. Only Some Are Cheap",
+      "link": "https://www.tikr.com/blog/jason-calacanis-will-catch-every-knife-with-spacex-tesla-and-google-only-some-are-cheap?ref=yahoofinance&tlnk=yf-261122-4rm83mgv&.tsrc=rss",
+      "published": "Sun, 22 Nov 2026 10:03:30 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-22T10:37:00.504022+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Elon Musk's Tesla and SpaceX Each Formed a Special Committee to Explore a Merger as His AI Spending Accelerates. Here's Why Combining Them Could Reshape How Investors Value Tesla's Robotaxi Business.",
+      "link": "https://www.fool.com/investing/2026/11/22/elon-musks-tesla-and-spacex-committee-merger/?.tsrc=rss",
+      "published": "Sun, 22 Nov 2026 10:20:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-22T10:37:00.998703+00:00"
+    },
+    {
+      "ticker": "AMD",
+      "title": "Stanley Druckenmiller, David Tepper and 33 Other Big Funds Sold Advanced Micro Devices Last Quarter, While 21 Bought. Who’s Right?",
+      "link": "https://www.tikr.com/blog/stanley-druckenmiller-david-tepper-and-33-other-big-funds-sold-advanced-micro-devices-last-quarter-while-21-bought-whos-right?ref=yahoofinance&tlnk=yf-261122-4w2438x8&.tsrc=rss",
+      "published": "Sun, 22 Nov 2026 10:22:43 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-22T10:37:01.118547+00:00"
     }
   ]
 }
