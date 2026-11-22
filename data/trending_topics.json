@@ -1,7 +1,7 @@
 {
   "date": "2026-11-22",
   "window_days": 7,
-  "source_count": 1271,
+  "source_count": 1292,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 173,
+      "count": 178,
       "kind": "ticker"
     },
     {
@@ -18,7 +18,7 @@
       "search_terms": [
         "GOOGL"
       ],
-      "count": 109,
+      "count": 111,
       "kind": "ticker"
     },
     {
@@ -27,7 +27,7 @@
       "search_terms": [
         "MSFT"
       ],
-      "count": 104,
+      "count": 106,
       "kind": "ticker"
     },
     {
@@ -35,6 +35,15 @@
       "query": "AMD",
       "search_terms": [
         "AMD"
+      ],
+      "count": 92,
+      "kind": "ticker"
+    },
+    {
+      "label": "TSLA",
+      "query": "TSLA",
+      "search_terms": [
+        "TSLA"
       ],
       "count": 92,
       "kind": "ticker"
@@ -49,21 +58,12 @@
       "kind": "ticker"
     },
     {
-      "label": "TSLA",
-      "query": "TSLA",
-      "search_terms": [
-        "TSLA"
-      ],
-      "count": 90,
-      "kind": "ticker"
-    },
-    {
       "label": "AAPL",
       "query": "AAPL",
       "search_terms": [
         "AAPL"
       ],
-      "count": 81,
+      "count": 83,
       "kind": "ticker"
     },
     {
@@ -81,7 +81,16 @@
       "search_terms": [
         "INTC"
       ],
-      "count": 53,
+      "count": 54,
+      "kind": "ticker"
+    },
+    {
+      "label": "AVGO",
+      "query": "AVGO",
+      "search_terms": [
+        "AVGO"
+      ],
+      "count": 51,
       "kind": "ticker"
     },
     {
@@ -97,15 +106,6 @@
       "kind": "topic"
     },
     {
-      "label": "AVGO",
-      "query": "AVGO",
-      "search_terms": [
-        "AVGO"
-      ],
-      "count": 50,
-      "kind": "ticker"
-    },
-    {
       "label": "CRM",
       "query": "CRM",
       "search_terms": [
@@ -115,7 +115,7 @@
       "kind": "ticker"
     }
   ],
-  "updated_at": "2026-11-22T18:55:56.791248+00:00",
+  "updated_at": "2026-11-22T22:57:43.900541+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -17910,6 +17910,300 @@
       "sentiment": "neutral",
       "sentiment_source": "headline_vader",
       "fetched_at": "2026-11-22T18:55:56.290660+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "3 AI Hardware Stocks Down More Than 30% From Their Records to Buy Now and Hold Through 2030",
+      "link": "https://www.fool.com/investing/2026/11/22/3-ai-hardware-stocks-down-more-than-30-from-their-records-to-buy-now-and-hold-through-2030/?.tsrc=rss",
+      "published": "Sun, 22 Nov 2026 22:03:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-22T22:57:39.793491+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "U.S. Treasury Secretary Scott Bessent Just Delivered Great News to Former Nvidia CEO Jensen Huang. Should You Buy Nvidia Stock Before Nov. 25?",
+      "link": "https://www.fool.com/investing/2026/11/22/u-s-treasury-secretary-scott-bessent-just-delivered-great-news-to-former-nvidia-ceo-jensen-huang-should-you-buy-nvidia-stock-before-nov-25/?.tsrc=rss",
+      "published": "Sun, 22 Nov 2026 21:08:04 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-22T22:57:39.793594+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Jeff Bezos sends a strong signal to Nvidia stock investors as CEO search heats up",
+      "link": "https://www.thestreet.com/investing/jeff-bezos-sends-a-strong-signal-to-nvidia-stock-investors-as-ceo-search-heats-up?.tsrc=rss",
+      "published": "Sun, 22 Nov 2026 21:07:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-22T22:57:39.793646+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Your 401(k) Has New Contribution Limits for 2027. Here's What You Need to Know",
+      "link": "https://www.fool.com/retirement/2026/11/22/your-401-k-has-new-contribution-limits-for-2027-here-s-what-you-need-to-know/?.tsrc=rss",
+      "published": "Sun, 22 Nov 2026 19:50:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-22T22:57:39.793675+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Should You Buy Tesla or SpaceX Stock Before Their Potential Merger?",
+      "link": "https://www.fool.com/investing/2026/11/22/should-you-buy-tesla-or-spacex-stock-before-merger/?.tsrc=rss",
+      "published": "Sun, 22 Nov 2026 22:21:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-22T22:57:39.793702+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "What Is Apple (AAPL) Planning With Its New Autonomous AI Agent?",
+      "link": "https://finance.yahoo.com/technology/ai/articles/apple-aapl-planning-autonomous-ai-200614575.html?.tsrc=rss",
+      "published": "Sun, 22 Nov 2026 20:06:14 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-22T22:57:39.976808+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Why is Apple Stock Holding Strong While the Rest of the Market Falls?",
+      "link": "https://beincrypto.com/apple-stock-market-crash-price-outlook/?.tsrc=rss",
+      "published": "Sun, 22 Nov 2026 12:25:31 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-22T22:57:39.976882+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "15% of parents already cut college savings after Microsoft AI CEO told a mom 'probably not' to bother saving",
+      "link": "https://finance.yahoo.com/technology/ai/articles/15-parents-already-cut-college-211500548.html?.tsrc=rss",
+      "published": "Sun, 22 Nov 2026 21:15:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-22T22:57:40.160545+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Bank of America sends strong signal to Microsoft stock investors",
+      "link": "https://www.thestreet.com/investing/stocks/bank-of-america-sends-strong-signal-to-microsoft-stock-investors?.tsrc=rss",
+      "published": "Sun, 22 Nov 2026 19:03:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-22T22:57:40.160598+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Her $420,000 in Employer Stock Inside Her 401(k) Lost 11% in a Day. Rolling It Into an IRA Would Turn Her Long-Term Gain Into Ordinary Income",
+      "link": "https://247wallst.com/personal-finance/2026/11/22/her-420000-in-employer-stock-inside-her-401k-lost-11-in-a-day-rolling-it-into-an-ira-would-turn-her-long-term-gain-into-ordinary-income/?.tsrc=rss",
+      "published": "Sun, 22 Nov 2026 21:17:03 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-22T22:57:40.347262+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Google’s 2027 chip plan is bad news for Broadcom",
+      "link": "https://www.thestreet.com/technology/google-2027-chip-plan-broadcom?.tsrc=rss",
+      "published": "Sun, 22 Nov 2026 19:47:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-22T22:57:40.347317+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Elon Musk Doubles Down On Autonomy: Tesla Plans Wheel-Less, Pedal-Less Model Y To Sit Alongside Two-Seat Cybercab",
+      "link": "https://finance.yahoo.com/technology/articles/elon-musk-doubles-down-autonomy-213007363.html?.tsrc=rss",
+      "published": "Sun, 22 Nov 2026 21:30:07 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-22T22:57:40.856551+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Top bank resets Tesla stock target, yet standalone value is alarming",
+      "link": "https://www.thestreet.com/investing/stocks/top-bank-resets-tesla-stock-target-yet-standalone-value-is-alarming?.tsrc=rss",
+      "published": "Sun, 22 Nov 2026 18:47:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-22T22:57:40.856629+00:00"
+    },
+    {
+      "ticker": "AVGO",
+      "title": "Here's What a $1,000 Investment in Broadcom Stock Could Be Worth By 2035",
+      "link": "https://www.fool.com/investing/2026/11/22/here-s-what-a-usd1-000-investment-in-broadcom-stock-could-be-worth-by-2035/?.tsrc=rss",
+      "published": "Sun, 22 Nov 2026 19:22:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-22T22:57:41.213001+00:00"
+    },
+    {
+      "ticker": "ORCL",
+      "title": "Dow Jones Futures Due As Oracle, Korea Try To Ease Market Fears; Look For These Absolute Losers",
+      "link": "https://finance.yahoo.com/m/9ef9da98-bccf-3565-9a30-9bc3e57ad4b9/dow-jones-futures-due-as.html?.tsrc=rss",
+      "published": "Sun, 22 Nov 2026 22:05:11 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-22T22:57:41.389580+00:00"
+    },
+    {
+      "ticker": "NFLX",
+      "title": "Michael Burry's Netflix warning puts investors in a $39 dilemma",
+      "link": "https://www.thestreet.com/entertainment/michael-burrys-netflix-warning-puts-investors-in-a-39-dilemma?.tsrc=rss",
+      "published": "Sun, 22 Nov 2026 21:33:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-22T22:57:41.749890+00:00"
+    },
+    {
+      "ticker": "INTC",
+      "title": "Intel announces more layoffs as workforce shrinks by 7,300",
+      "link": "https://www.thestreet.com/technology/intel-announces-more-layoffs-as-workforce-shrinks-by-7300?.tsrc=rss",
+      "published": "Sun, 22 Nov 2026 19:17:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-22T22:57:41.911827+00:00"
+    },
+    {
+      "ticker": "PLTR",
+      "title": "Palantir Technologies (PLTR) Co Hosts Sovereign AI Defense Summit",
+      "link": "https://finance.yahoo.com/technology/ai/articles/palantir-technologies-pltr-co-hosts-210650181.html?.tsrc=rss",
+      "published": "Sun, 22 Nov 2026 21:06:50 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-22T22:57:42.264828+00:00"
+    },
+    {
+      "ticker": "PLTR",
+      "title": "Palantir Stock Could Finish 2026 Lower. Its Only 2 Losing Years Ended Very Differently.",
+      "link": "https://www.fool.com/investing/2026/11/22/palantir-stock-could-finish-2026-lower-its-only-2-losing-years-ended-very-differently/?.tsrc=rss",
+      "published": "Sun, 22 Nov 2026 18:57:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-22T22:57:42.264905+00:00"
+    },
+    {
+      "ticker": "TSM",
+      "title": "Taiwan stocks suffer worst week since 1990 as AI rout drains emerging Asia",
+      "link": "http://www.intellinews.com/taiwan-stocks-suffer-worst-week-since-1990-as-ai-rout-drains-emerging-asia-487378/?.tsrc=rss",
+      "published": "Sun, 22 Nov 2026 19:21:13 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-22T22:57:43.006256+00:00"
+    },
+    {
+      "ticker": "SNDK",
+      "title": "Micron Technology vs. Sandisk: Which Technology Stock Is a Better Buy for 2027?",
+      "link": "https://www.fool.com/coverage/better-buy/2026/11/22/micron-technology-vs-sandisk-which-technology-stock-is-a-better-buy-for-2027/?.tsrc=rss",
+      "published": "Sun, 22 Nov 2026 19:00:08 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-22T22:57:43.869915+00:00"
     }
   ]
 }
