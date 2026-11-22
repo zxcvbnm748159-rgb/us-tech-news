@@ -1,7 +1,7 @@
 {
   "date": "2026-11-22",
   "window_days": 7,
-  "source_count": 1259,
+  "source_count": 1271,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 169,
+      "count": 173,
       "kind": "ticker"
     },
     {
@@ -18,7 +18,7 @@
       "search_terms": [
         "GOOGL"
       ],
-      "count": 107,
+      "count": 109,
       "kind": "ticker"
     },
     {
@@ -27,7 +27,7 @@
       "search_terms": [
         "MSFT"
       ],
-      "count": 103,
+      "count": 104,
       "kind": "ticker"
     },
     {
@@ -40,6 +40,15 @@
       "kind": "ticker"
     },
     {
+      "label": "AMZN",
+      "query": "AMZN",
+      "search_terms": [
+        "AMZN"
+      ],
+      "count": 91,
+      "kind": "ticker"
+    },
+    {
       "label": "TSLA",
       "query": "TSLA",
       "search_terms": [
@@ -49,21 +58,12 @@
       "kind": "ticker"
     },
     {
-      "label": "AMZN",
-      "query": "AMZN",
-      "search_terms": [
-        "AMZN"
-      ],
-      "count": 89,
-      "kind": "ticker"
-    },
-    {
       "label": "AAPL",
       "query": "AAPL",
       "search_terms": [
         "AAPL"
       ],
-      "count": 80,
+      "count": 81,
       "kind": "ticker"
     },
     {
@@ -85,15 +85,6 @@
       "kind": "ticker"
     },
     {
-      "label": "AVGO",
-      "query": "AVGO",
-      "search_terms": [
-        "AVGO"
-      ],
-      "count": 50,
-      "kind": "ticker"
-    },
-    {
       "label": "AI Chip",
       "query": "AI Chip",
       "search_terms": [
@@ -102,8 +93,17 @@
         "accelerator",
         "semiconductor"
       ],
-      "count": 49,
+      "count": 50,
       "kind": "topic"
+    },
+    {
+      "label": "AVGO",
+      "query": "AVGO",
+      "search_terms": [
+        "AVGO"
+      ],
+      "count": 50,
+      "kind": "ticker"
     },
     {
       "label": "CRM",
@@ -115,7 +115,7 @@
       "kind": "ticker"
     }
   ],
-  "updated_at": "2026-11-22T17:47:10.852607+00:00",
+  "updated_at": "2026-11-22T18:55:56.791248+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -17742,6 +17742,174 @@
       "sentiment": "neutral",
       "sentiment_source": "headline_vader",
       "fetched_at": "2026-11-22T17:47:10.192127+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Billionaire Ray Dalio’s Bridgewater Keeps 16% of Its $23 Billion Stock Portfolio in S&P 500 Index Funds, Even After Cutting Them",
+      "link": "https://247wallst.com/investing/2026/11/22/billionaire-ray-dalios-bridgewater-keeps-16-of-its-23-billion-stock-portfolio-in-sp-500-index-funds-even-after-cutting-them/?.tsrc=rss",
+      "published": "Sun, 22 Nov 2026 18:43:15 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-22T18:55:54.352102+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Is Coinbase Stock a Buy, Sell, or Hold 64% Below Its 52-Week High?",
+      "link": "https://www.fool.com/investing/2026/11/22/is-coinbase-stock-a-buy-sell-or-hold-61-below-its-52-week-high/?.tsrc=rss",
+      "published": "Sun, 22 Nov 2026 18:40:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-22T18:55:54.352143+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Archer’s Anduril Drone Begins Full-Scale Flight Tests in 2027. Here’s Why Defense Could Be Worth More Than Air Taxis.",
+      "link": "https://www.fool.com/investing/2026/11/22/archers-anduril-drone-begins-full-scale-flight-tests-in-2027-heres-why-defense-could-be-worth-more-than-air-taxis/?.tsrc=rss",
+      "published": "Sun, 22 Nov 2026 18:35:01 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-22T18:55:54.352208+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Eli Lilly's Obesity Pipeline Is Getting Crowded. That's Great News for Investors",
+      "link": "https://www.fool.com/investing/2026/11/22/eli-lilly-s-obesity-pipeline-is-getting-crowded-that-s-great-news-for-investors/?.tsrc=rss",
+      "published": "Sun, 22 Nov 2026 18:23:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-22T18:55:54.352250+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "An $8.3 Billion Fund Just Bought These 3 Stocks",
+      "link": "https://www.tikr.com/blog/an-8-3-billion-fund-just-bought-these-3-stocks?ref=yahoofinance&tlnk=yf-261122-2jg2vpjj&.tsrc=rss",
+      "published": "Sun, 22 Nov 2026 17:50:34 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-22T18:55:54.450636+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "A $4.4 Billion Fund Just Bought These 3 Stocks",
+      "link": "https://www.tikr.com/blog/a-4-4-billion-fund-just-bought-these-3-stocks?ref=yahoofinance&tlnk=yf-261122-fp25684g&.tsrc=rss",
+      "published": "Sun, 22 Nov 2026 11:17:21 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-22T18:55:54.554030+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Google Backs Superhot Geothermal in 50 MW Oregon Power Deal",
+      "link": "https://finance.yahoo.com/energy/articles/google-backs-superhot-geothermal-50-180000366.html?.tsrc=rss",
+      "published": "Sun, 22 Nov 2026 18:00:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-22T18:55:54.695398+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Billionaire David Tepper’s Appaloosa Opened a $172 Million Stake in Oracle",
+      "link": "https://247wallst.com/investing/2026/11/22/billionaire-david-teppers-appaloosa-opened-a-172-million-stake-in-oracle/?.tsrc=rss",
+      "published": "Sun, 22 Nov 2026 17:59:08 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-22T18:55:54.695431+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Jeff Bezos predicts Amazon will eventually 'go bankrupt' and shares 30-year rule behind it",
+      "link": "https://www.thestreet.com/retail/jeff-bezos-predicts-amazon-will-eventually-go-bankrupt-30-year-rule?.tsrc=rss",
+      "published": "Sun, 22 Nov 2026 18:33:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-22T18:55:54.797635+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Amazon.com vs. Home Depot: Which Consumer Stock Is a Better Buy for 2027?",
+      "link": "https://www.fool.com/coverage/better-buy/2026/11/22/amazoncom-vs-home-depot-which-consumer-stock-is-a-better-buy-for-2027/?.tsrc=rss",
+      "published": "Sun, 22 Nov 2026 18:24:11 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-22T18:55:54.797682+00:00"
+    },
+    {
+      "ticker": "PLTR",
+      "title": "UiPath vs. Palantir Technologies: Which AI Automation Platform Makes a Better Stock Buy for 2027?",
+      "link": "https://www.fool.com/coverage/better-buy/2026/11/22/uipath-vs-palantir-technologies-which-ai-automation-platform-makes-a-better-stock-buy-for-2027/?.tsrc=rss",
+      "published": "Sun, 22 Nov 2026 18:33:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-22T18:55:55.865392+00:00"
+    },
+    {
+      "ticker": "TSM",
+      "title": "Stanley Druckenmiller, Leopold Aschenbrenner and 25 Other Big Funds Sold Taiwan Semiconductor Last Quarter, While 38 Bought. Who’s Right?",
+      "link": "https://www.tikr.com/blog/stanley-druckenmiller-leopold-aschenbrenner-and-25-other-big-funds-sold-taiwan-semiconductor-last-quarter-while-38-bought-whos-right?ref=yahoofinance&tlnk=yf-261122-frx2h3mh&.tsrc=rss",
+      "published": "Sun, 22 Nov 2026 18:05:15 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-22T18:55:56.290660+00:00"
     }
   ]
 }

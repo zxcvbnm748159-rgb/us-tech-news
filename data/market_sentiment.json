@@ -1,14 +1,14 @@
 {
   "date": "2026-11-22",
-  "score": 62,
+  "score": 68,
   "label": "Bullish",
   "counts": {
-    "positive": 15,
+    "positive": 19,
     "negative": 9,
-    "neutral": 27
+    "neutral": 35
   },
-  "total": 51,
-  "updated_at": "2026-11-22T17:47:10.815253+00:00",
+  "total": 63,
+  "updated_at": "2026-11-22T18:55:56.766209+00:00",
   "articles": [
     {
       "link": "https://www.fool.com/investing/2026/11/22/nvidia-just-delivered-incredible-results-buy-this-artificial-intelligence-ai-stock-instead-if-you-re-still-worried-about-the-semiconductor-giant-s-future/?.tsrc=rss",
@@ -212,6 +212,54 @@
     },
     {
       "link": "https://www.tikr.com/blog/a-164-billion-fund-bought-these-3-stocks-last-quarter?ref=yahoofinance&tlnk=yf-261122-9gjc63fr&.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/11/22/billionaire-ray-dalios-bridgewater-keeps-16-of-its-23-billion-stock-portfolio-in-sp-500-index-funds-even-after-cutting-them/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/22/is-coinbase-stock-a-buy-sell-or-hold-61-below-its-52-week-high/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/22/archers-anduril-drone-begins-full-scale-flight-tests-in-2027-heres-why-defense-could-be-worth-more-than-air-taxis/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/22/eli-lilly-s-obesity-pipeline-is-getting-crowded-that-s-great-news-for-investors/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.tikr.com/blog/an-8-3-billion-fund-just-bought-these-3-stocks?ref=yahoofinance&tlnk=yf-261122-2jg2vpjj&.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.tikr.com/blog/a-4-4-billion-fund-just-bought-these-3-stocks?ref=yahoofinance&tlnk=yf-261122-fp25684g&.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/energy/articles/google-backs-superhot-geothermal-50-180000366.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/11/22/billionaire-david-teppers-appaloosa-opened-a-172-million-stake-in-oracle/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.thestreet.com/retail/jeff-bezos-predicts-amazon-will-eventually-go-bankrupt-30-year-rule?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/coverage/better-buy/2026/11/22/amazoncom-vs-home-depot-which-consumer-stock-is-a-better-buy-for-2027/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/coverage/better-buy/2026/11/22/uipath-vs-palantir-technologies-which-ai-automation-platform-makes-a-better-stock-buy-for-2027/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.tikr.com/blog/stanley-druckenmiller-leopold-aschenbrenner-and-25-other-big-funds-sold-taiwan-semiconductor-last-quarter-while-38-bought-whos-right?ref=yahoofinance&tlnk=yf-261122-frx2h3mh&.tsrc=rss",
       "sentiment": "neutral"
     }
   ]
