@@ -1,7 +1,7 @@
 {
   "date": "2026-11-21",
   "window_days": 7,
-  "source_count": 1271,
+  "source_count": 1278,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 185,
+      "count": 190,
       "kind": "ticker"
     },
     {
@@ -18,7 +18,7 @@
       "search_terms": [
         "GOOGL"
       ],
-      "count": 108,
+      "count": 109,
       "kind": "ticker"
     },
     {
@@ -81,7 +81,7 @@
       "search_terms": [
         "INTC"
       ],
-      "count": 52,
+      "count": 53,
       "kind": "ticker"
     },
     {
@@ -93,7 +93,7 @@
         "revenue guidance",
         "profit forecast"
       ],
-      "count": 51,
+      "count": 52,
       "kind": "topic"
     },
     {
@@ -118,7 +118,7 @@
       "kind": "topic"
     }
   ],
-  "updated_at": "2026-11-22T00:51:40.595739+00:00",
+  "updated_at": "2026-11-22T02:26:01.481730+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -17913,6 +17913,104 @@
       "sentiment": "positive",
       "sentiment_source": "headline_vader",
       "fetched_at": "2026-11-22T00:51:39.474208+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Should You Forget Nvidia and Buy These 2 AI Memory Stocks Instead?",
+      "link": "https://www.fool.com/investing/2026/11/21/should-you-forget-nvidia-and-buy-these-2-ai-memory-stocks-instead/?.tsrc=rss",
+      "published": "Sun, 22 Nov 2026 01:23:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-22T02:25:58.283632+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Should You Invest $1,000 in Bloom Energy Right Now?",
+      "link": "https://www.fool.com/investing/2026/11/21/should-you-invest-usd1-000-in-bloom-energy-right-now/?.tsrc=rss",
+      "published": "Sun, 22 Nov 2026 00:50:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-22T02:25:58.283707+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "If a Stock Market Crash Is Coming, Warren Buffett Says This Is the No. 1 Move All Investors Should Make",
+      "link": "https://www.fool.com/investing/2026/11/21/if-a-stock-market-crash-is-coming-warren-buffett-says-this-is-the-no-1-move-all-investors-should-make/?.tsrc=rss",
+      "published": "Sun, 22 Nov 2026 00:50:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-22T02:25:58.283774+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Nvidia Stock Has Crashed 48% and Now Trades at 15 Times Earnings, Its Cheapest in More Than a Decade and Cheaper Than Microsoft and Broadcom",
+      "link": "https://247wallst.com/investing/2026/11/21/nvidia-stock-has-crashed-48-and-now-trades-at-15-times-earnings-its-cheapest-in-more-than-a-decade-and-cheaper-than-microsoft-and-broadcom/?.tsrc=rss",
+      "published": "Sun, 22 Nov 2026 00:47:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-22T02:25:58.283821+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Trump Recalls Helping Elon Musk When He Was ‘In Big Trouble,’ Defends Nvidia’s Jensen Huang as One of America’s Rare 'Geniuses'",
+      "link": "https://finance.yahoo.com/technology/articles/trump-recalls-helping-elon-musk-003010870.html?.tsrc=rss",
+      "published": "Sun, 22 Nov 2026 00:30:10 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-22T02:25:58.283881+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Stanley Druckenmiller, David Tepper and 45 Other Big Funds Sold Alphabet Last Quarter, While 31 Bought. Who’s Right?",
+      "link": "https://www.tikr.com/blog/stanley-druckenmiller-david-tepper-and-45-other-big-funds-sold-alphabet-last-quarter-while-31-bought-whos-right?ref=yahoofinance&tlnk=yf-261121-9mmqrw68&.tsrc=rss",
+      "published": "Sat, 21 Nov 2026 21:19:08 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-22T02:25:58.666475+00:00"
+    },
+    {
+      "ticker": "INTC",
+      "title": "Intel Says It Just Signed Its First Customer for Its Most Advanced Chipmaking Process. The Stock Is Still More Than 60% Below Its June Record.",
+      "link": "https://www.fool.com/investing/2026/11/21/intel-says-it-just-signed-its-first-customer-for-its-most-advanced-chipmaking-process-the-stock-is-still-more-than-60-below-its-june-record/?.tsrc=rss",
+      "published": "Sun, 22 Nov 2026 02:07:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-22T02:25:59.965163+00:00"
     }
   ]
 }
