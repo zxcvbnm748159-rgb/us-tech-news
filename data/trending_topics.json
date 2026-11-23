@@ -1,7 +1,7 @@
 {
   "date": "2026-11-22",
   "window_days": 7,
-  "source_count": 1298,
+  "source_count": 1309,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 180,
+      "count": 185,
       "kind": "ticker"
     },
     {
@@ -18,7 +18,7 @@
       "search_terms": [
         "GOOGL"
       ],
-      "count": 112,
+      "count": 113,
       "kind": "ticker"
     },
     {
@@ -27,16 +27,7 @@
       "search_terms": [
         "MSFT"
       ],
-      "count": 106,
-      "kind": "ticker"
-    },
-    {
-      "label": "AMD",
-      "query": "AMD",
-      "search_terms": [
-        "AMD"
-      ],
-      "count": 93,
+      "count": 107,
       "kind": "ticker"
     },
     {
@@ -44,6 +35,15 @@
       "query": "TSLA",
       "search_terms": [
         "TSLA"
+      ],
+      "count": 94,
+      "kind": "ticker"
+    },
+    {
+      "label": "AMD",
+      "query": "AMD",
+      "search_terms": [
+        "AMD"
       ],
       "count": 93,
       "kind": "ticker"
@@ -72,7 +72,7 @@
       "search_terms": [
         "META"
       ],
-      "count": 59,
+      "count": 60,
       "kind": "ticker"
     },
     {
@@ -81,7 +81,7 @@
       "search_terms": [
         "INTC"
       ],
-      "count": 54,
+      "count": 55,
       "kind": "ticker"
     },
     {
@@ -115,7 +115,7 @@
       "kind": "ticker"
     }
   ],
-  "updated_at": "2026-11-23T01:19:52.810373+00:00",
+  "updated_at": "2026-11-23T03:29:10.553807+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -18288,6 +18288,160 @@
       "sentiment": "negative",
       "sentiment_source": "headline_vader",
       "fetched_at": "2026-11-23T01:19:50.926820+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Worried About Nvidia? Buy This Fantastic Artificial Intelligence (AI) Stock Instead",
+      "link": "https://www.fool.com/investing/2026/11/22/worried-about-nvidia-buy-this-fantastic-artificial-intelligence-ai-stock-instead/?.tsrc=rss",
+      "published": "Mon, 23 Nov 2026 03:20:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-23T03:29:06.672950+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Kevin O’Leary Says Nvidia CEO Colette Kress Is ‘Pretty Sharp,’ Chip Demand ‘Insatiable’: Crypto Bettors Weigh Jensen Huang Comeback Odds",
+      "link": "https://www.benzinga.com/markets/prediction-markets/26/11/63518223/kevin-oleary-jensen-huang-nvidia-ceo-polymarket-prediction-market?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+      "published": "Mon, 23 Nov 2026 02:53:09 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-23T03:29:06.673064+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Nvidia stock logs 2008-scale losing streak even as interim CEO delivers beat",
+      "link": "https://www.thestreet.com/investing/stocks/nvidia-stock-losing-streak-2008?.tsrc=rss",
+      "published": "Mon, 23 Nov 2026 02:47:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-23T03:29:06.673130+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Asian tech back in the firing line as traders track Wall St rout",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-tech-back-firing-line-024445930.html?.tsrc=rss",
+      "published": "Mon, 23 Nov 2026 02:44:45 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-23T03:29:06.673188+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "NVDA, INTC, MU, AMD Chip Stocks Rip Higher: Dan Ives Says ‘Bears Feel Validated,’ But There’s No Stopping The AI Wave",
+      "link": "https://stocktwits.com/news-articles/markets/equity/nvda-intc-mu-amd-chip-stocks-rip-higher-dan-ives-says-bears-feel-validated-but-there-s-no-stopping-the-ai-wave/cNbYZnYR916?.tsrc=rss",
+      "published": "Mon, 23 Nov 2026 02:24:05 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-23T03:29:06.673301+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Microsoft Remains Attractively Valued as Azure and Cloud Drive Growth",
+      "link": "https://www.barchart.com/story/news/8957349/microsoft-remains-attractively-valued-as-azure-and-cloud-drive-growth?.tsrc=rss",
+      "published": "Sun, 22 Nov 2026 20:30:03 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-23T03:29:07.088074+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Amazon Spent $1.82 For Every $1 Of Cash Last Quarter. Can It Keep Going?",
+      "link": "https://www.trefis.com/stock/amzn/articles/627456/amazon-spent-1-82-for-every-1-of-cash-last-quarter-can-it-keep-going/2026-11-22?.tsrc=rss",
+      "published": "Mon, 23 Nov 2026 02:44:11 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-23T03:29:07.276415+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "After Blockbuster Anthropic IPO, OpenAI Wants AI Rivals To Agree On Development ‘Limits’, While Meta Calls For Controlled Approach",
+      "link": "https://stocktwits.com/news-articles/markets/equity/after-blockbuster-anthropic-ipo-open-ai-wants-ai-rivals-to-agree-on-development-limits-while-meta-calls-for-controlled-approach/cNbYnGlR9SP?.tsrc=rss",
+      "published": "Mon, 23 Nov 2026 03:15:10 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-23T03:29:07.613754+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Forget Flying Roadsters. Tesla Investors Have 3 Bigger Challenges to Watch.",
+      "link": "https://www.fool.com/investing/2026/11/22/forget-flying-roadsters-tesla-investors-have-3-bigger-challenges-to-watch/?.tsrc=rss",
+      "published": "Mon, 23 Nov 2026 02:20:01 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-23T03:29:07.783906+00:00"
+    },
+    {
+      "ticker": "INTC",
+      "title": "Intel Just Landed Its First 18A-P Chip Customer. What That Means for INTC Stock.",
+      "link": "https://www.barchart.com/story/news/8957190/intel-just-landed-its-first-18a-p-chip-customer-what-that-means-for-intc-stock?.tsrc=rss",
+      "published": "Sun, 22 Nov 2026 19:30:03 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-23T03:29:08.902835+00:00"
+    },
+    {
+      "ticker": "SNDK",
+      "title": "SNDK Stock Wrapped Its Worst Week Since July: Why Morningstar Sees A NAND Memory Bust Looming For SanDisk",
+      "link": "https://stocktwits.com/news-articles/markets/equity/sndk-stock-nand-price-downcycle-forecast-morningstar/cNbYVUtR9S2?.tsrc=rss",
+      "published": "Mon, 23 Nov 2026 03:12:15 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-23T03:29:10.513256+00:00"
     }
   ]
 }
