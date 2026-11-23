@@ -1,14 +1,14 @@
 {
   "date": "2026-11-23",
-  "score": 82,
+  "score": 73,
   "label": "Bullish",
   "counts": {
-    "positive": 18,
-    "negative": 4,
-    "neutral": 19
+    "positive": 24,
+    "negative": 9,
+    "neutral": 38
   },
-  "total": 41,
-  "updated_at": "2026-11-23T11:39:34.404980+00:00",
+  "total": 71,
+  "updated_at": "2026-11-23T13:29:35.308603+00:00",
   "articles": [
     {
       "link": "https://finance.yahoo.com/markets/stocks/article/nvidia-stock-jumps-as-dc-makes-stunning-u-turn-on-jensen-huang-113419437.html?.tsrc=rss",
@@ -172,6 +172,126 @@
     },
     {
       "link": "https://www.tikr.com/blog/good-news-for-micron-citi-says-ending-nvidias-financing-would-cut-dram-demand-only-12?ref=yahoofinance&tlnk=yf-261123-m6g4jpcr&.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/8751de70-467e-380a-82cb-f4ee42adc461/stock-market-today%3A-tech.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/39566712-44c4-35ec-b8c9-1992f19c0624/arm-chief-not-interested-in.html?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://stocktwits.com/news-articles/markets/equity/arm-ceo-rene-haas-extends-tenure-through-2033-after-nvidia-ceo-role-speculation/cNbpRxRR9jR?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.tikr.com/blog/scott-galloway-jensen-believed-nvidia-didnt-need-a-succession-plan-now-it-trades-at-half-the-markets-multiple?ref=yahoofinance&tlnk=yf-261123-3j5945rq&.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-rise-pre-130523697.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.just-style.com/news/unspun-ceo-chuck-shehadi/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-says-apple-costco-114558128.html?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.tikr.com/blog/gavin-baker-says-consolidation-is-probably-coming-for-neoclouds-that-cant-get-prepayments-heres-who-can?ref=yahoofinance&tlnk=yf-261123-wj6664v4&.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/v2x-expands-collaboration-microsoft-advance-122800926.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/23/what-s-wrong-with-alphabet-stock/?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.trefis.com/stock/qbts/articles/627677/can-d-wave-stock-outlast-its-143-million-cash-burn/2026-11-23?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/11/23/prediction-this-under-the-radar-ai-stock-could-have-a-big-2030-ahead-2/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.trefis.com/stock/pltr/articles/627801/why-did-palantir-stock-fall/2026-11-23?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.axios.com/2026/11/23/ai-spending-slowdown#utm_source=yahoo_finance&utm_medium=partner&utm_campaign=subs-partner-yahoo-finance-AI?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/walmart-target-anthropic-amazon-nvidia-120200850.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ark-blockchain-fintech-arkf-bought-110545933.html?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/dxl-expands-customer-reach-metas-120100773.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/article/teslas-autonomy-ambitions-just-got-a-wall-street-vote-of-confidence-130035595.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.trefis.com/stock/tsla/articles/627621/could-tesla-stock-really-fall-to-140/2026-11-23?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.tikr.com/blog/musk-says-teslas-will-tap-groks-real-time-x-feed-another-tie-between-tesla-and-spacex?ref=yahoofinance&tlnk=yf-261123-7rcmfjxq&.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/premarket-movers-chip-stocks-lead-124424524.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/23/disney-just-made-a-52-week-high-while-netflix-is-down-36-2-this-year-here-s-the-better-buy-now/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/23/intel-ceo-lip-bu-tan-has-incredible-news-for-investors-is-this-the-much-needed-catalyst-for-the-stock/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/trumps-portfolio-discloses-148-million-114128711.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaqs-worst-week-since-2020-121800378.html?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.tikr.com/blog/dell-and-super-micro-want-up-to-45-more-for-ai-servers-already-under-contract-dell-reports-tuesday?ref=yahoofinance&tlnk=yf-261123-2hwh29jj&.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/11/23/asml-vs-taiwan-semiconductor-heres-why-you-choose-one-as-your-ai-anchor-now/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.trefis.com/stock/tsm/articles/627560/tsmc-falls-less-but-nvidia-comes-back-first/2026-11-23?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/ai-chips-global-semiconductor-etf-113725192.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/76a3103b-f3de-364f-8cd8-90e453a902d8/crowdstrike%2C-zscaler%2C.html?.tsrc=rss",
       "sentiment": "neutral"
     }
   ]
