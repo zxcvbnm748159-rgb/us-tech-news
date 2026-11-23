@@ -1,7 +1,7 @@
 {
   "date": "2026-11-22",
   "window_days": 7,
-  "source_count": 1292,
+  "source_count": 1298,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 178,
+      "count": 180,
       "kind": "ticker"
     },
     {
@@ -18,7 +18,7 @@
       "search_terms": [
         "GOOGL"
       ],
-      "count": 111,
+      "count": 112,
       "kind": "ticker"
     },
     {
@@ -36,7 +36,7 @@
       "search_terms": [
         "AMD"
       ],
-      "count": 92,
+      "count": 93,
       "kind": "ticker"
     },
     {
@@ -45,7 +45,7 @@
       "search_terms": [
         "TSLA"
       ],
-      "count": 92,
+      "count": 93,
       "kind": "ticker"
     },
     {
@@ -115,7 +115,7 @@
       "kind": "ticker"
     }
   ],
-  "updated_at": "2026-11-22T22:57:43.900541+00:00",
+  "updated_at": "2026-11-23T01:19:52.810373+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -18204,6 +18204,90 @@
       "sentiment": "positive",
       "sentiment_source": "headline_vader",
       "fetched_at": "2026-11-22T22:57:43.869915+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Nvidia Just Lost Nearly Half Its Value. A 62-Year-Old With $1 Million in an S&P 500 Index Fund Owns About $50,000 of It Without Buying a Share",
+      "link": "https://247wallst.com/investing/2026/11/22/nvidia-just-lost-nearly-half-its-value-a-62-year-old-with-1-million-in-an-sp-500-index-fund-owns-about-50000-of-it-without-buying-a-share/?.tsrc=rss",
+      "published": "Sun, 22 Nov 2026 23:43:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-23T01:19:49.568833+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Bessent Softens on Jensen Huang. Can Nvidia Stock Finally Catch a Break?",
+      "link": "https://beincrypto.com/bessent-jensen-huang-nvidia-stock-outlook/?.tsrc=rss",
+      "published": "Sun, 22 Nov 2026 22:45:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-23T01:19:49.568889+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Jim Cramer sends a strong signal to Google stock investors",
+      "link": "https://www.thestreet.com/investing/stocks/jim-cramer-sends-a-strong-signal-to-google-stock-investors?.tsrc=rss",
+      "published": "Mon, 23 Nov 2026 00:37:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-23T01:19:50.056385+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "XPENG Launches Public Advanced ADAS Test Rides at Its Paris Store, Becoming the First Chinese Automaker to Offer the Experience Overseas",
+      "link": "https://finance.yahoo.com/technology/ai/articles/xpeng-launches-public-advanced-adas-010200031.html?.tsrc=rss",
+      "published": "Mon, 23 Nov 2026 01:02:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-23T01:19:50.479338+00:00"
+    },
+    {
+      "ticker": "AMD",
+      "title": "AMD Gained From Nvidia’s China Scandal. Now a Short Seller Says AMD Has a China Problem Too.",
+      "link": "https://www.barchart.com/story/news/8957111/amd-gained-from-nvidias-china-scandal-now-a-short-seller-says-amd-has-a-china-problem-too?.tsrc=rss",
+      "published": "Sun, 22 Nov 2026 19:01:04 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-23T01:19:50.620589+00:00"
+    },
+    {
+      "ticker": "ORCL",
+      "title": "Dow Jones Futures Rise As Oracle, Korea Try To Ease Market Fears; Look For These Absolute Losers",
+      "link": "https://finance.yahoo.com/m/9ef9da98-bccf-3565-9a30-9bc3e57ad4b9/dow-jones-futures-rise-as.html?.tsrc=rss",
+      "published": "Mon, 23 Nov 2026 01:14:21 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-23T01:19:50.926820+00:00"
     }
   ]
 }

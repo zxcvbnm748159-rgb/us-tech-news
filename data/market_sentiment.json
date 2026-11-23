@@ -1,14 +1,14 @@
 {
   "date": "2026-11-22",
-  "score": 66,
+  "score": 64,
   "label": "Bullish",
   "counts": {
-    "positive": 27,
-    "negative": 14,
-    "neutral": 43
+    "positive": 29,
+    "negative": 16,
+    "neutral": 45
   },
-  "total": 84,
-  "updated_at": "2026-11-22T22:57:43.870322+00:00",
+  "total": 90,
+  "updated_at": "2026-11-23T01:19:52.771016+00:00",
   "articles": [
     {
       "link": "https://www.fool.com/investing/2026/11/22/nvidia-just-delivered-incredible-results-buy-this-artificial-intelligence-ai-stock-instead-if-you-re-still-worried-about-the-semiconductor-giant-s-future/?.tsrc=rss",
@@ -345,6 +345,30 @@
     {
       "link": "https://www.fool.com/coverage/better-buy/2026/11/22/micron-technology-vs-sandisk-which-technology-stock-is-a-better-buy-for-2027/?.tsrc=rss",
       "sentiment": "positive"
+    },
+    {
+      "link": "https://247wallst.com/investing/2026/11/22/nvidia-just-lost-nearly-half-its-value-a-62-year-old-with-1-million-in-an-sp-500-index-fund-owns-about-50000-of-it-without-buying-a-share/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://beincrypto.com/bessent-jensen-huang-nvidia-stock-outlook/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.thestreet.com/investing/stocks/jim-cramer-sends-a-strong-signal-to-google-stock-investors?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/xpeng-launches-public-advanced-adas-010200031.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.barchart.com/story/news/8957111/amd-gained-from-nvidias-china-scandal-now-a-short-seller-says-amd-has-a-china-problem-too?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/9ef9da98-bccf-3565-9a30-9bc3e57ad4b9/dow-jones-futures-rise-as.html?.tsrc=rss",
+      "sentiment": "negative"
     }
   ]
 }
