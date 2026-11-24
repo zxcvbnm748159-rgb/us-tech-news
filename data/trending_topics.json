@@ -1,7 +1,7 @@
 {
   "date": "2026-11-24",
   "window_days": 7,
-  "source_count": 1052,
+  "source_count": 1076,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 161,
+      "count": 166,
       "kind": "ticker"
     },
     {
@@ -18,7 +18,7 @@
       "search_terms": [
         "GOOGL"
       ],
-      "count": 96,
+      "count": 100,
       "kind": "ticker"
     },
     {
@@ -27,7 +27,7 @@
       "search_terms": [
         "MSFT"
       ],
-      "count": 82,
+      "count": 85,
       "kind": "ticker"
     },
     {
@@ -36,7 +36,7 @@
       "search_terms": [
         "TSLA"
       ],
-      "count": 76,
+      "count": 80,
       "kind": "ticker"
     },
     {
@@ -45,7 +45,7 @@
       "search_terms": [
         "AMD"
       ],
-      "count": 73,
+      "count": 74,
       "kind": "ticker"
     },
     {
@@ -54,7 +54,7 @@
       "search_terms": [
         "AMZN"
       ],
-      "count": 70,
+      "count": 72,
       "kind": "ticker"
     },
     {
@@ -63,7 +63,7 @@
       "search_terms": [
         "AAPL"
       ],
-      "count": 69,
+      "count": 70,
       "kind": "ticker"
     },
     {
@@ -76,6 +76,15 @@
       "kind": "ticker"
     },
     {
+      "label": "INTC",
+      "query": "INTC",
+      "search_terms": [
+        "INTC"
+      ],
+      "count": 41,
+      "kind": "ticker"
+    },
+    {
       "label": "AVGO",
       "query": "AVGO",
       "search_terms": [
@@ -85,10 +94,10 @@
       "kind": "ticker"
     },
     {
-      "label": "INTC",
-      "query": "INTC",
+      "label": "TSM",
+      "query": "TSM",
       "search_terms": [
-        "INTC"
+        "TSM"
       ],
       "count": 40,
       "kind": "ticker"
@@ -101,18 +110,9 @@
       ],
       "count": 38,
       "kind": "ticker"
-    },
-    {
-      "label": "TSM",
-      "query": "TSM",
-      "search_terms": [
-        "TSM"
-      ],
-      "count": 38,
-      "kind": "ticker"
     }
   ],
-  "updated_at": "2026-11-24T07:56:29.936699+00:00",
+  "updated_at": "2026-11-24T10:53:22.469016+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -14841,6 +14841,342 @@
       "sentiment": "neutral",
       "sentiment_source": "headline_vader",
       "fetched_at": "2026-11-24T07:56:29.709100+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Nvidia Bulls Rule on Asian Stock Markets",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/nvidia-bulls-rule-asian-stock-103642321.html?.tsrc=rss",
+      "published": "Tue, 24 Nov 2026 10:36:42 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-24T10:53:20.263044+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Nvidia Turmoil: How Big Is the Risk for CoreWeave?",
+      "link": "https://www.fool.com/investing/2026/11/24/nvidia-turmoil-how-big-is-the-risk-for-coreweave/?.tsrc=rss",
+      "published": "Tue, 24 Nov 2026 10:30:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-24T10:53:20.263145+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Nvidia Lost $2.75 Trillion in 45 Days -- More Than the Market Cap of 496 S&P 500 Companies -- and Investors Wagering on a Quick Bounce to New Highs May Be Disappointed",
+      "link": "https://www.fool.com/investing/2026/11/24/nvidia-lost-275-trillion-in-45-days-more-than-496-sp-500-companies-wager-on-quick-bounce-disappointed/?.tsrc=rss",
+      "published": "Tue, 24 Nov 2026 10:26:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-24T10:53:20.263224+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Nvidia CEO Jensen Huang Is Back, and Stock Investors Just Got More Great News About the AI Chip Giant",
+      "link": "https://www.fool.com/investing/2026/11/24/nvidia-ceo-jensen-huang-stock-investors-got-great-news/?.tsrc=rss",
+      "published": "Tue, 24 Nov 2026 10:17:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-24T10:53:20.263272+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Nvidia Could Generate $741 Billion in Revenue Next Year. Here’s What That Means for the Stock.",
+      "link": "https://www.fool.com/investing/2026/11/24/nvidia-could-generate-usd741-billion-in-revenue-next-year-here-s-what-that-means-for-the-stock/?.tsrc=rss",
+      "published": "Tue, 24 Nov 2026 10:15:01 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-24T10:53:20.263314+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Apple Is Barely Off Its High as Chips Crash. A Strategist Says It “Definitely Needs to Correct”",
+      "link": "https://www.tikr.com/blog/apple-is-barely-off-its-high-as-chips-crash-a-strategist-says-it-definitely-needs-to-correct?ref=yahoofinance&tlnk=yf-261124-vcm3jcr2&.tsrc=rss",
+      "published": "Tue, 24 Nov 2026 07:53:12 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-24T10:53:20.348839+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Is V2X (VVX) Undervalued Following Its Microsoft AI Expansion And 2027 Revenue Concerns?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/v2x-vvx-undervalued-following-microsoft-091039287.html?.tsrc=rss",
+      "published": "Tue, 24 Nov 2026 09:10:39 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-24T10:53:20.430540+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Atos delivers a structured journey to digital sovereignty, leveraging Microsoft technology",
+      "link": "https://finance.yahoo.com/technology/ai/articles/atos-delivers-structured-journey-digital-090000268.html?.tsrc=rss",
+      "published": "Tue, 24 Nov 2026 09:00:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-24T10:53:20.430573+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Dan Loeb and 47 Other Big Funds Bought Microsoft Last Quarter. Bill Ackman and 28 Others Sold. Who’s Right?",
+      "link": "https://www.tikr.com/blog/dan-loeb-and-47-other-big-funds-bought-microsoft-last-quarter-bill-ackman-and-28-others-sold-whos-right?ref=yahoofinance&tlnk=yf-261124-g4v647r9&.tsrc=rss",
+      "published": "Tue, 24 Nov 2026 08:01:14 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-24T10:53:20.430608+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Google and Meta face massive fines for addictive features",
+      "link": "https://www.independent.co.uk/tech/google-meta-fine-internet-safety-australia-b3090456.html?.tsrc=rss",
+      "published": "Tue, 24 Nov 2026 10:10:30 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-24T10:53:20.509481+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Why 1 Billionaire Investor Just Poured $3 Billion Into Amazon, Meta, and Alphabet",
+      "link": "https://www.fool.com/investing/2026/11/24/why-one-billionaire-investor-just-poured-usd3-billion-into-amazon-meta-and-alphabet/?.tsrc=rss",
+      "published": "Tue, 24 Nov 2026 10:35:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-24T10:53:20.509544+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Anthropic’s IPO Safety Net Is Gone: Morgan Stanley “Can No Longer” Buy Below $83. That’s a Risk for Amazon",
+      "link": "https://www.tikr.com/blog/anthropics-ipo-safety-net-is-gone-morgan-stanley-can-no-longer-buy-below-83-thats-a-risk-for-amazon?ref=yahoofinance&tlnk=yf-261124-vcwwm7x7&.tsrc=rss",
+      "published": "Tue, 24 Nov 2026 09:50:30 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-24T10:53:20.509640+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Prediction: Alphabet Will Be the World’s Most Valuable Company by 2031",
+      "link": "https://www.fool.com/investing/2026/11/24/prediction-alphabet-will-be-the-world-s-most-valuable-company-by-2031/?.tsrc=rss",
+      "published": "Tue, 24 Nov 2026 09:10:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-24T10:53:20.509682+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Amazon to acquire Decart’s AI optimisation technology",
+      "link": "https://www.verdict.co.uk/amazon-acquire-decarts-technology/?.tsrc=rss",
+      "published": "Tue, 24 Nov 2026 10:09:16 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-24T10:53:20.593675+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "FalcoTrader Announces Expanded Stock Trading Capabilities Across Its Simulated Trading Challenge Platform",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/falcotrader-announces-expanded-stock-trading-094700625.html?.tsrc=rss",
+      "published": "Tue, 24 Nov 2026 09:47:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-24T10:53:20.593727+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Tesla Stock Is on Track for Only Its 3rd Losing Year Since Its 2010 IPO. Here's What Happened After the Other 2.",
+      "link": "https://www.fool.com/investing/2026/11/24/tesla-stock-is-on-track-for-only-its-3rd-losing-year-since-its-2010-ipo-here-s-what-happened-after-the-other-2/?.tsrc=rss",
+      "published": "Tue, 24 Nov 2026 08:54:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-24T10:53:20.755758+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "GM Eyes a Former Tesla Autopilot Chief as CEO. No Autonomy, “No More GM,” Says Jason Calacanis",
+      "link": "https://www.tikr.com/blog/gm-eyes-a-former-tesla-autopilot-chief-as-ceo-no-autonomy-no-more-gm-says-jason-calacanis?ref=yahoofinance&tlnk=yf-261124-gwx6hqvw&.tsrc=rss",
+      "published": "Tue, 24 Nov 2026 08:36:59 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-24T10:53:20.755822+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Brad Gerstner Just Bought $680 Million of Tesla. His Range: “$420 a Share and Let’s Call It $520 or $550”",
+      "link": "https://www.tikr.com/blog/brad-gerstner-just-bought-680-million-of-tesla-his-range-420-a-share-and-lets-call-it-520-or-550?ref=yahoofinance&tlnk=yf-261124-3p7mcrp3&.tsrc=rss",
+      "published": "Tue, 24 Nov 2026 08:08:27 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-24T10:53:20.755878+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Tesla And SpaceX Reportedly Name 5 Directors To Lead Merger Discussions — Investor Says Talks Are Moving At ‘Warp Speed’",
+      "link": "https://stocktwits.com/news-articles/markets/equity/tesla-spacex-5-directors-lead-merger-discussions-investor-talks-warp-speed/cNbsbrxR9ke?.tsrc=rss",
+      "published": "Tue, 24 Nov 2026 08:00:14 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-24T10:53:20.755911+00:00"
+    },
+    {
+      "ticker": "AMD",
+      "title": "US Futures Mixed After Monday’s Nvidia-Led Chip Rally — ZM, HPE, AMD, BABA In Focus",
+      "link": "https://stocktwits.com/news-articles/markets/equity/us-futures-mixed-after-monday-s-nvidia-led-chip-rally-zm-hpe-amd-baba-in-focus/cNbs23VR9kf?.tsrc=rss",
+      "published": "Tue, 24 Nov 2026 09:30:16 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-24T10:53:20.833537+00:00"
+    },
+    {
+      "ticker": "INTC",
+      "title": "George Soros and 49 Other Big Funds Bought Intel Last Quarter, While 15 Sold. Who’s Right?",
+      "link": "https://www.tikr.com/blog/george-soros-and-49-other-big-funds-bought-intel-last-quarter-while-15-sold-whos-right?ref=yahoofinance&tlnk=yf-261124-4pggx64v&.tsrc=rss",
+      "published": "Tue, 24 Nov 2026 09:50:37 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-24T10:53:21.232901+00:00"
+    },
+    {
+      "ticker": "IBM",
+      "title": "Can Quantum Utility Change The Bull Case For BMO (TSX:BMO)?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/quantum-utility-change-bull-case-101007181.html?.tsrc=rss",
+      "published": "Tue, 24 Nov 2026 10:10:07 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-24T10:53:21.580496+00:00"
+    },
+    {
+      "ticker": "TSM",
+      "title": "TSMC gains $158 billion in value in one day as Jensen Huang returns as Nvidia CEO",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tsmc-gains-158-billion-value-070556999.html?.tsrc=rss",
+      "published": "Tue, 24 Nov 2026 07:05:56 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-24T10:53:21.749100+00:00"
+    },
+    {
+      "ticker": "TSM",
+      "title": "Fujitsu sees stronger Monaka demand as buyers seek alternatives, Bloomberg reports",
+      "link": "https://finance.yahoo.com/technology/articles/fujitsu-sees-stronger-monaka-demand-083637056.html?.tsrc=rss",
+      "published": "Tue, 24 Nov 2026 08:36:37 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-24T10:53:21.749176+00:00"
     }
   ]
 }

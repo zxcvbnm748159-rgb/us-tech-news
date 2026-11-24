@@ -1,14 +1,14 @@
 {
   "date": "2026-11-24",
-  "score": 75,
+  "score": 63,
   "label": "Bullish",
   "counts": {
-    "positive": 6,
-    "negative": 2,
-    "neutral": 3
+    "positive": 12,
+    "negative": 7,
+    "neutral": 16
   },
-  "total": 11,
-  "updated_at": "2026-11-24T07:56:29.906375+00:00",
+  "total": 35,
+  "updated_at": "2026-11-24T10:53:22.447137+00:00",
   "articles": [
     {
       "link": "https://www.euronews.com/2026/11/24/the-man-behind-nvidia-jensen-huangs-rise-and-dramatic-return?.tsrc=rss",
@@ -53,6 +53,102 @@
     {
       "link": "https://finance.yahoo.com/markets/stocks/articles/europe-car-registrations-rise-3-055350520.html?.tsrc=rss",
       "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/nvidia-bulls-rule-asian-stock-103642321.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/24/nvidia-turmoil-how-big-is-the-risk-for-coreweave/?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/24/nvidia-lost-275-trillion-in-45-days-more-than-496-sp-500-companies-wager-on-quick-bounce-disappointed/?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/24/nvidia-ceo-jensen-huang-stock-investors-got-great-news/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/24/nvidia-could-generate-usd741-billion-in-revenue-next-year-here-s-what-that-means-for-the-stock/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.tikr.com/blog/apple-is-barely-off-its-high-as-chips-crash-a-strategist-says-it-definitely-needs-to-correct?ref=yahoofinance&tlnk=yf-261124-vcm3jcr2&.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/v2x-vvx-undervalued-following-microsoft-091039287.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/atos-delivers-structured-journey-digital-090000268.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.tikr.com/blog/dan-loeb-and-47-other-big-funds-bought-microsoft-last-quarter-bill-ackman-and-28-others-sold-whos-right?ref=yahoofinance&tlnk=yf-261124-g4v647r9&.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.independent.co.uk/tech/google-meta-fine-internet-safety-australia-b3090456.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/24/why-one-billionaire-investor-just-poured-usd3-billion-into-amazon-meta-and-alphabet/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.tikr.com/blog/anthropics-ipo-safety-net-is-gone-morgan-stanley-can-no-longer-buy-below-83-thats-a-risk-for-amazon?ref=yahoofinance&tlnk=yf-261124-vcwwm7x7&.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/24/prediction-alphabet-will-be-the-world-s-most-valuable-company-by-2031/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.verdict.co.uk/amazon-acquire-decarts-technology/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/falcotrader-announces-expanded-stock-trading-094700625.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/24/tesla-stock-is-on-track-for-only-its-3rd-losing-year-since-its-2010-ipo-here-s-what-happened-after-the-other-2/?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.tikr.com/blog/gm-eyes-a-former-tesla-autopilot-chief-as-ceo-no-autonomy-no-more-gm-says-jason-calacanis?ref=yahoofinance&tlnk=yf-261124-gwx6hqvw&.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.tikr.com/blog/brad-gerstner-just-bought-680-million-of-tesla-his-range-420-a-share-and-lets-call-it-520-or-550?ref=yahoofinance&tlnk=yf-261124-3p7mcrp3&.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://stocktwits.com/news-articles/markets/equity/tesla-spacex-5-directors-lead-merger-discussions-investor-talks-warp-speed/cNbsbrxR9ke?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://stocktwits.com/news-articles/markets/equity/us-futures-mixed-after-monday-s-nvidia-led-chip-rally-zm-hpe-amd-baba-in-focus/cNbs23VR9kf?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.tikr.com/blog/george-soros-and-49-other-big-funds-bought-intel-last-quarter-while-15-sold-whos-right?ref=yahoofinance&tlnk=yf-261124-4pggx64v&.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/quantum-utility-change-bull-case-101007181.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tsmc-gains-158-billion-value-070556999.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/articles/fujitsu-sees-stronger-monaka-demand-083637056.html?.tsrc=rss",
+      "sentiment": "positive"
     }
   ]
 }
