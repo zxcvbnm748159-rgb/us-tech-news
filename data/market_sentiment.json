@@ -3,12 +3,12 @@
   "score": 69,
   "label": "Bullish",
   "counts": {
-    "positive": 45,
-    "negative": 20,
-    "neutral": 60
+    "positive": 53,
+    "negative": 24,
+    "neutral": 71
   },
-  "total": 125,
-  "updated_at": "2026-11-24T19:51:18.269646+00:00",
+  "total": 148,
+  "updated_at": "2026-11-24T20:56:31.984242+00:00",
   "articles": [
     {
       "link": "https://www.euronews.com/2026/11/24/the-man-behind-nvidia-jensen-huangs-rise-and-dramatic-return?.tsrc=rss",
@@ -508,6 +508,98 @@
     },
     {
       "link": "https://247wallst.com/investing/2026/11/24/micron-falls-7-as-nvidia-pullback-partially-reverses-mondays-ai-chip-rally-sandisk-and-sk-hynix-drop-6/?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-fall-afternoon-204211371.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/24/if-a-recession-hits-in-2027-this-is-the-1-etf-i-want-in-my-portfolio/?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-flex-flex-stock-down-203125271.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://firstformoney.com/president-trump-made-millions-from-nvidia-shares-after-jensen-huang-was-reinstated-as-ceo/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.tikr.com/blog/dan-ives-says-jensen-huang-is-worth-1-trillion-to-nvidia-congress-isnt-done-with-him?ref=yahoofinance&tlnk=yf-261124-9j3wgprw&.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/24/is-microsoft-the-best-big-tech-stock-to-buy-now/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://nypost.com/2026/11/24/business/microsoft-initiates-code-red-after-most-disruptive-outage-in-companys-history-report/?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/amazon-com-amzn-still-below-201044467.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/24/3-unstoppable-stocks-that-can-be-great-buys-for-decades/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-apos-vertical-integration-makes-200751408.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.tikr.com/blog/tesla-and-spacex-name-five-directors-for-a-potential-3-5-trillion-merger-tesla-holders-still-get-a-vote?ref=yahoofinance&tlnk=yf-261124-rc5pgxq2&.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-everpure-p-stock-down-203130134.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.tikr.com/blog/not-good-oracles-credit-swaps-blow-out-again-a-day-after-huangs-return-lifted-nvidia?ref=yahoofinance&tlnk=yf-261124-vcwxc3ff&.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/salesforce-crm-stock-looks-cheap-200929233.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/media-advertising/articles/netflix-buy-radford-studio-center-201525149.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/real-estate/articles/goldman-sachs-officially-takes-over-195355150.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/coverage/better-buy/2026/11/24/applied-materials-vs-intel-which-technology-stock-is-a-better-buy-for-2027/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/coverage/better-buy/2026/11/24/axon-enterprise-vs-palantir-technologies-which-law-enforcement-stock-is-a-better-buy-for-2027/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-nyse-tsm-200904328.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.benzinga.com/markets/prediction-markets/26/11/63603822/tsmc-texas-chip-tax-breaks?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.tikr.com/blog/trump-warns-of-paying-200-percent-on-chips-in-two-years-that-pushes-tsmc-toward-a-22-6-billion-texas-plant?ref=yahoofinance&tlnk=yf-261124-hf56p374&.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/24/micron-vs-sandisk-which-ai-memory-stock-is-the-better-buy/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.tikr.com/blog/warning-for-micron-investors-bank-of-america-says-semis-cuts-have-started?ref=yahoofinance&tlnk=yf-261124-3rcj3g36&.tsrc=rss",
       "sentiment": "negative"
     }
   ]

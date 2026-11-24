@@ -1,7 +1,7 @@
 {
   "date": "2026-11-24",
   "window_days": 7,
-  "source_count": 1166,
+  "source_count": 1189,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 171,
+      "count": 176,
       "kind": "ticker"
     },
     {
@@ -27,7 +27,7 @@
       "search_terms": [
         "MSFT"
       ],
-      "count": 90,
+      "count": 92,
       "kind": "ticker"
     },
     {
@@ -36,7 +36,7 @@
       "search_terms": [
         "TSLA"
       ],
-      "count": 85,
+      "count": 87,
       "kind": "ticker"
     },
     {
@@ -45,7 +45,7 @@
       "search_terms": [
         "AMD"
       ],
-      "count": 79,
+      "count": 80,
       "kind": "ticker"
     },
     {
@@ -54,7 +54,7 @@
       "search_terms": [
         "AMZN"
       ],
-      "count": 76,
+      "count": 78,
       "kind": "ticker"
     },
     {
@@ -81,7 +81,16 @@
       "search_terms": [
         "INTC"
       ],
-      "count": 46,
+      "count": 47,
+      "kind": "ticker"
+    },
+    {
+      "label": "TSM",
+      "query": "TSM",
+      "search_terms": [
+        "TSM"
+      ],
+      "count": 47,
       "kind": "ticker"
     },
     {
@@ -94,25 +103,16 @@
       "kind": "ticker"
     },
     {
-      "label": "TSM",
-      "query": "TSM",
-      "search_terms": [
-        "TSM"
-      ],
-      "count": 44,
-      "kind": "ticker"
-    },
-    {
       "label": "CRM",
       "query": "CRM",
       "search_terms": [
         "CRM"
       ],
-      "count": 43,
+      "count": 44,
       "kind": "ticker"
     }
   ],
-  "updated_at": "2026-11-24T19:51:18.289348+00:00",
+  "updated_at": "2026-11-24T20:56:32.012255+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -16437,6 +16437,328 @@
       "sentiment": "negative",
       "sentiment_source": "headline_vader",
       "fetched_at": "2026-11-24T19:51:18.269093+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Sector Update: Tech Stocks Fall Late Afternoon",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-fall-afternoon-204211371.html?.tsrc=rss",
+      "published": "Tue, 24 Nov 2026 20:42:11 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-24T20:56:28.054961+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "If a Recession Hits in 2027, This Is the 1 ETF I Want in My Portfolio",
+      "link": "https://www.fool.com/investing/2026/11/24/if-a-recession-hits-in-2027-this-is-the-1-etf-i-want-in-my-portfolio/?.tsrc=rss",
+      "published": "Tue, 24 Nov 2026 20:35:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-24T20:56:28.055067+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Why Flex (FLEX) Stock Is Down Today: AI Chip Selloff Hits Peers",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-flex-flex-stock-down-203125271.html?.tsrc=rss",
+      "published": "Tue, 24 Nov 2026 20:31:25 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-24T20:56:28.055098+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "President Trump Made Millions From Nvidia Shares After Jensen Huang Was Reinstated as CEO",
+      "link": "https://firstformoney.com/president-trump-made-millions-from-nvidia-shares-after-jensen-huang-was-reinstated-as-ceo/?.tsrc=rss",
+      "published": "Tue, 24 Nov 2026 20:27:01 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-24T20:56:28.055150+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Dan Ives Says Jensen Huang Is “Worth $1 Trillion to Nvidia.” Congress Isn’t Done With Him",
+      "link": "https://www.tikr.com/blog/dan-ives-says-jensen-huang-is-worth-1-trillion-to-nvidia-congress-isnt-done-with-him?ref=yahoofinance&tlnk=yf-261124-9j3wgprw&.tsrc=rss",
+      "published": "Tue, 24 Nov 2026 20:20:22 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-24T20:56:28.055187+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Is Microsoft the Best Big Tech Stock to Buy Now?",
+      "link": "https://www.fool.com/investing/2026/11/24/is-microsoft-the-best-big-tech-stock-to-buy-now/?.tsrc=rss",
+      "published": "Tue, 24 Nov 2026 19:50:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-24T20:56:28.381847+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Microsoft initiaties ‘Code Red’ after most disruptive outage in company’s history: report",
+      "link": "https://nypost.com/2026/11/24/business/microsoft-initiates-code-red-after-most-disruptive-outage-in-companys-history-report/?.tsrc=rss",
+      "published": "Tue, 24 Nov 2026 19:32:55 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-24T20:56:28.381922+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Is Amazon.com (AMZN) Still Below Fair Value As AI Spending Rises?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/amazon-com-amzn-still-below-201044467.html?.tsrc=rss",
+      "published": "Tue, 24 Nov 2026 20:10:44 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-24T20:56:28.715029+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "3 Unstoppable Stocks That Can Be Great Buys for Decades",
+      "link": "https://www.fool.com/investing/2026/11/24/3-unstoppable-stocks-that-can-be-great-buys-for-decades/?.tsrc=rss",
+      "published": "Tue, 24 Nov 2026 19:42:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-24T20:56:28.715087+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Tesla's Vertical Integration Makes it Uniquely Positioned in US Robotaxi Market, UBS Says",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-apos-vertical-integration-makes-200751408.html?.tsrc=rss",
+      "published": "Tue, 24 Nov 2026 20:07:51 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-24T20:56:29.048527+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Tesla and SpaceX Name Five Directors for a Potential $3.5 Trillion Merger. Tesla Holders Still Get a Vote",
+      "link": "https://www.tikr.com/blog/tesla-and-spacex-name-five-directors-for-a-potential-3-5-trillion-merger-tesla-holders-still-get-a-vote?ref=yahoofinance&tlnk=yf-261124-rc5pgxq2&.tsrc=rss",
+      "published": "Tue, 24 Nov 2026 20:05:33 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-24T20:56:29.048576+00:00"
+    },
+    {
+      "ticker": "AMD",
+      "title": "Why Is Everpure (P) Stock Down Today? AI Chip, Storage Selloff Weighs",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-everpure-p-stock-down-203130134.html?.tsrc=rss",
+      "published": "Tue, 24 Nov 2026 20:31:30 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-24T20:56:29.211508+00:00"
+    },
+    {
+      "ticker": "ORCL",
+      "title": "Not Good: Oracle’s Credit Swaps Blow Out Again a Day After Huang’s Return Lifted Nvidia",
+      "link": "https://www.tikr.com/blog/not-good-oracles-credit-swaps-blow-out-again-a-day-after-huangs-return-lifted-nvidia?ref=yahoofinance&tlnk=yf-261124-vcwxc3ff&.tsrc=rss",
+      "published": "Tue, 24 Nov 2026 20:00:31 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-24T20:56:29.564106+00:00"
+    },
+    {
+      "ticker": "CRM",
+      "title": "Salesforce (CRM) Stock Looks Cheap With Earnings In Focus",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/salesforce-crm-stock-looks-cheap-200929233.html?.tsrc=rss",
+      "published": "Tue, 24 Nov 2026 20:09:29 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-24T20:56:29.730106+00:00"
+    },
+    {
+      "ticker": "NFLX",
+      "title": "Netflix to buy Radford Studio Center in $380-million deal",
+      "link": "https://finance.yahoo.com/media-advertising/articles/netflix-buy-radford-studio-center-201525149.html?.tsrc=rss",
+      "published": "Tue, 24 Nov 2026 20:15:25 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-24T20:56:29.894480+00:00"
+    },
+    {
+      "ticker": "NFLX",
+      "title": "Netflix closing on Radford Studio Center after Goldman Sachs’ $380M credit bid",
+      "link": "https://finance.yahoo.com/real-estate/articles/goldman-sachs-officially-takes-over-195355150.html?.tsrc=rss",
+      "published": "Tue, 24 Nov 2026 19:53:55 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-24T20:56:29.894551+00:00"
+    },
+    {
+      "ticker": "INTC",
+      "title": "Applied Materials vs. Intel: Which Technology Stock Is a Better Buy for 2027?",
+      "link": "https://www.fool.com/coverage/better-buy/2026/11/24/applied-materials-vs-intel-which-technology-stock-is-a-better-buy-for-2027/?.tsrc=rss",
+      "published": "Tue, 24 Nov 2026 19:50:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-24T20:56:30.056271+00:00"
+    },
+    {
+      "ticker": "PLTR",
+      "title": "Axon Enterprise vs. Palantir Technologies: Which Law Enforcement Stock Is a Better Buy for 2027?",
+      "link": "https://www.fool.com/coverage/better-buy/2026/11/24/axon-enterprise-vs-palantir-technologies-which-law-enforcement-stock-is-a-better-buy-for-2027/?.tsrc=rss",
+      "published": "Tue, 24 Nov 2026 20:20:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-24T20:56:30.394497+00:00"
+    },
+    {
+      "ticker": "TSM",
+      "title": "Taiwan Semiconductor Manufacturing (NYSE:TSM) Stock May Be Reasonable After New Export Curbs",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-nyse-tsm-200904328.html?.tsrc=rss",
+      "published": "Tue, 24 Nov 2026 20:09:04 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-24T20:56:31.062705+00:00"
+    },
+    {
+      "ticker": "TSM",
+      "title": "TSMC's $22.6 Billion Texas Chip Plant Hinges on Two Tax Breaks",
+      "link": "https://www.benzinga.com/markets/prediction-markets/26/11/63603822/tsmc-texas-chip-tax-breaks?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+      "published": "Tue, 24 Nov 2026 20:00:07 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-24T20:56:31.062744+00:00"
+    },
+    {
+      "ticker": "TSM",
+      "title": "Trump Warns of “Paying 200 Percent on Chips” in Two Years. That Pushes TSMC Toward a $22.6 Billion Texas Plant",
+      "link": "https://www.tikr.com/blog/trump-warns-of-paying-200-percent-on-chips-in-two-years-that-pushes-tsmc-toward-a-22-6-billion-texas-plant?ref=yahoofinance&tlnk=yf-261124-hf56p374&.tsrc=rss",
+      "published": "Tue, 24 Nov 2026 19:59:22 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-24T20:56:31.062800+00:00"
+    },
+    {
+      "ticker": "SNDK",
+      "title": "Micron vs. Sandisk: Which AI Memory Stock Is the Better Buy?",
+      "link": "https://www.fool.com/investing/2026/11/24/micron-vs-sandisk-which-ai-memory-stock-is-the-better-buy/?.tsrc=rss",
+      "published": "Tue, 24 Nov 2026 20:25:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-24T20:56:31.983708+00:00"
+    },
+    {
+      "ticker": "SNDK",
+      "title": "Warning for Micron Investors: Bank of America Says “Semis Cuts Have Started”",
+      "link": "https://www.tikr.com/blog/warning-for-micron-investors-bank-of-america-says-semis-cuts-have-started?ref=yahoofinance&tlnk=yf-261124-3rcj3g36&.tsrc=rss",
+      "published": "Tue, 24 Nov 2026 20:10:39 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-24T20:56:31.983777+00:00"
     }
   ]
 }
