@@ -1,7 +1,7 @@
 {
   "date": "2026-11-25",
   "window_days": 7,
-  "source_count": 1244,
+  "source_count": 1258,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 176,
+      "count": 181,
       "kind": "ticker"
     },
     {
@@ -18,7 +18,7 @@
       "search_terms": [
         "GOOGL"
       ],
-      "count": 112,
+      "count": 113,
       "kind": "ticker"
     },
     {
@@ -27,7 +27,7 @@
       "search_terms": [
         "TSLA"
       ],
-      "count": 96,
+      "count": 97,
       "kind": "ticker"
     },
     {
@@ -36,7 +36,7 @@
       "search_terms": [
         "MSFT"
       ],
-      "count": 94,
+      "count": 95,
       "kind": "ticker"
     },
     {
@@ -63,7 +63,7 @@
       "search_terms": [
         "AAPL"
       ],
-      "count": 81,
+      "count": 82,
       "kind": "ticker"
     },
     {
@@ -81,7 +81,7 @@
       "search_terms": [
         "AVGO"
       ],
-      "count": 50,
+      "count": 51,
       "kind": "ticker"
     },
     {
@@ -90,7 +90,7 @@
       "search_terms": [
         "TSM"
       ],
-      "count": 50,
+      "count": 51,
       "kind": "ticker"
     },
     {
@@ -103,16 +103,16 @@
       "kind": "ticker"
     },
     {
-      "label": "SNDK",
-      "query": "SNDK",
+      "label": "ORCL",
+      "query": "ORCL",
       "search_terms": [
-        "SNDK"
+        "ORCL"
       ],
       "count": 46,
       "kind": "ticker"
     }
   ],
-  "updated_at": "2026-11-26T01:26:28.816799+00:00",
+  "updated_at": "2026-11-26T04:36:08.627099+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -17529,6 +17529,202 @@
       "sentiment": "neutral",
       "sentiment_source": "headline_vader",
       "fetched_at": "2026-11-26T01:26:27.694052+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Kioxia and NVIDIA Collaborate to Expand Effective High-Bandwidth Memory Capacity with SSDs",
+      "link": "https://finance.yahoo.com/technology/ai/articles/kioxia-nvidia-collaborate-expand-effective-041900475.html?.tsrc=rss",
+      "published": "Thu, 26 Nov 2026 04:19:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-26T04:36:05.712932+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "‘I Don’t Think He Needs a Pardon at All’: JD Vance Defends Nvidia CEO Jensen Huang as Crypto Bettors Put Him Atop Trump’s List",
+      "link": "https://www.benzinga.com/markets/prediction-markets/26/11/63659548/jd-vance-jensen-huang-trump-pardon-nvidia?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+      "published": "Thu, 26 Nov 2026 04:14:03 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-26T04:36:05.713041+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Trump admin weighed using Cold War law to reinstate Nvidia CEO Huang, WaPo reports",
+      "link": "https://finance.yahoo.com/technology/articles/trump-admin-weighed-using-cold-032247551.html?.tsrc=rss",
+      "published": "Thu, 26 Nov 2026 03:22:47 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-26T04:36:05.713107+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Nvidia chips reach Chinese-owned U.S. firms despite export curbs, CBS reports",
+      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-chips-reach-chinese-owned-031146505.html?.tsrc=rss",
+      "published": "Thu, 26 Nov 2026 03:11:46 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-26T04:36:05.713155+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Is Nvidia Stock a Buy After Dell's Record AI Backlog?",
+      "link": "https://www.fool.com/investing/2026/11/25/is-nvidia-stock-a-buy-after-dell-s-record-ai-backlog/?.tsrc=rss",
+      "published": "Thu, 26 Nov 2026 03:07:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-26T04:36:05.713196+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Michael Burry Says He’s Shorting The Market’s ‘Generals’ As Apple Flashes A Warning Last Seen In 2002",
+      "link": "https://stocktwits.com/news-articles/markets/equity/michael-burry-shorting-market-generals-apple-warning-last-seen-in-2002/cNbx7IxR9Ze?.tsrc=rss",
+      "published": "Thu, 26 Nov 2026 03:44:40 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-26T04:36:05.836549+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Nvidia’s Market Cap Falls Below Microsoft’s: Analyst Flags Five Overhangs For NVDA Stock",
+      "link": "https://stocktwits.com/news-articles/markets/equity/nvidia-s-market-cap-falls-below-microsoft-s-analyst-flags-five-overhangs-for-nvda-stock/cNbx4KZR9Z3?.tsrc=rss",
+      "published": "Thu, 26 Nov 2026 02:39:42 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-26T04:36:05.952164+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "SpaceX gets approval for 1 million data center satellites",
+      "link": "https://finance.yahoo.com/technology/ai/articles/spacex-gets-approval-1-million-023847485.html?.tsrc=rss",
+      "published": "Thu, 26 Nov 2026 02:38:47 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-26T04:36:06.083185+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Cathie Wood Buys More SpaceX Amid Tesla Merger Talks — Ron Baron Says SpaceX Could Make $50B A Year From One Data Center",
+      "link": "https://stocktwits.com/news-articles/markets/equity/cathie-wood-buys-spacex-tesla-merger-talks-ron-baron-spacex-50b-one-data-center/cNbxeDKR9Z4?.tsrc=rss",
+      "published": "Thu, 26 Nov 2026 03:32:35 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-26T04:36:06.519410+00:00"
+    },
+    {
+      "ticker": "AVGO",
+      "title": "Cathie Wood Dumped 99% of ARKK’s Broadcom Stake Near Its 52-Week Low. December 9 Is When AVGO Stock Could Prove Her Wrong.",
+      "link": "https://www.barchart.com/story/news/9010831/cathie-wood-dumped-99-of-arkks-broadcom-stake-near-its-52-week-low-december-9-is-when-avgo-stock-could-prove-her-wrong?.tsrc=rss",
+      "published": "Wed, 25 Nov 2026 22:07:37 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-26T04:36:06.755989+00:00"
+    },
+    {
+      "ticker": "ORCL",
+      "title": "Is Oracle the First AI Casualty as It Sheds 70% of Its Value?",
+      "link": "https://beincrypto.com/oracle-stock-falls-70-ai-debt/?.tsrc=rss",
+      "published": "Thu, 26 Nov 2026 02:15:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-26T04:36:06.859895+00:00"
+    },
+    {
+      "ticker": "ORCL",
+      "title": "Tech Stocks Stall Into Thanksgiving: Will the AI Rebound Return?",
+      "link": "https://beincrypto.com/tech-stocks-stall-thanksgiving-nvidia-rebound/?.tsrc=rss",
+      "published": "Thu, 26 Nov 2026 01:19:53 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-26T04:36:06.859953+00:00"
+    },
+    {
+      "ticker": "PLTR",
+      "title": "Michael Burry Says His Portfolio Was Discussed 'About the Time the Market Reversed Off Its Lows': He Is 'Temporarily Almost Entirely Long'",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-says-portfolio-discussed-025825540.html?.tsrc=rss",
+      "published": "Thu, 26 Nov 2026 02:58:25 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-26T04:36:07.473017+00:00"
+    },
+    {
+      "ticker": "TSM",
+      "title": "Asian tech stocks jump as bargain buyers boost battered AI trade",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/asian-tech-stocks-jump-bargain-030316035.html?.tsrc=rss",
+      "published": "Thu, 26 Nov 2026 03:03:16 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-26T04:36:08.034662+00:00"
     }
   ]
 }
