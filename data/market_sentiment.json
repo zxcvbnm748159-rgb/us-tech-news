@@ -1,14 +1,14 @@
 {
   "date": "2026-11-25",
-  "score": 74,
+  "score": 71,
   "label": "Bullish",
   "counts": {
-    "positive": 65,
-    "negative": 23,
-    "neutral": 102
+    "positive": 72,
+    "negative": 29,
+    "neutral": 107
   },
-  "total": 190,
-  "updated_at": "2026-11-25T22:47:39.335323+00:00",
+  "total": 208,
+  "updated_at": "2026-11-26T01:26:28.779267+00:00",
   "articles": [
     {
       "link": "https://finance.yahoo.com/video/jensen-huang-national-treasure-strategist-130000326.html?.tsrc=rss",
@@ -769,6 +769,78 @@
     {
       "link": "https://www.tikr.com/blog/tesla-sinks-5-sandisk-down-13-as-ai-selloff-deepens-and-eu-stalls-fsd-approval?ref=yahoofinance&tlnk=yf-261125-3jjqvxp5&.tsrc=rss",
       "sentiment": "positive"
+    },
+    {
+      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-end-lower-but-dow-rebounds-as-traders-rotate-out-of-ai-nvda-spcx-panw-in-focus/cNbx21AR9mC?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.tikr.com/blog/altimeters-brad-gerstner-says-nvidia-was-priced-for-negative-growth-for-2028-and-2029-wall-street-expects-29?ref=yahoofinance&tlnk=yf-261125-3qj6vf95&.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/25/big-short-investor-michael-burry-just-closed-his-bet-against-the-nasdaq-here-s-what-investors-should-do-now/?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/25/the-nvidia-scandal-set-off-a-chip-crackdown-in-congress-which-stocks-are-most-at-risk/?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/25/broadcom-stock-hasn-t-traded-this-low-since-july-2025-i-think-it-s-a-buy/?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://beincrypto.com/apple-stock-ai-selloff-safe-haven/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.ibtimes.com/microsoft-green-card-filings-after-2025-layoffs-3810211?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://finance.yahoo.com/economy/policy/articles/trump-message-big-tech-firms-223005233.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/markets/stocks/articles/5-best-strong-buy-growth-004610627.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.proactiveinvestors.com/companies/news/1102478/spacex-wins-approval-to-launch-one-million-ai-data-centre-satellites-1102478.html?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.tikr.com/blog/bill-gurley-investors-werent-scrambling-to-actually-own-anthropic-thats-a-problem-for-amazon-and-alphabet?ref=yahoofinance&tlnk=yf-261125-5qg4553j&.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.ibtimes.com/fcc-approves-spacex-ai-satellite-constellation-3810209?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://www.thestreet.com/investing/elon-musk-tells-tesla-investors-optimus-robots-will-eliminate-poverty?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/25/if-spacex-and-tesla-merge-next-year-here-s-what-a-usd5-000-investment-in-the-combined-company-could-be-worth-by-the-end-of-2027/?.tsrc=rss",
+      "sentiment": "positive"
+    },
+    {
+      "link": "https://finance.yahoo.com/technology/ai/articles/big-ai-buyers-want-second-005602621.html?.tsrc=rss",
+      "sentiment": "neutral"
+    },
+    {
+      "link": "https://www.fool.com/investing/2026/11/25/2-billionaire-funds-dumped-amd-last-quarter-is-it-a-sell/?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://finance.yahoo.com/m/7cf2c7c4-a034-30e7-a2f0-b3ea8684f897/oracle-bonds-yield-a-towering.html?.tsrc=rss",
+      "sentiment": "negative"
+    },
+    {
+      "link": "https://www.trefis.com/stock/pltr/articles/628772/are-you-overpaying-for-palantir-stock-versus-its-rivals/2026-11-25?.tsrc=rss",
+      "sentiment": "neutral"
     }
   ]
 }
