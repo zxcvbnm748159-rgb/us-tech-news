@@ -1,7 +1,7 @@
 {
   "date": "2026-11-26",
   "window_days": 7,
-  "source_count": 1126,
+  "source_count": 1137,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 161,
+      "count": 164,
       "kind": "ticker"
     },
     {
@@ -18,7 +18,7 @@
       "search_terms": [
         "GOOGL"
       ],
-      "count": 106,
+      "count": 107,
       "kind": "ticker"
     },
     {
@@ -27,7 +27,7 @@
       "search_terms": [
         "MSFT"
       ],
-      "count": 85,
+      "count": 86,
       "kind": "ticker"
     },
     {
@@ -36,7 +36,7 @@
       "search_terms": [
         "TSLA"
       ],
-      "count": 82,
+      "count": 83,
       "kind": "ticker"
     },
     {
@@ -45,7 +45,7 @@
       "search_terms": [
         "AAPL"
       ],
-      "count": 80,
+      "count": 81,
       "kind": "ticker"
     },
     {
@@ -72,7 +72,7 @@
       "search_terms": [
         "META"
       ],
-      "count": 52,
+      "count": 53,
       "kind": "ticker"
     },
     {
@@ -99,23 +99,20 @@
       "search_terms": [
         "ORCL"
       ],
-      "count": 46,
+      "count": 47,
       "kind": "ticker"
     },
     {
-      "label": "AI Chip",
-      "query": "AI Chip",
+      "label": "INTC",
+      "query": "INTC",
       "search_terms": [
-        "AI chip",
-        "GPU",
-        "accelerator",
-        "semiconductor"
+        "INTC"
       ],
-      "count": 42,
-      "kind": "topic"
+      "count": 43,
+      "kind": "ticker"
     }
   ],
-  "updated_at": "2026-11-26T20:49:12.547987+00:00",
+  "updated_at": "2026-11-26T23:10:00.939596+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -15880,6 +15877,160 @@
       "sentiment": "positive",
       "sentiment_source": "headline_vader",
       "fetched_at": "2026-11-26T20:49:11.966957+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Nvidia Is the Worst-Performing \"Magnificent Seven\" Stock This Year. Is It a Buy Before 2027?",
+      "link": "https://www.fool.com/investing/2026/11/26/nvidia-is-the-worst-performing-magnificent-seven-stock-this-year-is-it-a-buy-before-2027/?.tsrc=rss",
+      "published": "Thu, 26 Nov 2026 22:50:49 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-26T23:09:57.065265+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Loonie weakens amid Thanksgiving holiday lull, Canadian labor market data",
+      "link": "https://finance.yahoo.com/markets/currencies/articles/loonie-weakens-amid-thanksgiving-holiday-222803240.html?.tsrc=rss",
+      "published": "Thu, 26 Nov 2026 22:28:03 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-26T23:09:57.065336+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Jensen Huang’s Return Doesn’t Make Nvidia Stock (NVDA) a Buy",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jensen-huang-return-doesn-t-212200380.html?.tsrc=rss",
+      "published": "Thu, 26 Nov 2026 21:22:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-26T23:09:57.065373+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Is Apple Stock Outperforming the Nasdaq?",
+      "link": "https://www.barchart.com/story/news/9020084/is-apple-stock-outperforming-the-nasdaq?.tsrc=rss",
+      "published": "Thu, 26 Nov 2026 14:50:07 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-26T23:09:57.209520+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Tech Stock Sell-Off: Down 13%, Is Microsoft a Buy Now?",
+      "link": "https://www.fool.com/investing/2026/11/26/tech-stock-sell-off-down-13-is-microsoft-a-buy-now/?.tsrc=rss",
+      "published": "Thu, 26 Nov 2026 22:20:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-26T23:09:57.365700+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Jim Lebenthal Says This Is “a Correction, Not Something Worse.” Why He’s Buying More Alphabet",
+      "link": "https://247wallst.com/investing/2026/11/26/jim-lebenthal-says-this-is-a-correction-not-something-worse-why-hes-buying-more-alphabet/?.tsrc=rss",
+      "published": "Thu, 26 Nov 2026 22:07:55 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-26T23:09:57.582324+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "Is Meta Stock Outperforming the Nasdaq?",
+      "link": "https://www.barchart.com/story/news/9021697/is-meta-stock-outperforming-the-nasdaq?.tsrc=rss",
+      "published": "Thu, 26 Nov 2026 16:50:55 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-26T23:09:57.897233+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Should You Buy Tesla Stock Before December?",
+      "link": "https://www.fool.com/investing/2026/11/26/should-you-buy-tesla-stock-before-december/?.tsrc=rss",
+      "published": "Thu, 26 Nov 2026 22:35:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-26T23:09:58.045121+00:00"
+    },
+    {
+      "ticker": "ORCL",
+      "title": "‘Room to Spare,’ Says Investor About Oracle Stock",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/room-spare-says-investor-oracle-215243159.html?.tsrc=rss",
+      "published": "Thu, 26 Nov 2026 21:52:43 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-26T23:09:58.563767+00:00"
+    },
+    {
+      "ticker": "INTC",
+      "title": "Nvidia Just Revealed a Major $19 Billion Vote of Confidence in Intel Stock",
+      "link": "https://www.barchart.com/story/news/9021482/nvidia-just-revealed-a-major-19-billion-vote-of-confidence-in-intel-stock?.tsrc=rss",
+      "published": "Thu, 26 Nov 2026 16:30:03 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-26T23:09:59.161574+00:00"
+    },
+    {
+      "ticker": "SNDK",
+      "title": "Sandisk’s 8-for-1 Split Is Done. Here’s What Investors Should Do Next.",
+      "link": "https://www.fool.com/investing/2026/11/26/sandisks-8-for-1-split-is-done-heres-what-investors-should-do-next/?.tsrc=rss",
+      "published": "Thu, 26 Nov 2026 21:20:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-26T23:10:00.908134+00:00"
     }
   ]
 }
