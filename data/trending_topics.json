@@ -1,7 +1,7 @@
 {
   "date": "2026-11-27",
   "window_days": 7,
-  "source_count": 1016,
+  "source_count": 1039,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 151,
+      "count": 156,
       "kind": "ticker"
     },
     {
@@ -18,7 +18,7 @@
       "search_terms": [
         "GOOGL"
       ],
-      "count": 97,
+      "count": 100,
       "kind": "ticker"
     },
     {
@@ -27,7 +27,7 @@
       "search_terms": [
         "TSLA"
       ],
-      "count": 75,
+      "count": 76,
       "kind": "ticker"
     },
     {
@@ -36,7 +36,7 @@
       "search_terms": [
         "MSFT"
       ],
-      "count": 71,
+      "count": 73,
       "kind": "ticker"
     },
     {
@@ -45,7 +45,7 @@
       "search_terms": [
         "AAPL"
       ],
-      "count": 69,
+      "count": 70,
       "kind": "ticker"
     },
     {
@@ -72,7 +72,16 @@
       "search_terms": [
         "META"
       ],
-      "count": 47,
+      "count": 48,
+      "kind": "ticker"
+    },
+    {
+      "label": "ORCL",
+      "query": "ORCL",
+      "search_terms": [
+        "ORCL"
+      ],
+      "count": 44,
       "kind": "ticker"
     },
     {
@@ -85,21 +94,12 @@
       "kind": "ticker"
     },
     {
-      "label": "ORCL",
-      "query": "ORCL",
-      "search_terms": [
-        "ORCL"
-      ],
-      "count": 43,
-      "kind": "ticker"
-    },
-    {
       "label": "TSM",
       "query": "TSM",
       "search_terms": [
         "TSM"
       ],
-      "count": 41,
+      "count": 43,
       "kind": "ticker"
     },
     {
@@ -112,7 +112,7 @@
       "kind": "ticker"
     }
   ],
-  "updated_at": "2026-11-27T14:44:20.212414+00:00",
+  "updated_at": "2026-11-27T15:57:50.251186+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -14337,6 +14337,328 @@
       "sentiment": "neutral",
       "sentiment_source": "headline_vader",
       "fetched_at": "2026-11-27T14:44:20.186100+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Can AI earn a spot in the creative world? Ja Rule think so.",
+      "link": "https://finance.yahoo.com/video/can-ai-earn-a-spot-in-the-creative-world-ja-rule-think-so-152828382.html?.tsrc=rss",
+      "published": "Fri, 27 Nov 2026 15:28:28 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-27T15:57:47.267984+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "All these Nvidia headlines are just noise: Why you should keep watching AI spending",
+      "link": "https://finance.yahoo.com/video/all-these-nvidia-headlines-are-just-noise-why-you-should-keep-watching-ai-spending-152236102.html?.tsrc=rss",
+      "published": "Fri, 27 Nov 2026 15:22:36 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-27T15:57:47.268047+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Stocks snap from a $6 trillion washout to a $3 trillion surge as Nvidia, Micron, and SpaceX bounce back",
+      "link": "https://finance.yahoo.com/markets/article/stocks-snap-from-a-6-trillion-washout-to-a-3-trillion-surge-as-nvidia-micron-and-spacex-bounce-back-151218930.html?.tsrc=rss",
+      "published": "Fri, 27 Nov 2026 15:12:18 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-27T15:57:47.268102+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Nvidia halts sales to SE Asia, SpaceX surges on Musk's share promise",
+      "link": "https://finance.yahoo.com/video/nvidia-halts-sales-to-se-asia-spacex-surges-on-musks-share-promise-151001061.html?.tsrc=rss",
+      "published": "Fri, 27 Nov 2026 15:10:01 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-27T15:57:47.268184+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Prediction: This Overlooked AI Stock Could Be a Big Winner in Nvidia’s Shadow",
+      "link": "https://247wallst.com/investing/2026/11/27/prediction-this-overlooked-ai-stock-could-be-a-big-winner-in-nvidias-shadow/?.tsrc=rss",
+      "published": "Fri, 27 Nov 2026 15:33:24 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-27T15:57:47.268266+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Trump’s New Tariffs Hit Taiwan but Spare Its Chips. That’s Good News for TSMC and Apple",
+      "link": "https://www.tikr.com/blog/trumps-new-tariffs-hit-taiwan-but-spare-its-chips-thats-good-news-for-tsmc-and-apple?ref=yahoofinance&tlnk=yf-261127-wff3mmwm&.tsrc=rss",
+      "published": "Fri, 27 Nov 2026 13:40:36 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-27T15:57:47.442209+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Anthropic, Meta and Microsoft Join AI Data Center Talks in Japan",
+      "link": "https://finance.yahoo.com/technology/ai/articles/anthropic-meta-microsoft-join-ai-143801446.html?.tsrc=rss",
+      "published": "Fri, 27 Nov 2026 14:38:01 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-27T15:57:47.579902+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Privacy-Enhancing Computation Market to Reach $16.49 Billion by 2030 as Data Protection Demand Accelerates - Microsoft, IBM, Cisco, and Oracle Accelerate AI, FHE, and Cloud Security",
+      "link": "https://finance.yahoo.com/technology/ai/articles/privacy-enhancing-computation-market-reach-143600579.html?.tsrc=rss",
+      "published": "Fri, 27 Nov 2026 14:36:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-27T15:57:47.580056+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Anthropic Just Hit an $81 Billion Run Rate—Why Wall Street’s Post-IPO Jitters Are a Gift",
+      "link": "https://247wallst.com/investing/2026/11/27/anthropic-just-hit-an-81-billion-run-rate-why-wall-streets-post-ipo-jitters-are-a-gift/?.tsrc=rss",
+      "published": "Fri, 27 Nov 2026 15:45:29 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-27T15:57:47.702193+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Is Alphabet No Longer Telling You Something?",
+      "link": "https://www.trefis.com/stock/googl/articles/629385/is-alphabet-no-longer-telling-you-something/2026-11-27?.tsrc=rss",
+      "published": "Fri, 27 Nov 2026 15:36:01 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-27T15:57:47.702252+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "The Nuclear Stock AI Investors Loved Is Down 33% This Year. Is Constellation Energy a Buy Now?",
+      "link": "https://247wallst.com/investing/2026/11/27/the-nuclear-stock-ai-investors-loved-is-down-33-this-year-is-constellation-energy-a-buy-now/?.tsrc=rss",
+      "published": "Fri, 27 Nov 2026 15:28:29 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-27T15:57:47.702362+00:00"
+    },
+    {
+      "ticker": "META",
+      "title": "Meta Disrupts AI-Driven Commerce",
+      "link": "https://www.mediapost.com/publications/article/419717/meta-disrupts-ai-driven-commerce.html?.tsrc=rss",
+      "published": "Fri, 27 Nov 2026 14:49:18 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-27T15:57:47.962145+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "SpaceX, Tesla have had a bumpy 2026 thus far: What to know",
+      "link": "https://finance.yahoo.com/video/spacex-tesla-have-had-a-bumpy-2026-thus-far-what-to-know-145849441.html?.tsrc=rss",
+      "published": "Fri, 27 Nov 2026 14:58:49 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-27T15:57:48.089453+00:00"
+    },
+    {
+      "ticker": "ORCL",
+      "title": "Blockchain in Retail Global Market Report 2026 | Capitalize on 26.1% CAGR to $2.39 Billion by 2030 as IBM, SAP, Oracle, AWS and Walmart Scale BaaS, Traceability and Web3 Loyalty",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/blockchain-retail-global-market-report-143400087.html?.tsrc=rss",
+      "published": "Fri, 27 Nov 2026 14:34:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-27T15:57:48.499047+00:00"
+    },
+    {
+      "ticker": "NFLX",
+      "title": "Is Netflix Stock Underperforming the Nasdaq?",
+      "link": "https://www.barchart.com/story/news/9028797/is-netflix-stock-underperforming-the-nasdaq?.tsrc=rss",
+      "published": "Fri, 27 Nov 2026 08:51:57 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-27T15:57:48.779580+00:00"
+    },
+    {
+      "ticker": "PLTR",
+      "title": "Palantir Stock Jumps. It Could Land a Major Poland Defense Deal",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-stock-jumps-could-land-143921179.html?.tsrc=rss",
+      "published": "Fri, 27 Nov 2026 14:39:21 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-27T15:57:49.138831+00:00"
+    },
+    {
+      "ticker": "SMCI",
+      "title": "Supermicro’s $80 Billion Sales Ambition Could Change Its Stock Outlook",
+      "link": "https://247wallst.com/investing/2026/11/27/supermicros-80-billion-sales-ambition-could-change-its-stock-outlook/?.tsrc=rss",
+      "published": "Fri, 27 Nov 2026 15:03:32 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-27T15:57:49.254459+00:00"
+    },
+    {
+      "ticker": "ADBE",
+      "title": "What to buy on Black Friday and the deals to avoid",
+      "link": "https://www.thestreet.com/retail/black-friday-what-to-buy-what-to-skip-and-what-to-watch-for?.tsrc=rss",
+      "published": "Fri, 27 Nov 2026 15:17:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-27T15:57:49.538632+00:00"
+    },
+    {
+      "ticker": "ADBE",
+      "title": "Pre-Markets Jump to End a Holiday Shortened Week",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/pre-markets-jump-end-holiday-144700074.html?.tsrc=rss",
+      "published": "Fri, 27 Nov 2026 14:47:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-27T15:57:49.538698+00:00"
+    },
+    {
+      "ticker": "ADBE",
+      "title": "Pre-Markets Up Ahead of Shortened Trading Session",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/pre-markets-ahead-shortened-trading-141400040.html?.tsrc=rss",
+      "published": "Fri, 27 Nov 2026 14:14:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-27T15:57:49.538726+00:00"
+    },
+    {
+      "ticker": "TSM",
+      "title": "Trump Is Heading to Arizona to Break Ground on TSMC’s Newest Chip Plant",
+      "link": "https://247wallst.com/investing/2026/11/27/trump-is-heading-to-arizona-to-break-ground-on-tsmcs-newest-chip-plant/?.tsrc=rss",
+      "published": "Fri, 27 Nov 2026 15:48:35 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-27T15:57:49.683553+00:00"
+    },
+    {
+      "ticker": "TSM",
+      "title": "No Threat to TSMC Before 2028: Intel’s Foundry Gap Is Still Huge",
+      "link": "https://247wallst.com/investing/2026/11/27/no-threat-to-tsmc-before-2028-intels-foundry-gap-is-still-huge/?.tsrc=rss",
+      "published": "Fri, 27 Nov 2026 15:45:12 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-27T15:57:49.683638+00:00"
+    },
+    {
+      "ticker": "ONDS",
+      "title": "Ondas Rises 4% as It Tries to Snap a Three-Week Losing Streak; Unusual Machines Gains 2%, Red Cat Ticks Up",
+      "link": "https://247wallst.com/investing/2026/11/27/ondas-rises-4-as-it-tries-to-snap-a-three-week-losing-streak-unusual-machines-gains-2-red-cat-ticks-up/?.tsrc=rss",
+      "published": "Fri, 27 Nov 2026 15:02:16 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-27T15:57:50.091952+00:00"
     }
   ]
 }
