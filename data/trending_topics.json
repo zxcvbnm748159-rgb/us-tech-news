@@ -1,7 +1,7 @@
 {
   "date": "2026-11-26",
   "window_days": 7,
-  "source_count": 1137,
+  "source_count": 1159,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 164,
+      "count": 169,
       "kind": "ticker"
     },
     {
@@ -18,7 +18,7 @@
       "search_terms": [
         "GOOGL"
       ],
-      "count": 107,
+      "count": 109,
       "kind": "ticker"
     },
     {
@@ -27,7 +27,7 @@
       "search_terms": [
         "MSFT"
       ],
-      "count": 86,
+      "count": 87,
       "kind": "ticker"
     },
     {
@@ -36,7 +36,7 @@
       "search_terms": [
         "TSLA"
       ],
-      "count": 83,
+      "count": 85,
       "kind": "ticker"
     },
     {
@@ -45,7 +45,7 @@
       "search_terms": [
         "AAPL"
       ],
-      "count": 81,
+      "count": 84,
       "kind": "ticker"
     },
     {
@@ -54,7 +54,7 @@
       "search_terms": [
         "AMD"
       ],
-      "count": 74,
+      "count": 75,
       "kind": "ticker"
     },
     {
@@ -63,7 +63,7 @@
       "search_terms": [
         "AMZN"
       ],
-      "count": 71,
+      "count": 72,
       "kind": "ticker"
     },
     {
@@ -76,6 +76,24 @@
       "kind": "ticker"
     },
     {
+      "label": "AVGO",
+      "query": "AVGO",
+      "search_terms": [
+        "AVGO"
+      ],
+      "count": 48,
+      "kind": "ticker"
+    },
+    {
+      "label": "ORCL",
+      "query": "ORCL",
+      "search_terms": [
+        "ORCL"
+      ],
+      "count": 48,
+      "kind": "ticker"
+    },
+    {
       "label": "TSM",
       "query": "TSM",
       "search_terms": [
@@ -85,34 +103,19 @@
       "kind": "ticker"
     },
     {
-      "label": "AVGO",
-      "query": "AVGO",
+      "label": "AI Chip",
+      "query": "AI Chip",
       "search_terms": [
-        "AVGO"
+        "AI chip",
+        "GPU",
+        "accelerator",
+        "semiconductor"
       ],
-      "count": 47,
-      "kind": "ticker"
-    },
-    {
-      "label": "ORCL",
-      "query": "ORCL",
-      "search_terms": [
-        "ORCL"
-      ],
-      "count": 47,
-      "kind": "ticker"
-    },
-    {
-      "label": "INTC",
-      "query": "INTC",
-      "search_terms": [
-        "INTC"
-      ],
-      "count": 43,
-      "kind": "ticker"
+      "count": 45,
+      "kind": "topic"
     }
   ],
-  "updated_at": "2026-11-26T23:10:00.939596+00:00",
+  "updated_at": "2026-11-27T03:25:58.170796+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -16031,6 +16034,314 @@
       "sentiment": "neutral",
       "sentiment_source": "headline_vader",
       "fetched_at": "2026-11-26T23:10:00.908134+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Stocks Are Plunging Right Now. Here's What History Says Investors Should Do.",
+      "link": "https://www.fool.com/investing/2026/11/26/stocks-are-plunging-right-now-heres-what-history-s/?.tsrc=rss",
+      "published": "Fri, 27 Nov 2026 02:20:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-27T03:25:56.169553+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Trump Says Huang Is Excited About His ‘Second Term’ at Nvidia",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/trump-says-huang-excited-second-003925008.html?.tsrc=rss",
+      "published": "Fri, 27 Nov 2026 00:39:25 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-27T03:25:56.169650+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "These 2 AI Chip Stocks Are Down 36% to 39% From Their Highs. Here’s What History Says Happens Next.",
+      "link": "https://www.fool.com/investing/2026/11/26/these-2-ai-chip-stocks-are-down-36-to-39-from-their-highs-here-s-what-history-says-happens-next/?.tsrc=rss",
+      "published": "Fri, 27 Nov 2026 00:20:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-27T03:25:56.169703+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Not Nvidia. Not Micron. If I Could Buy and Hold Only 1 Artificial Intelligence (AI) Semiconductor Stock Through 2030, This Would Be It.",
+      "link": "https://www.fool.com/investing/2026/11/26/not-nvidia-not-micron-if-i-could-buy-and-hold-only-1-artificial-intelligence-ai-semiconductor-stock-through-2030-this-would-be-it/?.tsrc=rss",
+      "published": "Thu, 26 Nov 2026 23:14:44 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-27T03:25:56.169792+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Did Jensen Huang’s Alleged Chinese Spy Get Him to Do Anything Nvidia Didn’t Want?",
+      "link": "https://unchainedcrypto.com/did-jensen-huangs-alleged-chinese-spy-get-him-to-do-anything-nvidia-didnt-want/?.tsrc=rss",
+      "published": "Thu, 26 Nov 2026 23:00:49 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-27T03:25:56.169895+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Apple (AAPL) Has Found a New AI Opportunity That Has Little to Do With the iPhone",
+      "link": "https://finance.yahoo.com/technology/ai/articles/apple-aapl-found-ai-opportunity-031905510.html?.tsrc=rss",
+      "published": "Fri, 27 Nov 2026 03:19:05 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-27T03:25:56.249179+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Target cut its Apple Black Friday discount in half",
+      "link": "https://www.thestreet.com/retail/target-cut-its-apple-black-friday-discount-in-half?.tsrc=rss",
+      "published": "Fri, 27 Nov 2026 03:17:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-27T03:25:56.249240+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Apple Enters the AI Agent Race as It Takes on OpenAI, Anthropic, and Meta. What That Means for AAPL Stock.",
+      "link": "https://www.barchart.com/story/news/9022924/apple-enters-the-ai-agent-race-as-it-takes-on-openai-anthropic-and-meta-what-that-means-for-aapl-stock?.tsrc=rss",
+      "published": "Thu, 26 Nov 2026 19:30:03 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-27T03:25:56.249294+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "LUNR Aerospace Appoints Draganfly CEO Cameron Chell to Board of Directors",
+      "link": "https://finance.yahoo.com/technology/articles/lunr-aerospace-appoints-draganfly-ceo-230000859.html?.tsrc=rss",
+      "published": "Thu, 26 Nov 2026 23:00:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-27T03:25:56.330797+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "5 Best Tech Stocks to Buy for 2027 According to Hedge Funds",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/5-best-tech-stocks-buy-030856400.html?.tsrc=rss",
+      "published": "Fri, 27 Nov 2026 03:08:56 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-27T03:25:56.413846+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "‘How Can TSLA Compete With Waymo?’ Gary Black Questions Tesla’s Robotaxi Strategy, Predicts Waymo Will Lead in Miles and Trips",
+      "link": "https://finance.yahoo.com/technology/articles/tsla-compete-waymo-gary-black-013007370.html?.tsrc=rss",
+      "published": "Fri, 27 Nov 2026 01:30:07 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-27T03:25:56.413907+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Amazon tried to kill Musk’s plan for 1 million AI satellites. The FCC chair scolded it and gave SpaceX the green light",
+      "link": "https://finance.yahoo.com/technology/ai/articles/amazon-tried-kill-musk-plan-233000718.html?.tsrc=rss",
+      "published": "Thu, 26 Nov 2026 23:30:00 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-27T03:25:56.510738+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "What Could Tesla (TSLA) Merger Talks Mean For Its Stock?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/could-tesla-tsla-merger-talks-013007632.html?.tsrc=rss",
+      "published": "Fri, 27 Nov 2026 01:30:07 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-27T03:25:56.677595+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Charlie Munger Said BYD Was ‘So Much Ahead Of Tesla, It’s Almost Ridiculous’ in 2023. BYD Then Outsold Tesla, But Berkshire Sold Every Share.",
+      "link": "https://www.barchart.com/story/news/9022591/charlie-munger-said-byd-was-so-much-ahead-of-tesla-its-almost-ridiculous-in-2023-byd-then-outsold-tesla-but-berkshire-sold-every-share?.tsrc=rss",
+      "published": "Thu, 26 Nov 2026 18:30:03 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-27T03:25:56.677702+00:00"
+    },
+    {
+      "ticker": "AMD",
+      "title": "KHC, PINS, AMD: 3 Bets I’d Consider Waging From Thanksgiving Eve’s Top 25 Unusually Active Options",
+      "link": "https://www.barchart.com/story/news/9022595/khc-pins-amd-3-bets-id-consider-waging-from-thanksgiving-eves-top-25-unusually-active-options?.tsrc=rss",
+      "published": "Thu, 26 Nov 2026 18:30:04 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-27T03:25:56.757485+00:00"
+    },
+    {
+      "ticker": "AVGO",
+      "title": "Broadcom (AVGO) Could Be the Biggest Winner From the Shift to Custom AI Chips",
+      "link": "https://finance.yahoo.com/technology/ai/articles/broadcom-avgo-could-biggest-winner-031533044.html?.tsrc=rss",
+      "published": "Fri, 27 Nov 2026 03:15:33 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-27T03:25:56.846517+00:00"
+    },
+    {
+      "ticker": "ORCL",
+      "title": "Wondering Why Oracle Fell? Here's What The Bears Saw",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/wondering-why-oracle-fell-heres-012625677.html?.tsrc=rss",
+      "published": "Fri, 27 Nov 2026 01:26:25 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-27T03:25:56.944377+00:00"
+    },
+    {
+      "ticker": "INTC",
+      "title": "Intel’s (INTC) AI Opportunity Is Growing, But There’s One Big Problem Holding It Back",
+      "link": "https://finance.yahoo.com/technology/ai/articles/intel-intc-ai-opportunity-growing-031416634.html?.tsrc=rss",
+      "published": "Fri, 27 Nov 2026 03:14:16 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-27T03:25:57.214796+00:00"
+    },
+    {
+      "ticker": "INTC",
+      "title": "Nvidia Cut Its Intel Stake and Bought More SpaceX. Cathie Wood Is Buying Too. Why SPCX Stock Faces a Big Test on December 8.",
+      "link": "https://www.barchart.com/story/news/9022928/nvidia-cut-its-intel-stake-and-bought-more-spacex-cathie-wood-is-buying-too-why-spcx-stock-faces-a-big-test-on-december-8?.tsrc=rss",
+      "published": "Thu, 26 Nov 2026 19:30:03 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-27T03:25:57.214872+00:00"
+    },
+    {
+      "ticker": "IBM",
+      "title": "IBM (IBM) Is A Key Supplier In Smart Hospitals And Data Centres",
+      "link": "https://finance.yahoo.com/technology/articles/ibm-ibm-key-supplier-smart-021259557.html?.tsrc=rss",
+      "published": "Fri, 27 Nov 2026 02:12:59 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-27T03:25:57.570302+00:00"
+    },
+    {
+      "ticker": "ONDS",
+      "title": "Ondas (ONDS) Stock Looks Overvalued Even With Fresh Growth Hopes",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ondas-onds-stock-looks-overvalued-021406564.html?.tsrc=rss",
+      "published": "Fri, 27 Nov 2026 02:14:06 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-27T03:25:58.033751+00:00"
+    },
+    {
+      "ticker": "SNDK",
+      "title": "Sandisk Trades at Under 3x Earnings After an 8-for-1 Split and a 70% Crash. Why SNDK Stock Isn’t Doomed Despite NAND Price Warnings.",
+      "link": "https://www.barchart.com/story/news/9022920/sandisk-trades-at-under-3x-earnings-after-an-8-for-1-split-and-a-70-crash-why-sndk-stock-isnt-doomed-despite-nand-price-warnings?.tsrc=rss",
+      "published": "Thu, 26 Nov 2026 19:30:03 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-27T03:25:58.136300+00:00"
     }
   ]
 }
