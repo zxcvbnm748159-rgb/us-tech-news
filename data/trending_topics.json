@@ -1,7 +1,7 @@
 {
   "date": "2026-11-26",
   "window_days": 7,
-  "source_count": 1159,
+  "source_count": 1166,
   "topics": [
     {
       "label": "NVDA",
@@ -9,7 +9,7 @@
       "search_terms": [
         "NVDA"
       ],
-      "count": 169,
+      "count": 172,
       "kind": "ticker"
     },
     {
@@ -18,7 +18,7 @@
       "search_terms": [
         "GOOGL"
       ],
-      "count": 109,
+      "count": 110,
       "kind": "ticker"
     },
     {
@@ -63,7 +63,7 @@
       "search_terms": [
         "AMZN"
       ],
-      "count": 72,
+      "count": 74,
       "kind": "ticker"
     },
     {
@@ -81,7 +81,7 @@
       "search_terms": [
         "AVGO"
       ],
-      "count": 48,
+      "count": 49,
       "kind": "ticker"
     },
     {
@@ -115,7 +115,7 @@
       "kind": "topic"
     }
   ],
-  "updated_at": "2026-11-27T03:25:58.170796+00:00",
+  "updated_at": "2026-11-27T04:58:55.404460+00:00",
   "articles": [
     {
       "ticker": "NVDA",
@@ -16342,6 +16342,104 @@
       "sentiment": "negative",
       "sentiment_source": "headline_vader",
       "fetched_at": "2026-11-27T03:25:58.136300+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Nvidia (NVDA) Stock Fair Value Falls After Analysts Reassess Leadership And Regulatory Risks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-stock-fair-value-042301514.html?.tsrc=rss",
+      "published": "Fri, 27 Nov 2026 04:23:01 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-27T04:58:53.470228+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Singapore yet to confirm if Nvidia has halted advanced chip shipments- deputy PM",
+      "link": "https://finance.yahoo.com/technology/articles/singapore-yet-confirm-nvidia-halted-041419330.html?.tsrc=rss",
+      "published": "Fri, 27 Nov 2026 04:14:19 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-27T04:58:53.470291+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Nvidia Is Down 35% From Its All-Time High, Tied for Its Biggest Drop Since the AI Boom Began. Is It a Buy?",
+      "link": "https://www.fool.com/investing/2026/11/26/nvidia-is-down-35-from-its-all-time-high-tied-for-its-biggest-drop-since-the-ai-boom-began-is-it-a-buy/?.tsrc=rss",
+      "published": "Fri, 27 Nov 2026 03:20:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-27T04:58:53.470346+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "5 Best Quantum Computing Stocks To Buy for 2027",
+      "link": "https://finance.yahoo.com/technology/articles/5-best-quantum-computing-stocks-032149616.html?.tsrc=rss",
+      "published": "Fri, 27 Nov 2026 03:21:49 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-27T04:58:53.700551+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Amazon Lost 40 Satellites on a Boeing-Lockheed Rocket in November. SpaceX Is the Only Company That Can Fix Amazon’s Problem. Is the Stock a Buy Near $130?",
+      "link": "https://www.fool.com/investing/2026/11/26/amazon-lost-40-satellites-on-a-boeing-lockheed-rocket-in-november-spacex-is-the-only-company-that-can-fix-amazon-s-problem-is-the-stock-a-buy-near-usd130/?.tsrc=rss",
+      "published": "Fri, 27 Nov 2026 03:53:02 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "negative",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-27T04:58:53.781483+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Can Amazon (AMZN) Turn Its AWS Growth Outlook Into Cash?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/amazon-amzn-turn-aws-growth-035240906.html?.tsrc=rss",
+      "published": "Fri, 27 Nov 2026 03:52:40 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "positive",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-27T04:58:53.781550+00:00"
+    },
+    {
+      "ticker": "AVGO",
+      "title": "Why Redburn Downgraded Broadcom (AVGO) Despite Surging AI Revenue",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-redburn-downgraded-broadcom-avgo-035057918.html?.tsrc=rss",
+      "published": "Fri, 27 Nov 2026 03:50:57 +0000",
+      "summary_th": "",
+      "category": "General",
+      "ai_analysis": "",
+      "impact_level": "low",
+      "impact_direction": "neutral",
+      "sentiment": "neutral",
+      "sentiment_source": "headline_vader",
+      "fetched_at": "2026-11-27T04:58:54.127096+00:00"
     }
   ]
 }
